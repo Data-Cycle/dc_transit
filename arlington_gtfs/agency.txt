@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_phone,agency_timezone,agency_lang
+1,"Arlington Transit","http://www.arlingtontransit.com","703-228-7433","America/New_York","en"
