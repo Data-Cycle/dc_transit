@@ -2,11 +2,13 @@ import requests
 import json
 import pandas as pd
 import datetime
+import private
 
 # Notes: Consider making bus trip a seperate table
 
 def main():
-    api_key = '117e37e796cf4defba0e90b842541bd8'
+    api_keys = private.wmata_keys()
+    api_key = api_keys['primary']
 
     url = 'https://api.wmata.com/Bus.svc/json/jBusPositions?api_key={}'.format(api_key)
     df_bus = get_bus(url)
