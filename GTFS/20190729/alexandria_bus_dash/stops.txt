@@ -1,0 +1,653 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+2,4000003,"S Washington St+Church St",,38.794876,-77.049271,,,,,,0
+3,4000004,"S Washington St + Green St",,38.795979,-77.049034,,,,,,0
+4,4000005,"S Washington St + Green St",,38.796280,-77.048737,,,,,,0
+5,4000014,"Duke St+S Alfred St",,38.803051,-77.049896,,,,,,0
+6,4000015,"Duke St + S Alfred St",,38.803116,-77.049530,,,,,,0
+7,4000016,"Duke St + S Henry St",,38.803493,-77.052436,,,,,,0
+8,4000017,"Duke St+S Payne St",,38.803520,-77.054298,,,,,,0
+9,4000018,"Duke St + S Payne St",,38.803677,-77.053864,,,,,,0
+10,4000019,"S Washington St + Prince St",,38.803570,-77.047432,,,,,,0
+11,4000021,"Duke St+S Peyton St",,38.803871,-77.056839,,,,,,0
+12,4000022,"Duke St + S Peyton St",,38.804073,-77.056900,,,,,,0
+13,4000023,"S Pickett St + S Van Dorn St",,38.804371,-77.132156,,,,,,0
+14,4000024,"S Pickett St + S Van Dorn St",,38.804569,-77.132050,,,,,,0
+15,4000025,"S Washington St + King St",,38.804680,-77.046913,,,,,,0
+16,4000027,"N Washington St + King St",,38.805264,-77.047058,,,,,,0
+17,4000029,"Duke St + Dove St",,38.805386,-77.068962,,,,,,0
+18,4000030,"Duke St + Roberts Ln",,38.805614,-77.068619,,,,,,0
+19,4000031,"600 S Pickett St",,38.805862,-77.130135,,,,,,0
+20,4000032,"601 S Pickett St",,38.805920,-77.130310,,,,,,0
+21,4000034,"Duke St + Moncure Dr",,38.806301,-77.073654,,,,,,0
+22,4000035,"Duke St + Moncure Dr",,38.806606,-77.073952,,,,,,0
+23,4000038,"2712 Duke St",,38.806747,-77.077583,,,,,,0
+24,4000039,"Duke St + W Taylor Run Pkwy",,38.806889,-77.076523,,,,,,0
+25,4000040,"King St + Sunset Dr",,38.806896,-77.061607,,,,,,0
+26,4000041,"Duke St + Witter Dr",,38.806915,-77.078766,,,,,,0
+28,4000043,"N Washington St + Queen St",,38.807152,-77.046410,,,,,,0
+29,4000044,"Duke St + Roth St",,38.807381,-77.081802,,,,,,0
+30,4000046,"Edsall Rd + S Whiting St",,38.807487,-77.135071,,,,,,0
+31,4000048,"N Washington St + Queen St",,38.807560,-77.046539,,,,,,0
+32,4000050,"Duke St + Cambridge Rd",,38.807552,-77.081673,,,,,,0
+33,4000051,"S Pickett St + Edsall Rd",,38.807598,-77.128304,,,,,,0
+34,4000052,"Edsall Rd + S Whiting St",,38.807667,-77.134644,,,,,,0
+35,4000053,"Duke St + Sweeley St",,38.807590,-77.083328,,,,,,0
+36,4000054,"Edsall Rd + Yoakum Pkwy",,38.807671,-77.138557,,,,,,0
+37,4000055,"Duke St + Yale Dr",,38.807762,-77.083160,,,,,,0
+38,4000056,"Alexandria Commons",,38.807976,-77.085983,,,,,,0
+39,4000058,"Alexandria Commons",,38.808147,-77.085793,,,,,,0
+40,4000061,"Duke St + S Quaker Ln",,38.808262,-77.088051,,,,,,0
+41,4000062,"S Van Dorn St + Edsall Rd",,38.808315,-77.132736,,,,,,0
+42,4000063,"Yoakum Pkwy + Edsall Rd",,38.808693,-77.139000,,,,,,0
+43,4000064,"S Pickett St + Hillwood Townhouses",,38.808689,-77.126099,,,,,,0
+44,4000065,"S Pickett St + Trade Center",,38.808662,-77.124680,,,,,,0
+45,4000066,"N Washington St + Princess St",,38.808613,-77.046341,,,,,,0
+47,4000068,"Yoakum Pkwy + Edsall Rd",,38.808773,-77.139297,,,,,,0
+48,4000070,"King St + W Rosemont Ave",,38.809040,-77.064941,,,,,,0
+49,4000071,"Duke St + Normandy Hill Dr",,38.809139,-77.092461,,,,,,0
+50,4000072,"Duke St + Carriage House Circle",,38.809372,-77.092796,,,,,,0
+51,4000073,"King St+Park Rd",,38.809273,-77.065369,,,,,,0
+52,4000074,"N Washington St+Oronoco St",,38.809422,-77.045929,,,,,,0
+53,4000076,"Duke St + Cockrell St",,38.809624,-77.094719,,,,,,0
+54,4000077,"S Whiting St + Lane Dr",,38.809746,-77.135803,,,,,,0
+55,4000078,"Duke St + Fort Williams Pkwy",,38.809834,-77.094955,,,,,,0
+57,4000082,"Pendleton St+N Royal St",,38.810280,-77.042557,,,,,,0
+59,4000084,"N Washington St+Pendleton St",,38.810585,-77.045677,,,,,,0
+60,4000086,"Pendleton St+N Saint Asaph St",,38.810577,-77.044861,,,,,,0
+61,4000087,"Pendleton St+N Saint Asaph St",,38.810684,-77.044899,,,,,,0
+62,4000089,"300 Yoakum Pkwy",,38.810783,-77.139252,,,,,,0
+63,4000090,"301 Yoakum Pkwy",,38.810703,-77.139503,,,,,,0
+64,4000091,"S Pickett St+Valley Forge Dr",,38.810738,-77.122231,,,,,,0
+65,4000092,"King St+Walnut Dr",,38.810898,-77.067253,,,,,,0
+66,4000093,"Duke St+S French St",,38.810839,-77.100833,,,,,,0
+67,4000094,"Duke St+N French St",,38.810871,-77.100380,,,,,,0
+68,4000095,"Pendleton St + N Columbus St",,38.810875,-77.047089,,,,,,0
+70,4000098,"S Pickett St+Valley Forge Dr",,38.810669,-77.122047,,,,,,0
+71,4000099,"King St+Upland Pl",,38.810871,-77.067421,,,,,,0
+72,4000101,"Pendleton St+N Patrick St",,38.811073,-77.048775,,,,,,0
+73,4000103,"Duke St+S Gordon St",,38.811197,-77.102546,,,,,,0
+74,4000104,"Pendleton St+N Henry St",,38.811340,-77.049942,,,,,,0
+75,4000105,"Pendleton St+N Henry St",,38.811279,-77.050407,,,,,,0
+76,4000108,"Duke St+S Gordon St",,38.811485,-77.103249,,,,,,0
+77,4000109,"Pendleton St+N Payne St",,38.811546,-77.052460,,,,,,0
+78,4000110,"Duke St+Somervelle St",,38.811624,-77.116854,,,,,,0
+79,4000111,"Stevenson Ave+S Van Dorn St",,38.811626,-77.132706,,,,,,0
+80,4000113,"4600 Duke St",,38.811699,-77.111839,,,,,,0
+81,4000114,"Duke St+Ingram St",,38.811760,-77.104942,,,,,,0
+82,4000115,"Duke St near Shops at Foxchase",,38.811977,-77.112129,,,,,,0
+83,4000116,"King St+Highland Pl",,38.811954,-77.068649,,,,,,0
+84,4000117,"Duke St+ Cameron St Blvd /N Pickett St",,38.811905,-77.119164,,,,,,0
+85,4000118,"Beatley Library",,38.811993,-77.117340,,,,,,0
+86,4000120,"Duke St+S Jordan St",,38.811958,-77.108971,,,,,,0
+87,4000121,"Duke St+S Ingram St",,38.812286,-77.106750,,,,,,0
+88,4000122,"Duke St+N Jordan St",,38.812183,-77.109428,,,,,,0
+89,4000123,"Duke St+N Pickett St / Cameron St Blvd",,38.812252,-77.119415,,,,,,0
+90,4000126,"100 S Van Dorn St",,38.812252,-77.131073,,,,,,0
+91,4000127,"Duke St+S Pickett St",,38.812180,-77.121323,,,,,,0
+92,4000128,"Stevenson Ave+S Van Dorn St",,38.812351,-77.133095,,,,,,0
+93,4000129,"S Whiting St+Stevenson Ave",,38.812420,-77.137062,,,,,,0
+94,4000130,"King St+Highland Pl",,38.812244,-77.069229,,,,,,0
+95,4000131,"Duke St+S Pickett St",,38.812458,-77.121292,,,,,,0
+96,4000132,"101 S Van Dorn St",,38.812359,-77.131416,,,,,,0
+97,4000133,"Yoakum Pkwy+Stevenson Ave",,38.812439,-77.139931,,,,,,0
+98,4000136,"Duke St+N Paxton St",,38.812519,-77.124214,,,,,,0
+99,4000137,"Yoakum Pkwy+Stevenson Ave",,38.812721,-77.139671,,,,,,0
+100,4000138,"Duke St+N Paxton St",,38.812756,-77.123573,,,,,,0
+101,4000139,"5920 Stevenson Ave",,38.812771,-77.136147,,,,,,0
+102,4000140,"5951 Stevenson Ave",,38.812878,-77.135956,,,,,,0
+103,4000141,"6000 Stevenson Ave",,38.812847,-77.137604,,,,,,0
+104,4000142,"Stevenson Ave + S Whiting St",,38.812992,-77.137680,,,,,,0
+105,4000148,"Duke St+N Ripley St",,38.813187,-77.126305,,,,,,0
+106,4000149,"Duke St+N Ripley St",,38.813473,-77.126068,,,,,,0
+109,4000155,"Janneys Ln+Robinson Ct",,38.813725,-77.074570,,,,,,0
+110,4000156,"Janneys Ln+Putnam Pl",,38.813889,-77.072792,,,,,,0
+111,4000157,"N Pickett St+Holmes Run Pkwy",,38.813873,-77.119247,,,,,,0
+112,4000158,"Janneys Ln+King St",,38.813843,-77.071739,,,,,,0
+113,4000159,"Janneys Ln+Robinson Ct",,38.813942,-77.075043,,,,,,0
+114,4000160,"N Pickett St+Holmes Run Pkwy",,38.814022,-77.119072,,,,,,0
+115,4000161,"Duke St+S Walker St",,38.814014,-77.133179,,,,,,0
+116,4000162,"Janneys Ln+E Taylor Run Pkwy",,38.814049,-77.076683,,,,,,0
+117,4000163,"Janneys Ln+E Taylor Run Pkwy",,38.814194,-77.076904,,,,,,0
+118,4000164,"Janneys Ln+Cloverway Dr",,38.814152,-77.079979,,,,,,0
+119,4000165,"Janneys Ln+Cloverway Dr",,38.814259,-77.080109,,,,,,0
+120,4000167,"Duke St+S Walker St",,38.814377,-77.131950,,,,,,0
+121,4000168,"Janneys Ln+Yale Dr",,38.814685,-77.082844,,,,,,0
+122,4000169,"Janneys Ln+Yale Dr",,38.814957,-77.083099,,,,,,0
+123,4000172,"5301 Holmes Run Pkwy",,38.815701,-77.121544,,,,,,0
+124,4000175,"5300 Holmes Run Pkwy",,38.815659,-77.121750,,,,,,0
+125,4000177,"1211 Janneys Ln",,38.815815,-77.084885,,,,,,0
+126,4000178,"1210 Janneys Ln",,38.815735,-77.084991,,,,,,0
+127,4000188,"Janneys Ln+Kingston Ave",,38.816700,-77.087036,,,,,,0
+128,4000189,"Janneys Ln+Kingston Ave",,38.816608,-77.087219,,,,,,0
+129,4000191,"5380 Holmes Run Pkwy",,38.816776,-77.124489,,,,,,0
+130,4000192,"5381 Holmes Run Pkwy",,38.816902,-77.124451,,,,,,0
+131,4000196,"Janneys Ln+N Quaker Ln",,38.817429,-77.089249,,,,,,0
+132,4000197,"Janneys Ln+N Quaker Ln",,38.817139,-77.088737,,,,,,0
+133,4000200,"Seminary Rd+N Quaker Ln",,38.817463,-77.090446,,,,,,0
+134,4000203,"Seminary Rd+N Quaker Ln",,38.817562,-77.090218,,,,,,0
+135,4000218,"Holmes Run Pkwy+N Van Dorn St",,38.818665,-77.127419,,,,,,0
+136,4000224,"Holmes Run Pkwy+N Van Dorn St",,38.819122,-77.128052,,,,,,0
+138,4000228,"Quantrell Ave+N Armistead St",,38.819294,-77.136208,,,,,,0
+139,4000230,"1409 E Abingdon Dr",,38.819443,-77.043739,,,,,,0
+140,4000231,"Seminary Rd+Fort Williams Pkwy",,38.819679,-77.093536,,,,,,0
+141,4000232,"W Braddock Rd+Ruffner Rd",,38.819656,-77.069229,,,,,,0
+142,4000234,"Seminary Rd+Fort Williams Pkwy",,38.819756,-77.093880,,,,,,0
+143,4000236,"W Braddock Rd+Ruffner Rd",,38.820072,-77.069496,,,,,,0
+144,4000237,"N Beauregard St+Quantrell Ave",,38.820393,-77.138100,,,,,,0
+145,4000239,"Quantrell Ave+N Beauregard St",,38.820484,-77.136627,,,,,,0
+146,4000245,"W Braddock Rd + High St",,38.820889,-77.070526,,,,,,0
+147,4000247,"3830 Seminary Rd/Beth-El Synagogue",,38.821110,-77.096024,,,,,,0
+148,4000248,"3823 Seminary Rd/Beth-El Synagogue",,38.821220,-77.095909,,,,,,0
+149,4000249,"Mt Vernon Ave+E Mason Ave",,38.821201,-77.057838,,,,,,0
+150,4000252,"Mt Vernon Ave+E Mason Ave",,38.821766,-77.057762,,,,,,0
+151,4000253,"Seminary Rd+Saint Stephens Rd",,38.821957,-77.097740,,,,,,0
+152,4000254,"W Braddock Rd+Lloyd's Ln",,38.822033,-77.071358,,,,,,0
+153,4000257,"Seminary Rd+Saint Stephens Rd",,38.821972,-77.098175,,,,,,0
+154,4000259,"N Van Dorn St+Taney Ave",,38.822254,-77.125870,,,,,,0
+155,4000262,"N Van Dorn St+Taney Ave",,38.822433,-77.125313,,,,,,0
+156,4000263,"W Braddock Rd+Timber Branch Dr",,38.822472,-77.072090,,,,,,0
+157,4000266,"Mt Vernon Ave+E Bellefonte Ave",,38.823112,-77.058006,,,,,,0
+158,4000267,"N Beauregard St+N Armistead St",,38.823090,-77.134331,,,,,,0
+159,4000268,"W Braddock Rd+W Windsor Ave",,38.823196,-77.072701,,,,,,0
+160,4000270,"Seminary Rd+Chapel Hill Dr",,38.823254,-77.101143,,,,,,0
+161,4000271,"Seminary Rd+Chapel Hill Dr",,38.823231,-77.101494,,,,,,0
+162,4000272,"Mt Vernon Ave+E Bellefonte Ave",,38.823284,-77.058220,,,,,,0
+163,4000273,"N Van Dorn St+Sanger Ave",,38.823612,-77.124046,,,,,,0
+164,4000276,"N Van Dorn St + Richenbacher Ave",,38.824028,-77.123070,,,,,,0
+165,4000278,"Seminary Rd + Howard Street - Alexandria Hospital",,38.824348,-77.104858,,,,,,0
+166,4000279,"Mt Vernon Ave+E Windsor Ave",,38.824543,-77.058281,,,,,,0
+167,4000282,"N Beauregard St+Morgan St",,38.824692,-77.132477,,,,,,0
+168,4000283,"N Van Dorn St+Wycklow Ct",,38.824768,-77.121979,,,,,,0
+169,4000285,"N Beauregard St+Morgan St",,38.825073,-77.132240,,,,,,0
+170,4000287,"N Van Dorn St+Wyclow Ct",,38.824879,-77.122139,,,,,,0
+171,4000288,"4500 Seminary Rd",,38.824966,-77.106850,,,,,,0
+172,4000289,"4501 Seminary Rd",,38.825150,-77.106850,,,,,,0
+173,4000296,"Mt Vernon Ave+E Custis Ave",,38.825493,-77.058617,,,,,,0
+174,4000298,"Seminary Rd+N Pickett St",,38.825996,-77.108276,,,,,,0
+175,4000299,"N Beauregard St+Sanger Ave",,38.825970,-77.130058,,,,,,0
+176,4000300,"N Van Dorn St+Maris Ave",,38.826111,-77.119713,,,,,,0
+177,4000301,"N Beauregard St+Sanger Ave",,38.826241,-77.130280,,,,,,0
+178,4000304,"N Van Dorn St+Maris Ave",,38.826492,-77.119469,,,,,,0
+179,4000306,"Seminary Rd+N Pickett St",,38.826595,-77.109344,,,,,,0
+180,4000309,"Mt Vernon Ave+E Oxford Ave",,38.826736,-77.058678,,,,,,0
+181,4000311,"Mt Vernon Ave+E Oxford Ave",,38.826996,-77.058891,,,,,,0
+182,4000312,"4649 Seminary Rd",,38.827156,-77.109650,,,,,,0
+183,4000313,"1501 N Van Dorn St",,38.827335,-77.117386,,,,,,0
+185,4000316,"N Beauregard St+Roanoke Ave",,38.827579,-77.127502,,,,,,0
+186,4000317,"Kenmore Ave+N Van Dorn St",,38.827740,-77.114632,,,,,,0
+187,4000318,"Mt Vernon Ave+E Uhler Ave",,38.827728,-77.059029,,,,,,0
+188,4000319,"Seminary Rd+Library Ln",,38.827755,-77.110756,,,,,,0
+189,4000320,"W Braddock Rd+Marlboro Dr",,38.827988,-77.098709,,,,,,0
+190,4000321,"N Beauregard St+Roanoke Ave",,38.828056,-77.126305,,,,,,0
+191,4000322,"Mt Vernon Ave+Stewart Ave",,38.828068,-77.058937,,,,,,0
+192,4000323,"Seminary Rd+Kenmore Ave",,38.828262,-77.110863,,,,,,0
+193,4000324,"King St+Marlee Ct",,38.828128,-77.089535,,,,,,0
+194,4000328,"W Braddock Rd+N Howard St",,38.828815,-77.102097,,,,,,0
+195,4000329,"Mt Vernon Ave+E Randolph Ave",,38.829193,-77.059135,,,,,,0
+196,4000331,"Mt Vernon Ave+Raymond Ave",,38.829945,-77.059402,,,,,,0
+197,4000333,"Mt Vernon Ave + Hume Ave",,38.830570,-77.059380,,,,,,0
+198,4000337,"King St+Dearing St",,38.831272,-77.093391,,,,,,0
+199,4000338,"King St+Dearing St",,38.831234,-77.093529,,,,,,0
+200,4000339,"4901 Seminary Rd",,38.831467,-77.113380,,,,,,0
+201,4000340,"Seminary Rd + Southern Towers - Stratford Bldg",,38.831490,-77.113297,,,,,,0
+202,4000342,"King St+N Menokin Dr",,38.831692,-77.094109,,,,,,0
+203,4000344,"King St+N Menokin Dr",,38.832047,-77.094368,,,,,,0
+204,4000348,"Southern Towers - Sherwood Building",,38.832523,-77.114258,,,,,,0
+205,4000349,"5001 Seminary Rd",,38.832680,-77.114525,,,,,,0
+206,4000352,"1698 N Beauregard St",,38.832851,-77.123260,,,,,,0
+207,4000353,"Mark Center Dr+N Beauregard St",,38.832920,-77.119484,,,,,,0
+208,4000354,"Mt Vernon Ave+Kennedy St",,38.833050,-77.059822,,,,,,0
+209,4000355,"Martha Custis Dr+Ravensworth Pl",,38.833233,-77.081497,,,,,,0
+210,4000356,"Martha Custis Dr+Ravensworth Pl",,38.833183,-77.081978,,,,,,0
+211,4000357,"Mt Vernon Ave+Kennedy St",,38.833363,-77.060097,,,,,,0
+212,4000358,"N Beauregard St+Mark Center Dr",,38.833603,-77.120293,,,,,,0
+213,4000360,"Seminary Rd + Southern Towers - Graham Building",,38.833675,-77.115494,,,,,,0
+214,4000361,"Valley Dr+Martha Custis Dr",,38.833591,-77.079643,,,,,,0
+215,4000362,"Southern Towers - Graham Building",,38.833729,-77.115379,,,,,,0
+216,4000363,"Valley Dr+Gunston Rd",,38.833839,-77.079552,,,,,,0
+217,4000364,"N Beauregard St+Mark Center Dr",,38.833802,-77.120682,,,,,,0
+219,4000366,"Martha Custis Dr+Ripon Pl",,38.834224,-77.083424,,,,,,0
+220,4000367,"Martha Custis Dr+Ripon Pl",,38.834240,-77.083588,,,,,,0
+221,4000368,"Mt Vernon Ave+Herbert St",,38.834415,-77.060074,,,,,,0
+222,4000369,"Hampton Dr+W Braddock Rd",,38.834534,-77.108292,,,,,,0
+223,4000370,"Hampton Dr+W Braddock Rd",,38.834446,-77.107925,,,,,,0
+224,4000372,"Hampton Dr+Kirkpatrick Ln",,38.835152,-77.106827,,,,,,0
+225,4000373,"Hampton Dr+Kirkpatrick Ln",,38.835258,-77.107010,,,,,,0
+227,4000379,"Martha Custis Dr+Preston Rd",,38.835800,-77.083801,,,,,,0
+228,4000380,"Martha Custis Dr+Preston Rd",,38.835899,-77.083633,,,,,,0
+229,4000381,"Valley Dr+Coryell Ln",,38.835831,-77.079796,,,,,,0
+230,4000382,"Valley Dr+Preston Rd",,38.836094,-77.079582,,,,,,0
+231,4000383,"Mt Vernon Ave+W Glebe Rd",,38.836308,-77.061020,,,,,,0
+232,4000384,"4714 W Braddock Rd",,38.836296,-77.109535,,,,,,0
+233,4000385,"4755 W Braddock Rd",,38.836391,-77.109322,,,,,,0
+234,4000388,"Park Center Dr+King St",,38.836788,-77.103088,,,,,,0
+235,4000390,"King St+Park Center Dr",,38.837185,-77.102295,,,,,,0
+237,4000392,"King St+Park Center Dr",,38.837227,-77.102974,,,,,,0
+238,4000395,"Fillmore Ave+N Beauregard St",,38.837463,-77.114639,,,,,,0
+240,4000399,"Fillmore Ave+Domain Pl",,38.838165,-77.115349,,,,,,0
+241,4000400,"Valley Dr+Gunston Rd",,38.838348,-77.079231,,,,,,0
+242,4000401,"Valley Dr+Gunston Rd",,38.838348,-77.079140,,,,,,0
+243,4000404,"N Beauregard St+W Braddock Rd",,38.838600,-77.111409,,,,,,0
+244,4000405,"N Beauregard St+W Braddock Rd",,38.838722,-77.111824,,,,,,0
+245,4000413,"King St+S 28th St - Alexandria Health Department",,38.839855,-77.105583,,,,,,0
+246,4000422,"Martha Custis Dr+Gunston Rd",,38.840584,-77.083145,,,,,,0
+247,4000423,"Martha Custis Dr+Gunston Rd",,38.840607,-77.083221,,,,,,0
+248,4000425,"King St+N Beauregard St",,38.840683,-77.106667,,,,,,0
+250,4000429,"Valley Dr+Tennessee Ave",,38.841736,-77.075180,,,,,,0
+251,4000430,"Valley Dr+Tennessee Ave",,38.841767,-77.075394,,,,,,0
+252,4000432,"Martha Custis Dr+Holmes Ln",,38.842064,-77.080643,,,,,,0
+253,4000433,"Martha Custis Dr+Holmes Ln",,38.842203,-77.080521,,,,,,0
+254,4000445,"Powhatan St+Second St",,38.817024,-77.046684,,,,,,0
+255,4000447,"Gibbon St + S Alfred St",,38.799645,-77.049844,,,,,,0
+256,4000448,"Franklin St+S Patrick St",,38.798645,-77.052505,,,,,,0
+257,4000449,"Franklin St+S Alfred St",,38.798439,-77.050926,,,,,,0
+258,4000450,"Powhatan St+Second St",,38.816910,-77.046425,,,,,,0
+259,4000463,"Park Center Dr+King St",,38.836609,-77.102974,,,,,,0
+261,4000471,"Powhatan St+Bashford Ln",,38.818283,-77.047432,,,,,,0
+262,4000472,"1801 N Beauregard St",,38.832890,-77.122673,,,,,,0
+263,4000473,"Potomac Yard+Potomac Yard Shopping Center - Pier 1",,38.839890,-77.050545,,,,,,0
+264,4000474,"Potomac Yard Shopping Center - Staples/Petsmart",,38.835243,-77.050018,,,,,,0
+265,4000475,"Potomac Yard+Potomac Yard Shopping Center - Rack R",,38.837116,-77.049904,,,,,,0
+266,4000476,"Slaters Ln + W Abingdon Dr",,38.821518,-77.045403,,,,,,0
+271,4000485,"W Braddock Rd at Fort Ward",,38.828655,-77.102219,,,,,,0
+272,4000486,"W Braddock Rd+Marlboro Dr",,38.827770,-77.098442,,,,,,0
+274,4000489,"Seminary Rd + Howard Street - Alexandria Hospital",,38.824162,-77.104881,,,,,,0
+275,4000490,"W Braddock Rd + Cameron Mills Rd",,38.823776,-77.073387,,,,,,0
+276,4000491,"Bradlee Shopping Center EB",,38.829456,-77.091263,,,,,,0
+277,4000492,"Bradlee Shopping Center",,38.829718,-77.091383,,,,,,0
+280,4000496,"Eisenhower Ave+Swamp Fox Rd (Eisenhower Metro)",,38.801434,-77.071732,,,,,,0
+281,4000497,"Bashford Ln+Powhatan St",,38.818668,-77.047318,,,,,,0
+282,4000498,"Cameron Mills Rd+Beverly Dr",,38.833111,-77.075478,,,,,,0
+283,4000499,"Cameron Mills Rd+Crescent Dr",,38.834515,-77.075935,,,,,,0
+284,4000500,"Bashford Ln+N Pitt St",,38.818153,-77.042084,,,,,,0
+285,4000501,"Cameron Mills Rd+Crescent Dr",,38.834660,-77.076126,,,,,,0
+286,4000502,"Cameron Mills Rd+Woodland Ter",,38.825272,-77.073433,,,,,,0
+287,4000503,"Cameron Mills Rd+Virginia Ave",,38.827614,-77.073555,,,,,,0
+288,4000504,"N Columbus St+Madison St",,38.813370,-77.046288,,,,,,0
+289,4000505,"Bashford Ln+Seaport Ln",,38.818756,-77.045502,,,,,,0
+290,4000506,"N Columbus St+Montgomery St",,38.814472,-77.046059,,,,,,0
+291,4000507,"Bashford Ln + W Abingdon Dr",,38.818558,-77.044868,,,,,,0
+292,4000509,"67 Commonwealth Ave",,38.808441,-77.060234,,,,,,0
+293,4000510,"Cameron Mills Rd+Chalfonte Dr",,38.835632,-77.076462,,,,,,0
+294,4000511,"E Braddock Rd+Commonwealth Ave",,38.816280,-77.062355,,,,,,0
+295,4000512,"E Braddock Rd+E Spring St",,38.815552,-77.060478,,,,,,0
+296,4000513,"E Braddock Rd + Little St",,38.814693,-77.058762,,,,,,0
+297,4000514,"E Braddock Rd+Ramsey St",,38.814213,-77.057297,,,,,,0
+298,4000515,"E Braddock Rd+Ramsey St",,38.814102,-77.057358,,,,,,0
+299,4000516,"W Braddock Rd+Hancock Ave",,38.816757,-77.063499,,,,,,0
+300,4000517,"W Braddock Rd+W Glendale Ave",,38.816437,-77.063103,,,,,,0
+301,4000518,"Cameron Mills Rd+Monticello Blvd",,38.829315,-77.074081,,,,,,0
+302,4000520,"Cameron Mills Rd+Allison St",,38.831848,-77.074936,,,,,,0
+303,4000521,"Cameron Mills Rd+Woodland Ter",,38.824841,-77.073593,,,,,,0
+304,4000523,"Cameron Mills Rd+Chalfonte Dr",,38.835899,-77.076416,,,,,,0
+305,4000524,"Cameron Mills Rd+Virginia Ave",,38.827171,-77.073311,,,,,,0
+306,4000525,"Cameron Mills Rd+Beverly Dr",,38.832928,-77.075241,,,,,,0
+307,4000526,"Cameron Mills Rd+Summit Ave",,38.829773,-77.074402,,,,,,0
+308,4000527,"Cameron Mills Rd+Allison St",,38.831730,-77.075058,,,,,,0
+309,4000528,"E Braddock Rd+E Spring St",,38.815563,-77.060799,,,,,,0
+310,4000529,"W Braddock Rd+W Alexandria Ave",,38.818024,-77.066605,,,,,,0
+311,4000531,"S Whiting St+Lane Dr",,38.809731,-77.136002,,,,,,0
+312,4000532,"Metro Rd+Eisenhower Ave (Van Dorn Metro)",,38.799519,-77.131065,,,,,,0
+313,4000533,"Monroe Ave + Wayne St",,38.820263,-77.060539,,,,,,0
+314,4000534,"E Monroe Ave+Newton St",,38.820309,-77.061028,,,,,,0
+315,4000535,"Commonwealth Ave+E Nelson Rd",,38.819370,-77.062836,,,,,,0
+316,4000536,"Commonwealth Ave+W Nelson St",,38.819283,-77.063004,,,,,,0
+317,4000537,"Commonwealth Ave+E Braddock Rd",,38.816025,-77.062401,,,,,,0
+318,4000538,"Commonwealth Ave+W Braddock Rd",,38.816002,-77.062592,,,,,,0
+319,4000539,"Commonwealth Ave+E Chapman St",,38.813549,-77.061958,,,,,,0
+320,4000540,"Commonwealth Ave+W Chapman St",,38.813660,-77.062195,,,,,,0
+321,4000545,"N Beauregard St+Gloucester Rd",,38.820103,-77.139946,,,,,,0
+322,4000547,"605 Jefferson St",,38.797005,-77.048119,,,,,,0
+323,4000548,"Jefferson St+S Saint Asaph St",,38.796799,-77.047775,,,,,,0
+324,4000549,"S Saint Asaph St+Franklin St",,38.797596,-77.047493,,,,,,0
+325,4000550,"S Saint Asaph St+Franklin St",,38.797852,-77.047241,,,,,,0
+326,4000551,"Jefferson St+Fayette St - Lee Center",,38.797661,-77.054298,,,,,,0
+327,4000552,"King St+N West St",,38.806110,-77.054474,,,,,,0
+328,4000553,"Jamieson Ave+Englehardt Ln",,38.803749,-77.064537,,,,,,0
+329,4000554,"Jamieson Ave+Courthouse Sq",,38.803059,-77.066216,,,,,,0
+330,4000556,"Commonwealth Ave+E Maple St",,38.811527,-77.061203,,,,,,0
+331,4000559,"W Reed Ave+Edison St",,38.837238,-77.060806,,,,,,0
+332,4000560,"W Reed Ave+Commonwealth Ave",,38.836697,-77.058128,,,,,,0
+333,4000561,"W Reed Ave+Commonwealth Ave",,38.836605,-77.057587,,,,,,0
+334,4000562,"E Reed Ave+Richmond Hwy",,38.837021,-77.052017,,,,,,0
+335,4000563,"114 E Reed Ave",,38.837063,-77.053001,,,,,,0
+336,4000564,"E Reed Ave+Evans Ln",,38.836876,-77.054062,,,,,,0
+337,4000565,"E Reed Ave+Evans Ln",,38.837002,-77.053902,,,,,,0
+338,4000566,"Mt Vernon Ave+W Glebe Rd",,38.835907,-77.060905,,,,,,0
+339,4000568,"Russell Rd+Mount Pl",,38.835197,-77.067307,,,,,,0
+340,4000576,"Landmark Mall",,38.817223,-77.131126,,,,,,0
+341,4000579,"N Armistead St+Quantrell Ave",,38.820202,-77.133667,,,,,,0
+342,4000580,"N Armistead St+Quantrell Ave",,38.820385,-77.133636,,,,,,0
+343,4000581,"511 N Armistead St",,38.821693,-77.132256,,,,,,0
+344,4000582,"514 North Armistead St",,38.821602,-77.132401,,,,,,0
+345,4000585,"Eisenhower Ave+Ike Dr",,38.802505,-77.082352,,,,,,0
+346,4000590,"Daingerfield Rd+Prince St",,38.805237,-77.058510,,,,,,0
+353,4000615,"Russell Rd+W Del Ray Ave",,38.826443,-77.065659,,,,,,0
+354,4000617,"King St+Melrose St",,38.815636,-77.073441,,,,,,0
+355,4000618,"Commonwealth Ave+Sunset Dr",,38.808586,-77.060478,,,,,,0
+356,4000619,"Commonwealth Ave+W Maple St",,38.811535,-77.061569,,,,,,0
+357,4000620,"Duke St+S Washington St",,38.802818,-77.047997,,,,,,0
+358,4000625,"Dulany St+Duke St",,38.804146,-77.063301,,,,,,0
+360,4000631,"Eisenhower Ave+S Van Dorn St",,38.799271,-77.133858,,,,,,0
+361,4000632,"First St+N Henry St",,38.815826,-77.049461,,,,,,0
+362,4000633,"First St+N Fayette St",,38.816093,-77.050339,,,,,,0
+363,4000634,"N Pitt St+Bellvue Pl",,38.817520,-77.041901,,,,,,0
+364,4000635,"N Pitt St+Bellvue Pl",,38.817322,-77.042168,,,,,,0
+365,4000636,"Slaters Ln+Potomac Greens Dr",,38.821445,-77.047943,,,,,,0
+366,4000637,"Slaters Ln+Portner Rd",,38.821335,-77.047562,,,,,,0
+367,4000638,"King St + N Royal St - Alexandria City Hall",,38.804680,-77.043427,,,,,,0
+368,4000639,"Pendleton St+N Alfred St",,38.811119,-77.048248,,,,,,0
+369,4000640,"King St+S Alfred St",,38.805317,-77.049347,,,,,,0
+371,4000644,"Russell Rd+Kentucky Ave",,38.836471,-77.066193,,,,,,0
+372,4000645,"King St+Melrose St",,38.815399,-77.072906,,,,,,0
+373,4000646,"Russell Rd+W Windsor Ave",,38.823994,-77.065231,,,,,,0
+374,4000647,"Russell Rd+W Custis Ave",,38.825035,-77.065369,,,,,,0
+375,4000648,"Russell Rd+W Glebe Rd",,38.837606,-77.064842,,,,,,0
+376,4000649,"Russell Rd+Rosecrest Ave",,38.825812,-77.065376,,,,,,0
+377,4000650,"Russell Rd+Monticello Blvd",,38.831768,-77.066978,,,,,,0
+378,4000651,"Russell Rd+Woodland Ter",,38.827484,-77.065956,,,,,,0
+379,4000652,"Russell Rd+Uhler Ter",,38.828674,-77.065964,,,,,,0
+380,4000653,"Russell Rd+W Mount Ida Ave",,38.829731,-77.066269,,,,,,0
+381,4000654,"Russell Rd+Mansion Dr",,38.830124,-77.066528,,,,,,0
+382,4000655,"Russell Rd+Charles Alexander Ct",,38.828697,-77.066124,,,,,,0
+383,4000656,"Russell Rd+MacArthur Rd",,38.832357,-77.066994,,,,,,0
+384,4000657,"Russell Rd+Belleaire Rd",,38.821993,-77.066154,,,,,,0
+385,4000658,"Russell Rd+Kentucky Ave",,38.836514,-77.066322,,,,,,0
+386,4000659,"Russell Rd+W Mason Ave",,38.820801,-77.066559,,,,,,0
+387,4000660,"Second St+N Fairfax St",,38.815842,-77.040375,,,,,,0
+388,4000661,"Second St+N Pitt St",,38.815979,-77.041718,,,,,,0
+389,4000662,"Second St+N Pitt St",,38.816200,-77.042137,,,,,,0
+390,4000663,"W Glebe Rd+Florence Dr",,38.841736,-77.071716,,,,,,0
+391,4000665,"505 S Van Dorn St",,38.806728,-77.133652,,,,,,0
+392,4000666,"S Van Dorn St+S Pickett St",,38.805180,-77.134056,,,,,,0
+393,4000668,"S Van Dorn St+Edsall Rd",,38.807808,-77.133255,,,,,,0
+394,4000673,"Russell Rd+Mount Pl",,38.834839,-77.067368,,,,,,0
+395,4000674,"Reading Ave+Exeter Ct",,38.830868,-77.127586,,,,,,0
+396,4000675,"Pendleton St+N Payne St",,38.811619,-77.052139,,,,,,0
+397,4000676,"N Pickett St+Duke St",,38.812782,-77.119682,,,,,,0
+398,4000677,"N Pickett St+Duke St",,38.812523,-77.119560,,,,,,0
+400,4000679,"Bashford Ln+Powhatan St",,38.818588,-77.046997,,,,,,0
+401,4000682,"Rayburn Ave+Winston Ct",,38.832203,-77.125122,,,,,,0
+402,4000683,"Rayburn Ave+Winston Ct",,38.832169,-77.125427,,,,,,0
+403,4000684,"Rayburn Ave+Harding Ave",,38.832432,-77.127357,,,,,,0
+404,4000685,"Rayburn Ave+Reading Ave",,38.831394,-77.128410,,,,,,0
+405,4000686,"Rayburn Ave+Harding Ave",,38.832592,-77.127350,,,,,,0
+406,4000687,"Russell Rd+W Howell Ave",,38.823364,-77.065674,,,,,,0
+407,4000688,"Reading Ave+Merton Ct",,38.830715,-77.127693,,,,,,0
+408,4000690,"N Ripley St+Duke St",,38.814331,-77.126213,,,,,,0
+409,4000691,"N Ripley St+Holmes Run Pkwy",,38.817364,-77.126434,,,,,,0
+410,4000692,"N Royal St+Cameron St",,38.806053,-77.043419,,,,,,0
+411,4000694,"N Royal St+Princess St",,38.808254,-77.042946,,,,,,0
+412,4000695,"N Royal St+Oronoco St",,38.809391,-77.042702,,,,,,0
+413,4000696,"S Royal St+Duke St",,38.802261,-77.044067,,,,,,0
+414,4000698,"S Royal St+Gibbon St",,38.799213,-77.044876,,,,,,0
+415,4000699,"W Braddock Rd+Russell Rd",,38.817835,-77.065933,,,,,,0
+416,4000700,"Russell Rd+W Monroe Ave",,38.819595,-77.066406,,,,,,0
+417,4000701,"Russell Rd+W Monroe Ave",,38.819647,-77.066269,,,,,,0
+418,4000702,"Russell Rd+W Mason Ave",,38.820499,-77.066391,,,,,,0
+419,4000703,"Rayburn Ave+Dunster Ct",,38.831394,-77.128815,,,,,,0
+420,4000708,"Gibbon St+S Payne St",,38.800247,-77.054550,,,,,,0
+421,4000710,"S Fayette St+Franklin St",,38.798740,-77.053879,,,,,,0
+422,4000711,"S Royal St+Wilkes St",,38.799751,-77.044594,,,,,,0
+423,4000712,"S Royal St+Wolfe St",,38.801350,-77.044418,,,,,,0
+424,4000713,"S Royal St+Duke St",,38.802586,-77.044159,,,,,,0
+425,4000714,"S Royal St+King St - Alexandria City Hall",,38.804226,-77.043816,,,,,,0
+426,4000715,"Ford Ave+Strutfield Ln",,38.836571,-77.104767,,,,,,0
+427,4000716,"Ford Ave+Strutfield Ln",,38.836845,-77.104965,,,,,,0
+429,4000719,"King St+Albany Ave",,38.818256,-77.076088,,,,,,0
+430,4000721,"Vola Lawson Animal Shelter",,38.804642,-77.104301,,,,,,0
+431,4000722,"Vola Lawson Animal Shelter",,38.804466,-77.104187,,,,,,0
+432,4000723,"4841 Eisenhower Ave",,38.803391,-77.119156,,,,,,0
+433,4000724,"4840 Eisenhower Ave",,38.803253,-77.118980,,,,,,0
+434,4000726,"Gunston Rd+Chalfonte Dr",,38.836170,-77.077728,,,,,,0
+435,4000727,"Gunston Rd+Chalfonte Dr",,38.836315,-77.077591,,,,,,0
+437,4000730,"Jamieson Ave+Courthouse Sq",,38.803120,-77.065811,,,,,,0
+438,4000731,"Slaters Ln+Massey Ln",,38.821701,-77.045448,,,,,,0
+439,4000734,"S Whiting St + Edsall Rd",,38.808163,-77.135109,,,,,,0
+440,4000735,"Montgomery St+N Patrick St",,38.814644,-77.048180,,,,,,0
+441,4000736,"S Whiting St+Stevenson Ave",,38.811474,-77.137093,,,,,,0
+442,4000738,"King St+N Peyton St",,38.806236,-77.055557,,,,,,0
+443,4000740,"Russell Rd+Woodland Ter",,38.827153,-77.065781,,,,,,0
+444,4000742,"Cameron Mills Rd+W Braddock Rd",,38.824177,-77.073639,,,,,,0
+445,4000743,"N Fairfax St + King St N",,38.804739,-77.042419,,,,,,0
+446,4000744,"Martha Custis Dr + Valley Dr",,38.841987,-77.077660,,,,,,0
+447,4000745,"Daingerfield Rd+Prince St",,38.804928,-77.058472,,,,,,0
+448,4000747,"Jamieson Ave + Dulany St",,38.803570,-77.063774,,,,,,0
+449,4000748,"Eisenhower Ave + Cameron Parke Pl",,38.803505,-77.093361,,,,,,0
+450,4000749,"S Van Dorn St + S Pickett St",,38.804806,-77.133781,,,,,,0
+451,4000752,"S Pickett St + Brigadoon Townhouses",,38.809605,-77.122917,,,,,,0
+452,4000753,"King St+Radford St",,38.826233,-77.086716,,,,,,0
+453,4000755,"Mill Rd + Jamieson Ave",,38.801987,-77.067543,,,,,,0
+454,4000756,"N Ripley St + Holmes Run Pkwy",,38.817177,-77.126640,,,,,,0
+455,4000758,"Reading Ave + N Beauregard St",,38.829967,-77.125420,,,,,,0
+456,4000759,"Reading Ave + Winston Ct",,38.830299,-77.125938,,,,,,0
+457,4000760,"N Columbus St + First St",,38.814968,-77.046082,,,,,,0
+458,4000761,"Bashford Ln + N Pitt St",,38.818344,-77.042488,,,,,,0
+459,4000762,"N Fairfax St + Second St",,38.815578,-77.040077,,,,,,0
+460,4000763,"Eisenhower Ave + Cameron Parke Ct",,38.804050,-77.095345,,,,,,0
+461,4000764,"N Ripley St + Duke St",,38.814339,-77.126366,,,,,,0
+462,4000765,"W Glebe Rd + Florence Dr",,38.841393,-77.071083,,,,,,0
+463,4000766,"N Fairfax St + Second St",,38.815151,-77.040359,,,,,,0
+464,4000767,"N Fairfax St + Madison St",,38.812336,-77.040779,,,,,,0
+465,4000768,"N Fairfax St + Montgomery St",,38.813854,-77.040627,,,,,,0
+466,4000772,"Franklin St + S Royal St",,38.797760,-77.045372,,,,,,0
+467,4000773,"Franklin St + S Pitt St",,38.797916,-77.045715,,,,,,0
+468,4000774,"Franklin St + S Saint Asaph St",,38.798019,-77.047562,,,,,,0
+469,4000776,"W Glebe Rd + Executive Ave",,38.838856,-77.065247,,,,,,0
+470,4000777,"W Glebe Rd + Executive Ave",,38.839218,-77.065651,,,,,,0
+471,4000778,"King St + S Royal St",,38.804619,-77.043777,,,,,,0
+472,4000779,"W Glebe Rd + Old Dominion Blvd",,38.839832,-77.067230,,,,,,0
+473,4000781,"W Glebe Rd + Milan Dr",,38.841248,-77.069969,,,,,,0
+474,4000782,"W Glebe Rd + Valley Dr",,38.842003,-77.073090,,,,,,0
+475,4000783,"W Glebe Rd + Valley Dr",,38.842209,-77.073380,,,,,,0
+476,4000785,"N Howard St+Maple Tree Ct",,38.825130,-77.104065,,,,,,0
+477,4000786,"N Howard St + Maple Tree Ct",,38.825348,-77.104256,,,,,,0
+478,4000787,"N Howard St+Louis Pl",,38.827099,-77.103989,,,,,,0
+479,4000788,"N Howard St + Louis Pl",,38.827457,-77.104156,,,,,,0
+480,4000789,"N Howard St+W Braddock Rd",,38.828827,-77.103928,,,,,,0
+481,4000790,"N Howard St + W Braddock Rd",,38.828857,-77.104103,,,,,,0
+482,4000791,"Kenmore Ave + N Van Dorn St",,38.829735,-77.110138,,,,,,0
+483,4000793,"Pendleton St + N Pitt St",,38.810452,-77.042999,,,,,,0
+484,4000794,"W Glebe Rd + Old Dominion Blvd",,38.840617,-77.068016,,,,,,0
+485,4000795,"5230 Eisenhower Ave",,38.801571,-77.125542,,,,,,0
+486,4000796,"N Early St+W Braddock Rd",,38.828079,-77.096977,,,,,,0
+489,4000799,"Eisenhower Ave + Mill Rd",,38.802361,-77.080284,,,,,,0
+490,4000800,"Eisenhower Ave + Mill Rd",,38.802559,-77.079918,,,,,,0
+491,4000801,"Eisenhower Ave + Ike Dr",,38.802696,-77.081963,,,,,,0
+492,4000802,"Eisenhower Ave + Cameron Parke Pl",,38.803669,-77.092407,,,,,,0
+493,4000803,"Eisenhower Ave + Clermont Ave",,38.803982,-77.114281,,,,,,0
+494,4000804,"4701 Eisenhower Ave",,38.803860,-77.116081,,,,,,0
+495,4000805,"Cameron Run Regional Park",,38.804260,-77.102180,,,,,,0
+496,4000806,"Eisenhower Ave + Clermont Ave",,38.804253,-77.113739,,,,,,0
+497,4000807,"Cameron Run Regional Park",,38.804375,-77.101669,,,,,,0
+498,4000808,"4700 Eisenhower Ave",,38.803680,-77.116089,,,,,,0
+499,4000809,"N Fairfax St + Montgomery St",,38.814087,-77.040413,,,,,,0
+502,4000812,"N Fairfax St + Wythe St",,38.811108,-77.041008,,,,,,0
+503,4000813,"N Fairfax St + Pendleton St",,38.810856,-77.041275,,,,,,0
+504,4000814,"N Fairfax St + Pendleton St",,38.809994,-77.041298,,,,,,0
+505,4000815,"N Fairfax St + Oronoco St",,38.809193,-77.041634,,,,,,0
+506,4000816,"4926 Eisenhower Ave",,38.802525,-77.121925,,,,,,0
+507,4000817,"N Fairfax St + Princess St",,38.808029,-77.041870,,,,,,0
+508,4000818,"5001 Eisenhower Ave",,38.802731,-77.121857,,,,,,0
+509,4000819,"N Fairfax St + Cameron St",,38.805805,-77.042191,,,,,,0
+510,4000820,"N Fairfax St + King St",,38.804695,-77.042595,,,,,,0
+513,4000823,"5231 Eisenhower Ave",,38.801727,-77.125565,,,,,,0
+514,4000824,"N Fairfax St + Madison St",,38.812580,-77.040886,,,,,,0
+515,4000825,"N Fairfax St + Princess St",,38.807812,-77.041763,,,,,,0
+516,4000826,"Martha Custis Dr + Fitzgerald Ln",,38.838673,-77.083496,,,,,,0
+517,4000827,"Madison St + N Pitt St",,38.812698,-77.043213,,,,,,0
+518,4000828,"Madison St + N Saint Asaph St",,38.812843,-77.044258,,,,,,0
+519,4000829,"Madison St + N Washington St",,38.813004,-77.045456,,,,,,0
+520,4000830,"Madison St + N Columbus St",,38.813141,-77.046631,,,,,,0
+521,4000831,"Madison St + N Patrick St",,38.813408,-77.048752,,,,,,0
+522,4000832,"Madison St + N Henry St",,38.813545,-77.049858,,,,,,0
+523,4000833,"Madison St + N Fayette St",,38.813770,-77.050598,,,,,,0
+524,4000834,"Madison St + N Fayette St",,38.813683,-77.050926,,,,,,0
+525,4000835,"Madison St + N West St",,38.813862,-77.052383,,,,,,0
+526,4000836,"Madison St + N West St",,38.813969,-77.052155,,,,,,0
+527,4000837,"Martha Custis Dr + Valley Dr",,38.842010,-77.078438,,,,,,0
+528,4000838,"Martha Custis Dr + Mount Eagle Pl",,38.836952,-77.083427,,,,,,0
+529,4000839,"Kenmore Ave+N Van Dorn St",,38.827358,-77.113770,,,,,,0
+530,4000840,"Martha Custis Dr + Gunston Rd",,38.840012,-77.083353,,,,,,0
+531,4000841,"King St + S Saint Asaph St",,38.804871,-77.045959,,,,,,0
+532,4000842,"Martha Custis Dr + Fitzgerald Ln",,38.838600,-77.083649,,,,,,0
+533,4000843,"Martha Custis Dr NB + Gunston Dr",,38.840012,-77.083534,,,,,,0
+534,4000844,"N Menokin Dr + N Early St",,38.830551,-77.097115,,,,,,0
+535,4000845,"N Menokin Dr+N Early St",,38.830421,-77.097092,,,,,,0
+536,4000846,"N Menokin Dr + N Van Dorn St",,38.831684,-77.095581,,,,,,0
+537,4000847,"N Menokin Dr+N Van Dorn St",,38.831596,-77.095490,,,,,,0
+538,4000848,"Mill Rd + Eisenhower Ave",,38.801216,-77.067436,,,,,,0
+539,4000849,"Montgomery St + N Royal St",,38.813751,-77.041389,,,,,,0
+540,4000850,"Montgomery St + N Pitt St",,38.813919,-77.042603,,,,,,0
+541,4000851,"Montgomery St + N Saint Asaph St",,38.814045,-77.043686,,,,,,0
+542,4000852,"Montgomery St + N Washington St",,38.814178,-77.044807,,,,,,0
+543,4000853,"Montgomery St + N Alfred St",,38.814484,-77.047073,,,,,,0
+544,4000854,"N Early St + W Braddock Rd",,38.827919,-77.097069,,,,,,0
+545,4000855,"3444 Martha Custis Dr",,38.837299,-77.083557,,,,,,0
+546,4000856,"King St + Tuckahoe Ln",,38.819714,-77.077698,,,,,,0
+547,4000857,"King St + N Saint Asaph St",,38.804989,-77.045677,,,,,,0
+548,4000858,"King St + N Washington St",,38.805073,-77.046494,,,,,,0
+549,4000859,"King St + West View Ter",,38.813572,-77.070839,,,,,,0
+550,4000860,"King St + N Columbus St",,38.805248,-77.047966,,,,,,0
+551,4000861,"King St+West View Ter",,38.813393,-77.070801,,,,,,0
+553,4000863,"W Reed Ave + Mt Vernon Ave",,38.837547,-77.061302,,,,,,0
+554,4000864,"King St + N PatrickSt",,38.805511,-77.049889,,,,,,0
+556,4000866,"King St+Albany Ave",,38.817961,-77.076043,,,,,,0
+557,4000867,"King St + S Peyton St",,38.806160,-77.055870,,,,,,0
+558,4000868,"King St+Tuckahoe Ln",,38.819134,-77.077332,,,,,,0
+559,4000869,"King St + Harvard St",,38.806355,-77.057526,,,,,,0
+560,4000870,"Madison St + N Royal St",,38.812557,-77.042114,,,,,,0
+561,4000871,"King St + S Washington St",,38.805073,-77.047470,,,,,,0
+562,4000872,"Pendleton St + N Royal St",,38.810368,-77.042259,,,,,,0
+563,4000873,"King St + Diagonal Rd",,38.806641,-77.058662,,,,,,0
+564,4000874,"King St + N Fayette St",,38.805828,-77.052322,,,,,,0
+565,4000875,"King St + S Fayette St",,38.805737,-77.052711,,,,,,0
+566,4000876,"King St + Harvard St",,38.806416,-77.057076,,,,,,0
+567,4000877,"King St+Scroggins Rd",,38.820702,-77.079086,,,,,,0
+569,4000880,"King St + Kenwood Ave",,38.825146,-77.084694,,,,,,0
+570,4000881,"King St+Quincy St",,38.823296,-77.082191,,,,,,0
+571,4000882,"King St + Qunicy St",,38.823429,-77.082024,,,,,,0
+572,4000883,"King St + Scroggins Rd",,38.821762,-77.079872,,,,,,0
+573,4000885,"Madison St + N Fairfax St",,38.812405,-77.040993,,,,,,0
+574,4000886,"King St + Patrick St",,38.805462,-77.050453,,,,,,0
+575,4000887,"King St + Radford St",,38.826191,-77.086273,,,,,,0
+576,4000903,"Hunting Point/Bridgeyard Apartments",,38.792770,-77.049561,,,,,,0
+578,4000971,"S Royal St + Wolfe St",,38.801018,-77.044319,,,,,,0
+579,4000972,"S Pickett St + Edsall Rd",,38.807865,-77.128273,,,,,,0
+580,4000973,"Russell Rd + W Alexandria Ave",,38.818329,-77.066231,,,,,,0
+581,4000974,"Mayflower Square",,38.820541,-77.136467,,,,,,0
+582,4000975,"N Armistead St + N Beauregard St",,38.822483,-77.134132,,,,,,0
+583,4000976,"Quantrell Ave + N Armistead St",,38.819504,-77.136078,,,,,,0
+584,4000977,"Quantrell Ave + N Armistead St",,38.819054,-77.135918,,,,,,0
+585,4000978,"Lincolnia Rd + N Beauregard St",,38.819557,-77.139679,,,,,,0
+586,4000979,"Lincolnia Rd + N Breckinridge Pl",,38.818336,-77.137985,,,,,,0
+587,4000980,"500 S Van Dorn St",,38.806934,-77.133232,,,,,,0
+588,4000981,"Seminary Plaza - Hotel",,38.829556,-77.110428,,,,,,0
+589,4000982,"Kenmore Ave + Seminary Rd",,38.828117,-77.111710,,,,,,0
+590,4000983,"Kenmore Ave+Seminary Rd",,38.827728,-77.111977,,,,,,0
+591,4000985,"4390 King St",,38.838039,-77.104256,,,,,,0
+592,4000987,"Hampton Dr + Ford Ave",,38.836792,-77.106178,,,,,,0
+593,4000989,"Eisenhower Av + Cameron Parke Ct",,38.803753,-77.095406,,,,,,0
+594,4000990,"Mill Rd + Jamieson Ave",,38.802013,-77.067375,,,,,,0
+595,4000995,"Van Dorn Plaza",,38.810043,-77.132515,,,,,,0
+596,4000996,"230 S Van Dorn St",,38.810707,-77.131905,,,,,,0
+597,4000997,"Commonwealth Ave + Glendale Ave",,38.816570,-77.062592,,,,,,0
+598,4000998,"Commonwealth Ave + Luray Ave",,38.817410,-77.062599,,,,,,0
+603,4001014,"Mark Center Station - Bay 3",,38.831665,-77.117134,,,,,,0
+604,4001020,"Mark Center Dr + N Beauregard St",,38.832701,-77.119537,,,,,,0
+605,4001023,"King St + Union St - Torpedo Factory",,38.804275,-77.040099,,,,,,0
+606,4001024,"King St + Lee St",,38.804386,-77.041679,,,,,,0
+607,4001026,"King St + N Hampton St",,38.839535,-77.105614,,,,,,0
+610,4001035,"Kenwood Ave + W Braddock Rd",,38.826565,-77.084846,,,,,,0
+611,4001037,"Kenwood Ave + Centre Plaza",,38.828655,-77.084587,,,,,,0
+612,4001040,"Kenwood Ave + Valley Dr",,38.831944,-77.080391,,,,,,0
+613,4001043,"W Glebe Rd + Mount Vernon Ave",,38.836805,-77.062082,,,,,,0
+614,4001044,"W Glebe Rd + Commonwealth Ave",,38.835491,-77.057976,,,,,,0
+615,4001047,"E Glebe Rd + Richmond Hwy",,38.832526,-77.050310,,,,,,0
+616,4001049,"W Glebe Rd + Commonwealth Ave",,38.835728,-77.058289,,,,,,0
+617,4001050,"W Glebe Rd + Mount Vernon Ave",,38.837019,-77.062311,,,,,,0
+618,4001052,"Kenwood Ave + Valley Dr",,38.832073,-77.080482,,,,,,0
+620,4001054,"Kenwood Ave + W Braddock Rd",,38.826450,-77.085037,,,,,,0
+621,4001067,"Potomac Ave + Reed Ave",,38.837519,-77.049147,,,,,,0
+622,5000577,"Little River Tpke + Oasis Dr - Landmark Plaza",,38.817940,-77.141785,,,,,,0
+623,5000578,"Little River Tpke + Oasis Dr - Landmark Plaza",,38.817795,-77.142220,,,,,,0
+624,5002020,"4813 Beauregard St",,38.819523,-77.142937,,,,,,0
+625,5002022,"N Beauregard St + Lincolnia Rd",,38.819889,-77.140022,,,,,,0
+626,5002023,"N Beauregard St + Chambliss St",,38.820751,-77.142136,,,,,,0
+634,DMY02,"395 SB Shirlington Local Exit - DUMMY STOP",,38.846950,-77.080134,,,,,,0
+679,4000125,"703 N Washington St",,38.812241,-77.045296,,,,,,0
+680,4000190,"1201 E Abingdon Dr",,38.817097,-77.043892,,,,,,0
+681,4000630,"S Royal St + King St",,38.804325,-77.043686,,,,,,0
+682,4000667,"N Van Dorn St+Kenmore Ave",,38.828316,-77.115723,,,,,,0
+683,4000706,"Gibbon St + S Washington St",,38.799427,-77.048004,,,,,,0
+684,4000707,"Gibbon St + S Henry St",,38.799973,-77.052338,,,,,,0
+685,4000709,"Gibbon St +  S Pitt St",,38.799191,-77.046165,,,,,,0
+694,4000100,"N Washington St + Pendleton St",,38.810894,-77.045860,,,,,,0
+695,4000153,"N Washington St + Montgomery St",,38.813686,-77.045242,,,,,,0
+696,4000193,"W Abingdon Dr + Second St",,38.817039,-77.045135,,,,,,0
+697,4000970,"W Abingdon Dr + Bashford Ln",,38.818792,-77.044661,,,,,,0
+705,4000170,"N Washington St + First St",,38.814957,-77.044708,,,,,,0
+706,4000387,"King St + 30th St",,38.836601,-77.101105,,,,,,0
+707,4001016,"Mark Center Station - Bay 4",,38.831741,-77.116982,,,,,,0
+708,4001018,"Mark Center Station - Bay 6 (across Mark Ctr Ave)",,38.831640,-77.117749,,,,,,0
+709,4001025,"NVCC Alexandria - Bisdorf Bldg",,38.840939,-77.115479,,,,,,0
+718,4001079,"E Glebe Rd + Montrose Ave",,38.833721,-77.054130,,,,,,0
+719,6001365,"Shirlington Station - Bay G",,38.839996,-77.086761,,,,,,0
+720,4001077,"King St + N Lee St",,38.804398,-77.041252,,,,,,0
+721,4001078,"King St + N Union St",,38.804196,-77.040370,,,,,,0
+722,4001080,"King St + S West St",,38.805962,-77.054287,,,,,,0
+723,4001081,"King St + S Columbus St",,38.805196,-77.048273,,,,,,0
+725,4001032,"S Washington St+Church St",,38.794998,-77.048988,,,,,,0
+726,4001082,"Pendleton St + N Columbus",,38.810974,-77.047050,,,,,,0
+731,4000375,"5111 Seminary Rd",,38.835476,-77.118217,,,,,,0
+732,4000376,"5165 Seminary Rd",,38.835705,-77.118195,,,,,,0
+733,4000394,"5234 Seminary Rd",,38.837257,-77.119522,,,,,,0
+734,4000407,"5319 Fillmore Ave",,38.838779,-77.120605,,,,,,0
+736,4000409,"5350 Dawes Ave",,38.839256,-77.120674,,,,,,0
+737,4000421,"N Beauregard + Branch",,38.840511,-77.109566,,,,,,0
+738,4000424,"3451 N Beauregard St",,38.840351,-77.109315,,,,,,0
+740,4000465,"5217 Seminary Rd",,38.837311,-77.119354,,,,,,0
+741,4000466,"5377 Seminary Rd",,38.838238,-77.120033,,,,,,0
+743,4000892,"5280 Dawes Ave",,38.839809,-77.120094,,,,,,0
+744,4000893,"5281 Dawes Ave",,38.839612,-77.120342,,,,,,0
+745,4001057,"N Beauregard + King",,38.841414,-77.108626,,,,,,0
+747,4999991,"Kenwood Av + Centre Plaza",,38.828987,-77.084671,,,,,,0
+757,4009992,"Mark Center Sta ARRIVALS ONLY - NO BOARDING",,38.830517,-77.117073,,,,,,0
+758,4000083,"Duke St+N Early St",,38.810341,-77.098282,,,,,,0
+759,4000693,"N Royal St+Queen St",,38.807122,-77.043190,,,,,,0
+760,4000992,"TC Williams HS",,38.824657,-77.084320,,,,,,0
+761,4001019,"Dulany St & Duke St",,38.804424,-77.063530,,,,,,0
+762,4001085,"Duke St + Arell Ct/Wheeler Av",,38.808990,-77.091042,,,,,,0
+763,4001086,"Duke + N Early St",,38.810513,-77.098442,,,,,,0
+764,4001087,"Fillmore Av + Bisdorf Dr",,38.838470,-77.116188,,,,,,0
+765,4001090,"King St Metro Station - Bay B",,38.805977,-77.060585,,,,,,0
+766,4001091,"King St Metro Station - Bay C",,38.805820,-77.060974,,,,,,0
+767,4001092,"King St Metro Station - Bay D",,38.805737,-77.061256,,,,,,0
+768,4001094,"King St Metro Station - Bay F",,38.805702,-77.060936,,,,,,0
+769,4001095,"King St Metro Station - Bay G",,38.805992,-77.059280,,,,,,0
+770,4001096,"King St Metro Station - Bay H",,38.806049,-77.059128,,,,,,0
+771,4001097,"King St Metro Station - Bay J",,38.806580,-77.059280,,,,,,0
+772,4001098,"King St Metro Station - Bay K",,38.806530,-77.058922,,,,,,0
+773,4001099,"King St Metro Station - Bay L",,38.807400,-77.059624,,,,,,0
+785,4000718,"NVCC Alexandria Campus ARRIVALS ONLY",,38.840126,-77.116409,,,,,,0
+786,4000495,"Eisenhower Av+Swamp Fox Rd (Eisenhower Metro)",,38.801170,-77.071393,,,,,,0
+787,4001088,"S Washington St + Thornton Way",,38.792467,-77.049969,,,,,,0
+788,4009004,"Franc-Springf Metro ARRIVALS ONLY, NO BOARDINGS",,38.766629,-77.170346,,,,,,0
+789,4000028,"N Washington St+King St",,38.805482,-77.046785,,,,,,0
+790,4009003,"Reagan Nat'l Airport Metro ARRIVALS ONLY, NO BOARDINGS",,38.853357,-77.044294,,,,,,0
+796,4001065,"E Glebe Rd + Richmond Hwy",,38.832341,-77.050511,,,,,,0
+797,4001101,"Van Dorn Metro Station-Temp Bay B",,38.799878,-77.130016,,,,,,0
+798,4001102,"Van Dorn Metro Station-Temporary Bay C",,38.800185,-77.130145,,,,,,0
+800,4001106,"Braddock Rd Metro Station-Temporary Bay D",,38.813479,-77.053590,,,,,,0
+801,4001107,"Braddock Rd Metro Station-Temporary Bay E",,38.813327,-77.053699,,,,,,0
+802,4001108,"E Braddock Rd at Braddock Rd Metro",,38.812874,-77.054336,,,,,,0
+803,4001109,"E Braddock Rd at Braddock Rd Metro",,38.812746,-77.054412,,,,,,0
+804,4001111,"E Glebe Rd + Potomac Av",,38.832620,-77.048391,,,,,,0
+805,4009000,"Pentagon Metro--ARRIVALS ONLY NO BOARDINGS",,38.868122,-77.053333,,,,,,0
+814,4001011,"Van Dorn Metro at Metro Rd",,38.800234,-77.131280,,,,,,0
+815,4001110,"Van Dorn Metro Station at Metro Rd",,38.800431,-77.131146,,,,,,0
+816,4009005,"King St Metro SHUTTLE ARRIVAL ONLY, NO BOARDINGS",,38.806144,-77.060048,,,,,,0
+817,5003450,"Franconia-Springfield Metro Station-Bay C",,38.766721,-77.169554,,,,,,0
+818,6001381,"Reagan National Airport Metro",,38.853754,-77.044433,,,,,,0
+819,6000934,"Pentagon Metro-Bay L9",,38.869357,-77.052988,,,,,,0
+820,dumy10,"Pentagon REGLN",,38.867051,-77.056265,,,,,,0

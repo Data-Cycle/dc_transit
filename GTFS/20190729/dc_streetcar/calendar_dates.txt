@@ -1,0 +1,17 @@
+service_id,date,holiday_name,exception_type
+c_16337_b_none_d_96,20200101,New Years Day,1
+c_16337_b_none_d_96,20191231,New Years Eve,1
+c_16337_b_none_d_96,20191128,Thanksgiving Day,1
+c_16337_b_none_d_96,20191111,Veterans Day,1
+c_16337_b_none_d_96,20190902,Labor Day,1
+c_16337_b_none_d_96,20190704,Independence Day,1
+c_16337_b_none_d_96,20190325,Memorial Day,1
+c_16337_b_none_d_32,20191231,New Years Eve,1
+c_16337_b_18402_d_31,20200101,New Years Day,2
+c_16337_b_18402_d_31,20191231,New Years Eve,2
+c_16337_b_18402_d_31,20191225,Christmas,2
+c_16337_b_18402_d_31,20191128,Thanksgiving Day,2
+c_16337_b_18402_d_31,20191111,Veterans Day,2
+c_16337_b_18402_d_31,20190902,Labor Day,2
+c_16337_b_18402_d_31,20190704,Independence Day,2
+c_16337_b_18402_d_31,20190325,Memorial Day,2

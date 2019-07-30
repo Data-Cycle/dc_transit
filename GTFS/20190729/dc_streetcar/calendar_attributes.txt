@@ -1,0 +1,5 @@
+service_id,service_description
+c_16337_b_18402_d_96,Year Round (Weekend)
+c_16337_b_18402_d_32,Year Round (Saturday only)
+c_16337_b_18402_d_31,Year Round (Monday-Friday)
+c_16337_b_18402_d_16,Year Round (Friday only)

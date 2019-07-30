@@ -1,0 +1,15 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+AT1,1,AT1,West End-Landmark Plaza-Beauregard St,,3,,00b0ee,000000
+AT10,1,AT10,Del Ray-Potomac Yard,,3,,6508e3,ffffff
+AT2,1,AT2,Old Town-Seminary Rd-Beauregard St,,3,,e46c0a,ffffff
+AT2X,1,AT2X,Mark Center-King St EXPRESS,,3,,ff6b03,4bacc6
+AT3,1,AT3,South Old Town-Russell Rd-W Glebe Rd,,3,,ff5c90,000000
+AT3-4,1,AT3-4,Old Town-Parkfairfax Loop,,3,,ff0014,ffffff
+AT4,1,AT4,Braddock Rd-Cameron Mills-Parkfairfax,,3,,710541,ffffff
+AT5,1,AT5,Old Town-Bradlee-Van Dorn St,,3,,8afae6,000000
+AT6,1,AT6,Bradlee-Park Center-NVCC Alexandria,,3,,008c5f,ffffff
+AT7,1,AT7,Eisenhower Ave-S Pickett St,,3,,ffc000,000000
+AT8,1,AT8,Old Town-Duke St-Landmark,,3,,a9f443,000000
+AT9,1,AT9,Potomac Yard-Parkfairfax-Beauregard St,,3,,000da8,ffffff
+BL,1,BL,Reagan Airport-Old Town-King St-Van Dorn-Franconia,,3,,548ed5,ffffff
+KST,1,KST,King St Trolley,,3,,c2413a,ffffff

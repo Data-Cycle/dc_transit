@@ -3,6 +3,8 @@ import json
 import pandas as pd
 import datetime
 import private
+import sqlite3
+from sqlite3 import Error
 
 # Notes: Consider making bus trip a seperate table
 
@@ -13,12 +15,17 @@ def main():
     url = 'https://api.wmata.com/Bus.svc/json/jBusPositions?api_key={}'.format(api_key)
     df_bus = get_bus(url)
 
-    url = 'https://api.wmata.com/TrainPositions/TrainPositions?contentType=json&api_key={}'.format(api_key)
-    df_train = get_train(url)
+    # url = 'https://api.wmata.com/TrainPositions/TrainPositions?contentType=json&api_key={}'.format(api_key)
+    # df_train = get_train(url)
 
     # Push to db here
     # df_bus.to_sql('bus_table', db_con, if_exists='append', index=False)
     # df_train.to_sql('train_table', db_con, if_exists='append', index=False)
+
+    # Test DB
+    print(df_bus.head())
+    conn = sqlite3.connect("test_db.db")
+    df_bus.to_sql('bus_position', conn, if_exists='append', index=False)
 
 def get_bus(url):
     # Retrieve
@@ -27,7 +34,7 @@ def get_bus(url):
     df = pd.DataFrame(response_json['BusPositions'])
 
     # Recode
-    col_map = {'BlockNumber': 'blk', 'DateTime': 'dt', 'Deviation': 'deviation',
+    col_map = {'BlockNumber': 'blk', 'DateTime': 'dt', 'Deviation': 'dev',
         'DirectionNum': 'd_num', 'DirectionText': 'd_txt', 'Lat': 'lat',
         'Lon': 'lng', 'RouteID': 'r_id', 'TripEndTime': 't_e',
         'TripHeadsign': 'headsign', 'TripID': 't_id', 'TripStartTime': 't_s',
@@ -57,6 +64,33 @@ def get_train(url):
     df['line'] = df['line'].map(line_map)
 
     return df
+
+def make_test_db_bus(db_file):
+    """ create a database connection to a SQLite database """
+    try:
+        conn = sqlite3.connect(db_file)
+        print(sqlite3.version)
+        c = conn.cursor()
+        create_table_sql = '''
+            CREATE TABLE "bus_position" (
+              "v_id" int PRIMARY KEY,
+              "r_id" int,
+              "t_id" int,
+              "dt" datetime,
+              "lat" float,
+              "lng" float,
+              "blk" str,
+              "dev" int,
+              "d_num" int,
+              "d_txt" int,
+              "t_s" datetime,
+              "t_e" datetime,
+              "headsign" str
+            );
+        '''
+        c.execute(create_table_sql)
+    except Error as e:
+        print(e)
 
 if __name__ == '__main__':
     main()

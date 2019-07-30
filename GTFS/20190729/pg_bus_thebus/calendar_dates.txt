@@ -1,0 +1,14 @@
+service_id,date,exception_type
+mtwtf,20171225,2
+mtwtf,20180101,2
+mtwtf,20180528,2
+mtwtf,20180704,2
+mtwtf,20180903,2
+mtwtf,20181122,2
+mtwtf,20181225,2
+mtwtf,20190101,2
+mtwtf,20190527,2
+mtwtf,20190704,2
+mtwtf,20190902,2
+mtwtf,20191128,2
+mtwtf,20191225,2

@@ -1,0 +1,7 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order
+11321,45,RS-DP,Dupont Circle - Georgetown - Rosslyn,Turquoise Line: Dupont Circle - Georgetown - Rosslyn,3,https://www.dccirculator.com/explore/where-we-go/dupont-circle-georgetown-rosslyn/,00AEEF,FFFFFF,1
+11322,45,CH-US,Congress Heights - Union Station,Orange Line: Union Station - Congress Heights,3,https://www.dccirculator.com/explore/where-we-go/congress-heights-union-station/,F58220,FFFFFF,4
+11323,45,NM,National Mall,Red Line: National Mall,3,https://www.dccirculator.com/explore/where-we-go/national-mall/,ED1C2F,FFFFFF,5
+11318,45,GT-US,Georgetown - Union Station,Yellow Line: Georgetown - Union Station,3,https://www.dccirculator.com/georgetown-union-station/,FDB913,000000,2
+11319,45,WP-AM,Woodley Park - Adams Morgan - McPherson Square Metro,Green Line: Woodley Park - Adams Morgan - McPherson Square Metro,3,https://www.dccirculator.com/explore/where-we-go/woodley-park-adams-morgan/,41AD49,FFFFFF,3
+11320,45,EM-LP,Eastern Market - L'Enfant Plaza,Blue Line: Eastern Market - L'Enfant Plaza,3,https://www.dccirculator.com/explore/where-we-go/eastern-market-lenfant-plaza/,2C5DAB,FFFFFF,0

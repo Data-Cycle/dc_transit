@@ -1,0 +1,1493 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+2753,1,133146,Cross County to Manassas,CC1,0,52390,10560,0,0
+2753,1,133145,Cross County to Manassas,CC2,0,52390,10560,0,0
+2753,1,133148,Cross County to Manassas,CC3,0,52390,10560,0,0
+2753,1,133151,Cross County to Manassas,CC4,0,52392,10560,0,0
+2753,1,133144,Cross County to Manassas,CC5,0,52390,10560,0,0
+2753,1,133149,Cross County to Manassas,CC6,0,52392,10560,0,0
+2753,1,133143,Cross County to Manassas,CC7,0,52390,10560,0,0
+2753,1,133147,Cross County to Manassas,CC8,0,52392,10560,0,0
+2753,1,133150,Cross County to Manassas,CC9,0,52390,10560,0,0
+2753,1,133142,Cross County to Manassas,CC10,0,52392,10560,0,0
+2753,1,133141,Cross County to Manassas,CC11,0,52390,10560,0,0
+2753,1,133162,Cross County to Woodbridge,CC51,1,52391,10561,0,0
+2753,1,133161,Cross County to Woodbridge,CC52,1,52390,10561,0,0
+2753,1,133160,Cross County to Woodbridge,CC53,1,52390,10561,0,0
+2753,1,133159,Cross County to Woodbridge,CC54,1,52390,10561,0,0
+2753,1,133153,Cross County to Woodbridge,CC55,1,52392,10561,0,0
+2753,1,133158,Cross County to Woodbridge,CC56,1,52390,10561,0,0
+2753,1,133157,Cross County to Woodbridge,CC57,1,52392,10561,0,0
+2753,1,133156,Cross County to Woodbridge,CC58,1,52390,10561,0,0
+2753,1,133152,Cross County to Woodbridge,CC59,1,52392,10561,0,0
+2753,1,133155,Cross County to Woodbridge,CC60,1,52390,10561,0,0
+2753,1,133154,Cross County to Woodbridge,CC61,1,52392,10561,0,0
+2754,1,130537,State Department / Washington DC,D101,0,51342,10562,0,0
+2754,1,130535,State Department / Washington DC,D102,0,51340,10562,0,0
+2754,1,130531,State Department / Washington DC,D103T,0,51338,10563,0,0
+2754,1,130532,State Department / Washington DC,D104,0,51339,10562,0,0
+2754,1,130536,State Department / Washington DC,D105,0,51341,10562,0,0
+2754,1,130548,State Department / Washington DC,D106,0,51345,10562,0,0
+2754,1,130547,State Department / Washington DC,D107,0,51352,10562,0,0
+2754,1,130543,State Department / Washington DC,D108T,0,51348,10563,0,0
+2754,1,130542,State Department / Washington DC,D109,0,51347,10562,0,0
+2754,1,130538,State Department / Washington DC,D110,0,51343,10562,0,0
+2754,1,130530,State Department / Washington DC,D111T,0,51337,10563,0,0
+2754,1,130549,State Department / Washington DC,D112,0,51353,10564,0,0
+2754,1,130546,State Department / Washington DC,D113,0,51351,10564,0,0
+2754,1,130529,State Department / Washington DC,D114,0,51336,10564,0,0
+2754,1,130533,State Department / Washington DC,D115T,0,51340,10565,0,0
+2754,1,130545,State Department / Washington DC,D116,0,51350,10564,0,0
+2754,1,130550,State Department / Washington DC,D117,0,51354,10564,0,0
+2754,1,130544,State Department / Washington DC,D118,0,51349,10564,0,0
+2754,1,130534,State Department / Washington DC,D119T,0,51341,10565,0,0
+2754,1,130541,State Department / Washington DC,D120,0,51346,10564,0,0
+2754,1,130540,State Department / Washington DC,D121,0,51345,10564,0,0
+2754,1,130539,State Department / Washington DC,D122,0,51344,10564,0,0
+2754,1,130528,State Department / Washington DC,D123T,0,51335,10565,0,0
+2754,1,130551,Pentagon / Horner Rd / Potomac Mills / PRTC,D101T,1,51355,10568,0,0
+2754,1,130553,Pentagon / Horner Rd / Potomac Mills / PRTC,D102T,1,51357,10568,0,0
+2754,1,130566,Pentagon / Horner / Dale City Lot via PRTC,D103,1,51370,10570,0,0
+2754,1,130571,Horner / Dale City Lot via PRTC,D104,1,51375,10567,0,0
+2754,1,130554,Horner / Dale City Lot via PRTC,D105,1,51358,10567,0,0
+2754,1,130555,Horner / Dale City Lot via PRTC,D106,1,52509,10567,0,0
+2754,1,130556,Horner / Dale City Lot via PRTC,D107,1,52412,10567,0,0
+2754,1,130569,Horner / Dale City Lot via PRTC,D108,1,51373,10567,0,0
+2754,1,130552,Horner / Dale City Lot via PRTC,D109N,1,51356,10569,0,0
+2754,1,130557,Horner / Dale City Lot via PRTC,D110,1,51361,10567,0,0
+2754,1,130558,Horner / Dale City Lot via PRTC,D111,1,51362,10567,0,0
+2754,1,130559,Horner / Dale City Lot via PRTC,D112,1,51363,10567,0,0
+2754,1,130560,Horner / Dale City Lot via PRTC,D113,1,51364,10567,0,0
+2754,1,130562,Horner / Dale City Lot via PRTC,D114,1,51366,10567,0,0
+2754,1,130570,Horner / Dale City Lot via PRTC,D115,1,51374,10567,0,0
+2754,1,130561,Horner / Dale City Lot via PRTC,D116N,1,51365,10569,0,0
+2754,1,130564,Horner / Dale City Lot via PRTC,D117,1,51368,10567,0,0
+2754,1,130563,Horner / Dale City Lot via PRTC,D118,1,51367,10567,0,0
+2754,1,130565,Horner / Dale City Lot via PRTC,D119,1,51369,10567,0,0
+2754,1,130567,Horner / Dale City Lot via PRTC,D120,1,51371,10567,0,0
+2754,1,130568,Pentagon / Dale City Lot via PRTC,D121,1,51372,10566,0,0
+2755,1,130614,Pentagon,D201,0,51348,10571,0,0
+2755,1,130618,Pentagon,D202,0,51419,10571,0,0
+2755,1,130613,Pentagon,D203,0,51354,10571,0,0
+2755,1,130608,Pentagon / Rosslyn / Ballston,D204R,0,51412,10572,0,0
+2755,1,130612,Pentagon,D205,0,51416,10571,0,0
+2755,1,130611,Pentagon,D206,0,51415,10571,0,0
+2755,1,130615,Pentagon / Rosslyn / Ballston,D207R,0,51417,10572,0,0
+2755,1,130610,Pentagon,D208,0,51414,10571,0,0
+2755,1,130616,Pentagon / Rosslyn / Ballston,D209R,0,51418,10572,0,0
+2755,1,130609,Pentagon / Rosslyn / Ballston,D210R,0,51413,10572,0,0
+2755,1,130617,Pentagon / Rosslyn / Ballston,D211R,0,51352,10572,0,0
+2755,1,130619,Pentagon / Rosslyn / Ballston,D212R,0,51420,10572,0,0
+2755,1,130628,Horner / Dale City Lot via Minnieville,D201,1,51428,10574,0,0
+2755,1,130624,Pentagon / Horner / Dale City Lot via Minnieville,D202R,1,51425,10575,0,0
+2755,1,130623,Horner / Dale City Lot via Minnieville,D203,1,51424,10574,0,0
+2755,1,130622,Horner / Dale City Lot via Minnieville,D204,1,51423,10574,0,0
+2755,1,130625,Pentagon / Horner / Dale City Lot via Minnieville,D205R,1,51426,10575,0,0
+2755,1,130621,Pentagon / Horner / Dale City Lot via Minnieville,D206R,1,51422,10575,0,0
+2755,1,130626,Pentagon / Horner / Dale City Lot via Minnieville,D207R,1,51427,10575,0,0
+2755,1,130629,Pentagon / Horner / Dale City Lot via Minnieville,D208R,1,51429,10575,0,0
+2755,1,130627,Pentagon / Horner / Dale City Lot via Minnieville,D209R,1,51425,10575,0,0
+2755,1,130630,Horner / Dale City Lot via Minnieville,D210,1,51430,10574,0,0
+2756,1,130655,Pentagon / L'Enfant Plaza / Navy Yard,D301T,0,51451,10577,0,0
+2756,1,130650,Pentagon / L'Enfant Plaza / Navy Yard,D302,0,51446,10576,0,0
+2756,1,130656,Pentagon / L'Enfant Plaza / Navy Yard,D303,0,51452,10576,0,0
+2756,1,130651,Pentagon / L'Enfant Plaza / Navy Yard,D304,0,51447,10576,0,0
+2756,1,130654,Pentagon / L'Enfant Plaza / Navy Yard,D305,0,51450,10576,0,0
+2756,1,130652,Pentagon / L'Enfant Plaza / Navy Yard,D306,0,51448,10576,0,0
+2756,1,130653,Pentagon / L'Enfant Plaza / Navy Yard,D307,0,51642,10576,0,0
+2756,1,130657,"Dale City / for L200, MC, M / transfer at Pentagon",D301,1,51453,10583,0,0
+2756,1,130658,"Dale City / for L200, MC, M / transfer at Pentagon",D302,1,51374,10580,0,0
+2756,1,130659,Pentagon / Horner / Dale City / Lindendale via PRTC,D303,1,51454,10581,0,0
+2756,1,130660,Pentagon / Horner / Dale City / Lindendale via PRTC,D304,1,51455,10581,0,0
+2756,1,130661,Pentagon / Horner / Dale City / Lindendale via PRTC,D305,1,51456,10581,0,0
+2756,1,130662,Pentagon / Horner / Dale City / Lindendale via PRTC,D306,1,51457,10581,0,0
+2756,1,130666,Horner / Dale City / Lindendale via PRTC,D307P,1,51461,10582,0,0
+2756,1,130663,Pentagon / Horner / Dale City / Lindendale via PRTC,D308,1,51458,10581,0,0
+2756,1,130664,"Dale City /  for L200, RS transfer at Pentagon",D309,1,51459,10579,0,0
+2756,1,130667,Horner / Dale City / Lindendale via PRTC,D310P,1,51362,10582,0,0
+2756,1,130665,"Dale City / for L200, MC, M / transfer at Pentagon",D311,1,51460,10580,0,0
+2757,1,130684,Mark Center,D401,0,51476,10584,0,0
+2757,1,130685,Mark Center,D402,0,51477,10584,0,0
+2757,1,130686,Mark Center,D403,0,51476,10584,0,0
+2757,1,130687,Mark Center,D404,0,51477,10584,0,0
+2757,1,130688,Dale City Lot via Dale Blvd,D401,1,51478,10585,0,0
+2757,1,130689,Dale City Lot via Dale Blvd,D402,1,51479,10585,0,0
+2757,1,130690,Dale City Lot via Dale Blvd,D403,1,51478,10585,0,0
+2757,1,130691,Dale City Lot via Dale Blvd,D404,1,51479,10585,0,0
+2758,1,130707,Dale City OmniLink / PRTC Transit Center,,0,51486,10587,0,0
+2758,1,130706,Dale City OmniLink / PRTC Transit Center,,0,51485,10587,0,0
+2758,1,130705,Dale City OmniLink / PRTC Transit Center,,0,51484,10587,0,0
+2758,1,130704,Dale City OmniLink / PRTC Transit Center,,0,51486,10586,0,0
+2758,1,130703,Dale City OmniLink / PRTC Transit Center,,0,51485,10586,0,0
+2758,1,130702,Dale City OmniLink / PRTC Transit Center,,0,51484,10586,0,0
+2758,1,130701,Dale City OmniLink / PRTC Transit Center,,0,51485,10586,0,0
+2758,1,130700,Dale City OmniLink / PRTC Transit Center,,0,51484,10586,0,0
+2758,1,130699,Dale City OmniLink / PRTC Transit Center,,0,51485,10586,0,0
+2758,1,130698,Dale City OmniLink / PRTC Transit Center,,0,51484,10586,0,0
+2758,1,130708,Dale City OmniLink / PRTC Transit Center,,0,51485,10586,0,0
+2758,1,130709,Dale City OmniLink / PRTC Transit Center,,0,51484,10586,0,0
+2758,1,130710,Dale City OmniLink / PRTC Transit Center,,0,51485,10586,0,0
+2758,1,130711,Dale City OmniLink / PRTC Transit Center,,0,51484,10586,0,0
+2758,1,130712,Dale City OmniLink / PRTC Transit Center,,0,51485,10586,0,0
+2758,1,130713,Dale City OmniLink / PRTC Transit Center,,0,51484,10586,0,0
+2758,1,130714,Dale City OmniLink / PRTC Transit Center,,0,51485,10586,0,0
+2758,1,130715,Dale City OmniLink / PRTC Transit Center,,0,51487,10586,0,0
+2758,1,130716,Dale City OmniLink / PRTC Transit Center,,0,51484,10586,0,0
+2758,1,130717,Dale City OmniLink / PRTC Transit Center,,0,51487,10586,0,0
+2758,1,130718,Dale City OmniLink / PRTC Transit Center,,0,51487,10586,0,0
+2758,1,130719,Dale City OmniLink / Chinn Center,,1,51486,10588,0,0
+2758,1,130720,Dale City OmniLink / Chinn Center,,1,51485,10588,0,0
+2758,1,130721,Dale City OmniLink / Chinn Center,,1,51484,10588,0,0
+2758,1,130722,Dale City OmniLink to Chinn,,1,51486,10589,0,0
+2758,1,130723,Dale City OmniLink / Chinn Center,,1,51485,10588,0,0
+2758,1,130724,Dale City OmniLink / Chinn Center,,1,51484,10588,0,0
+2758,1,130725,Dale City OmniLink / Chinn Center,,1,51485,10588,0,0
+2758,1,130726,Dale City OmniLink / Chinn Center,,1,51484,10588,0,0
+2758,1,130727,Dale City OmniLink / Chinn Center,,1,51485,10588,0,0
+2758,1,130728,Dale City OmniLink / Chinn Center,,1,51484,10588,0,0
+2758,1,130729,Dale City OmniLink / Chinn Center,,1,51485,10588,0,0
+2758,1,130730,Dale City OmniLink / Chinn Center,,1,51484,10588,0,0
+2758,1,130731,Dale City OmniLink / Chinn Center,,1,51485,10588,0,0
+2758,1,130732,Dale City OmniLink / Chinn Center,,1,51484,10588,0,0
+2758,1,130737,Dale City OmniLink / Chinn Center,,1,51485,10588,0,0
+2758,1,130738,Dale City OmniLink / Chinn Center,,1,51487,10588,0,0
+2758,1,130733,Dale City OmniLink / Chinn Center,,1,51484,10588,0,0
+2758,1,130734,Dale City OmniLink to Chinn,,1,51485,10589,0,0
+2758,1,130739,Dale City OmniLink / Chinn Center,,1,51487,10588,0,0
+2758,1,130735,Dale City OmniLink to Chinn,,1,51484,10589,0,0
+2758,1,130740,Dale City OmniLink / Chinn Center,,1,51487,10588,0,0
+2758,1,130736,Dale City OmniLink to Chinn,,1,51487,10589,0,0
+2759,1,130849,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53200,10590,0,0
+2759,1,130850,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53201,10590,0,0
+2759,1,130851,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53202,10590,0,0
+2759,1,130852,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53200,10590,0,0
+2759,1,130853,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53201,10590,0,0
+2759,1,130854,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53202,10590,0,0
+2759,1,130855,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53201,10590,0,0
+2759,1,130856,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53202,10590,0,0
+2759,1,130857,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53201,10590,0,0
+2759,1,130858,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53202,10590,0,0
+2759,1,130859,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53201,10590,0,0
+2759,1,130860,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53202,10590,0,0
+2759,1,130861,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53201,10590,0,0
+2759,1,130862,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53202,10590,0,0
+2759,1,130863,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53201,10590,0,0
+2759,1,130864,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53202,10590,0,0
+2759,1,130865,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53201,10590,0,0
+2759,1,130866,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53203,10590,0,0
+2759,1,130867,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53202,10590,0,0
+2759,1,130868,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53203,10590,0,0
+2759,1,130869,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53203,10590,0,0
+2759,1,130870,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53200,10591,0,0
+2759,1,130871,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53201,10591,0,0
+2759,1,130872,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53202,10591,0,0
+2759,1,130873,Dumfries OMNIRIDE Local  to Fuller Heights,A,1,53200,10592,0,0
+2759,1,130874,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53201,10591,0,0
+2759,1,130875,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53202,10591,0,0
+2759,1,130876,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53201,10591,0,0
+2759,1,130877,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53202,10591,0,0
+2759,1,130878,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53201,10591,0,0
+2759,1,130879,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53202,10591,0,0
+2759,1,130880,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53201,10591,0,0
+2759,1,130881,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53202,10591,0,0
+2759,1,130882,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53201,10591,0,0
+2759,1,130883,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53202,10591,0,0
+2759,1,130884,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53201,10591,0,0
+2759,1,130885,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53203,10591,0,0
+2759,1,130886,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53202,10591,0,0
+2759,1,130887,Dumfries OMNIRIDE Local  to Fuller Heights,B,1,53201,10592,0,0
+2759,1,130888,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53203,10591,0,0
+2759,1,130889,Dumfries OMNIRIDE Local  to Fuller Heights,C,1,53202,10592,0,0
+2759,1,130890,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53203,10591,0,0
+2759,1,130891,Dumfries OMNIRIDE Local  to Fuller Heights,A,1,53203,10592,0,0
+2760,1,131001,Washington DC / L'Enfant Plaza,G101,0,51346,10593,0,0
+2760,1,131002,Washington DC / L'Enfant Plaza,G102,0,51511,10593,0,0
+2760,1,131003,Washington DC / L'Enfant Plaza,G103,0,51512,10593,0,0
+2760,1,131004,Washington DC / L'Enfant Plaza,G104,0,51513,10593,0,0
+2760,1,131005,Washington DC / L'Enfant Plaza,G105,0,51679,10593,0,0
+2760,1,131006,Washington DC / L'Enfant Plaza,G106,0,51515,10593,0,0
+2760,1,131000,Washington DC / L'Enfant Plaza,G107,0,52408,10593,0,0
+2760,1,131013,Gainesville / Cushing Lot,G101,1,51521,10594,0,0
+2760,1,131007,Gainesville / Cushing Lot,G102,1,51516,10594,0,0
+2760,1,131008,Gainesville / Cushing Lot,G103,1,51517,10594,0,0
+2760,1,131009,Gainesville / Cushing Lot,G104,1,51518,10594,0,0
+2760,1,131010,Gainesville / Cushing Lot,G105,1,51519,10594,0,0
+2760,1,131011,Gainesville / Cushing Lot,G106,1,51520,10594,0,0
+2760,1,131012,Gainesville / Cushing Lot,G107,1,51358,10594,0,0
+2761,1,131027,Pentagon,G201,0,51350,10595,0,0
+2761,1,131028,Pentagon,G202,0,51515,10595,0,0
+2761,1,131029,Pentagon,G203,0,51533,10595,0,0
+2761,1,131030,Pentagon,G204,0,52374,10595,0,0
+2761,1,131026,Pentagon,G205,0,52373,10595,0,0
+2761,1,131032,Gainesville / Limestone Lots,G201,1,52419,10597,0,0
+2761,1,131031,Gainesville / Limestone Lots,G202,1,51535,10597,0,0
+2761,1,131033,Gainesville / Limestone Lots,G203,1,51537,10597,0,0
+2761,1,131034,Gainesville / Limestone Lots,G204,1,51538,10597,0,0
+2761,1,131035,Gainesville / Limestone Lots,G205,1,51539,10597,0,0
+2762,1,131049,Rosslyn / Ballston,H101,0,51545,10598,0,0
+2762,1,131048,Rosslyn / Ballston,H102,0,51335,10598,0,0
+2762,1,131047,Rosslyn / Ballston,H103,0,51338,10598,0,0
+2762,1,131046,Rosslyn / Ballston,H104,0,51347,10598,0,0
+2762,1,131053,Haymarket,H101,1,51548,10599,0,0
+2762,1,131052,Haymarket,H102,1,51547,10599,0,0
+2762,1,131051,Haymarket,H103,1,51546,10599,0,0
+2762,1,131050,Haymarket,H104,1,51521,10599,0,0
+2763,1,131062,State Department / Washington DC,L101,0,51555,10600,0,0
+2763,1,131063,State Department / Washington DC,L102,0,51556,10600,0,0
+2763,1,131064,State Department / Washington DC,L103,0,51557,10600,0,0
+2763,1,131065,State Department / Washington DC,L104,0,51558,10600,0,0
+2763,1,131066,State Department / Washington DC,L105,0,51559,10600,0,0
+2763,1,131067,State Department / Washington DC,L106,0,52409,10600,0,0
+2763,1,131068,State Department / Washington DC,L107,0,51545,10600,0,0
+2763,1,131069,State Department / Washington DC,L108,0,51561,10600,0,0
+2763,1,131070,Pentagon / State Department / Washington DC,L109,0,51337,10602,0,0
+2763,1,131071,Pentagon / State Department / Washington DC,L110,0,51349,10602,0,0
+2763,1,131074,Lake Ridge,L101,1,51429,10603,0,0
+2763,1,131075,Lake Ridge,L102,1,51564,10604,0,0
+2763,1,131076,Lake Ridge,L103,1,52423,10604,0,0
+2763,1,131077,Lake Ridge,L104,1,51563,10604,0,0
+2763,1,131078,Lake Ridge,L105,1,51565,10604,0,0
+2763,1,131079,Lake Ridge,L106,1,51566,10604,0,0
+2763,1,131080,Lake Ridge,L107,1,51562,10604,0,0
+2763,1,131081,Lake Ridge,L108,1,51567,10604,0,0
+2763,1,131082,Lake Ridge,L109,1,51568,10604,0,0
+2763,1,131083,Lake Ridge,L110,1,51569,10604,0,0
+2763,1,131084,Lake Ridge,L111,1,51428,10604,0,0
+2763,1,131085,Lake Ridge,L112,1,51570,10604,0,0
+2763,1,131086,Lake Ridge for D300 transfer at Pentagon,L113,1,51571,10606,0,0
+2763,1,131073,"Lake Ridge / for D300, MC transfer at Pentagon",L114,1,51563,10607,0,0
+2763,1,131072,Pentagon / Lake Ridge,L115,1,51562,10605,0,0
+2764,1,131109,Pentagon / Crystal City,L201,0,51589,10608,0,0
+2764,1,131108,Pentagon / Crystal City,L202,0,51588,10608,0,0
+2764,1,131107,Pentagon / Crystal City,L203,0,51561,10608,0,0
+2764,1,131106,Pentagon / Crystal City,L204,0,51587,10608,0,0
+2764,1,131105,Pentagon / Crystal City,L205,0,51586,10608,0,0
+2764,1,131104,Pentagon / Crystal City,L206,0,51585,10608,0,0
+2764,1,131118,"Lake Ridge / for D200, MC, M transfer at Pentagon",L201,1,51596,10614,0,0
+2764,1,131117,"Lake Ridge / for D200, MC, M transfer at Pentagon",L202,1,51595,10611,0,0
+2764,1,131120,Lake Ridge,L203P,1,51461,10613,0,0
+2764,1,131116,Pentagon / Lake Ridge,L204,1,52420,10612,0,0
+2764,1,131115,Pentagon / Lake Ridge,L205,1,51594,10612,0,0
+2764,1,131114,Pentagon / Lake Ridge,L206,1,51593,10612,0,0
+2764,1,131119,Lake Ridge,L207P,1,51370,10613,0,0
+2764,1,131113,Pentagon / Lake Ridge,L208,1,51592,10612,0,0
+2764,1,131112,Pentagon / Lake Ridge,L209,1,51564,10612,0,0
+2764,1,131111,"Lake Ridge / for D100, RS transfer at Pentagon",L210,1,51591,10610,0,0
+2764,1,131110,Lake Ridge,L211P,1,51590,10613,0,0
+2765,1,131134,Mark Center,L301,0,52405,10615,0,0
+2765,1,131135,Mark Center,L302,0,52424,10615,0,0
+2765,1,131136,Mark Center,L303,0,52405,10615,0,0
+2765,1,131137,Mark Center,L304,0,52406,10615,0,0
+2765,1,131138,Lake Ridge,L301,1,51546,10616,0,0
+2765,1,131139,Lake Ridge,L302,1,52422,10616,0,0
+2765,1,131140,Lake Ridge,L303,1,51610,10616,0,0
+2765,1,131141,Lake Ridge,L304,1,52422,10616,0,0
+2766,1,131148,Linton Hall Metro Direct to Tysons Corner,LH1,0,51514,10617,0,0
+2766,1,131151,Linton Hall Metro Direct to Tysons Corner,LH2,0,51617,10617,0,0
+2766,1,131150,Linton Hall Metro Direct to Tysons Corner,LH3,0,51616,10617,0,0
+2766,1,131149,Linton Hall Metro Direct to Tysons Corner,LH4,0,51615,10617,0,0
+2766,1,131152,Linton Hall Metro Direct to Linton Hall,LH1,1,51618,10618,0,0
+2766,1,131155,Linton Hall Metro Direct to Linton Hall,LH2,1,51619,10618,0,0
+2766,1,131154,Linton Hall Metro Direct to Linton Hall,LH3,1,51548,10618,0,0
+2766,1,131153,Linton Hall Metro Direct to Linton Hall,LH4,1,51547,10618,0,0
+2767,1,131172,Washington DC / L'Enfant Plaza,M101,0,51586,10619,0,0
+2767,1,131173,Washington DC / L'Enfant Plaza,M102,0,51413,10619,0,0
+2767,1,131174,Washington DC / L'Enfant Plaza,M103,0,51629,10619,0,0
+2767,1,131175,Washington DC / L'Enfant Plaza,M104,0,51630,10619,0,0
+2767,1,131176,Washington DC / L'Enfant Plaza,M105,0,52372,10619,0,0
+2767,1,131177,Washington DC / L'Enfant Plaza,M106,0,52375,10619,0,0
+2767,1,131178,Portsmouth / Cushing Lots,M101G,1,51633,10621,0,0
+2767,1,131179,Manassas / Portsmouth Lot,M102,1,51634,10620,0,0
+2767,1,131180,Portsmouth / Cushing Lots,M103G,1,51635,10621,0,0
+2767,1,131181,Manassas / Portsmouth Lot,M104,1,51430,10620,0,0
+2767,1,131182,Manassas / Portsmouth Lot,M105,1,51590,10620,0,0
+2767,1,131183,Portsmouth / Cushing Lots,M106G,1,51636,10621,0,0
+2768,1,131194,Pentagon,M201,0,51561,10622,0,0
+2768,1,131195,Pentagon,M202,0,51587,10622,0,0
+2768,1,131196,Pentagon,M203,0,51642,10622,0,0
+2768,1,131200,Pentagon,M204,0,51344,10622,0,0
+2768,1,131197,Pentagon,M205,0,52376,10622,0,0
+2768,1,131198,Pentagon,M206,0,51419,10622,0,0
+2768,1,131199,Pentagon,M207,0,51514,10622,0,0
+2768,1,131201,Portsmouth / Cushing / Limestone Lots,M201G,1,51644,10626,0,0
+2768,1,131202,Portsmouth / Cushing / Limestone Lots,M202G,1,51619,10626,0,0
+2768,1,131203,Manassas / Portsmouth Lot,M203,1,51359,10624,0,0
+2768,1,131204,Manassas / Portsmouth Lot,M204,1,51646,10624,0,0
+2768,1,131205,Manassas / Portsmouth Lot,M205,1,51647,10624,0,0
+2768,1,131206,Manassas / Portsmouth Lot,M206,1,51375,10624,0,0
+2768,1,131209,Manassas / Portsmouth Lot,M207,1,51359,10624,0,0
+2768,1,131207,Portsmouth / Cushing / Limestone,M208G,1,51373,10625,0,0
+2768,1,131208,Portsmouth / Cushing / Limestone,M209G,1,51648,10625,0,0
+2769,1,131223,L'Enfant Plaza / Washington DC,MC101,0,51558,10627,0,0
+2769,1,131224,L'Enfant Plaza / Washington DC,MC102X,0,51559,10628,0,0
+2769,1,131225,L'Enfant Plaza / Washington DC,MC103,0,51654,10627,0,0
+2769,1,131226,L'Enfant Plaza / Washington DC,MC104X,0,51420,10628,0,0
+2769,1,131227,L'Enfant Plaza / Washington DC,MC105,0,51655,10627,0,0
+2769,1,131228,L'Enfant Plaza / Washington DC,MC106,0,51451,10627,0,0
+2769,1,131229,Pentagon / L'Enfant Plaza / Washington DC,MC107,0,51656,10629,0,0
+2769,1,131230,Pentagon / L'Enfant Plaza / Washington DC,MC108,0,51339,10629,0,0
+2769,1,131231,Pentagon / L'Enfant Plaza / Washington DC,MC109,0,51556,10629,0,0
+2769,1,131232,"Montclair / for D300, L200, M transfer at Pentagon",MC101,1,51657,10633,0,0
+2769,1,131233,"Montclair / for D300, L200, M transfer at Pentagon",MC102,1,51658,10630,0,0
+2769,1,131234,234 Lot / Montclair,MC103,1,51539,10631,0,0
+2769,1,131235,234 Lot / Montclair,MC104,1,51636,10631,0,0
+2769,1,131236,234 Lot / Montclair,MC105,1,51459,10631,0,0
+2769,1,131237,234 Lot / Montclair,MC106,1,51659,10631,0,0
+2769,1,131238,234 Lot / Montclair,MC107,1,51660,10631,0,0
+2769,1,131239,234 Lot / Montclair,MC108,1,51661,10631,0,0
+2769,1,131240,234 Lot / Montclair,MC109,1,51662,10631,0,0
+2769,1,131241,234 Lot / Montclair,MC110,1,51663,10631,0,0
+2769,1,131242,Pentagon / Montclair / 234 Lot,MC111,1,51664,10632,0,0
+2769,1,131243,"Montclair / for D300, L200, M transfer at Pentagon",MC112,1,51592,10630,0,0
+2770,1,131262,Pentagon,MC201X,0,51556,10634,0,0
+2770,1,131263,Pentagon,MC202,0,51337,10635,0,0
+2770,1,131268,Pentagon,MC203,0,51679,10635,0,0
+2770,1,131264,Pentagon,MC204,0,51615,10635,0,0
+2770,1,131265,Pentagon,MC205,0,51585,10635,0,0
+2770,1,131266,Pentagon,MC206,0,51677,10635,0,0
+2770,1,131267,Pentagon,MC207,0,51678,10635,0,0
+2770,1,131269,Montclair / 234 Lot,MC201,1,51570,10636,0,0
+2770,1,131270,Montclair / 234 Lot,MC202,1,51371,10636,0,0
+2770,1,131271,Montclair / 234 Lot,MC203,1,51571,10636,0,0
+2770,1,131272,Montclair / 234 Lot,MC204,1,51591,10636,0,0
+2770,1,131273,Montclair / 234 Lot,MC205,1,51658,10636,0,0
+2770,1,131274,Montclair / 234 Lot,MC206,1,51680,10636,0,0
+2770,1,131275,Montclair / 234 Lot,MC207,1,51681,10636,0,0
+2770,1,131276,Montclair / 234 Lot,MC208,1,51682,10636,0,0
+2770,1,131277,Montclair / 234 Lot,MC209,1,51454,10636,0,0
+2770,1,131278,Montclair / 234 Lot,MC210,1,51424,10636,0,0
+2770,1,131279,Montclair / 234 Lot,MC211,1,51566,10636,0,0
+2771,1,131301,Manassas Metro Direct / Tysons Corner Metro,MT1,0,51687,10637,0,0
+2771,1,131300,Manassas Metro Direct / Tysons Corner Metro,MT2,0,51686,10637,0,0
+2771,1,131299,Manassas Metro Direct / Tysons Corner Metro,MT3,0,51685,10637,0,0
+2771,1,131298,Manassas Metro Direct / Tysons Corner Metro,MT4X,0,51687,10638,0,0
+2771,1,131297,Manassas Metro Direct / Tysons Corner Metro,MT5X,0,51686,10638,0,0
+2771,1,131296,Manassas Metro Direct / Tysons Corner Metro,MT6X,0,51685,10638,0,0
+2771,1,131295,Manassas Metro Direct / Tysons Corner Metro,MT7X,0,51686,10638,0,0
+2771,1,131294,Manassas Metro Direct / Tysons Corner Metro,MT8X,0,51685,10638,0,0
+2771,1,131309,Manassas Metro Direct / Manassas,MT1X,1,51690,10640,0,0
+2771,1,131308,Manassas Metro Direct / Manassas,MT2X,1,51691,10640,0,0
+2771,1,131307,Manassas Metro Direct / Manassas,MT3X,1,51689,10640,0,0
+2771,1,131306,Manassas Metro Direct / Manassas,MT4X,1,51688,10640,0,0
+2771,1,131305,Manassas Metro Direct / Manassas,MT5X,1,51690,10640,0,0
+2771,1,131304,Manassas Metro Direct / Manassas,MT6X,1,51538,10640,0,0
+2771,1,131303,Manassas Metro Direct / Manassas Junction via Sudley,MT7,1,51689,10639,0,0
+2771,1,131302,Manassas Metro Direct / Manassas Junction via Sudley,MT8,1,51688,10639,0,0
+2772,1,132793,Manassas OmniLink North / NOVA,,0,52388,10641,0,0
+2772,1,132794,Manassas OmniLink North / NOVA,,0,52388,10641,0,0
+2772,1,132795,Manassas OmniLink North / NOVA,,0,52388,10641,0,0
+2772,1,132796,Manassas OmniLink North / NOVA,,0,52388,10641,0,0
+2772,1,132797,Manassas OmniLink North / NOVA,,0,52388,10641,0,0
+2772,1,132798,Manassas OmniLink North / NOVA,,0,52388,10641,0,0
+2772,1,132799,Manassas OmniLink North / NOVA,,0,52388,10641,0,0
+2772,1,132800,Manassas OmniLink North / NOVA,,0,52388,10641,0,0
+2772,1,132801,Manassas OmniLink North / NOVA,,0,52388,10641,0,0
+2772,1,132802,Manassas OmniLink North / NOVA,,0,52388,10641,0,0
+2772,1,132803,Manassas OmniLink North / NOVA,,0,52388,10641,0,0
+2772,1,132804,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52388,10642,0,0
+2772,1,132805,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52388,10643,0,0
+2772,1,132806,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52388,10643,0,0
+2772,1,132807,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52388,10643,0,0
+2772,1,132808,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52388,10643,0,0
+2772,1,132809,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52388,10643,0,0
+2772,1,132810,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52388,10643,0,0
+2772,1,132811,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52388,10643,0,0
+2772,1,132812,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52388,10643,0,0
+2772,1,132813,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52388,10643,0,0
+2772,1,132814,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52388,10643,0,0
+2772,1,132815,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52388,10643,0,0
+2773,1,132931,Manassas Park OmniLink,,0,52389,10644,0,0
+2773,1,132932,Manassas Park OmniLink,,0,52389,10644,0,0
+2773,1,132933,Manassas Park OmniLink,,0,52389,10644,0,0
+2773,1,132934,Manassas Park OmniLink,,0,52389,10644,0,0
+2773,1,132935,Manassas Park OmniLink,,0,52389,10644,0,0
+2773,1,132936,Manassas Park OmniLink,,0,52389,10644,0,0
+2773,1,132937,Manassas Park OmniLink,,0,52389,10644,0,0
+2773,1,132938,Manassas Park OmniLink,,0,52389,10644,0,0
+2773,1,132939,Manassas Park OmniLink,,0,52389,10644,0,0
+2773,1,132940,Manassas Park OmniLink,,0,52389,10644,0,0
+2773,1,132941,Manassas Park OmniLink,,0,52389,10644,0,0
+2773,1,132942,Manassas Park OmniLink,,0,52389,10644,0,0
+2774,1,133014,Manassas OmniLink - South / Manassas Mall,,0,52544,10645,0,0
+2774,1,133013,Manassas OmniLink - South / Manassas Mall,,0,52544,10645,0,0
+2774,1,133012,Manassas OmniLink - South / Manassas Mall,,0,52544,10645,0,0
+2774,1,133011,Manassas OmniLink - South / Manassas Mall,,0,52544,10645,0,0
+2774,1,133010,Manassas OmniLink - South / Manassas Mall,,0,52544,10645,0,0
+2774,1,133009,Manassas OmniLink - South / Manassas Mall,,0,52544,10645,0,0
+2774,1,133008,Manassas OmniLink - South / Manassas Mall,,0,52544,10645,0,0
+2774,1,133007,Manassas OmniLink - South / Manassas Mall,,0,52544,10645,0,0
+2774,1,133006,Manassas OmniLink - South / Manassas Mall,,0,52544,10645,0,0
+2774,1,133005,Manassas OmniLink - South / Manassas Mall,,0,52544,10645,0,0
+2774,1,133004,Manassas OmniLink - South / Manassas Mall,,0,52544,10645,0,0
+2774,1,133003,Manassas OmniLink - South / Manassas Mall,,0,52544,10645,0,0
+2774,1,133015,Manassas OmniLink - South /  Oaks of Wellington,,1,52544,10646,0,0
+2774,1,133016,Manassas OmniLink - South /  Oaks of Wellington,,1,52544,10646,0,0
+2774,1,133017,Manassas OmniLink - South /  Oaks of Wellington,,1,52544,10646,0,0
+2774,1,133018,Manassas OmniLink - South /  Oaks of Wellington,,1,52544,10646,0,0
+2774,1,133019,Manassas OmniLink - South /  Oaks of Wellington,,1,52544,10646,0,0
+2774,1,133020,Manassas OmniLink - South /  Oaks of Wellington,,1,52544,10646,0,0
+2774,1,133021,Manassas OmniLink - South /  Oaks of Wellington,,1,52544,10646,0,0
+2774,1,133022,Manassas OmniLink - South /  Oaks of Wellington,,1,52544,10646,0,0
+2774,1,133023,Manassas OmniLink - South /  Oaks of Wellington,,1,52544,10646,0,0
+2774,1,133024,Manassas OmniLink - South /  Oaks of Wellington,,1,52544,10646,0,0
+2774,1,133025,Manassas OmniLink - South /  Oaks of Wellington,,1,52544,10646,0,0
+2777,1,131613,Pentagon / L'Enfant Plaza / Washington DC,RS1,0,52409,10661,0,0
+2777,1,131614,Pentagon / L'Enfant Plaza / Washington DC,RS2,0,52410,10661,0,0
+2777,1,131615,Pentagon / L'Enfant Plaza / Washington DC,RS3,0,52411,10661,0,0
+2777,1,131616,Pentagon / L'Enfant Plaza / Washington DC,RS4,0,51589,10661,0,0
+2777,1,131617,Pentagon / South Route 1 / 234 Lot,RS1,1,51664,10664,0,0
+2777,1,131618,Pentagon / South Route 1 / 234 Lot,RS2,1,52413,10664,0,0
+2777,1,131619,Pentagon / South Route 1 / 234 Lot,RS3,1,51460,10664,0,0
+2777,1,131620,Pentagon / South Route 1 / 234 Lot,RS4,1,51648,10664,0,0
+2777,1,131621,"South Route 1 / for L200, D100 transfer at Pentagon",RS5,1,52412,10663,0,0
+2778,1,132407,Route 1 OmniLink / Woodbridge VRE,,0,52379,10665,0,0
+2778,1,132406,Route 1 OmniLink / Woodbridge VRE,,0,52380,10665,0,0
+2778,1,132405,Route 1 OmniLink / Woodbridge VRE,,0,52379,10665,0,0
+2778,1,132404,Route 1 OmniLink / Woodbridge VRE,,0,52380,10665,0,0
+2778,1,132403,Route 1 OmniLink / Woodbridge VRE,,0,52379,10665,0,0
+2778,1,132402,Route 1 OmniLink / Woodbridge VRE,,0,52379,10665,0,0
+2778,1,132401,Route 1 OmniLink / Woodbridge VRE,,0,52379,10665,0,0
+2778,1,132400,Route 1 OmniLink / Woodbridge VRE,,0,52379,10665,0,0
+2778,1,132399,Route 1 OmniLink / Woodbridge VRE,,0,52381,10665,0,0
+2778,1,132398,Route 1 OmniLink / Woodbridge VRE,,0,52379,10665,0,0
+2778,1,132397,Route 1 OmniLink / Woodbridge VRE,,0,52381,10665,0,0
+2778,1,132396,Route 1 OmniLink / Woodbridge VRE,,0,52381,10665,0,0
+2778,1,132395,Route 1 OmniLink to Woodbride VRE,,0,52381,10666,0,0
+2778,1,132420,Route 1 OmniLink / Quantico,,1,52379,10667,0,0
+2778,1,132419,Route 1 OmniLink / Quantico,,1,52380,10667,0,0
+2778,1,132418,Route 1 OmniLink / Quantico,,1,52379,10667,0,0
+2778,1,132417,Route 1 OmniLink to Quantico,,1,52380,10668,0,0
+2778,1,132416,Route 1 OmniLink / Quantico,,1,52379,10667,0,0
+2778,1,132415,Route 1 OmniLink / Quantico,,1,52379,10667,0,0
+2778,1,132414,Route 1 OmniLink / Quantico,,1,52379,10667,0,0
+2778,1,132413,Route 1 OmniLink / Quantico,,1,52381,10667,0,0
+2778,1,132412,Route 1 OmniLink / Quantico,,1,52379,10667,0,0
+2778,1,132411,Route 1 OmniLink / Quantico,,1,52381,10667,0,0
+2778,1,132410,Route 1 OmniLink to Quantico,,1,52379,10668,0,0
+2778,1,132409,Route 1 OmniLink / Quantico,,1,52381,10667,0,0
+2778,1,132408,Route 1 OmniLink / Quantico,,1,52381,10667,0,0
+2780,1,131766,Tysons Corner,T1,0,51342,10674,0,0
+2780,1,131764,Tysons Corner,T2,0,51446,10674,0,0
+2780,1,131767,Tysons Corner,T3,0,51452,10674,0,0
+2780,1,131765,Tysons Corner,T4,0,51342,10674,0,0
+2780,1,131768,Woodbridge VRE,T1,1,51372,10675,0,0
+2780,1,131769,Woodbridge VRE,T2,1,51772,10675,0,0
+2780,1,131770,Woodbridge VRE,T3,1,52407,10675,0,0
+2780,1,131771,Woodbridge VRE,T4,1,51535,10675,0,0
+2792,1,131894,Woodbridge A OmniLink / PRTC Transit Ctr via Marumsco,,0,51790,10698,0,0
+2792,1,131895,Woodbridge A OmniLink / PRTC Transit Ctr via Marumsco,,0,51791,10698,0,0
+2792,1,131896,Woodbridge A OmniLink / PRTC Transit Ctr via Marumsco,,0,51792,10698,0,0
+2792,1,131897,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51790,10699,0,0
+2792,1,131898,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51791,10699,0,0
+2792,1,131899,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51792,10699,0,0
+2792,1,131900,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51790,10700,0,0
+2792,1,131901,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51791,10699,0,0
+2792,1,131902,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51792,10699,0,0
+2792,1,131903,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51791,10699,0,0
+2792,1,131904,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51792,10699,0,0
+2792,1,131905,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51791,10699,0,0
+2792,1,131906,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51792,10699,0,0
+2792,1,131907,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51791,10699,0,0
+2792,1,131908,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51792,10699,0,0
+2792,1,131909,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51791,10699,0,0
+2792,1,131910,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51792,10699,0,0
+2792,1,131911,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51791,10699,0,0
+2792,1,131912,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51793,10699,0,0
+2792,1,131913,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51792,10699,0,0
+2792,1,131914,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51791,10700,0,0
+2792,1,131915,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51793,10699,0,0
+2792,1,131916,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51792,10700,0,0
+2792,1,131917,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51793,10699,0,0
+2792,1,131918,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,51793,10700,0,0
+2792,1,131919,Woodbridge B OmniLink / PRTC Transit Ctr via Marumsco,,1,51794,10701,0,0
+2792,1,131920,Woodbridge B OmniLink / PRTC Transit Ctr via Marumsco,,1,51795,10701,0,0
+2792,1,131921,Woodbridge B OmniLink / PRTC Transit Ctr via Marumsco,,1,51796,10701,0,0
+2792,1,131922,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51794,10702,0,0
+2792,1,131923,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51795,10702,0,0
+2792,1,131924,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51796,10702,0,0
+2792,1,131925,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51794,10703,0,0
+2792,1,131926,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51795,10702,0,0
+2792,1,131927,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51796,10702,0,0
+2792,1,131928,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51795,10702,0,0
+2792,1,131929,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51796,10702,0,0
+2792,1,131930,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51795,10702,0,0
+2792,1,131931,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51796,10702,0,0
+2792,1,131932,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51795,10702,0,0
+2792,1,131933,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51796,10702,0,0
+2792,1,131934,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51795,10702,0,0
+2792,1,131935,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51796,10702,0,0
+2792,1,131936,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51795,10702,0,0
+2792,1,131937,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51797,10702,0,0
+2792,1,131938,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51796,10702,0,0
+2792,1,131939,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51795,10703,0,0
+2792,1,131940,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51797,10702,0,0
+2792,1,131941,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51796,10703,0,0
+2792,1,131942,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51797,10702,0,0
+2792,1,131943,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,51797,10703,0,0
+2793,1,132343,Prince William Metro Direct / Franconia-Springfield Metro,PF1,0,52384,10717,0,0
+2793,1,132342,Prince William Metro Direct / Franconia-Springfield Metro,PF2,0,52385,10717,0,0
+2793,1,132345,Prince William Metro Express,PF3,0,52384,10716,0,0
+2793,1,132341,Prince William Metro Express,PF4,0,52385,10716,0,0
+2793,1,132340,Prince William Metro Express,PF5,0,52384,10716,0,0
+2793,1,132339,Prince William Metro Express,PF6,0,52385,10716,0,0
+2793,1,132338,Prince William Metro Express,PF7,0,52384,10716,0,0
+2793,1,132334,Prince William Metro Direct / PRTC Transit Center,PF8,0,52385,10723,0,0
+2793,7201,132337,Prince William Metro Express,PF9,0,52384,10716,0,0
+2793,7301,132344,Prince William Metro Express,PF9,0,52384,10715,0,0
+2793,1,132335,Prince William Metro Direct / Franconia-Springfield Metro,PF10X,0,52404,10722,0,0
+2793,1,132336,Prince William Metro Express,PF11,0,52384,10715,0,0
+2793,1,132346,Prince William Metro Direct / Franconia-Springfield Metro,PF1X,1,52404,10728,0,0
+2793,1,132358,Prince William Metro Express,PF2,1,52384,10727,0,0
+2793,1,132356,Prince William Metro Express,PF3,1,52384,10727,0,0
+2793,1,132355,Prince William Metro Express,PF4,1,52384,10727,0,0
+2793,1,132354,Prince William Metro Express,PF5,1,52386,10727,0,0
+2793,1,132353,Prince William Metro Express,PF6,1,52384,10727,0,0
+2793,1,132352,Prince William Metro Express,PF7,1,52386,10727,0,0
+2793,1,132351,Prince William Metro Express,PF8,1,52384,10727,0,0
+2793,1,132350,Prince William Metro Express,PF9,1,52386,10727,0,0
+2793,1,132349,Prince William Metro Express,PF10,1,52384,10727,0,0
+2793,1,132359,OMNIRIDE TRANSIT CENTER VIA POTOMAC MILLS,PF11,1,52386,10724,0,0
+2793,1,132348,Prince William Metro Express,PF12,1,52384,10727,0,0
+2793,1,132347,Prince William Metro Express,PF13,1,52384,10727,0,0
+2793,1,132357,Prince William Metro Express,PF14,1,52384,10726,0,0
+2834,1,134825,RIPPON VRE STATION,VRE1,0,52382,10879,0,0
+2834,1,134826,RIPPON VRE STATION,VRE2,0,52408,10879,0,0
+2834,1,134827,RIPPON VRE STATION,VRE3,0,52382,10879,0,0
+2834,1,134828,RIPPON VRE STATION,VRE4,0,52383,10879,0,0
+2834,1,134829,DALE CITY LOT VIA DALE  BLVD,VRE1,1,52423,10880,0,0
+2834,1,134830,DALE CITY LOT VIA DALE  BLVD,VRE2,1,52415,10880,0,0
+2834,1,134831,DALE CITY LOT VIA DALE  BLVD,VRE3,1,52417,10880,0,0
+2834,1,134832,DALE CITY LOT VIA DALE  BLVD,VRE4,1,52426,10880,0,0
+2834,1,134833,DALE CITY LOT VIA DALE  BLVD,VRE5,1,52415,10880,0,0
+2834,1,134835,DALE CITY LOT VIA DALE  BLVD,VRE6,1,52421,10880,0,0
+2834,1,134836,DALE CITY LOT VIA DALE  BLVD,VRE7,1,52415,10880,0,0
+2834,1,134837,DALE CITY LOT VIA DALE  BLVD,VRE8,1,52417,10880,0,0
+2835,1,134850,Woodbridge VRE Station,VRE1,0,52383,10881,0,0
+2835,1,134851,Woodbridge VRE Station,VRE2,0,52406,10881,0,0
+2835,1,134852,Woodbridge VRE Station,VRE3,0,52383,10881,0,0
+2835,1,134853,Woodbridge VRE Station,VRE4,0,52405,10881,0,0
+2835,1,134854,LAKE RIDGE,VRE1,1,52421,10882,0,0
+2835,1,134855,LAKE RIDGE,VRE2,1,52421,10882,0,0
+2835,1,134856,LAKE RIDGE,VRE3,1,52416,10882,0,0
+2835,1,134857,LAKE RIDGE,VRE4,1,52425,10882,0,0
+2835,1,134858,LAKE RIDGE,VRE5,1,52416,10882,0,0
+2835,1,134859,LAKE RIDGE,VRE6,1,52417,10882,0,0
+2835,1,134860,LAKE RIDGE,VRE7,1,52416,10882,0,0
+2835,1,134861,LAKE RIDGE,VRE8,1,52422,10882,0,0
+2758,2,130784,Dale City OmniLink / PRTC Transit Center,,0,51492,10586,0,0
+2758,2,130785,Dale City OmniLink / PRTC Transit Center,,0,51492,10586,0,0
+2758,2,130786,Dale City OmniLink / PRTC Transit Center,,0,51492,10586,0,0
+2758,2,130787,Dale City OmniLink / PRTC Transit Center,,0,51492,10586,0,0
+2758,2,130788,Dale City OmniLink / PRTC Transit Center,,0,51492,10586,0,0
+2758,2,130789,Dale City OmniLink / PRTC Transit Center,,0,51492,10586,0,0
+2758,2,130790,Dale City OmniLink / PRTC Transit Center,,0,51492,10586,0,0
+2758,2,130791,Dale City OmniLink / PRTC Transit Center,,0,51492,10586,0,0
+2758,2,130792,Dale City OmniLink / PRTC Transit Center,,0,51492,10586,0,0
+2758,2,130793,Dale City OmniLink / PRTC Transit Center,,0,51492,10586,0,0
+2758,2,130794,Dale City OmniLink / PRTC Transit Center,,0,51492,10586,0,0
+2758,2,130795,Dale City OmniLink / Chinn Center,,1,51492,10588,0,0
+2758,2,130796,Dale City OmniLink / Chinn Center,,1,51492,10588,0,0
+2758,2,130797,Dale City OmniLink / Chinn Center,,1,51492,10588,0,0
+2758,2,130798,Dale City OmniLink / Chinn Center,,1,51492,10588,0,0
+2758,2,130799,Dale City OmniLink / Chinn Center,,1,51492,10588,0,0
+2758,2,130800,Dale City OmniLink / Chinn Center,,1,51492,10588,0,0
+2758,2,130801,Dale City OmniLink / Chinn Center,,1,51492,10588,0,0
+2758,2,130802,Dale City OmniLink / Chinn Center,,1,51492,10588,0,0
+2758,2,130803,Dale City OmniLink / Chinn Center,,1,51492,10588,0,0
+2758,2,130804,Dale City OmniLink / Chinn Center,,1,51492,10588,0,0
+2758,2,130805,Dale City OmniLink to Chinn,,1,51492,10589,0,0
+2759,2,130935,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53208,10590,0,0
+2759,2,130936,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53208,10590,0,0
+2759,2,130937,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53208,10590,0,0
+2759,2,130938,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53208,10590,0,0
+2759,2,130939,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53208,10590,0,0
+2759,2,130940,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53208,10590,0,0
+2759,2,130941,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53208,10590,0,0
+2759,2,130942,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53208,10590,0,0
+2759,2,130943,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53208,10590,0,0
+2759,2,130944,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53208,10590,0,0
+2759,2,130945,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53208,10590,0,0
+2759,2,130946,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53208,10591,0,0
+2759,2,130947,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53208,10591,0,0
+2759,2,130948,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53208,10591,0,0
+2759,2,130949,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53208,10591,0,0
+2759,2,130950,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53208,10591,0,0
+2759,2,130951,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53208,10591,0,0
+2759,2,130952,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53208,10591,0,0
+2759,2,130953,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53208,10591,0,0
+2759,2,130954,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53208,10591,0,0
+2759,2,130955,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53208,10591,0,0
+2759,2,130956,Dumfries OMNIRIDE Local  to Fuller Heights,A,1,53208,10592,0,0
+2778,2,131681,Route 1 OmniLink / Woodbridge VRE,,0,51744,10665,0,0
+2778,2,131682,Route 1 OmniLink / Woodbridge VRE,,0,51744,10665,0,0
+2778,2,131683,Route 1 OmniLink / Woodbridge VRE,,0,51744,10665,0,0
+2778,2,131684,Route 1 OmniLink / Woodbridge VRE,,0,51744,10665,0,0
+2778,2,131685,Route 1 OmniLink / Woodbridge VRE,,0,51744,10665,0,0
+2778,2,131686,Route 1 OmniLink / Woodbridge VRE,,0,51744,10665,0,0
+2778,2,131687,Route 1 OmniLink / Woodbridge VRE,,0,51744,10665,0,0
+2778,2,131688,Route 1 OmniLink / Woodbridge VRE,,0,51744,10665,0,0
+2778,2,131689,Route 1 OmniLink to Woodbride VRE,,0,51744,10666,0,0
+2778,2,131690,Route 1 OmniLink / Quantico,,1,51744,10667,0,0
+2778,2,131691,Route 1 OmniLink / Quantico,,1,51744,10667,0,0
+2778,2,131692,Route 1 OmniLink / Quantico,,1,51744,10667,0,0
+2778,2,131693,Route 1 OmniLink / Quantico,,1,51744,10667,0,0
+2778,2,131694,Route 1 OmniLink / Quantico,,1,51744,10667,0,0
+2778,2,131695,Route 1 OmniLink / Quantico,,1,51744,10667,0,0
+2778,2,131696,Route 1 OmniLink / Quantico,,1,51744,10667,0,0
+2778,2,131697,Route 1 OmniLink / Quantico,,1,51744,10667,0,0
+2792,2,131994,Woodbridge A OmniLink / PRTC Transit Ctr via Marumsco,,0,52504,10698,0,0
+2792,2,131995,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52504,10699,0,0
+2792,2,131996,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52504,10699,0,0
+2792,2,131997,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52504,10699,0,0
+2792,2,131998,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52504,10699,0,0
+2792,2,131999,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52504,10699,0,0
+2792,2,132000,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52504,10699,0,0
+2792,2,132001,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52504,10699,0,0
+2792,2,132002,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52504,10699,0,0
+2792,2,132003,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52504,10699,0,0
+2792,2,132004,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52504,10699,0,0
+2792,2,132005,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52504,10700,0,0
+2792,2,132006,Woodbridge Lake Ridge OMNIRIDE Local,,1,52505,10886,0,0
+2792,2,132007,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52505,10702,0,0
+2792,2,132008,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52505,10702,0,0
+2792,2,132009,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52505,10702,0,0
+2792,2,132010,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52505,10702,0,0
+2792,2,132011,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52505,10702,0,0
+2792,2,132012,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52505,10702,0,0
+2792,2,132013,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52505,10702,0,0
+2792,2,132014,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52505,10702,0,0
+2792,2,132015,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52505,10702,0,0
+2792,2,132016,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52505,10702,0,0
+2792,2,132017,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52505,10703,0,0
+2793,2,132360,Prince William Metro Direct / Franconia-Springfield Metro,,0,52506,10721,0,0
+2793,2,132361,PRINCE WILLIAM METRO EXPRESS,,0,52506,10713,0,0
+2793,2,132362,PRINCE WILLIAM METRO EXPRESS,,0,52506,10713,0,0
+2793,2,132363,PRINCE WILLIAM METRO EXPRESS,,0,52506,10713,0,0
+2793,2,132364,PRINCE WILLIAM METRO EXPRESS,,0,52506,10713,0,0
+2793,2,132365,Prince William Metro Direct / PRTC Transit Center / Potomac Mills,,0,52506,10720,0,0
+2793,2,132372,OMNIRIDE TRANSIT CENTER / FRANCONIA-SPRINGFIELD METRO,,0,52507,10714,0,0
+2793,2,132366,PRINCE WILLIAM METRO EXPRESS,,0,52507,10711,0,0
+2793,2,132367,PRINCE WILLIAM METRO EXPRESS,,0,52507,10711,0,0
+2793,2,132368,PRINCE WILLIAM METRO EXPRESS,,0,52507,10711,0,0
+2793,2,132369,PRINCE WILLIAM METRO EXPRESS,,0,52507,10711,0,0
+2793,2,132370,PRINCE WILLIAM METRO EXPRESS,,0,52507,10711,0,0
+2793,2,132371,Prince William Metro Direct / PRTC Transit Center / Potomac Mills,,0,52507,10720,0,0
+2753,5,133168,Cross County to Manassas,CC1,0,53180,10560,0,0
+2753,5,133167,Cross County to Manassas,CC2,0,53180,10560,0,0
+2753,5,133170,Cross County to Manassas,CC3,0,53180,10560,0,0
+2753,5,133173,Cross County to Manassas,CC4,0,53182,10560,0,0
+2753,5,133166,Cross County to Manassas,CC5,0,53180,10560,0,0
+2753,5,133171,Cross County to Manassas,CC6,0,53182,10560,0,0
+2753,5,133165,Cross County to Manassas,CC7,0,53180,10560,0,0
+2753,5,133169,Cross County to Manassas,CC8,0,53182,10560,0,0
+2753,5,133172,Cross County to Manassas,CC9,0,53180,10560,0,0
+2753,5,133164,Cross County to Manassas,CC10,0,53182,10560,0,0
+2753,5,133163,Cross County to Manassas,CC11,0,53180,10560,0,0
+2753,5,133184,Cross County to Woodbridge,CC51,1,53181,10561,0,0
+2753,5,133183,Cross County to Woodbridge,CC52,1,53180,10561,0,0
+2753,5,133182,Cross County to Woodbridge,CC53,1,53180,10561,0,0
+2753,5,133181,Cross County to Woodbridge,CC54,1,53180,10561,0,0
+2753,5,133175,Cross County to Woodbridge,CC55,1,53182,10561,0,0
+2753,5,133180,Cross County to Woodbridge,CC56,1,53180,10561,0,0
+2753,5,133179,Cross County to Woodbridge,CC57,1,53182,10561,0,0
+2753,5,133178,Cross County to Woodbridge,CC58,1,53180,10561,0,0
+2753,5,133174,Cross County to Woodbridge,CC59,1,53182,10561,0,0
+2753,5,133177,Cross County to Woodbridge,CC60,1,53180,10561,0,0
+2753,5,133176,Cross County to Woodbridge,CC61,1,53182,10561,0,0
+2758,5,130750,Dale City OmniLink / PRTC Transit Center,,0,52567,10587,0,0
+2758,5,130749,Dale City OmniLink / PRTC Transit Center,,0,52568,10587,0,0
+2758,5,130748,Dale City OmniLink / PRTC Transit Center,,0,52569,10587,0,0
+2758,5,130747,Dale City OmniLink / PRTC Transit Center,,0,52567,10586,0,0
+2758,5,130746,Dale City OmniLink / PRTC Transit Center,,0,52568,10586,0,0
+2758,5,130745,Dale City OmniLink / PRTC Transit Center,,0,52569,10586,0,0
+2758,5,130744,Dale City OmniLink / PRTC Transit Center,,0,52568,10586,0,0
+2758,5,130743,Dale City OmniLink / PRTC Transit Center,,0,52569,10586,0,0
+2758,5,130742,Dale City OmniLink / PRTC Transit Center,,0,52568,10586,0,0
+2758,5,130741,Dale City OmniLink / PRTC Transit Center,,0,52569,10586,0,0
+2758,5,130751,Dale City OmniLink / PRTC Transit Center,,0,52568,10586,0,0
+2758,5,130752,Dale City OmniLink / PRTC Transit Center,,0,52569,10586,0,0
+2758,5,130753,Dale City OmniLink / PRTC Transit Center,,0,52568,10586,0,0
+2758,5,130754,Dale City OmniLink / PRTC Transit Center,,0,52569,10586,0,0
+2758,5,130755,Dale City OmniLink / PRTC Transit Center,,0,52568,10586,0,0
+2758,5,130756,Dale City OmniLink / PRTC Transit Center,,0,52569,10586,0,0
+2758,5,130757,Dale City OmniLink / PRTC Transit Center,,0,52568,10586,0,0
+2758,5,130758,Dale City OmniLink / PRTC Transit Center,,0,52570,10586,0,0
+2758,5,130759,Dale City OmniLink / PRTC Transit Center,,0,52569,10586,0,0
+2758,5,130760,Dale City OmniLink / PRTC Transit Center,,0,52570,10586,0,0
+2758,5,130761,Dale City OmniLink / PRTC Transit Center,,0,52570,10586,0,0
+2758,5,130762,Dale City OmniLink / Chinn Center,,1,52567,10588,0,0
+2758,5,130763,Dale City OmniLink / Chinn Center,,1,52568,10588,0,0
+2758,5,130764,Dale City OmniLink / Chinn Center,,1,52569,10588,0,0
+2758,5,130765,Dale City OmniLink to Chinn,,1,52567,10589,0,0
+2758,5,130766,Dale City OmniLink / Chinn Center,,1,52568,10588,0,0
+2758,5,130767,Dale City OmniLink / Chinn Center,,1,52569,10588,0,0
+2758,5,130768,Dale City OmniLink / Chinn Center,,1,52568,10588,0,0
+2758,5,130769,Dale City OmniLink / Chinn Center,,1,52569,10588,0,0
+2758,5,130770,Dale City OmniLink / Chinn Center,,1,52568,10588,0,0
+2758,5,130771,Dale City OmniLink / Chinn Center,,1,52569,10588,0,0
+2758,5,130772,Dale City OmniLink / Chinn Center,,1,52568,10588,0,0
+2758,5,130773,Dale City OmniLink / Chinn Center,,1,52569,10588,0,0
+2758,5,130774,Dale City OmniLink / Chinn Center,,1,52568,10588,0,0
+2758,5,130775,Dale City OmniLink / Chinn Center,,1,52569,10588,0,0
+2758,5,130780,Dale City OmniLink / Chinn Center,,1,52568,10588,0,0
+2758,5,130781,Dale City OmniLink / Chinn Center,,1,52570,10588,0,0
+2758,5,130776,Dale City OmniLink / Chinn Center,,1,52569,10588,0,0
+2758,5,130777,Dale City OmniLink to Chinn,,1,52568,10589,0,0
+2758,5,130782,Dale City OmniLink / Chinn Center,,1,52570,10588,0,0
+2758,5,130778,Dale City OmniLink to Chinn,,1,52569,10589,0,0
+2758,5,130783,Dale City OmniLink / Chinn Center,,1,52570,10588,0,0
+2758,5,130779,Dale City OmniLink to Chinn,,1,52570,10589,0,0
+2759,5,135112,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53190,10590,0,0
+2759,5,135113,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53191,10590,0,0
+2759,5,135114,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53192,10590,0,0
+2759,5,135115,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53190,10590,0,0
+2759,5,135116,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53191,10590,0,0
+2759,5,135117,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53192,10590,0,0
+2759,5,135118,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53191,10590,0,0
+2759,5,135119,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53192,10590,0,0
+2759,5,135120,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53191,10590,0,0
+2759,5,135121,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53192,10590,0,0
+2759,5,135122,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53191,10590,0,0
+2759,5,135123,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53192,10590,0,0
+2759,5,135124,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53191,10590,0,0
+2759,5,135125,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53192,10590,0,0
+2759,5,135126,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53191,10590,0,0
+2759,5,135127,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53192,10590,0,0
+2759,5,135128,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53191,10590,0,0
+2759,5,135129,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53193,10590,0,0
+2759,5,135130,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53192,10590,0,0
+2759,5,135131,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53193,10590,0,0
+2759,5,135132,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53193,10590,0,0
+2759,5,135154,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53190,10591,0,0
+2759,5,135155,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53191,10591,0,0
+2759,5,135156,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53192,10591,0,0
+2759,5,135157,Dumfries OMNIRIDE Local  to Fuller Heights,A,1,53190,10592,0,0
+2759,5,135158,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53191,10591,0,0
+2759,5,135159,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53192,10591,0,0
+2759,5,135160,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53191,10591,0,0
+2759,5,135161,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53192,10591,0,0
+2759,5,135162,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53191,10591,0,0
+2759,5,135163,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53192,10591,0,0
+2759,5,135164,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53191,10591,0,0
+2759,5,135165,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53192,10591,0,0
+2759,5,135166,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53191,10591,0,0
+2759,5,135167,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53192,10591,0,0
+2759,5,135168,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53191,10591,0,0
+2759,5,135169,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53193,10591,0,0
+2759,5,135170,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53192,10591,0,0
+2759,5,135171,Dumfries OMNIRIDE Local  to Fuller Heights,B,1,53191,10592,0,0
+2759,5,135172,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53193,10591,0,0
+2759,5,135173,Dumfries OMNIRIDE Local  to Fuller Heights,C,1,53192,10592,0,0
+2759,5,135174,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53193,10591,0,0
+2759,5,135175,Dumfries OMNIRIDE Local  to Fuller Heights,A,1,53193,10592,0,0
+2766,5,131156,Linton Hall Metro Direct to Tysons Corner,LH1,0,52642,10617,0,0
+2766,5,131159,Linton Hall Metro Direct to Tysons Corner,LH2,0,52643,10617,0,0
+2766,5,131158,Linton Hall Metro Direct to Tysons Corner,LH3,0,52642,10617,0,0
+2766,5,131157,Linton Hall Metro Direct to Tysons Corner,LH4,0,52643,10617,0,0
+2766,5,131160,Linton Hall Metro Direct to Linton Hall,LH1,1,52645,10618,0,0
+2766,5,131163,Linton Hall Metro Direct to Linton Hall,LH2,1,52646,10618,0,0
+2766,5,131162,Linton Hall Metro Direct to Linton Hall,LH3,1,52647,10618,0,0
+2766,5,131161,Linton Hall Metro Direct to Linton Hall,LH4,1,52645,10618,0,0
+2771,5,131317,Manassas Metro Direct / Tysons Corner Metro,MT1,0,52641,10637,0,0
+2771,5,131316,Manassas Metro Direct / Tysons Corner Metro,MT2,0,53183,10637,0,0
+2771,5,131315,Manassas Metro Direct / Tysons Corner Metro,MT3,0,53184,10637,0,0
+2771,5,131314,Manassas Metro Direct / Tysons Corner Metro,MT4X,0,53185,10638,0,0
+2771,5,131313,Manassas Metro Direct / Tysons Corner Metro,MT5X,0,53183,10638,0,0
+2771,5,131312,Manassas Metro Direct / Tysons Corner Metro,MT6X,0,53184,10638,0,0
+2771,5,131311,Manassas Metro Direct / Tysons Corner Metro,MT7X,0,53183,10638,0,0
+2771,5,131310,Manassas Metro Direct / Tysons Corner Metro,MT8X,0,53184,10638,0,0
+2771,5,131325,Manassas Metro Direct / Manassas,MT1X,1,53186,10640,0,0
+2771,5,131324,Manassas Metro Direct / Manassas,MT2X,1,53187,10640,0,0
+2771,5,131323,Manassas Metro Direct / Manassas,MT3X,1,53188,10640,0,0
+2771,5,131322,Manassas Metro Direct / Manassas,MT4X,1,53186,10640,0,0
+2771,5,131321,Manassas Metro Direct / Manassas,MT5X,1,53189,10640,0,0
+2771,5,131320,Manassas Metro Direct / Manassas,MT6X,1,53187,10640,0,0
+2771,5,131319,Manassas Metro Direct / Manassas Junction via Sudley,MT7,1,53188,10639,0,0
+2771,5,131318,Manassas Metro Direct / Manassas Junction via Sudley,MT8,1,53186,10639,0,0
+2772,5,132816,Manassas OmniLink North / NOVA,,0,53195,10641,0,0
+2772,5,132817,Manassas OmniLink North / NOVA,,0,53195,10641,0,0
+2772,5,132818,Manassas OmniLink North / NOVA,,0,53195,10641,0,0
+2772,5,132819,Manassas OmniLink North / NOVA,,0,53195,10641,0,0
+2772,5,132820,Manassas OmniLink North / NOVA,,0,53195,10641,0,0
+2772,5,132821,Manassas OmniLink North / NOVA,,0,53195,10641,0,0
+2772,5,132822,Manassas OmniLink North / NOVA,,0,53195,10641,0,0
+2772,5,132823,Manassas OmniLink North / NOVA,,0,53195,10641,0,0
+2772,5,132824,Manassas OmniLink North / NOVA,,0,53195,10641,0,0
+2772,5,132825,Manassas OmniLink North / NOVA,,0,53195,10641,0,0
+2772,5,132826,Manassas OmniLink North / NOVA,,0,53195,10641,0,0
+2772,5,132827,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,53195,10642,0,0
+2772,5,132828,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,53195,10643,0,0
+2772,5,132829,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,53195,10643,0,0
+2772,5,132830,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,53195,10643,0,0
+2772,5,132831,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,53195,10643,0,0
+2772,5,132832,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,53195,10643,0,0
+2772,5,132833,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,53195,10643,0,0
+2772,5,132834,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,53195,10643,0,0
+2772,5,132835,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,53195,10643,0,0
+2772,5,132836,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,53195,10643,0,0
+2772,5,132837,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,53195,10643,0,0
+2772,5,132838,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,53195,10643,0,0
+2773,5,132943,Manassas Park OmniLink,,0,52640,10644,0,0
+2773,5,132944,Manassas Park OmniLink,,0,52640,10644,0,0
+2773,5,132945,Manassas Park OmniLink,,0,52640,10644,0,0
+2773,5,132946,Manassas Park OmniLink,,0,52640,10644,0,0
+2773,5,132947,Manassas Park OmniLink,,0,52640,10644,0,0
+2773,5,132948,Manassas Park OmniLink,,0,52640,10644,0,0
+2773,5,132949,Manassas Park OmniLink,,0,52640,10644,0,0
+2773,5,132950,Manassas Park OmniLink,,0,52640,10644,0,0
+2773,5,132951,Manassas Park OmniLink,,0,52640,10644,0,0
+2773,5,132952,Manassas Park OmniLink,,0,52640,10644,0,0
+2773,5,132953,Manassas Park OmniLink,,0,52640,10644,0,0
+2773,5,132954,Manassas Park OmniLink,,0,52640,10644,0,0
+2774,5,133037,Manassas OmniLink - South / Manassas Mall,,0,53194,10645,0,0
+2774,5,133036,Manassas OmniLink - South / Manassas Mall,,0,53194,10645,0,0
+2774,5,133035,Manassas OmniLink - South / Manassas Mall,,0,53194,10645,0,0
+2774,5,133034,Manassas OmniLink - South / Manassas Mall,,0,53194,10645,0,0
+2774,5,133033,Manassas OmniLink - South / Manassas Mall,,0,53194,10645,0,0
+2774,5,133032,Manassas OmniLink - South / Manassas Mall,,0,53194,10645,0,0
+2774,5,133031,Manassas OmniLink - South / Manassas Mall,,0,53194,10645,0,0
+2774,5,133030,Manassas OmniLink - South / Manassas Mall,,0,53194,10645,0,0
+2774,5,133029,Manassas OmniLink - South / Manassas Mall,,0,53194,10645,0,0
+2774,5,133028,Manassas OmniLink - South / Manassas Mall,,0,53194,10645,0,0
+2774,5,133027,Manassas OmniLink - South / Manassas Mall,,0,53194,10645,0,0
+2774,5,133026,Manassas OmniLink - South / Manassas Mall,,0,53194,10645,0,0
+2774,5,133038,Manassas OmniLink - South /  Oaks of Wellington,,1,53194,10646,0,0
+2774,5,133039,Manassas OmniLink - South /  Oaks of Wellington,,1,53194,10646,0,0
+2774,5,133040,Manassas OmniLink - South /  Oaks of Wellington,,1,53194,10646,0,0
+2774,5,133041,Manassas OmniLink - South /  Oaks of Wellington,,1,53194,10646,0,0
+2774,5,133042,Manassas OmniLink - South /  Oaks of Wellington,,1,53194,10646,0,0
+2774,5,133043,Manassas OmniLink - South /  Oaks of Wellington,,1,53194,10646,0,0
+2774,5,133044,Manassas OmniLink - South /  Oaks of Wellington,,1,53194,10646,0,0
+2774,5,133045,Manassas OmniLink - South /  Oaks of Wellington,,1,53194,10646,0,0
+2774,5,133046,Manassas OmniLink - South /  Oaks of Wellington,,1,53194,10646,0,0
+2774,5,133047,Manassas OmniLink - South /  Oaks of Wellington,,1,53194,10646,0,0
+2774,5,133048,Manassas OmniLink - South /  Oaks of Wellington,,1,53194,10646,0,0
+2778,5,132511,Route 1 OmniLink / Woodbridge VRE,,0,52652,10665,0,0
+2778,5,132510,Route 1 OmniLink / Woodbridge VRE,,0,52653,10665,0,0
+2778,5,132509,Route 1 OmniLink / Woodbridge VRE,,0,52652,10665,0,0
+2778,5,132508,Route 1 OmniLink / Woodbridge VRE,,0,52653,10665,0,0
+2778,5,132507,Route 1 OmniLink / Woodbridge VRE,,0,52652,10665,0,0
+2778,5,132506,Route 1 OmniLink / Woodbridge VRE,,0,52652,10665,0,0
+2778,5,132505,Route 1 OmniLink / Woodbridge VRE,,0,52652,10665,0,0
+2778,5,132504,Route 1 OmniLink / Woodbridge VRE,,0,52652,10665,0,0
+2778,5,132503,Route 1 OmniLink / Woodbridge VRE,,0,52654,10665,0,0
+2778,5,132502,Route 1 OmniLink / Woodbridge VRE,,0,52652,10665,0,0
+2778,5,132501,Route 1 OmniLink / Woodbridge VRE,,0,52654,10665,0,0
+2778,5,132500,Route 1 OmniLink / Woodbridge VRE,,0,52654,10665,0,0
+2778,5,132499,Route 1 OmniLink to Woodbride VRE,,0,52654,10666,0,0
+2778,5,132524,Route 1 OmniLink / Quantico,,1,52652,10667,0,0
+2778,5,132523,Route 1 OmniLink / Quantico,,1,52653,10667,0,0
+2778,5,132522,Route 1 OmniLink / Quantico,,1,52652,10667,0,0
+2778,5,132521,Route 1 OmniLink to Quantico,,1,52653,10668,0,0
+2778,5,132520,Route 1 OmniLink / Quantico,,1,52652,10667,0,0
+2778,5,132519,Route 1 OmniLink / Quantico,,1,52652,10667,0,0
+2778,5,132518,Route 1 OmniLink / Quantico,,1,52652,10667,0,0
+2778,5,132517,Route 1 OmniLink / Quantico,,1,52654,10667,0,0
+2778,5,132516,Route 1 OmniLink / Quantico,,1,52652,10667,0,0
+2778,5,132515,Route 1 OmniLink / Quantico,,1,52654,10667,0,0
+2778,5,132514,Route 1 OmniLink to Quantico,,1,52652,10668,0,0
+2778,5,132513,Route 1 OmniLink / Quantico,,1,52654,10667,0,0
+2778,5,132512,Route 1 OmniLink / Quantico,,1,52654,10667,0,0
+2792,5,132627,Woodbridge A OmniLink / PRTC Transit Ctr via Marumsco,,0,53173,10698,0,0
+2792,5,132628,Woodbridge A OmniLink / PRTC Transit Ctr via Marumsco,,0,53169,10698,0,0
+2792,5,132629,Woodbridge A OmniLink / PRTC Transit Ctr via Marumsco,,0,52655,10698,0,0
+2792,5,132630,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,53173,10699,0,0
+2792,5,132631,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,53169,10699,0,0
+2792,5,132632,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52655,10699,0,0
+2792,5,132633,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,53173,10700,0,0
+2792,5,132634,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,53169,10699,0,0
+2792,5,132635,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52655,10699,0,0
+2792,5,132636,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,53169,10699,0,0
+2792,5,132637,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52655,10699,0,0
+2792,5,132638,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,53169,10699,0,0
+2792,5,132639,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52655,10699,0,0
+2792,5,132640,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,53169,10699,0,0
+2792,5,132641,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52655,10699,0,0
+2792,5,132642,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,53169,10699,0,0
+2792,5,132643,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52655,10699,0,0
+2792,5,132644,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,53169,10699,0,0
+2792,5,132645,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,53174,10699,0,0
+2792,5,132646,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52655,10699,0,0
+2792,5,132647,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,53169,10700,0,0
+2792,5,132648,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,53174,10699,0,0
+2792,5,132649,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52655,10700,0,0
+2792,5,132650,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,53174,10699,0,0
+2792,5,132651,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,53174,10700,0,0
+2792,5,132652,Woodbridge B OmniLink / PRTC Transit Ctr via Marumsco,,1,53172,10701,0,0
+2792,5,132653,Woodbridge B OmniLink / PRTC Transit Ctr via Marumsco,,1,53171,10701,0,0
+2792,5,132654,Woodbridge B OmniLink / PRTC Transit Ctr via Marumsco,,1,53170,10701,0,0
+2792,5,132655,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53172,10702,0,0
+2792,5,132656,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53171,10702,0,0
+2792,5,132657,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53170,10702,0,0
+2792,5,132658,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53172,10703,0,0
+2792,5,132659,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53171,10702,0,0
+2792,5,132660,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53170,10702,0,0
+2792,5,132661,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53171,10702,0,0
+2792,5,132662,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53170,10702,0,0
+2792,5,132663,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53171,10702,0,0
+2792,5,132664,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53170,10702,0,0
+2792,5,132665,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53171,10702,0,0
+2792,5,132666,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53170,10702,0,0
+2792,5,132667,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53171,10702,0,0
+2792,5,132668,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53170,10702,0,0
+2792,5,132669,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53171,10702,0,0
+2792,5,132670,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53175,10702,0,0
+2792,5,132671,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53170,10702,0,0
+2792,5,132672,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53171,10703,0,0
+2792,5,132673,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53175,10702,0,0
+2792,5,132674,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53170,10703,0,0
+2792,5,132675,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53175,10702,0,0
+2792,5,132676,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,53175,10703,0,0
+2793,5,132560,Prince William Metro Direct / Franconia-Springfield Metro,PF1,0,52648,10717,0,0
+2793,5,132559,Prince William Metro Direct / Franconia-Springfield Metro,PF2,0,52650,10717,0,0
+2793,5,132562,Prince William Metro Express,PF3,0,52648,10716,0,0
+2793,5,132558,Prince William Metro Express,PF4,0,52650,10716,0,0
+2793,5,132557,Prince William Metro Express,PF5,0,52648,10716,0,0
+2793,5,132556,Prince William Metro Express,PF6,0,52650,10716,0,0
+2793,5,132555,Prince William Metro Express,PF7,0,52648,10716,0,0
+2793,5,132551,Prince William Metro Direct / PRTC Transit Center,PF8,0,52650,10723,0,0
+2793,7205,132554,Prince William Metro Express,PF9,0,52648,10716,0,0
+2793,7305,132561,Prince William Metro Express,PF9,0,52648,10715,0,0
+2793,5,132552,Prince William Metro Direct / Franconia-Springfield Metro,PF10X,0,52644,10722,0,0
+2793,5,132553,Prince William Metro Express,PF11,0,52648,10715,0,0
+2793,5,132563,Prince William Metro Direct / Franconia-Springfield Metro,PF1X,1,52644,10728,0,0
+2793,5,132575,Prince William Metro Express,PF2,1,52648,10727,0,0
+2793,5,132573,Prince William Metro Express,PF3,1,52648,10727,0,0
+2793,5,132572,Prince William Metro Express,PF4,1,52648,10727,0,0
+2793,5,132571,Prince William Metro Express,PF5,1,52651,10727,0,0
+2793,5,132570,Prince William Metro Express,PF6,1,52648,10727,0,0
+2793,5,132569,Prince William Metro Express,PF7,1,52651,10727,0,0
+2793,5,132568,Prince William Metro Express,PF8,1,52648,10727,0,0
+2793,5,132567,Prince William Metro Express,PF9,1,52651,10727,0,0
+2793,5,132566,Prince William Metro Express,PF10,1,52648,10727,0,0
+2793,5,132576,OMNIRIDE TRANSIT CENTER VIA POTOMAC MILLS,PF11,1,52651,10724,0,0
+2793,5,132565,Prince William Metro Express,PF12,1,52648,10727,0,0
+2793,5,132564,Prince William Metro Express,PF13,1,52648,10727,0,0
+2793,5,132574,Prince William Metro Express,PF14,1,52648,10726,0,0
+2753,10,133190,Cross County to Manassas,CC1,0,52453,10560,0,0
+2753,10,133189,Cross County to Manassas,CC2,0,52453,10560,0,0
+2753,10,133192,Cross County to Manassas,CC3,0,52453,10560,0,0
+2753,10,133195,Cross County to Manassas,CC4,0,52454,10560,0,0
+2753,10,133188,Cross County to Manassas,CC5,0,52451,10560,0,0
+2753,10,133193,Cross County to Manassas,CC6,0,52454,10560,0,0
+2753,10,133187,Cross County to Manassas,CC7,0,52451,10560,0,0
+2753,10,133191,Cross County to Manassas,CC8,0,52449,10560,0,0
+2753,10,133194,Cross County to Manassas,CC9,0,52450,10560,0,0
+2753,10,133186,Cross County to Manassas,CC10,0,52449,10560,0,0
+2753,10,133185,Cross County to Manassas,CC11,0,52450,10560,0,0
+2753,10,133206,Cross County to Woodbridge,CC51,1,52452,10561,0,0
+2753,10,133205,Cross County to Woodbridge,CC52,1,52453,10561,0,0
+2753,10,133204,Cross County to Woodbridge,CC53,1,52453,10561,0,0
+2753,10,133203,Cross County to Woodbridge,CC54,1,52453,10561,0,0
+2753,10,133197,Cross County to Woodbridge,CC55,1,52454,10561,0,0
+2753,10,133202,Cross County to Woodbridge,CC56,1,52451,10561,0,0
+2753,10,133201,Cross County to Woodbridge,CC57,1,52454,10561,0,0
+2753,10,133200,Cross County to Woodbridge,CC58,1,52451,10561,0,0
+2753,10,133196,Cross County to Woodbridge,CC59,1,52449,10561,0,0
+2753,10,133199,Cross County to Woodbridge,CC60,1,52450,10561,0,0
+2753,10,133198,Cross County to Woodbridge,CC61,1,52449,10561,0,0
+2754,10,130582,State Department / Washington DC,D101,0,51386,10562,0,0
+2754,10,130580,State Department / Washington DC,D102,0,51384,10562,0,0
+2754,10,130575,State Department / Washington DC,D103T,0,52498,10563,0,0
+2754,10,130577,State Department / Washington DC,D104,0,51381,10562,0,0
+2754,10,130581,State Department / Washington DC,D105,0,52469,10562,0,0
+2754,10,130574,State Department / Washington DC,D106,0,51378,10562,0,0
+2754,10,130589,State Department / Washington DC,D107,0,51393,10562,0,0
+2754,10,130587,State Department / Washington DC,D108T,0,51391,10563,0,0
+2754,10,130586,State Department / Washington DC,D109,0,51390,10562,0,0
+2754,10,130583,State Department / Washington DC,D110,0,51387,10562,0,0
+2754,10,130590,State Department / Washington DC,D112,0,51394,10564,0,0
+2754,10,130576,State Department / Washington DC,D114,0,51380,10564,0,0
+2754,10,130578,State Department / Washington DC,D115T,0,52466,10565,0,0
+2754,10,130588,State Department / Washington DC,D116,0,51392,10564,0,0
+2754,10,130591,State Department / Washington DC,D117,0,52481,10564,0,0
+2754,10,130573,State Department / Washington DC,D118,0,51377,10564,0,0
+2754,10,130579,State Department / Washington DC,D119T,0,51383,10565,0,0
+2754,10,130585,State Department / Washington DC,D120,0,52469,10564,0,0
+2754,10,130584,State Department / Washington DC,D122,0,51388,10564,0,0
+2754,10,130572,State Department / Washington DC,D123T,0,51376,10565,0,0
+2754,10,130593,Pentagon / Horner Rd / Potomac Mills / PRTC,D101T,1,51397,10568,0,0
+2754,10,130595,Pentagon / Horner Rd / Potomac Mills / PRTC,D102T,1,52500,10568,0,0
+2754,10,130592,Pentagon / Horner / Dale City Lot via PRTC,D103,1,51396,10570,0,0
+2754,10,130606,Horner / Dale City Lot via PRTC,D104,1,51410,10567,0,0
+2754,10,130596,Horner / Dale City Lot via PRTC,D105,1,51400,10567,0,0
+2754,10,130597,Horner / Dale City Lot via PRTC,D107,1,51401,10567,0,0
+2754,10,130605,Horner / Dale City Lot via PRTC,D108,1,51409,10567,0,0
+2754,10,130594,Horner / Dale City Lot via PRTC,D109N,1,51398,10569,0,0
+2754,10,130598,Horner / Dale City Lot via PRTC,D111,1,51402,10567,0,0
+2754,10,130599,Horner / Dale City Lot via PRTC,D112,1,51403,10567,0,0
+2754,10,130607,Horner / Dale City Lot via PRTC,D113,1,51411,10567,0,0
+2754,10,130601,Horner / Dale City Lot via PRTC,D115,1,51439,10567,0,0
+2754,10,130600,Horner / Dale City Lot via PRTC,D116N,1,51404,10569,0,0
+2754,10,130602,Horner / Dale City Lot via PRTC,D117,1,51406,10567,0,0
+2754,10,130603,Horner / Dale City Lot via PRTC,D119,1,51407,10567,0,0
+2754,10,130604,Pentagon / Dale City Lot via PRTC,D121,1,51408,10566,0,0
+2755,10,130636,Pentagon,D201,0,51376,10571,0,0
+2755,10,130639,Pentagon,D202,0,52497,10571,0,0
+2755,10,130635,Pentagon,D203,0,51435,10571,0,0
+2755,10,130631,Pentagon / Rosslyn / Ballston,D204R,0,51431,10572,0,0
+2755,10,130634,Pentagon,D205,0,51434,10571,0,0
+2755,10,130633,Pentagon,D208,0,52497,10571,0,0
+2755,10,130637,Pentagon / Rosslyn / Ballston,D209R,0,51384,10572,0,0
+2755,10,130632,Pentagon / Rosslyn / Ballston,D210R,0,51432,10572,0,0
+2755,10,130638,Pentagon / Rosslyn / Ballston,D211R,0,51378,10572,0,0
+2755,10,130640,Pentagon / Rosslyn / Ballston,D212R,0,52497,10572,0,0
+2755,10,130647,Horner / Dale City Lot via Minnieville,D201,1,51444,10574,0,0
+2755,10,130644,Pentagon / Horner / Dale City Lot via Minnieville,D202R,1,51441,10575,0,0
+2755,10,130643,Horner / Dale City Lot via Minnieville,D204,1,51440,10574,0,0
+2755,10,130645,Pentagon / Horner / Dale City Lot via Minnieville,D205R,1,51442,10575,0,0
+2755,10,130642,Pentagon / Horner / Dale City Lot via Minnieville,D206R,1,52508,10575,0,0
+2755,10,130646,Pentagon / Horner / Dale City Lot via Minnieville,D207R,1,51443,10575,0,0
+2755,10,130648,Pentagon / Horner / Dale City Lot via Minnieville,D208R,1,52502,10575,0,0
+2755,10,130641,Pentagon / Horner / Dale City Lot via Minnieville,D209R,1,52463,10575,0,0
+2755,10,130649,Horner / Dale City Lot via Minnieville,D210,1,51396,10574,0,0
+2756,10,130672,Pentagon / L'Enfant Plaza / Navy Yard,D301T,0,51466,10577,0,0
+2756,10,130668,Pentagon / L'Enfant Plaza / Navy Yard,D302,0,51462,10576,0,0
+2756,10,130673,Pentagon / L'Enfant Plaza / Navy Yard,D303,0,52472,10576,0,0
+2756,10,130669,Pentagon / L'Enfant Plaza / Navy Yard,D305,0,51463,10576,0,0
+2756,10,130670,Pentagon / L'Enfant Plaza / Navy Yard,D306,0,51464,10576,0,0
+2756,10,130671,Pentagon / L'Enfant Plaza / Navy Yard,D307,0,51465,10576,0,0
+2756,10,130674,"Dale City / for L200, MC, M / transfer at Pentagon",D301,1,51468,10583,0,0
+2756,10,130675,"Dale City / for L200, MC, M / transfer at Pentagon",D302,1,51439,10580,0,0
+2756,10,130676,Pentagon / Horner / Dale City / Lindendale via PRTC,D303,1,52463,10581,0,0
+2756,10,130677,Pentagon / Horner / Dale City / Lindendale via PRTC,D304,1,51469,10581,0,0
+2756,10,130678,Pentagon / Horner / Dale City / Lindendale via PRTC,D305,1,51470,10581,0,0
+2756,10,130679,Pentagon / Horner / Dale City / Lindendale via PRTC,D306,1,51471,10581,0,0
+2756,10,130680,Pentagon / Horner / Dale City / Lindendale via PRTC,D308,1,51472,10581,0,0
+2756,10,130681,"Dale City /  for L200, RS transfer at Pentagon",D309,1,51473,10579,0,0
+2756,10,130683,Horner / Dale City / Lindendale via PRTC,D310P,1,51475,10582,0,0
+2756,10,130682,"Dale City / for L200, MC, M / transfer at Pentagon",D311,1,51474,10580,0,0
+2757,10,130692,Mark Center,D402,0,51480,10584,0,0
+2757,10,130693,Mark Center,D403,0,51481,10584,0,0
+2757,10,130694,Mark Center,D404,0,51480,10584,0,0
+2757,10,130695,Dale City Lot via Dale Blvd,D401,1,51482,10585,0,0
+2757,10,130696,Dale City Lot via Dale Blvd,D402,1,52496,10585,0,0
+2757,10,130697,Dale City Lot via Dale Blvd,D403,1,51482,10585,0,0
+2758,10,130815,Dale City OmniLink / PRTC Transit Center,,0,51495,10587,0,0
+2758,10,130814,Dale City OmniLink / PRTC Transit Center,,0,51494,10587,0,0
+2758,10,130813,Dale City OmniLink / PRTC Transit Center,,0,51493,10587,0,0
+2758,10,130812,Dale City OmniLink / PRTC Transit Center,,0,51495,10586,0,0
+2758,10,130811,Dale City OmniLink / PRTC Transit Center,,0,51494,10586,0,0
+2758,10,130810,Dale City OmniLink / PRTC Transit Center,,0,51493,10586,0,0
+2758,10,130809,Dale City OmniLink / PRTC Transit Center,,0,51494,10586,0,0
+2758,10,130808,Dale City OmniLink / PRTC Transit Center,,0,51493,10586,0,0
+2758,10,130807,Dale City OmniLink / PRTC Transit Center,,0,51494,10586,0,0
+2758,10,130806,Dale City OmniLink / PRTC Transit Center,,0,51493,10586,0,0
+2758,10,130816,Dale City OmniLink / PRTC Transit Center,,0,51494,10586,0,0
+2758,10,130817,Dale City OmniLink / PRTC Transit Center,,0,51493,10586,0,0
+2758,10,130818,Dale City OmniLink / PRTC Transit Center,,0,51494,10586,0,0
+2758,10,130819,Dale City OmniLink / PRTC Transit Center,,0,51493,10586,0,0
+2758,10,130820,Dale City OmniLink / PRTC Transit Center,,0,51494,10586,0,0
+2758,10,130821,Dale City OmniLink / PRTC Transit Center,,0,51493,10586,0,0
+2758,10,130822,Dale City OmniLink / PRTC Transit Center,,0,51494,10586,0,0
+2758,10,130823,Dale City OmniLink / PRTC Transit Center,,0,51496,10586,0,0
+2758,10,130824,Dale City OmniLink / PRTC Transit Center,,0,51493,10586,0,0
+2758,10,130825,Dale City OmniLink / PRTC Transit Center,,0,51496,10586,0,0
+2758,10,130826,Dale City OmniLink / PRTC Transit Center,,0,51496,10586,0,0
+2758,10,130827,Dale City OmniLink / Chinn Center,,1,51495,10588,0,0
+2758,10,130828,Dale City OmniLink / Chinn Center,,1,51494,10588,0,0
+2758,10,130829,Dale City OmniLink / Chinn Center,,1,51493,10588,0,0
+2758,10,130830,Dale City OmniLink to Chinn,,1,51495,10589,0,0
+2758,10,130831,Dale City OmniLink / Chinn Center,,1,51494,10588,0,0
+2758,10,130832,Dale City OmniLink / Chinn Center,,1,51493,10588,0,0
+2758,10,130833,Dale City OmniLink / Chinn Center,,1,51494,10588,0,0
+2758,10,130834,Dale City OmniLink / Chinn Center,,1,51493,10588,0,0
+2758,10,130835,Dale City OmniLink / Chinn Center,,1,51494,10588,0,0
+2758,10,130836,Dale City OmniLink / Chinn Center,,1,51493,10588,0,0
+2758,10,130837,Dale City OmniLink / Chinn Center,,1,51494,10588,0,0
+2758,10,130838,Dale City OmniLink / Chinn Center,,1,51493,10588,0,0
+2758,10,130839,Dale City OmniLink / Chinn Center,,1,51494,10588,0,0
+2758,10,130840,Dale City OmniLink / Chinn Center,,1,51493,10588,0,0
+2758,10,130845,Dale City OmniLink / Chinn Center,,1,51494,10588,0,0
+2758,10,130846,Dale City OmniLink / Chinn Center,,1,51496,10588,0,0
+2758,10,130841,Dale City OmniLink / Chinn Center,,1,51493,10588,0,0
+2758,10,130842,Dale City OmniLink to Chinn,,1,51494,10589,0,0
+2758,10,130847,Dale City OmniLink / Chinn Center,,1,51496,10588,0,0
+2758,10,130843,Dale City OmniLink to Chinn,,1,51493,10589,0,0
+2758,10,130848,Dale City OmniLink / Chinn Center,,1,51496,10588,0,0
+2758,10,130844,Dale City OmniLink to Chinn,,1,51496,10589,0,0
+2759,10,135198,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53206,10590,0,0
+2759,10,135199,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53205,10590,0,0
+2759,10,135200,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53204,10590,0,0
+2759,10,135201,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53206,10590,0,0
+2759,10,135202,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53205,10590,0,0
+2759,10,135203,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53204,10590,0,0
+2759,10,135204,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53205,10590,0,0
+2759,10,135205,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53204,10590,0,0
+2759,10,135206,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53205,10590,0,0
+2759,10,135207,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53204,10590,0,0
+2759,10,135208,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53205,10590,0,0
+2759,10,135209,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53204,10590,0,0
+2759,10,135210,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53205,10590,0,0
+2759,10,135211,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53204,10590,0,0
+2759,10,135212,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53205,10590,0,0
+2759,10,135213,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53204,10590,0,0
+2759,10,135214,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,B,0,53205,10590,0,0
+2759,10,135215,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53207,10590,0,0
+2759,10,135216,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,C,0,53204,10590,0,0
+2759,10,135217,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53207,10590,0,0
+2759,10,135218,Dumfries OMNIRIDE Local / OMNIRIDE TRANSIT CENTER,A,0,53207,10590,0,0
+2759,10,135240,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53206,10591,0,0
+2759,10,135241,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53205,10591,0,0
+2759,10,135242,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53204,10591,0,0
+2759,10,135243,Dumfries OMNIRIDE Local  to Fuller Heights,A,1,53206,10592,0,0
+2759,10,135244,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53205,10591,0,0
+2759,10,135245,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53204,10591,0,0
+2759,10,135246,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53205,10591,0,0
+2759,10,135247,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53204,10591,0,0
+2759,10,135248,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53205,10591,0,0
+2759,10,135249,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53204,10591,0,0
+2759,10,135250,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53205,10591,0,0
+2759,10,135251,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53204,10591,0,0
+2759,10,135252,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53205,10591,0,0
+2759,10,135253,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53204,10591,0,0
+2759,10,135254,Dumfries OMNIRIDE Local / Fuller Heights,B,1,53205,10591,0,0
+2759,10,135255,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53207,10591,0,0
+2759,10,135256,Dumfries OMNIRIDE Local / Fuller Heights,C,1,53204,10591,0,0
+2759,10,135257,Dumfries OMNIRIDE Local  to Fuller Heights,B,1,53205,10592,0,0
+2759,10,135258,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53207,10591,0,0
+2759,10,135259,Dumfries OMNIRIDE Local  to Fuller Heights,C,1,53204,10592,0,0
+2759,10,135260,Dumfries OMNIRIDE Local / Fuller Heights,A,1,53207,10591,0,0
+2759,10,135261,Dumfries OMNIRIDE Local  to Fuller Heights,A,1,53207,10592,0,0
+2760,10,131015,Washington DC / L'Enfant Plaza,G101,0,51383,10593,0,0
+2760,10,131016,Washington DC / L'Enfant Plaza,G102,0,51523,10593,0,0
+2760,10,131017,Washington DC / L'Enfant Plaza,G103,0,51376,10593,0,0
+2760,10,131018,Washington DC / L'Enfant Plaza,G105,0,51524,10593,0,0
+2760,10,131019,Washington DC / L'Enfant Plaza,G106,0,51525,10593,0,0
+2760,10,131014,Washington DC / L'Enfant Plaza,G107,0,52472,10593,0,0
+2760,10,131025,Gainesville / Cushing Lot,G101,1,51531,10594,0,0
+2760,10,131020,Gainesville / Cushing Lot,G102,1,51526,10594,0,0
+2760,10,131021,Gainesville / Cushing Lot,G104,1,51527,10594,0,0
+2760,10,131022,Gainesville / Cushing Lot,G105,1,51528,10594,0,0
+2760,10,131023,Gainesville / Cushing Lot,G106,1,51529,10594,0,0
+2760,10,131024,Gainesville / Cushing Lot,G107,1,51530,10594,0,0
+2761,10,133208,Pentagon,G201,0,52466,10595,0,0
+2761,10,133209,Pentagon,G202,0,52473,10595,0,0
+2761,10,133210,Pentagon,G203,0,52467,10595,0,0
+2761,10,133211,Pentagon,G204,0,52474,10595,0,0
+2761,10,133207,Pentagon,G205,0,52476,10595,0,0
+2761,10,133213,Gainesville / Limestone Lots,G201,1,52487,10597,0,0
+2761,10,133212,Gainesville / Limestone Lots,G202,1,52482,10597,0,0
+2761,10,133214,Gainesville / Limestone Lots,G203,1,51408,10597,0,0
+2761,10,133215,Gainesville / Limestone Lots,G204,1,52486,10597,0,0
+2761,10,133216,Gainesville / Limestone Lots,G205,1,52501,10597,0,0
+2762,10,131057,Rosslyn / Ballston,H101,0,51388,10598,0,0
+2762,10,131056,Rosslyn / Ballston,H102,0,51551,10598,0,0
+2762,10,131055,Rosslyn / Ballston,H103,0,51550,10598,0,0
+2762,10,131054,Rosslyn / Ballston,H104,0,51598,10598,0,0
+2762,10,131061,Haymarket,H101,1,52503,10599,0,0
+2762,10,131060,Haymarket,H102,1,51554,10599,0,0
+2762,10,131059,Haymarket,H103,1,52489,10599,0,0
+2762,10,131058,Haymarket,H104,1,51673,10599,0,0
+2763,10,131087,State Department / Washington DC,L101,0,51572,10600,0,0
+2763,10,131088,State Department / Washington DC,L103,0,51573,10600,0,0
+2763,10,131089,State Department / Washington DC,L104,0,52498,10600,0,0
+2763,10,131090,State Department / Washington DC,L105,0,51575,10600,0,0
+2763,10,131091,State Department / Washington DC,L107,0,51576,10600,0,0
+2763,10,131092,Pentagon / State Department / Washington DC,L109,0,51577,10602,0,0
+2763,10,131093,Pentagon / State Department / Washington DC,L110,0,52471,10602,0,0
+2763,10,131096,Pentagon / Lake Ridge,L101,1,51530,10605,0,0
+2763,10,131097,Lake Ridge,L102,1,51473,10604,0,0
+2763,10,131098,Lake Ridge,L103,1,51580,10604,0,0
+2763,10,131099,Lake Ridge,L105,1,51581,10604,0,0
+2763,10,131100,Lake Ridge,L107,1,51582,10604,0,0
+2763,10,131101,Lake Ridge,L109,1,51583,10604,0,0
+2763,10,131102,Lake Ridge,L111,1,51396,10604,0,0
+2763,10,131103,Lake Ridge for D300 transfer at Pentagon,L113,1,51584,10606,0,0
+2763,10,131095,"Lake Ridge / for D300, MC transfer at Pentagon",L114,1,51579,10607,0,0
+2763,10,131094,"Lake Ridge / for D300, MC transfer at Pentagon",L115,1,51578,10607,0,0
+2764,10,131124,Pentagon / Crystal City,L201,0,51599,10608,0,0
+2764,10,131123,Pentagon / Crystal City,L203,0,51598,10608,0,0
+2764,10,131122,Pentagon / Crystal City,L204,0,51597,10608,0,0
+2764,10,131121,Pentagon / Crystal City,L206,0,51381,10608,0,0
+2764,10,131132,"Lake Ridge / for D200, MC, M transfer at Pentagon",L201,1,51604,10614,0,0
+2764,10,131131,"Lake Ridge / for D200, MC, M transfer at Pentagon",L202,1,51471,10611,0,0
+2764,10,131133,Lake Ridge,L203P,1,51605,10613,0,0
+2764,10,131130,Pentagon / Lake Ridge,L204,1,51603,10612,0,0
+2764,10,131129,Pentagon / Lake Ridge,L205,1,51579,10612,0,0
+2764,10,131128,Pentagon / Lake Ridge,L206,1,51602,10612,0,0
+2764,10,131127,Pentagon / Lake Ridge,L208,1,51601,10612,0,0
+2764,10,131126,"Lake Ridge / for D100, RS transfer at Pentagon",L210,1,51600,10610,0,0
+2764,10,131125,Lake Ridge,L211P,1,51444,10613,0,0
+2765,10,131142,Mark Center,L301,0,52495,10615,0,0
+2765,10,131143,Mark Center,L303,0,52495,10615,0,0
+2765,10,131144,Mark Center,L304,0,52479,10615,0,0
+2765,10,131145,Lake Ridge,L301,1,51613,10616,0,0
+2765,10,131146,Lake Ridge,L303,1,51614,10616,0,0
+2765,10,131147,Lake Ridge,L304,1,52496,10616,0,0
+2766,10,131164,Linton Hall Metro Direct to Tysons Corner,LH1,0,51524,10617,0,0
+2766,10,131167,Linton Hall Metro Direct to Tysons Corner,LH2,0,52499,10617,0,0
+2766,10,131166,Linton Hall Metro Direct to Tysons Corner,LH3,0,51466,10617,0,0
+2766,10,131165,Linton Hall Metro Direct to Tysons Corner,LH4,0,51625,10617,0,0
+2766,10,131168,Linton Hall Metro Direct to Linton Hall,LH1,1,51626,10618,0,0
+2766,10,131171,Linton Hall Metro Direct to Linton Hall,LH2,1,51628,10618,0,0
+2766,10,131170,Linton Hall Metro Direct to Linton Hall,LH3,1,51627,10618,0,0
+2766,10,131169,Linton Hall Metro Direct to Linton Hall,LH4,1,51554,10618,0,0
+2767,10,131184,Washington DC / L'Enfant Plaza,M101,0,51377,10619,0,0
+2767,10,131185,Washington DC / L'Enfant Plaza,M103,0,51637,10619,0,0
+2767,10,131186,Washington DC / L'Enfant Plaza,M104,0,51577,10619,0,0
+2767,10,131187,Washington DC / L'Enfant Plaza,M105,0,52475,10619,0,0
+2767,10,131188,Washington DC / L'Enfant Plaza,M106,0,51435,10619,0,0
+2767,10,131189,Portsmouth / Cushing Lots,M101G,1,51638,10621,0,0
+2767,10,131190,Portsmouth / Cushing Lots,M103G,1,51639,10621,0,0
+2767,10,131191,Manassas / Portsmouth Lot,M104,1,51640,10620,0,0
+2767,10,131192,Manassas / Portsmouth Lot,M105,1,51444,10620,0,0
+2767,10,131193,Portsmouth / Cushing Lots,M106G,1,51641,10621,0,0
+2768,10,131210,Pentagon,M201,0,51380,10622,0,0
+2768,10,131211,Pentagon,M203,0,51432,10622,0,0
+2768,10,131215,Pentagon,M204,0,51651,10622,0,0
+2768,10,131212,Pentagon,M205,0,51649,10622,0,0
+2768,10,131213,Pentagon,M206,0,52462,10622,0,0
+2768,10,131214,Pentagon,M207,0,52471,10622,0,0
+2768,10,131216,Portsmouth / Cushing / Limestone Lots,M201G,1,51652,10626,0,0
+2768,10,131217,Portsmouth / Cushing / Limestone Lots,M202G,1,51628,10626,0,0
+2768,10,131218,Manassas / Portsmouth Lot,M203,1,52502,10624,0,0
+2768,10,131219,Manassas / Portsmouth Lot,M204,1,51600,10624,0,0
+2768,10,131220,Manassas / Portsmouth Lot,M206,1,51605,10624,0,0
+2768,10,131221,Portsmouth / Cushing / Limestone,M208G,1,51440,10625,0,0
+2768,10,131222,Portsmouth / Cushing / Limestone,M209G,1,51407,10625,0,0
+2769,10,131245,L'Enfant Plaza / Washington DC,MC101,0,51465,10627,0,0
+2769,10,131244,L'Enfant Plaza / Washington DC,MC102X,0,51625,10628,0,0
+2769,10,131246,L'Enfant Plaza / Washington DC,MC103,0,51665,10627,0,0
+2769,10,131247,L'Enfant Plaza / Washington DC,MC105,0,51666,10627,0,0
+2769,10,131248,L'Enfant Plaza / Washington DC,MC106,0,51667,10627,0,0
+2769,10,131249,Pentagon / L'Enfant Plaza / Washington DC,MC107,0,51668,10629,0,0
+2769,10,131250,Pentagon / L'Enfant Plaza / Washington DC,MC108,0,51669,10629,0,0
+2769,10,131251,Pentagon / L'Enfant Plaza / Washington DC,MC109,0,51393,10629,0,0
+2769,10,131252,"Montclair / for D300, L200, M transfer at Pentagon",MC101,1,51670,10633,0,0
+2769,10,131253,"Montclair / for D300, L200, M transfer at Pentagon",MC102,1,51671,10630,0,0
+2769,10,131254,234 Lot / Montclair,MC103,1,52501,10631,0,0
+2769,10,131255,234 Lot / Montclair,MC104,1,51653,10631,0,0
+2769,10,131256,234 Lot / Montclair,MC105,1,51673,10631,0,0
+2769,10,131257,234 Lot / Montclair,MC106,1,51674,10631,0,0
+2769,10,131258,234 Lot / Montclair,MC108,1,51675,10631,0,0
+2769,10,131259,234 Lot / Montclair,MC110,1,51676,10631,0,0
+2769,10,131260,Pentagon / Montclair / 234 Lot,MC111,1,51400,10632,0,0
+2769,10,131261,"Montclair / for D300, L200, M transfer at Pentagon",MC112,1,51410,10630,0,0
+2770,10,131280,Pentagon,M201X,0,51551,10634,0,0
+2770,10,131285,Pentagon,MC203,0,51669,10635,0,0
+2770,10,131281,Pentagon,MC204,0,51575,10635,0,0
+2770,10,131282,Pentagon,MC205,0,51525,10635,0,0
+2770,10,131283,Pentagon,MC206,0,51576,10635,0,0
+2770,10,131284,Pentagon,MC207,0,51683,10635,0,0
+2770,10,131286,Montclair / 234 Lot,MC201,1,51407,10636,0,0
+2770,10,131287,Montclair / 234 Lot,MC203,1,51584,10636,0,0
+2770,10,131288,Montclair / 234 Lot,MC204,1,51684,10636,0,0
+2770,10,131289,Montclair / 234 Lot,MC206,1,51578,10636,0,0
+2770,10,131290,Montclair / 234 Lot,MC207,1,51475,10636,0,0
+2770,10,131291,Montclair / 234 Lot,MC208,1,51410,10636,0,0
+2770,10,131292,Montclair / 234 Lot,MC209,1,51653,10636,0,0
+2770,10,131293,Montclair / 234 Lot,MC210,1,51527,10636,0,0
+2771,10,131333,Manassas Metro Direct / Tysons Corner Metro,MT1,0,51649,10637,0,0
+2771,10,131332,Manassas Metro Direct / Tysons Corner Metro,MT2,0,51701,10637,0,0
+2771,10,131331,Manassas Metro Direct / Tysons Corner Metro,MT3,0,51700,10637,0,0
+2771,10,131330,Manassas Metro Direct / Tysons Corner Metro,MT4X,0,51702,10638,0,0
+2771,10,131329,Manassas Metro Direct / Tysons Corner Metro,MT5X,0,51701,10638,0,0
+2771,10,131328,Manassas Metro Direct / Tysons Corner Metro,MT6X,0,51700,10638,0,0
+2771,10,131327,Manassas Metro Direct / Tysons Corner Metro,MT7X,0,51701,10638,0,0
+2771,10,131326,Manassas Metro Direct / Tysons Corner Metro,MT8X,0,51700,10638,0,0
+2771,10,131341,Manassas Metro Direct / Manassas,MT1X,1,51706,10640,0,0
+2771,10,131340,Manassas Metro Direct / Manassas,MT2X,1,51705,10640,0,0
+2771,10,131339,Manassas Metro Direct / Manassas,MT3X,1,51704,10640,0,0
+2771,10,131338,Manassas Metro Direct / Manassas,MT4X,1,51703,10640,0,0
+2771,10,131337,Manassas Metro Direct / Manassas,MT5X,1,51706,10640,0,0
+2771,10,131336,Manassas Metro Direct / Manassas,MT6X,1,51705,10640,0,0
+2771,10,131335,Manassas Metro Direct / Manassas Junction via Sudley,MT7,1,51704,10639,0,0
+2771,10,131334,Manassas Metro Direct / Manassas Junction via Sudley,MT8,1,51703,10639,0,0
+2772,10,132839,Manassas OmniLink North / NOVA,,0,52442,10641,0,0
+2772,10,132840,Manassas OmniLink North / NOVA,,0,52442,10641,0,0
+2772,10,132841,Manassas OmniLink North / NOVA,,0,52442,10641,0,0
+2772,10,132842,Manassas OmniLink North / NOVA,,0,52442,10641,0,0
+2772,10,132843,Manassas OmniLink North / NOVA,,0,52442,10641,0,0
+2772,10,132844,Manassas OmniLink North / NOVA,,0,52442,10641,0,0
+2772,10,132845,Manassas OmniLink North / NOVA,,0,52442,10641,0,0
+2772,10,132846,Manassas OmniLink North / NOVA,,0,52442,10641,0,0
+2772,10,132847,Manassas OmniLink North / NOVA,,0,52442,10641,0,0
+2772,10,132848,Manassas OmniLink North / NOVA,,0,52442,10641,0,0
+2772,10,132849,Manassas OmniLink North / NOVA,,0,52442,10641,0,0
+2772,10,132850,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52442,10642,0,0
+2772,10,132851,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52442,10643,0,0
+2772,10,132852,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52442,10643,0,0
+2772,10,132853,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52442,10643,0,0
+2772,10,132854,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52442,10643,0,0
+2772,10,132855,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52442,10643,0,0
+2772,10,132856,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52442,10643,0,0
+2772,10,132857,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52442,10643,0,0
+2772,10,132858,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52442,10643,0,0
+2772,10,132859,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52442,10643,0,0
+2772,10,132860,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52442,10643,0,0
+2772,10,132861,Manassas OmniLink North - Novant Medical Center / Manassas Mall,,1,52442,10643,0,0
+2773,10,132955,Manassas Park OmniLink,,0,52443,10644,0,0
+2773,10,132956,Manassas Park OmniLink,,0,52443,10644,0,0
+2773,10,132957,Manassas Park OmniLink,,0,52443,10644,0,0
+2773,10,132958,Manassas Park OmniLink,,0,52443,10644,0,0
+2773,10,132959,Manassas Park OmniLink,,0,52443,10644,0,0
+2773,10,132960,Manassas Park OmniLink,,0,52443,10644,0,0
+2773,10,132961,Manassas Park OmniLink,,0,52443,10644,0,0
+2773,10,132962,Manassas Park OmniLink,,0,52443,10644,0,0
+2773,10,132963,Manassas Park OmniLink,,0,52443,10644,0,0
+2773,10,132964,Manassas Park OmniLink,,0,52443,10644,0,0
+2773,10,132965,Manassas Park OmniLink,,0,52443,10644,0,0
+2773,10,132966,Manassas Park OmniLink,,0,52443,10644,0,0
+2774,10,133060,Manassas OmniLink - South / Manassas Mall,,0,53213,10645,0,0
+2774,10,133059,Manassas OmniLink - South / Manassas Mall,,0,53213,10645,0,0
+2774,10,133058,Manassas OmniLink - South / Manassas Mall,,0,53213,10645,0,0
+2774,10,133057,Manassas OmniLink - South / Manassas Mall,,0,53213,10645,0,0
+2774,10,133056,Manassas OmniLink - South / Manassas Mall,,0,53213,10645,0,0
+2774,10,133055,Manassas OmniLink - South / Manassas Mall,,0,53213,10645,0,0
+2774,10,133054,Manassas OmniLink - South / Manassas Mall,,0,53213,10645,0,0
+2774,10,133053,Manassas OmniLink - South / Manassas Mall,,0,53213,10645,0,0
+2774,10,133052,Manassas OmniLink - South / Manassas Mall,,0,53213,10645,0,0
+2774,10,133051,Manassas OmniLink - South / Manassas Mall,,0,53213,10645,0,0
+2774,10,133050,Manassas OmniLink - South / Manassas Mall,,0,53213,10645,0,0
+2774,10,133049,Manassas OmniLink - South / Manassas Mall,,0,53213,10645,0,0
+2774,10,133061,Manassas OmniLink - South /  Oaks of Wellington,,1,53213,10646,0,0
+2774,10,133062,Manassas OmniLink - South /  Oaks of Wellington,,1,53213,10646,0,0
+2774,10,133063,Manassas OmniLink - South /  Oaks of Wellington,,1,53213,10646,0,0
+2774,10,133064,Manassas OmniLink - South /  Oaks of Wellington,,1,53213,10646,0,0
+2774,10,133065,Manassas OmniLink - South /  Oaks of Wellington,,1,53213,10646,0,0
+2774,10,133066,Manassas OmniLink - South /  Oaks of Wellington,,1,53213,10646,0,0
+2774,10,133067,Manassas OmniLink - South /  Oaks of Wellington,,1,53213,10646,0,0
+2774,10,133068,Manassas OmniLink - South /  Oaks of Wellington,,1,53213,10646,0,0
+2774,10,133069,Manassas OmniLink - South /  Oaks of Wellington,,1,53213,10646,0,0
+2774,10,133070,Manassas OmniLink - South /  Oaks of Wellington,,1,53213,10646,0,0
+2774,10,133071,Manassas OmniLink - South /  Oaks of Wellington,,1,53213,10646,0,0
+2777,10,131622,Pentagon / L'Enfant Plaza / Washington DC,RS1,0,52468,10661,0,0
+2777,10,131623,Pentagon / L'Enfant Plaza / Washington DC,RS2,0,52470,10661,0,0
+2777,10,131624,Pentagon / L'Enfant Plaza / Washington DC,RS4,0,51651,10661,0,0
+2777,10,131625,Pentagon / South Route 1 / 234 Lot,RS1,1,51641,10664,0,0
+2777,10,131626,Pentagon / South Route 1 / 234 Lot,RS2,1,52491,10664,0,0
+2777,10,131627,Pentagon / South Route 1 / 234 Lot,RS3,1,51474,10664,0,0
+2777,10,131628,"South Route 1 / for L200, D100 transfer at Pentagon",RS5,1,51737,10663,0,0
+2778,10,132537,Route 1 OmniLink / Woodbridge VRE,,0,52435,10665,0,0
+2778,10,132536,Route 1 OmniLink / Woodbridge VRE,,0,52436,10665,0,0
+2778,10,132535,Route 1 OmniLink / Woodbridge VRE,,0,52435,10665,0,0
+2778,10,132534,Route 1 OmniLink / Woodbridge VRE,,0,52436,10665,0,0
+2778,10,132533,Route 1 OmniLink / Woodbridge VRE,,0,52435,10665,0,0
+2778,10,132532,Route 1 OmniLink / Woodbridge VRE,,0,52435,10665,0,0
+2778,10,132531,Route 1 OmniLink / Woodbridge VRE,,0,52435,10665,0,0
+2778,10,132530,Route 1 OmniLink / Woodbridge VRE,,0,52435,10665,0,0
+2778,10,132529,Route 1 OmniLink / Woodbridge VRE,,0,52437,10665,0,0
+2778,10,132528,Route 1 OmniLink / Woodbridge VRE,,0,52435,10665,0,0
+2778,10,132527,Route 1 OmniLink / Woodbridge VRE,,0,52437,10665,0,0
+2778,10,132526,Route 1 OmniLink / Woodbridge VRE,,0,52437,10665,0,0
+2778,10,132525,Route 1 OmniLink to Woodbride VRE,,0,52437,10666,0,0
+2778,10,132550,Route 1 OmniLink / Quantico,,1,52435,10667,0,0
+2778,10,132549,Route 1 OmniLink / Quantico,,1,52436,10667,0,0
+2778,10,132548,Route 1 OmniLink / Quantico,,1,52435,10667,0,0
+2778,10,132547,Route 1 OmniLink to Quantico,,1,52436,10668,0,0
+2778,10,132546,Route 1 OmniLink / Quantico,,1,52435,10667,0,0
+2778,10,132545,Route 1 OmniLink / Quantico,,1,52435,10667,0,0
+2778,10,132544,Route 1 OmniLink / Quantico,,1,52435,10667,0,0
+2778,10,132543,Route 1 OmniLink / Quantico,,1,52437,10667,0,0
+2778,10,132542,Route 1 OmniLink / Quantico,,1,52435,10667,0,0
+2778,10,132541,Route 1 OmniLink / Quantico,,1,52437,10667,0,0
+2778,10,132540,Route 1 OmniLink to Quantico,,1,52435,10668,0,0
+2778,10,132539,Route 1 OmniLink / Quantico,,1,52437,10667,0,0
+2778,10,132538,Route 1 OmniLink / Quantico,,1,52437,10667,0,0
+2780,10,131773,Tysons Corner,T1,0,51386,10674,0,0
+2780,10,131772,Tysons Corner,T2,0,51462,10674,0,0
+2780,10,131774,Tysons Corner,T3,0,52467,10674,0,0
+2780,10,135284,Woodbridge VRE,T1,1,52494,10675,0,0
+2780,10,131775,Woodbridge VRE,T2,1,51737,10675,0,0
+2780,10,131776,Woodbridge VRE,T3,1,51773,10675,0,0
+2780,10,131777,Woodbridge VRE,T4,1,52487,10675,0,0
+2792,10,132677,Woodbridge A OmniLink / PRTC Transit Ctr via Marumsco,,0,52432,10698,0,0
+2792,10,132678,Woodbridge A OmniLink / PRTC Transit Ctr via Marumsco,,0,52429,10698,0,0
+2792,10,132679,Woodbridge A OmniLink / PRTC Transit Ctr via Marumsco,,0,52428,10698,0,0
+2792,10,132680,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52432,10699,0,0
+2792,10,132681,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52429,10699,0,0
+2792,10,132682,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52428,10699,0,0
+2792,10,132683,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52432,10700,0,0
+2792,10,132684,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52429,10699,0,0
+2792,10,132685,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52428,10699,0,0
+2792,10,132686,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52429,10699,0,0
+2792,10,132687,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52428,10699,0,0
+2792,10,132688,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52429,10699,0,0
+2792,10,132689,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52428,10699,0,0
+2792,10,132690,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52429,10699,0,0
+2792,10,132691,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52428,10699,0,0
+2792,10,132692,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52429,10699,0,0
+2792,10,132693,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52428,10699,0,0
+2792,10,132694,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52429,10699,0,0
+2792,10,132695,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52433,10699,0,0
+2792,10,132696,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52428,10699,0,0
+2792,10,132697,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52429,10700,0,0
+2792,10,132698,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52433,10699,0,0
+2792,10,132699,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52428,10700,0,0
+2792,10,132700,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52433,10699,0,0
+2792,10,132701,Woodbridge A OmniLink / Tacketts Mill via Marumsco,,0,52433,10700,0,0
+2792,10,132702,Woodbridge B OmniLink / PRTC Transit Ctr via Marumsco,,1,52431,10701,0,0
+2792,10,132703,Woodbridge B OmniLink / PRTC Transit Ctr via Marumsco,,1,52427,10701,0,0
+2792,10,132704,Woodbridge B OmniLink / PRTC Transit Ctr via Marumsco,,1,52430,10701,0,0
+2792,10,132705,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52431,10702,0,0
+2792,10,132706,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52427,10702,0,0
+2792,10,132707,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52430,10702,0,0
+2792,10,132708,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52431,10703,0,0
+2792,10,132709,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52427,10702,0,0
+2792,10,132710,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52430,10702,0,0
+2792,10,132711,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52427,10702,0,0
+2792,10,132712,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52430,10702,0,0
+2792,10,132713,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52427,10702,0,0
+2792,10,132714,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52430,10702,0,0
+2792,10,132715,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52427,10702,0,0
+2792,10,132716,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52430,10702,0,0
+2792,10,132717,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52427,10702,0,0
+2792,10,132718,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52430,10702,0,0
+2792,10,132719,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52427,10702,0,0
+2792,10,132720,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52434,10702,0,0
+2792,10,132721,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52430,10702,0,0
+2792,10,132722,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52427,10703,0,0
+2792,10,132723,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52434,10702,0,0
+2792,10,132724,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52430,10703,0,0
+2792,10,132725,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52434,10702,0,0
+2792,10,132726,Woodbridge B OmniLink / Tacketts Mill via Chinn,,1,52434,10703,0,0
+2793,10,132586,Prince William Metro Direct / Franconia-Springfield Metro,PF1,0,52438,10717,0,0
+2793,10,132585,Prince William Metro Direct / Franconia-Springfield Metro,PF2,0,52439,10717,0,0
+2793,10,132588,Prince William Metro Express,PF3,0,52438,10716,0,0
+2793,10,132584,Prince William Metro Express,PF4,0,52439,10716,0,0
+2793,10,132583,Prince William Metro Express,PF5,0,52438,10716,0,0
+2793,10,132582,Prince William Metro Express,PF6,0,52439,10716,0,0
+2793,10,132581,Prince William Metro Express,PF7,0,52438,10716,0,0
+2793,10,132577,Prince William Metro Direct / PRTC Transit Center,PF8,0,52439,10723,0,0
+2793,7210,132580,Prince William Metro Express,PF9,0,52438,10716,0,0
+2793,7310,132587,Prince William Metro Express,PF9,0,52438,10715,0,0
+2793,10,132578,Prince William Metro Direct / Franconia-Springfield Metro,PF10X,0,52477,10722,0,0
+2793,10,132579,Prince William Metro Express,PF11,0,52438,10715,0,0
+2793,10,132589,Prince William Metro Direct / Franconia-Springfield Metro,PF1X,1,52478,10728,0,0
+2793,10,132601,Prince William Metro Express,PF2,1,52438,10727,0,0
+2793,10,132599,Prince William Metro Express,PF3,1,52438,10727,0,0
+2793,10,132598,Prince William Metro Express,PF4,1,52438,10727,0,0
+2793,10,132597,Prince William Metro Express,PF5,1,52440,10727,0,0
+2793,10,132596,Prince William Metro Express,PF6,1,52438,10727,0,0
+2793,10,132595,Prince William Metro Express,PF7,1,52440,10727,0,0
+2793,10,132594,Prince William Metro Express,PF8,1,52438,10727,0,0
+2793,10,132593,Prince William Metro Express,PF9,1,52440,10727,0,0
+2793,10,132592,Prince William Metro Express,PF10,1,52438,10727,0,0
+2793,10,132602,OMNIRIDE TRANSIT CENTER VIA POTOMAC MILLS,PF11,1,52440,10724,0,0
+2793,10,132591,Prince William Metro Express,PF12,1,52438,10727,0,0
+2793,10,132590,Prince William Metro Express,PF13,1,52438,10727,0,0
+2793,10,132600,Prince William Metro Express,PF14,1,52438,10726,0,0
+2834,10,135413,RIPPON VRE STATION,VRE1,0,52455,10879,0,0
+2834,10,135414,RIPPON VRE STATION,VRE2,0,52481,10879,0,0
+2834,10,135415,RIPPON VRE STATION,VRE3,0,52455,10879,0,0
+2834,10,135416,RIPPON VRE STATION,VRE4,0,52456,10879,0,0
+2834,10,135417,DALE CITY LOT VIA DALE  BLVD,VRE1,1,52482,10880,0,0
+2834,10,135418,DALE CITY LOT VIA DALE  BLVD,VRE2,1,52488,10880,0,0
+2834,10,135419,DALE CITY LOT VIA DALE  BLVD,VRE3,1,52459,10880,0,0
+2834,10,135420,DALE CITY LOT VIA DALE  BLVD,VRE4,1,52494,10880,0,0
+2834,10,135421,DALE CITY LOT VIA DALE  BLVD,VRE5,1,52457,10880,0,0
+2834,10,135422,DALE CITY LOT VIA DALE  BLVD,VRE6,1,52460,10880,0,0
+2834,10,135423,DALE CITY LOT VIA DALE  BLVD,VRE7,1,52457,10880,0,0
+2834,10,135424,DALE CITY LOT VIA DALE  BLVD,VRE8,1,52459,10880,0,0
+2835,10,135425,Woodbridge VRE Station,VRE1,0,52456,10881,0,0
+2835,10,135426,Woodbridge VRE Station,VRE2,0,52479,10881,0,0
+2835,10,135427,Woodbridge VRE Station,VRE3,0,52456,10881,0,0
+2835,10,135428,Woodbridge VRE Station,VRE4,0,52495,10881,0,0
+2835,10,135429,LAKE RIDGE,VRE1,1,52496,10882,0,0
+2835,10,135430,LAKE RIDGE,VRE2,1,52457,10882,0,0
+2835,10,135431,LAKE RIDGE,VRE3,1,52458,10882,0,0
+2835,10,135432,LAKE RIDGE,VRE4,1,52460,10882,0,0
+2835,10,135433,LAKE RIDGE,VRE5,1,52458,10882,0,0
+2835,10,135434,LAKE RIDGE,VRE6,1,52459,10882,0,0
+2835,10,135435,LAKE RIDGE,VRE7,1,52458,10882,0,0
+2835,10,135436,LAKE RIDGE,VRE8,1,52496,10882,0,0

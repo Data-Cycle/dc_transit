@@ -1,0 +1,29 @@
+route_id,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color,route_type
+18,18,Langley Park / Addison Road Metro,,,C2D6FF,,3
+20,20,Upper Marlboro,,,C2D6FF,,3
+23,23,Seat Pleasant,,,C2D6FF,,3
+11,11,Greenbelt,,,C2D6FF,,3
+24,24,Capitol Heights / District Heights,,,C2D6FF,,3
+32,32,Naylor Road Metro / Clinton,,,C2D6FF,,3
+33,33,Southern Avenue Metro / Camp Springs,,,C2D6FF,,3
+14,14,College Park Metro / Riverdale Park,,,C2D6FF,,3
+30,30,Branch Avenue Metro / Clinton,,,C2D6FF,,3
+53,53,Upper Marlboro,,,C2D6FF,,3
+21X,21X,PGCC / New Carrollton Express,,,C2D6FF,,3
+25,25,Capitol Heights,,,C2D6FF,,3
+12,12,Chillum / Mt. Rainier / Brentwood,,,C2D6FF,,3
+21,21,Upper Marlboro / New Carrollton Metro,,,C2D6FF,,3
+35,35,Forest Heights,,,C2D6FF,,3
+15X,15X,New Carrollton / Greenbelt Express,,,C2D6FF,,3
+22,22,Morgan Boulevard / Brightseat Road,,,C2D6FF,,3
+36,36,Clinton / MD 5 Park & Ride,,,C2D6FF,,3
+13,13,West Hyattsville,,,C2D6FF,,3
+26,26,Largo Town Center Metro / PGCC,,,C2D6FF,,3
+28,28,Largo / Woodmore Towne Centre,,,C2D6FF,,3
+34,34,Suitland Metro / Capital Crossing Apts.,,,C2D6FF,,3
+35S,35S,Fort Washington,,,C2D6FF,,3
+51,51,Courthouse Shuttle,,,C2D6FF,,3
+37,37,Southern Avenue Metro / Camp Springs,,,C2D6FF,,3
+17,17,Route 1 Ride (College Park / Mt. Rainier),,,C2D6FF,,3
+27,27,Landover Metro / Dodge Park,,,C2D6FF,,3
+16,16,Greenbelt / New Carrollton,,,C2D6FF,,3

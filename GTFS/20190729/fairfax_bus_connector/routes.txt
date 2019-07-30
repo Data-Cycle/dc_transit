@@ -1,0 +1,92 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+101,1,101,Fort Hunt - Mount Vernon,Fort Hunt - Mount Vernon,3,,0071bb,ffffff
+109,1,109,Rose Hill,Rose Hill,3,,e1c47c,000000
+151,1,151,Engleside - Mt Vernon,Engleside - Mt Vernon,3,,f7c82b,000000
+152,1,152,Groveton - Mt Vernon,Groveton - Mt Vernon,3,,98a5d3,ffffff
+159,1,159,Engleside Limited-Stop,Engleside Limited-Stop,3,,73cee1,ffffff
+161,1,161,Hybla Valley Counter-Clockwise,Hybla Valley Counter-Clockwise,3,,00897d,ffffff
+162,1,162,Hybla Valley Clockwise,Hybla Valley Clockwise,3,,00897d,ffffff
+171,1,171,Richmond Hwy,Richmond Hwy,3,,eb6e2a,ffffff
+231,1,231,Kingstowne Counter-Clockwise,Kingstowne Counter-Clockwise,3,,a1c962,ffffff
+232,1,232,Kingstowne Clockwise,Kingstowne Clockwise,3,,a1c962,ffffff
+301,1,301,Telegraph Rd,Telegraph Rd,3,,00b7e6,ffffff
+305,1,305,Newington Forest - Silverbrook Road,Newington Forest - Silverbrook Road,3,,60b6c6,ffffff
+306,1,306,GMU - Pentagon,GMU - Pentagon,3,,0db14b,ffffff
+308,1,308,Franconia - Mt. Vernon Hosp.,Franconia - Mt. Vernon Hosp.,3,,e6b9b7,ffffff
+310,1,310,Franconia-Rolling Valley Line,Franconia-Rolling Valley Line,3,,e32d27,ffffff
+321,1,321,Springfield Counter-Clockwise,Springfield Counter-Clockwise,3,,9b2d84,ffffff
+322,1,322,Springfield Clockwise,Springfield Clockwise,3,,9b2d84,ffffff
+334,1,334,DLA - Newington,DLA - Newington,3,,d191bf,ffffff
+335,1,335,Fort Belvoir Express,Fort Belvoir Express,3,,717dbc,ffffff
+340,1,340,FSM - Saratoga P&R,FSM - Saratoga P&R,3,,ef9228,ffffff
+341,1,341,Saratoga P&R - FSM,Saratoga P&R - FSM,3,,009f4f,ffffff
+371,1,371,Lorton-Fullerton Road,Lorton-Fullerton Road,3,,bdd747,000000
+372,1,372,Lorton-Alban Road,Lorton-Alban Road,3,,6850a1,ffffff
+373,1,373,Lorton - Springfield,Lorton - Springfield,3,,ba242c,ffffff
+393,1,393,Saratoga-Pentagon-Mark Center,Saratoga-Pentagon-Mark Center,3,,00bff2,ffffff
+394,1,394,Saratoga - Pentagon Express,Saratoga - Pentagon Express,3,,405b9f,ffffff
+395,1,395,Backlick/Pentagon Express,Backlick/Pentagon Express,3,,f3858d,ffffff
+401,1,401,Backlick - Gallows Road Line,Backlick - Gallows Road Line,3,,0071b3,ffffff
+402,1,402,Tysons-Gallows-Springfield Line,Tysons-Gallows-Springfield Line,3,,0071b3,ffffff
+422,1,422,South Tysons - Greensboro Metro,South Tysons - Greensboro Metro,3,,f4cf24,000000
+423,1,423,Central Tysons - Tysons Corner Metro,Central Tysons - Tysons Corner Metro,3,,7a61a3,ffffff
+424,1,424,North Tysons - Spring Hill Metro,North Tysons - Spring Hill Metro,3,,bdd747,000000
+432,1,432,Old Courthouse - Beulah,Old Courthouse - Beulah,3,,39c2d7,ffffff
+461,1,461,Flint Hill - Tapawingo - Vienna,Flint Hill - Tapawingo - Vienna,3,,b74c5c,ffffff
+462,1,462,Dunn Loring - Navy Federal - Tysons,Dunn Loring - Navy Federal - Tysons,3,,8bba62,ffffff
+463,1,463,Maple Avenue - Tysons,Maple Avenue - Tysons,3,,d2a3cb,ffffff
+466,1,466,Vienna - Oakton,Vienna - Oakton,3,,78b6e3,ffffff
+467,1,467,Dunn Loring - Navy Fed - Tysons,Dunn Loring - Navy Fed - Tysons,3,,7030a0,ffffff
+480,1,480,Wolf Trap Special Shuttle,Wolf Trap Special Shuttle,3,,da2128,ffffff
+494,1,494,Express Connector Springfield,Express Connector Springfield,3,,999dce,ffffff
+495,1,495,Express Connector Burke V.R.E.,Express Connector Burke V.R.E.,3,,8ecea4,ffffff
+505,1,505,Reston Town Center - Wiehle ,Reston Town Center - Wiehle ,3,,f79328,ffffff
+507,1,507,Sunrise Valley - Sunset Hills,Sunrise Valley - Sunset Hills,3,,db403f,ffffff
+551,1,551,Reston South - Glade - South Lakes ,Reston South - Glade - South Lakes ,3,,7aaede,ffffff
+552,1,552,North Shore - Lake Fairfax     ,North Shore - Lake Fairfax     ,3,,99d7da,000000
+553,1,553,Reston South - Viking - Pinecrest,Reston South - Viking - Pinecrest,3,,f04e30,ffffff
+554,1,554,Wiehle Ave - Center Harbor,Wiehle Ave - Center Harbor,3,,a3cf62,ffffff
+556,1,556,Bennington Woods,Bennington Woods,3,,9f66aa,ffffff
+557,1,557,Reston South - Soapstone,Reston South - Soapstone,3,,6e8bbe,ffffff
+558,1,558,Center Harbor - Lake Fairfax,Center Harbor - Lake Fairfax,3,,d48f95,ffffff
+559,1,559,Reston South - Glade - Soapstone,Reston South - Glade - Soapstone,3,,f3c626,000000
+574,1,574,Reston Town Center - Tysons,Reston Town Center - Tysons,3,,e27ab0,ffffff
+585,1,585,Reston South - Franklin Farm,Reston South - Franklin Farm,3,,bc94c4,ffffff
+599,1,599,Pentagon Express,Pentagon Express,3,,639043,ffffff
+605,1,605,Fair Oaks - Reston    ,Fair Oaks - Reston    ,3,,9bba3b,ffffff
+621,1,621,Fairfax Govt Center,Fairfax Govt Center,3,,44ace1,ffffff
+622,1,622,Fairfax Towne Center,Fairfax Towne Center,3,,f3858d,ffffff
+623,1,623,Fairfax Govt Center,Fairfax Govt Center,3,,9f3083,ffffff
+624,1,624,Fair Lakes,Fair Lakes,3,,b4dfee,000000
+630,1,630,Centreville,Centreville,3,,dc5950,ffffff
+631,1,631,Little Rocky Run,Little Rocky Run,3,,f9a870,000000
+632,1,632,Westfields,Westfields,3,,8ca2d3,ffffff
+634,1,634,Stringfellow Road,Stringfellow Road,3,,ffe306,000000
+640,1,640,Stone Rd - Westfields,Stone Rd - Westfields,3,,00a5ac,ffffff
+641,1,641,South Centreville,South Centreville,3,,8a72b3,ffffff
+642,1,642,Sully Station,Sully Station,3,,faa633,ffffff
+644,1,644,Centreville PnR Express,Centreville PnR Express,3,,b9d989,000000
+650,1,650,Chantilly,Chantilly,3,,7da7d8,ffffff
+651,1,651,Sullyfield,Sullyfield,3,,dc6e91,ffffff
+652,1,652,Avion - Franklin Farm,Avion - Franklin Farm,3,,e6c569,000000
+698,1,698,Vienna Metro - Pentagon,Vienna Metro - Pentagon,3,,ed2124,ffffff
+699,1,699,Government Center - Downtown D.C.,Government Center - Downtown D.C.,3,,000099,ffffff
+721,1,721,Chain Bridge Road - Mclean,Chain Bridge Road - Mclean,3,,b63f77,ffffff
+724,1,724,Lewinsville Road,Lewinsville Road,3,,dc583b,ffffff
+924,1,924,Dranesville Rd,Dranesville Rd,3,,adc384,ffffff
+926,1,926,Woldgate - Dranesville Rd,Woldgate - Dranesville Rd,3,,635faa,ffffff
+927,1,927,Dulles Corner - McNair Farms,Dulles Corner - McNair Farms,3,,df763e,ffffff
+929,1,929,Centreville Rd,Centreville Rd,3,,238fac,ffffff
+937,1,937,Elden - Riverbirch,Elden - Riverbirch,3,,5da8dd,ffffff
+950,1,950,Herndon - Reston,Herndon - Reston,3,,9bbec7,ffffff
+951,1,951,Sunrise Valley,Sunrise Valley,3,,9a538a,ffffff
+952,1,952,Sunset Hills,Sunset Hills,3,,27bdbe,ffffff
+980,1,980,Herndon-Monroe - Wiehle,Herndon-Monroe - Wiehle,3,,0099cc,ffffff
+981,1,981,Wiehle - Dulles Airport,Wiehle - Dulles Airport,3,,f5979c,ffffff
+983,1,983,Wiehle - Dulles Airport,Wiehle - Dulles Airport,3,,207e3e,ffffff
+985,1,985,Air and Space Pkwy - Dulles Corner,Air and Space Pkwy - Dulles Corner,3,,ef404a,ffffff
+RIBS1,1,RIBS1,Lake Anne - Hunters Woods,Lake Anne - Hunters Woods,3,,ffe300,000000
+RIBS2,1,RIBS2,South Lakes,South Lakes,3,,00a078,ffffff
+RIBS3,1,RIBS3,Hunters Woods - Lake Anne,Hunters Woods - Lake Anne,3,,999966,ffffff
+RIBS4,1,RIBS4,North Point,North Point,3,,0066b2,ffffff
+RIBS5,1,RIBS5,Herndon,Herndon,3,,b75669,ffffff

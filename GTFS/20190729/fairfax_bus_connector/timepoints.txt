@@ -1,0 +1,2707 @@
+timepoint_id,timepoint_code,timepoint_name,timepoint_desc,timepoint_lat,timepoint_lon,zone_id,timepoint_url,location_type,parent_station,timepoint_timezone,wheelchair_boarding
+1,2711,"Lorton Station Blvd and Grandwind Dr",,38.708040,-77.212030,,,,,,1
+2,3370,"S Lakes Dr and Cabots Point La",,38.932811,-77.334280,,,,,,1
+3,3296,"Sherwood Hall La and Davenport St",,38.745060,-77.072010,,,,,,1
+4,2120,"Gallows Rd and Trammell Rd",,38.847960,-77.206280,,,,,,1
+5,2699,"Little River Tpke and Markham St",,38.830900,-77.199240,,,,,,1
+6,2846,"New Dominion Pkwy and Reston Pkwy",,38.960400,-77.355480,,,,,,1
+7,2374,"Herndon Pkwy and Missouri Ave",,38.958050,-77.389730,,,,,,1
+8,3566,"Sunrise Valley Dr and Thunder Chase Dr",,38.949880,-77.379980,,,,,,1
+9,1942,"Fair Lakes Promenade",,38.860410,-77.368320,,,,,,1
+10,1159,"Burke Center Vre",,38.797252,-77.299997,,,,,,1
+11,4222,"Lee Jackson Hwy and Meadowland Dr",,38.891955,-77.424985,,,,,,1
+12,4293,"Trinity Pkwy and Wood Meadow Way",,38.842343,-77.435702,,,,,,1
+13,2380,"Herndon Pkwy and Queens Row St",,38.976720,-77.370940,,,,,,1
+14,2319,"Hooes Rd and Linden Tree La",,38.757380,-77.233899,,,,,,1
+15,4302,"Walney Rd and Waverly Crossing La",,38.875885,-77.431780,,,,,,1
+16,1924,"Fort Hunt Rd and Washington Library",,38.773380,-77.062340,,,,,,1
+17,5012,"Sully Station Dr and Braddock Rd",,38.864830,-77.459960,,,,,,1
+18,4094,"Fair Lakes Pkwy and Rippling Pond Dr",,38.861316,-77.403050,,,,,,1
+19,5566,"Maple Ave and Niblick Dr",,38.910729,-77.250306,,,,,,1
+20,610,"Frye Rd and Kidd St",,38.735800,-77.114880,,,,,,1
+21,2655,"Lorton Rd and Timarand Dr",,38.703962,-77.217644,,,,,,1
+22,2523,"Kingstowne Village Pkwy and Edgeware La",,38.762680,-77.142310,,,,,,1
+23,1770,"Dranesville Rd and Powells Tavern Pl",,38.999680,-77.376750,,,,,,1
+24,1476,"Braddock Rd and Stone Haven Dr",,38.810640,-77.244490,,,,,,1
+25,2657,"Leesburg Pike and Beulah Rd",,38.957710,-77.274590,,,,,,1
+26,1921,"Flint Hill Rd and Vale Rd",,38.897815,-77.284987,,,,,,1
+27,2705,"Little River Tpke and Annandale Rd",,38.830900,-77.198120,,,,,,1
+28,5405,"Anderson Rd and Chain Bridge Rd",,38.926258,-77.205413,,,,,,1
+29,4265,"Sully Park Dr and Kamputa Dr",,38.852468,-77.457661,,,,,,1
+30,840,"Fort Hunt Rd and Hunting Cove Pl",,38.784960,-77.061120,,,,,,1
+32,1632,"Colts Neck Rd and Jackstay Ter",,38.930315,-77.363289,,,,,,1
+33,1021,"Mt Vernon Hwy and Battersea La N",,38.727490,-77.091130,,,,,,1
+34,2286,"Highland St and Dinwiddie St",,38.791610,-77.190540,,,,,,1
+35,599,"Sacremento Dr and Richmond Hwy",,38.720750,-77.126020,,,,,,1
+36,2511,"Kinross Cir and Scotsmore Way",,38.916950,-77.406900,,,,,,1
+37,1520,"Belle View Blvd and Bluebill La",,38.775020,-77.064000,,,,,,1
+38,3535,"13861 Sunrise Valley Dr",,38.950790,-77.423830,,,,,,1
+39,3042,"Penderbrook Dr and Green Look Ct",,38.865559,-77.355575,,,,,,1
+40,1531,"Bennington Woods Rd and Stevenage Rd",,38.968200,-77.358770,,,,,,1
+41,2175,"Glade Dr and Triple Crown Rd",,38.927967,-77.351854,,,,,,1
+42,2743,"Mulberry Bottom La and Laural Valley Way",,38.746690,-77.216890,,,,,,1
+43,1929,"Florida Ave and Alabama Dr",,38.963966,-77.391892,,,,,,1
+44,3569,"Sunrise Valley Dr and Wethersfield Ct",,38.945180,-77.342680,,,,,,1
+45,4087,"Stringfellow Rd and Brandy Station Rd",,38.892517,-77.404004,,,,,,1
+46,6155,"Saratoga P+R",,38.745788,-77.209763,,,,,,1
+47,1843,"Elden St and Monroe St",,38.969609,-77.384089,,,,,,1
+48,4309,"Wycombe St and Regents Park Rd",,38.843236,-77.456377,,,,,,1
+49,4251,"Poplar Tree Rd and Lees Corner Rd",,38.874169,-77.422764,,,,,,1
+50,6175,"Pohick Rd and Alban Rd",,38.723532,-77.209561,,,,,,1
+51,2356,"1110 Herndon Pkwy",,38.963470,-77.399930,,,,,,1
+54,2176,"Glade Dr and Timberhead La",,38.927645,-77.329925,,,,,,1
+55,2141,"Gunston Hill La and Groom Cottage Dr",,38.697528,-77.220058,,,,,,1
+56,3390,"S Lakes Dr and Soapstone Dr",,38.933515,-77.346103,,,,,,1
+57,3444,"Springe Dr and Chamblee Pl",,38.963337,-77.405993,,,,,,1
+58,1386,"Bluemont Way and Reston Pkwy",,38.957250,-77.355220,,,,,,1
+59,1911,"Fort Hunt Rd and Paul Spring Pkwy",,38.748450,-77.057610,,,,,,1
+60,1857,"1264 Elden St",,38.960858,-77.400357,,,,,,1
+62,1349,"Beryl Rd and Paula Rd",,38.802276,-77.158854,,,,,,1
+63,1722,"Crestleigh Way and Foxleigh Way",,38.755830,-77.168139,,,,,,1
+65,2993,"The Parkway and Austin Ave",,38.782370,-77.095380,,,,,,1
+66,1189,"Lorton Vre Bay A",,38.714921,-77.214324,,,,,,1
+67,5847,"Frontier Dr and Spring Mall Dr",,38.770740,-77.170686,,,,,,1
+69,4116,"Blake La and Cyrandall Valley Rd",,38.876240,-77.289650,,,,,,1
+70,2071,"Gallows Rd and Arlington Blvd",,38.864310,-77.227990,,,,,,1
+71,2572,"Lake Braddock Dr and Bromyard Ct",,38.805440,-77.267210,,,,,,1
+72,5400,"Chain Bridge Rd and International Dr",,38.919864,-77.224763,,,,,,1
+73,3129,"Richmond Hwy and Belford Dr",,38.744494,-77.084229,,,,,,1
+74,2458,"8000 Jones Branch Dr",,38.931553,-77.221254,,,,,,1
+75,1840,"1070 Elden St",,38.966397,-77.396674,,,,,,1
+76,3182,"Richmond Hwy and Russell Rd",,38.733776,-77.099363,,,,,,1
+79,4232,"Little Rocky Run Cir and Wild Brook Ct",,38.833589,-77.423691,,,,,,1
+80,2308,"Hooes Rd and Adrienne Glen Ave",,38.756740,-77.235590,,,,,,1
+81,1329,"Becontree La and Becontree La",,38.966339,-77.328879,,,,,,1
+82,1265,"Backlick Rd and Cumberland Ave",,38.783310,-77.185570,,,,,,1
+84,4128,"Bushman Dr and Valentino Dr E",,38.871920,-77.295120,,,,,,1
+85,3407,"Soapstone Dr and Catalpa Ct",,38.923336,-77.344475,,,,,,1
+86,2142,"Glade Dr and Acton Dr",,38.925971,-77.334420,,,,,,1
+87,1582,"Centreville Rd and Clear Lake Ct",,38.930750,-77.414630,,,,,,1
+90,5665,"Lewinsville Rd and Titania La",,38.941119,-77.218612,,,,,,1
+91,3699,"Vantage Rd and Coldbrooke Ct",,38.767640,-77.109050,,,,,,1
+92,1845,"Elden St and Jonquil La",,38.969410,-77.374310,,,,,,1
+93,621,"Pole Rd and Keeler St",,38.731310,-77.115880,,,,,,1
+94,3880,"Hummer Rd and Horseshoe Dr",,38.835797,-77.209971,,,,,,1
+95,2573,"Lake Braddock Dr and Burdett Rd",,38.803750,-77.274140,,,,,,1
+96,3497,"Sunrise Vly Dr and Campus Commons Dr (West)",,38.943821,-77.337239,,,,,,1
+97,905,"Fort Hunt Rd and Gahant Rd",,38.743870,-77.057050,,,,,,1
+98,2712,"Lorton Station Blvd and Lorton Rd",,38.705710,-77.211320,,,,,,1
+99,2475,"John Marr Dr and Annandale Center Dr",,38.830478,-77.189759,,,,,,1
+100,1972,"Fordson Rd and Beechcraft Dr",,38.753852,-77.086041,,,,,,1
+101,1749,"Deepford St and Frontier Dr",,38.784150,-77.171260,,,,,,1
+102,2851,"Newington Forest Ave and Curving Creek Ct",,38.738760,-77.242610,,,,,,1
+103,3426,"Soapstone Dr and Purple Beech Dr",,38.940096,-77.345600,,,,,,1
+104,3719,"S Van Dorn St and Kingstowne Blvd",,38.773860,-77.133510,,,,,,1
+105,3331,"Sunset Hills Rd and Samuel Morse Dr",,38.947826,-77.330675,,,,,,1
+106,1345,"Beulah St and Miller Dr",,38.755957,-77.164016,,,,,,1
+107,3867,"Fair Oaks Mall",,38.863727,-77.360322,,,,,,1
+108,4223,"Lee Jackson Hwy and Stringfellow Rd",,38.884644,-77.406263,,,,,,1
+109,3125,"Rose Hill Dr and Apple Tree Dr",,38.780976,-77.117812,,,,,,1
+110,3955,"Reston South P+R Bay B",,38.925897,-77.372258,,,,,,1
+111,3617,"Telegraph Rd and Dunsmore Rd",,38.760970,-77.133030,,,,,,1
+112,1141,"Edsall Rd and Montgomery St",,38.807070,-77.175810,,,,,,1
+115,5984,"Monument Dr and Fields Brigade Rd",,38.866319,-77.377663,,,,,,1
+116,3204,"Ring Rd and Westhills La",,38.972370,-77.324200,,,,,,1
+117,1497,"Bowman Towne Dr and Reston Pkwy",,38.962260,-77.354750,,,,,,1
+118,2079,"Gallows Rd and Cottage St",,38.886970,-77.227260,,,,,,1
+119,4052,"Braddock Rd and Orchard Hill La",,38.832958,-77.415286,,,,,,1
+120,730,"Huntington Ave and Fenwick Dr",,38.795650,-77.074100,,,,,,1
+121,1275,"Backlick Rd and Industrial Rd",,38.799960,-77.185300,,,,,,1
+122,2439,"Industrial Rd and Fairfax Archives",,38.798440,-77.179590,,,,,,1
+123,3086,"Pole Rd and Keeler St",,38.731330,-77.116240,,,,,,1
+124,2971,"Old Keene Mill Rd and Millwood Dr",,38.778290,-77.236950,,,,,,1
+125,3139,"Richmond Hwy and Cooper Rd",,38.720470,-77.125100,,,,,,1
+126,1366,"Becontree La and Goldenrain Ct",,38.968200,-77.329910,,,,,,1
+127,2635,"Lee Jackson Hwy and Stringfellow Rd",,38.884184,-77.404995,,,,,,1
+129,4131,"Bushman Dr and Ebenshire Ct",,38.874090,-77.293820,,,,,,1
+131,2486,"King Centre Dr and Barclay Dr",,38.768240,-77.137890,,,,,,1
+132,4073,"Saint Germain Dr and Abelia Ave",,38.837002,-77.441570,,,,,,1
+134,3180,"Richmond Hwy and Roxbury Dr",,38.735440,-77.096280,,,,,,1
+135,1471,"Braddock Rd and Red Spruce Rd",,38.826380,-77.292420,,,,,,1
+136,1133,"Industrial Rd and Commercial Dr",,38.799030,-77.182180,,,,,,1
+137,3954,"Reston South P+R Bay A",,38.925775,-77.372342,,,,,,1
+140,2560,"Lawyers Rd and Steeplechase Dr",,38.923938,-77.362142,,,,,,1
+141,4118,"Blake La and Oakton Crest Ct",,38.875920,-77.284430,,,,,,1
+144,2834,"Mt Vern Mem Hwy and Mt Vernon Hwy (East)",,38.711607,-77.088104,,,,,,1
+145,4186,"Centreville Farms Rd and Pale Moon Way",,38.848438,-77.410054,,,,,,1
+146,3548,"Sunrise Valley Dr and River Birch Rd",,38.948380,-77.421180,,,,,,1
+147,3069,"14100 Park Meadow Dr",,38.870843,-77.437020,,,,,,1
+148,1881,"Franklin Farm Rd and Thorngate Dr",,38.910484,-77.417603,,,,,,1
+149,2290,"Highland St and Gloucester Ave",,38.792320,-77.192220,,,,,,1
+150,3448,"Southrun Rd and Blue Rock La",,38.727600,-77.240320,,,,,,1
+151,6136,"Belvoir Rd and 12Th St",,38.697791,-77.139354,,,,,,1
+152,6200,"Cinder Bed Rd and Newington Rd",,38.734491,-77.184027,,,,,,1
+153,1648,"Columbia Pike and Backlick Rd",,38.831370,-77.194060,,,,,,1
+154,4246,"14280 Park Meadow",,38.873638,-77.440029,,,,,,1
+155,1581,"Centreville Rd and Clear Lake Ct",,38.930910,-77.414933,,,,,,1
+156,3246,"Reston Pkwy and South Lakes Dr",,38.942610,-77.361380,,,,,,1
+159,1939,"Fair Lakes Pkwy and Legato Rd",,38.861890,-77.364380,,,,,,1
+160,2367,"Herndon Pkwy and Grant St",,38.982130,-77.381810,,,,,,1
+161,3874,"Greensboro Dr and Spring Hill Rd",,38.928480,-77.236398,,,,,,1
+162,3432,"Soapstone Dr and Stoneview Sq",,38.932735,-77.347162,,,,,,1
+163,1562,"Chain Bridge Rd and Glengyle Dr",,38.891430,-77.277760,,,,,,1
+164,1995,"Frying Pan Rd and Coppermine Rd",,38.942420,-77.405680,,,,,,1
+165,636,"Fordson Rd and Joseph Makell Ct",,38.747090,-77.081380,,,,,,1
+166,2806,"Monument Dr and Monument Hill Way",,38.856076,-77.351479,,,,,,1
+167,2148,"Glade Dr and Cocquina Dr",,38.946960,-77.374320,,,,,,1
+169,1429,"Braddock Rd and Wakefield Chapel Rd",,38.810810,-77.235450,,,,,,1
+170,2975,"Old Keene Mill Rd and Keene Mill Ctr",,38.778770,-77.234870,,,,,,1
+171,1558,"8560 Cinder Bed Rd",,38.725600,-77.193400,,,,,,1
+172,3647,"Thomas Dr and Deepford St",,38.781630,-77.163750,,,,,,1
+173,2874,"Northumberland Rd and Lake Pleasant Dr",,38.735380,-77.215210,,,,,,1
+174,4129,"Bushman Dr and Borge St",,38.873750,-77.300560,,,,,,1
+175,2833,"Mt Vern Mem Hwy and Mt Vernon Hwy (West)",,38.712250,-77.088840,,,,,,1
+176,2750,"Mclearen Rd and Eds Dr",,38.925460,-77.419350,,,,,,1
+177,3496,"Sunrise Vly Dr and Campus Commons Dr (East)",,38.942315,-77.333096,,,,,,1
+178,1045,"Mt Vernon Hwy and Cunningham Dr",,38.717880,-77.089200,,,,,,1
+179,3960,"Soapstone Dr and Woodhollow Ct",,38.927160,-77.344200,,,,,,1
+180,1950,"Fair Lakes Blvd and Sedgehurst Dr",,38.856749,-77.397530,,,,,,1
+181,2024,"Franconia Rd and Em St",,38.783170,-77.140200,,,,,,1
+182,1956,"Fair Lakes Pkwy and West Ox Rd",,38.859550,-77.372290,,,,,,1
+183,1269,"Backlick Rd and Floyd Ave",,38.789780,-77.186380,,,,,,1
+184,2787,"Mt Vernon Mem Hwy and Old Mill Rd",,38.707720,-77.116860,,,,,,1
+185,1925,"Fort Hunt Rd and Westgrove Blvd",,38.764000,-77.059770,,,,,,1
+186,1255,"Backlick Rd and Backlick Ct",,38.801160,-77.184720,,,,,,1
+187,2779,"Mt Vernon Mem Hwy and Cherrytree Dr",,38.713180,-77.102030,,,,,,1
+188,1934,"Fair Lakes Pkwy and Fair Knoll Dr",,38.861960,-77.387300,,,,,,1
+189,3397,"S Lakes Dr and Tanbark Dr",,38.931056,-77.340869,,,,,,1
+190,5922,"Lee Rd and Albemarle Point Pl",,38.891461,-77.449948,,,,,,1
+191,2333,"Hooes Rd and Sydenstricker Rd",,38.756000,-77.238429,,,,,,1
+192,1534,"Bennington Woods Rd and Whisperhill Dr",,38.969900,-77.357480,,,,,,1
+193,3797,"Wiehle Ave and Center Harbor Rd",,38.981120,-77.336410,,,,,,1
+194,5497,"Old Dominion Dr and Corner La",,38.933210,-77.175550,,,,,,1
+195,2358,"Herndon Pkwy and Exchange Pl",,38.954530,-77.380370,,,,,,1
+196,2801,"Monument Dr and Fair Lakes Promenade",,38.860520,-77.365858,,,,,,1
+197,1766,"Dranesville Rd and Kingstream Dr",,38.990960,-77.376910,,,,,,1
+198,3552,"Sunrise Valley Dr and Int'L Ctr",,38.949120,-77.354380,,,,,,1
+200,2491,"Kinross Cir and Allness La",,38.915130,-77.416270,,,,,,1
+201,3327,"Sunset Hills Rd and Reston Pkwy",,38.954904,-77.354588,,,,,,1
+202,652,"Richmond Hwy and Ladson La",,38.740200,-77.087360,,,,,,1
+203,3586,"Tapawingo Rd and Meadow La",,38.887287,-77.267574,,,,,,1
+204,2371,"Herndon Pkwy and Leona La",,38.973449,-77.370195,,,,,,1
+205,4110,"Awbrey Patent Dr and Great Rocky Run",,38.847268,-77.445284,,,,,,1
+206,1636,"Colts Neck Rd and Stirrup Rd",,38.928550,-77.365825,,,,,,1
+207,6249,"Park St and Elmar Dr",,38.896570,-77.254006,,,,,,1
+208,5570,"Old Courthouse Rd and Woodford Rd",,38.914573,-77.233556,,,,,,1
+209,5925,"Willard Rd and Entre Ct",,38.887266,-77.435987,,,,,,1
+210,952,"Richmond Hwy and Fordson Rd",,38.748680,-77.082830,,,,,,1
+211,3961,"Springfield Mall",,38.771840,-77.175190,,,,,,1
+212,2391,"Herndon Pkwy and Springtide Pl",,38.967460,-77.404660,,,,,,1
+214,2287,"Highland St and Dinwiddie St",,38.791480,-77.190540,,,,,,1
+215,978,"Richmond Hwy and Schooley Dr",,38.771010,-77.081270,,,,,,1
+216,1266,"Backlick Rd and Edgebrook Dr",,38.787600,-77.186110,,,,,,1
+217,2887,"N Shore Dr and Forest Edge Dr",,38.969950,-77.331370,,,,,,1
+218,1049,"Mt Vernon Hwy and Sunny View Dr",,38.735520,-77.091460,,,,,,1
+219,2766,"Memorial St and South Kings Hwy",,38.773624,-77.090738,,,,,,1
+220,2135,"Fairfax Government Center",,38.853440,-77.358247,,,,,,1
+221,3080,"Pohick Rd and Clifforest Dr",,38.736962,-77.227011,,,,,,1
+222,1008,"Richmond Hwy and Fordson Rd",,38.749140,-77.083220,,,,,,1
+223,4061,"Walney Rd and Eagle Chase Rd",,38.877952,-77.434067,,,,,,1
+224,3056,"Pinecrest Rd and Fox Mill Rd",,38.932937,-77.378732,,,,,,1
+225,2156,"Glade Dr and Laurel Glade Ct",,38.941630,-77.368070,,,,,,1
+228,1940,"Fair Lakes Pkwy and Oak Creek La",,38.859900,-77.375000,,,,,,1
+229,2061,"Frontier Dr and Buckskin St",,38.778950,-77.171880,,,,,,1
+230,5300,"Braddock Rd and Bradfield Dr",,38.810730,-77.263160,,,,,,1
+232,4159,"15000 Conference Center Dr",,38.876012,-77.465336,,,,,,1
+233,2915,"N Shore Dr and Wiehle Ave",,38.969920,-77.334430,,,,,,1
+234,4123,"Braddock Rd and Old Centreville Rd",,38.836086,-77.428571,,,,,,1
+235,1913,"Flint Hill Rd and Rambling Rd",,38.892516,-77.280762,,,,,,1
+236,829,"Fort Hunt Rd and Morningside La",,38.752840,-77.057150,,,,,,1
+237,2666,"Leesburg Pike and Downey Dr",,38.976160,-77.309980,,,,,,1
+239,2822,"Mt Vernon Hwy and Cunningham Dr",,38.717500,-77.089240,,,,,,1
+240,3533,"Sunrise Valley Dr and Jefferson Park",,38.949350,-77.422160,,,,,,1
+241,2706,"Little River Tpke and Hummer Rd",,38.832890,-77.210530,,,,,,1
+243,3721,"S Van Dorn St and Lake Village Dr",,38.778507,-77.135647,,,,,,1
+244,3512,"Sunrise Valley Dr and Sayward Blvd",,38.958860,-77.422180,,,,,,1
+245,3153,"Richmond Hwy and Frye Rd",,38.727370,-77.111640,,,,,,1
+246,1462,"Braddock Rd and Randolph Dr",,38.816380,-77.168440,,,,,,1
+247,1640,"Commerce St and Amherst Ave",,38.782900,-77.189350,,,,,,1
+248,4180,"Centrewood Dr and Summer Tree Rd",,38.829981,-77.440316,,,,,,1
+249,2349,"Herndon Pkwy and Palmer Dr",,38.958880,-77.392190,,,,,,1
+250,2058,"Franconia Springfield Pkwy and Bonniemill La",,38.764540,-77.196440,,,,,,1
+251,6457,"Huntington Metro South Bay B",,38.792135,-77.076058,,,,,,1
+253,3564,"Sunrise Valley Dr and Association Dr (West)",,38.945710,-77.346900,,,,,,1
+254,2097,"Gallows Rd and Hemlock Dr",,38.851680,-77.214730,,,,,,1
+255,1821,"Elden St and Center St",,38.969646,-77.388026,,,,,,1
+256,3571,"Seven Woods Dr and Buckman Rd",,38.738020,-77.098500,,,,,,1
+257,2976,"Old Keene Mill Rd and Rolling Rd",,38.779490,-77.231450,,,,,,1
+259,2231,"Greensboro Dr and Westpark Dr",,38.924755,-77.232231,,,,,,1
+260,2316,"8520 Hooes Rd",,38.755600,-77.239780,,,,,,1
+261,6472,"Crown Royal Dr and High Meadow Rd",,38.788367,-77.138640,,,,,,1
+262,2503,"Kingstowne Blvd and Kingstowne Village Pkwy",,38.770097,-77.137847,,,,,,1
+263,3088,"Pole Rd and Leaf Rd",,38.729440,-77.123370,,,,,,1
+265,1764,"Dranesville Rd and Hiddenbrook Dr",,38.993910,-77.376880,,,,,,1
+266,4226,"Little Rocky Run Cir and Braddock Creek Rd",,38.832879,-77.424361,,,,,,1
+268,2968,"Old Keene Mill Rd and Keene Dr",,38.773650,-77.259180,,,,,,1
+269,2862,"North Kings Hwy and Fairhaven Ave",,38.786070,-77.077900,,,,,,1
+271,5764,"Pentagon City Metro",,38.862974,-77.059577,,,,,,1
+272,2636,"Lee Jackson Hwy and Stringfellow Rd",,38.883834,-77.405134,,,,,,1
+273,2344,"Herndon Pkwy and Cordell Way",,38.967748,-77.371620,,,,,,1
+274,5763,"15Th St (South) and S Fern St",,38.859658,-77.056075,,,,,,1
+275,2363,"Herndon Pkwy and Ferndale Ave",,38.978980,-77.392670,,,,,,1
+276,4208,"Lee Jackson Hwy and Pickwick Rd",,38.839043,-77.423974,,,,,,1
+277,3521,"Sunrise Valley Dr and Edmund Halley Dr",,38.948870,-77.364140,,,,,,1
+278,6118,"Saratoga Shopping Ctr",,38.739841,-77.211340,,,,,,1
+279,1279,"Backlick Rd and Leestone St",,38.809360,-77.185760,,,,,,1
+280,2929,"Nutley St and Roland St",,38.892770,-77.272730,,,,,,1
+281,3244,"Reston Pkwy and Oslo Rd",,38.931340,-77.369620,,,,,,1
+282,2826,"Mt Vernon Hwy and Grist Mill Woods Way",,38.714165,-77.131266,,,,,,1
+283,2838,"Morning View La and Tassia Dr",,38.745570,-77.169590,,,,,,1
+285,3418,"Soapstone Dr and Underoak Ct",,38.930666,-77.346108,,,,,,1
+286,3546,"Sunrise Valley Dr and Preston White Dr",,38.941451,-77.326763,,,,,,1
+287,2550,"Lawrence St and Kemper St",,38.737940,-77.113110,,,,,,1
+288,5801,"Laurel Crest Dr and Silverbrook Rd",,38.711104,-77.228838,,,,,,1
+289,3136,"Richmond Hwy and Cherwek Dr",,38.700768,-77.210865,,,,,,1
+290,578,"Seven Woods Dr and Burlingame Pl",,38.740810,-77.098910,,,,,,1
+291,6156,"Colshire Meadow Dr and Old Meadow Rd",,38.922674,-77.210359,,,,,,1
+292,3530,"Sunrise Valley Dr and S Lakes Dr",,38.951180,-77.371740,,,,,,1
+293,4171,"Centreville Farms Rd and Leland Rd",,38.844192,-77.413692,,,,,,1
+294,4041,"Inova Fairfax Hospital",,38.856236,-77.228066,,,,,,1
+295,3375,"S Lakes Dr and Green Watch Way",,38.934670,-77.348150,,,,,,1
+296,3958,"Soapstone Dr and Hearthstone Ct (North)",,38.930555,-77.346291,,,,,,1
+298,3649,"Thomas Dr and Franconia Rd",,38.779360,-77.163800,,,,,,1
+299,3142,"Rose Hill Dr and Cottonwood Dr",,38.778344,-77.114881,,,,,,1
+300,2425,"Huntington Ave and Metroview Pkwy",,38.797070,-77.076560,,,,,,1
+301,2255,"G.W.M. Pkwy and Vernon View Dr",,38.710270,-77.063000,,,,,,1
+302,1432,"Braddock Rd and Dequincey Dr",,38.822150,-77.280030,,,,,,1
+303,2116,"Gallows Rd and Thor Dr",,38.848700,-77.208560,,,,,,1
+304,1139,"Bren Mar Dr and Merle Pl",,38.797573,-77.155095,,,,,,1
+305,2896,"N Shore Dr and Links Dr (East)",,38.958350,-77.337940,,,,,,1
+306,2960,"Old Keene Mill Rd and Huntsman Blvd",,38.774120,-77.249800,,,,,,1
+307,2802,"Monument Dr and Fair Lakes Promenade",,38.860283,-77.365227,,,,,,1
+308,1473,"Braddock Rd and Ravensworth Rd",,38.811230,-77.210520,,,,,,1
+309,2326,"Hooes Rd and Gambrill Rd",,38.756640,-77.234170,,,,,,1
+310,1344,"Beulah St and Miller Dr",,38.755940,-77.163650,,,,,,1
+311,4020,"15Th St (South) and S Eads St",,38.859803,-77.053748,,,,,,1
+312,2399,"Huntington Ave and Biscayne Dr",,38.794850,-77.072350,,,,,,1
+313,959,"Vernon View Dr and Fort Hunt Rd",,38.719060,-77.061360,,,,,,1
+315,4749,"Tower Dr and Tower Dr",,38.772340,-77.086350,,,,,,1
+316,1991,"Fountain Dr and Baron Cameron Ave",,38.965500,-77.356080,,,,,,1
+317,3529,"12361 Sunrise Valley Dr",,38.949090,-77.373820,,,,,,1
+318,3523,"Sunrise Valley Dr and Glen Echo Rd",,38.951174,-77.407715,,,,,,1
+319,3938,"Herndon-Monroe P+R Bay E",,38.951673,-77.384098,,,,,,1
+321,2122,"Gallows Rd and Wolftrap Dr",,38.902130,-77.223225,,,,,,1
+322,2343,"Herndon Pkwy and Cavendish St",,38.980190,-77.370679,,,,,,1
+324,3398,"South Lakes Village Center",,38.939570,-77.329510,,,,,,1
+325,1927,"Florida Ave and Alabama Dr",,38.964036,-77.391656,,,,,,1
+326,2045,"Franconia Rd and Peverill Dr",,38.789317,-77.110760,,,,,,1
+327,1515,"Buckman Rd and Rolling Hills Ave",,38.739420,-77.091700,,,,,,1
+328,2038,"Franconia Rd and Inwood Dr",,38.778700,-77.162930,,,,,,1
+329,897,"Fort Hunt Rd and Croton Dr",,38.729910,-77.056880,,,,,,1
+330,1278,"Backlick Rd and Kandel Ct",,38.819600,-77.190040,,,,,,1
+331,3248,"Reston Pkwy and Sunrise Valley Dr",,38.945550,-77.359750,,,,,,1
+332,1890,"Franklin Farm Rd and West Ox Rd",,38.906120,-77.383811,,,,,,1
+333,6075,"Gunston Rd and Goethals Rd",,38.711665,-77.152159,,,,,,1
+335,1906,"Fort Hunt Rd and Oakbrooke Ave",,38.735280,-77.054910,,,,,,1
+336,2953,"Old Keene Mill Rd and Field Master Dr",,38.773220,-77.255340,,,,,,1
+337,3871,"Gallows Rd and Masonville Dr",,38.847834,-77.205127,,,,,,1
+338,3261,"Sacremento Dr and Hyman Way",,38.724080,-77.128810,,,,,,1
+340,5296,"Braddock Rd and Bradfield Dr",,38.811010,-77.263470,,,,,,1
+341,2777,"Manchester Lakes Dr and Schoonmaker Ct",,38.764636,-77.150997,,,,,,1
+343,2969,"Old Keene Mill Rd and Keene Dr",,38.773400,-77.259180,,,,,,1
+344,3380,"S Lakes Dr and Pond View Ct",,38.937220,-77.351450,,,,,,1
+345,1780,"Dulles Technology Dr and River Birch Rd (North)",,38.953960,-77.416350,,,,,,1
+346,1935,"Fair Lakes Pkwy and Shoppes La",,38.861790,-77.387040,,,,,,1
+347,4138,"Chain Bridge Rd and Babcock Rd",,38.888440,-77.281550,,,,,,1
+350,1135,"Sheldon Dr and Bren Mar Dr",,38.797019,-77.157191,,,,,,1
+351,3475,"Stringfellow Rd and Fair Lakes Pkwy",,38.862067,-77.405626,,,,,,1
+352,3340,"Sherwood Hall La and Wellington Rd",,38.747700,-77.064250,,,,,,1
+353,4306,"White Granite Dr and Chain Bridge Rd",,38.874344,-77.305846,,,,,,1
+354,2348,"Herndon Pkwy and Cavalier Dr",,38.979760,-77.389290,,,,,,1
+355,6131,"Abbot Rd and Wills Rd",,38.715927,-77.149854,,,,,,1
+356,4301,"Walney Rd and Waverly Crossing Way",,38.876615,-77.432250,,,,,,1
+357,3654,"Thomas Jefferson Dr and Jefferson Commons",,38.947420,-77.406600,,,,,,1
+358,2918,"N Shore Dr and Washington Plz",,38.969130,-77.342140,,,,,,1
+359,3531,"Sunrise Valley Dr and Indian Ridge Rd",,38.947380,-77.349230,,,,,,1
+360,2546,"Lawyers Rd and Glenbrooke Woods Dr",,38.914540,-77.378420,,,,,,1
+361,2879,"N Shore Dr and Cameron Crescent Dr",,38.969410,-77.339210,,,,,,1
+362,3289,"Sunset Hills Rd and Business Center Dr",,38.947032,-77.325717,,,,,,1
+364,2963,"Old Keene Mill Rd and Westmore Dr (East)",,38.777410,-77.195180,,,,,,1
+365,3604,"Reston Hospital Center",,38.962620,-77.362210,,,,,,1
+366,4312,"Lee Jackson Hwy and Fair Ridge Dr",,38.870556,-77.369800,,,,,,1
+367,3879,"Hummer Rd and Frontage Rd",,38.834074,-77.210536,,,,,,1
+368,1016,"Richmond Hwy and Franklin St",,38.777790,-77.080260,,,,,,1
+369,3348,"Silverbrook Rd and Royal Robin La",,38.706520,-77.228480,,,,,,1
+371,1908,"Fort Hunt Rd and Paul Spring Rd",,38.760040,-77.059310,,,,,,1
+372,819,"Fort Hunt Rd and Alexandria Ave",,38.746680,-77.058110,,,,,,1
+374,2104,"Gallows Rd and Madron La",,38.904390,-77.222890,,,,,,1
+375,4239,"Newton Patent Dr and Awbrey Patent Dr",,38.844733,-77.443092,,,,,,1
+376,5827,"Town Center Pkwy and Market St",,38.958493,-77.363407,,,,,,1
+377,1725,"Cranford St and Franklin Woods Pl",,38.695310,-77.219740,,,,,,1
+378,3024,"The Parkway and S Kings Hwy",,38.772810,-77.099160,,,,,,1
+379,1201,"Franconia Rd and Brookland Rd",,38.784180,-77.131790,,,,,,1
+381,5614,"Centreville Rd and Armfield Farm Dr",,38.905200,-77.423260,,,,,,1
+382,2509,"Kinross Cir and Ramesses Ct",,38.919060,-77.415350,,,,,,1
+383,1823,"Electric Ave and Chestertown Dr",,38.901170,-77.241850,,,,,,1
+384,5384,"Westpark Dr and Greensboro Dr",,38.925344,-77.233735,,,,,,1
+385,2083,"Gallows Rd and Dolce Dr",,38.846860,-77.203610,,,,,,1
+386,1563,"Chain Bridge Rd and James Madison Dr",,38.893160,-77.275970,,,,,,1
+387,3970,"Tower Dr and Southgate Dr",,38.773666,-77.086016,,,,,,1
+388,2843,"New Dominion Pkwy and Explorer St",,38.960440,-77.360570,,,,,,1
+389,949,"Fort Hunt Rd and Lafayette Dr",,38.740710,-77.055140,,,,,,1
+390,6224,"Creek Crossing Rd and Old Courthouse Rd",,38.922960,-77.258125,,,,,,1
+391,957,"Vernon View Dr and Bushrod Rd",,38.714720,-77.062560,,,,,,1
+393,1415,"Braddock Rd and Birch La",,38.812030,-77.173140,,,,,,1
+394,1755,"Dranesville Rd and Butter Churn Dr",,39.004120,-77.375070,,,,,,1
+395,2903,"N Shore Dr and Clubhouse Rd",,38.964540,-77.346350,,,,,,1
+396,3016,"The Parkway and Memorial St",,38.780010,-77.095920,,,,,,1
+397,3201,"Ring Rd and Saffold Way",,38.971920,-77.326700,,,,,,1
+398,5630,"Centreville Rd and Skyhawk Dr",,38.898844,-77.427634,,,,,,1
+401,4288,"5895 Trinity Pkwy",,38.840446,-77.441109,,,,,,1
+402,2390,"Herndon Pkwy and Herndon Police Dept",,38.961625,-77.371939,,,,,,1
+403,3252,"Rolling Stone Way and Lodestone Ct",,38.766514,-77.108457,,,,,,1
+404,2166,"Glade Dr and Red Maple La",,38.926657,-77.348589,,,,,,1
+405,3553,"11830 Sunrise Valley Dr",,38.948220,-77.356160,,,,,,1
+406,2049,"Franconia Rd and Sable Dr",,38.791442,-77.096836,,,,,,1
+408,2909,"N Shore Dr and Ring Rd",,38.969980,-77.326870,,,,,,1
+409,2419,"Hummer Rd and Horseshoe Dr",,38.835710,-77.209830,,,,,,1
+410,3903,"Monument Dr and Monument Hill Way",,38.856344,-77.351287,,,,,,1
+411,1263,"Backlick Rd and Cabin John Rd",,38.793780,-77.186450,,,,,,1
+412,2088,"Gallows Rd and Electric Ave",,38.898270,-77.224540,,,,,,1
+413,1481,"Braddock Rd and Spring Valley Dr",,38.814080,-77.170450,,,,,,1
+414,4049,"Centreville United Methodist Church",,38.825681,-77.438629,,,,,,1
+415,6110,"Silverbrook Rd and Indian Paintbrush Way",,38.721677,-77.239860,,,,,,1
+416,4165,"Conference Center Dr and Stonecroft Blvd",,38.875763,-77.456456,,,,,,1
+417,1392,"Bren Mar Dr and Merle Pl",,38.797580,-77.154868,,,,,,1
+418,2121,"Gallows Rd and Wheatwheel La",,38.852810,-77.218230,,,,,,1
+419,3858,"Braddock Rd and Queensberry Ave",,38.811420,-77.225050,,,,,,1
+420,3807,"Wiehle Ave and North Shore Dr",,38.970020,-77.333200,,,,,,1
+421,2345,"Herndon Pkwy and Crestview Dr",,38.977990,-77.398940,,,,,,1
+422,875,"Little River Tpke and Southland Ave",,38.819090,-77.147450,,,,,,1
+424,1264,"Backlick Rd and Cabin John Rd",,38.793840,-77.186200,,,,,,1
+425,1294,"Backlick Rd and Sunset La S",,38.815560,-77.186840,,,,,,1
+426,3737,"Viking Dr and Prince Harold Ct",,38.921409,-77.383184,,,,,,1
+427,3515,"Sunrise Valley Dr and Dulles Tech Dr",,38.957770,-77.412140,,,,,,1
+428,2137,"Government Center Pkwy and Runabout La",,38.851428,-77.352320,,,,,,1
+429,749,"Telegraph Rd and Marl Pat Dr",,38.791660,-77.084750,,,,,,1
+430,2113,"Gallows Rd and Prescott Dr",,38.878240,-77.227680,,,,,,1
+431,1391,"Burke Lake Rd and Signal Hill Dr",,38.806100,-77.257280,,,,,,1
+432,1893,"Fort Hunt Rd and Washington Library",,38.773160,-77.062540,,,,,,1
+433,5458,"Chain Bridge Rd and Buena Vista Ave",,38.930737,-77.181913,,,,,,1
+434,3176,"Richmond Hwy and Mount Vernon Me",,38.717660,-77.130890,,,,,,1
+435,3465,"Summer Ridge Rd and Wescott Hills Way",,38.760560,-77.141240,,,,,,1
+436,1802,"Eds Dr and Lincoln Park Dr",,38.925936,-77.426478,,,,,,1
+437,1946,"Fair Lakes Cir and Roger Stover Dr",,38.858956,-77.379457,,,,,,1
+439,3266,"Sacremento Dr and Village Green Dr",,38.722550,-77.127590,,,,,,1
+440,3456,"Southrun Rd and Golden Ridge Rd",,38.727620,-77.240660,,,,,,1
+442,5571,"Old Courthouse Rd and Byrd Rd",,38.913736,-77.231416,,,,,,1
+443,4266,"Sully Park Dr and Kamputa Dr",,38.852507,-77.457460,,,,,,1
+444,1885,"Franklin Farm Rd and Tuckaway Dr",,38.905444,-77.397803,,,,,,1
+446,1553,"Chain Bridge Rd and Canfield St",,38.838454,-77.311598,,,,,,1
+447,1886,"Franklin Farm Rd and Tuckaway Dr",,38.905454,-77.398030,,,,,,1
+448,2129,"Government Center Pkwy and Forum Dr W",,38.852186,-77.357546,,,,,,1
+449,3084,"Pohick Rd and Diving Cliff La",,38.742120,-77.232770,,,,,,1
+451,3565,"Sunrise Valley Dr and Thunder Chase Dr",,38.950120,-77.380050,,,,,,1
+452,2859,"Newington Forest Ave and Willowdale Ct",,38.738190,-77.246540,,,,,,1
+454,1773,"Dranesville Rd and Shallow Ford Rd",,38.996206,-77.376555,,,,,,1
+456,3472,"Chantilly Library",,38.881868,-77.407497,,,,,,1
+459,6139,"Aviation Dr and Autopilot Dr",,38.958143,-77.449671,,,,,,1
+460,3959,"Soapstone Dr and Hearthstone Ct (South)",,38.928373,-77.344328,,,,,,1
+461,2119,"Gallows Rd and Woodburn Rd",,38.857470,-77.225870,,,,,,1
+462,1389,"Burke Lake Rd and Rolling Rd",,38.808230,-77.254170,,,,,,1
+463,3128,"Richmond Hwy and Haft Dr",,38.743440,-77.084390,,,,,,1
+464,2340,"Herndon Pkwy and Campbell Way",,38.959910,-77.394410,,,,,,1
+465,3557,"12000 Sunrise Valley Dr",,38.946570,-77.360170,,,,,,1
+466,3347,"Silverbrook Rd and Royal Robin La",,38.706850,-77.228950,,,,,,1
+467,5564,"Maple Ave and Courthouse Rd",,38.899209,-77.268022,,,,,,1
+468,715,"Vantage Dr and Vantage Ct",,38.764130,-77.107970,,,,,,1
+469,2278,"Helmsdale La and Brighouse Ct",,38.755126,-77.140814,,,,,,1
+471,2266,"Harrison La and Groveton St",,38.770498,-77.093632,,,,,,1
+472,2330,"Hooes Dr and Shady Palm Dr",,38.755850,-77.236040,,,,,,1
+473,1060,"Telegraph Rd and Wilton Rd",,38.787500,-77.089640,,,,,,1
+474,1453,"Braddock Rd and Montrose St",,38.818990,-77.164990,,,,,,1
+475,1815,"Edsall Rd and Edsall Ridge Pl",,38.805390,-77.143250,,,,,,1
+476,1994,"Frying Pan Rd and Coppermine Rd",,38.942800,-77.405260,,,,,,1
+477,1902,"Fort Hunt Rd and Lafayette Dr",,38.740590,-77.054850,,,,,,1
+478,5395,"Jones Branch Dr and Freddie Mac Ctr",,38.931461,-77.224792,,,,,,1
+479,3351,"Silverbrook Rd and Southrun Rd",,38.727230,-77.246570,,,,,,1
+480,1186,"Franconia-Springfield Metro Bay H",,38.766950,-77.168045,,,,,,1
+481,2031,"Fleet Dr and Flat Rock Rd",,38.773520,-77.154230,,,,,,1
+482,3005,"The Parkway and Gentele Ct",,38.780370,-77.095970,,,,,,1
+483,892,"Quander Rd and Duke Dr",,38.770890,-77.068520,,,,,,1
+485,2311,"Holland Rd and Holland Rd",,38.739430,-77.078850,,,,,,1
+486,3510,"Sunrise Vly Dr and Dulles Corner Dr (South)",,38.958560,-77.422730,,,,,,1
+487,2807,"Monument Dr and Monument Way",,38.856306,-77.353918,,,,,,1
+488,3303,"Sunset Hills Rd and Ffx County Pkwy",,38.953882,-77.365438,,,,,,1
+489,3817,"Wiehle Av and North Shore Dr",,38.958340,-77.334330,,,,,,1
+490,2360,"Herndon Pkwy and Van Buren St",,38.955950,-77.386540,,,,,,1
+491,1627,"Colts Neck Rd and Hunters Square Ct",,38.935790,-77.363810,,,,,,1
+493,2702,"Little River Tpke and Duke St",,38.817860,-77.141540,,,,,,1
+495,4314,"Backlick North P+R",,38.769729,-77.183879,,,,,,1
+496,2033,"Frye Rd and Gage Rd",,38.733400,-77.113980,,,,,,1
+497,2493,"Kingsbury Rd and Broadmoor St",,38.749600,-77.132270,,,,,,1
+498,4172,"Centreville Farms Rd and Leland Rd",,38.843877,-77.413265,,,,,,1
+499,2913,"N Shore Dr and Waterview Cl",,38.966430,-77.342930,,,,,,1
+500,2551,"Lawrence St and Kidd St",,38.738350,-77.110930,,,,,,1
+501,3708,"Van Buren St and Herndon Pkwy",,38.956015,-77.388224,,,,,,1
+502,1875,"Franklin Farm Rd and Old Dairy Rd",,38.909826,-77.413288,,,,,,1
+503,4168,"Centreville Farms Rd and Lee Hwy",,38.840511,-77.411428,,,,,,1
+504,1427,"Braddock Rd and Carriage Park Rd",,38.824260,-77.305310,,,,,,1
+505,1332,"Beulah St and Charles Arrington Dr",,38.767050,-77.155020,,,,,,1
+506,2087,"Gallows Rd and Railroad St",,38.898360,-77.224250,,,,,,1
+507,2218,"Herndon Harbor House",,38.973960,-77.388750,,,,,,1
+508,1555,"8560 Cinder Bed Rd",,38.725760,-77.193450,,,,,,1
+509,4231,"Little Rocky Run Cir and Sunset Ridge Rd",,38.830130,-77.424890,,,,,,1
+510,5430,"Chain Bridge Rd and Audmar Dr",,38.929550,-77.188440,,,,,,1
+511,2780,"Mt Vernon Mem Hwy and Forest Haven Dr",,38.708640,-77.110790,,,,,,1
+512,2973,"Old Keene Mill Rd and Rolling Rd",,38.779693,-77.231714,,,,,,1
+514,2792,"Mt Vernon Mem Hwy and Patton Blvd",,38.708300,-77.122830,,,,,,1
+515,1782,"13600 Dulles Technology Dr",,38.955460,-77.415610,,,,,,1
+516,970,"Vernon View Dr and Battery Rd",,38.715520,-77.062870,,,,,,1
+517,2651,"Lorton Rd and Lorton Station Blvd",,38.704760,-77.211360,,,,,,1
+518,1884,"Franklin Farm Rd and Tranquility La",,38.910518,-77.414255,,,,,,1
+519,2775,"Manchester Lakes Dr and Old Brentford Ct",,38.767178,-77.149328,,,,,,1
+520,5425,"Chain Bridge Rd and Anderson Rd",,38.926145,-77.203550,,,,,,1
+522,5666,"Lewinsville Rd and Meadow Green La",,38.941909,-77.221135,,,,,,1
+523,3462,"Southrun Rd and Rippled Creek Ct",,38.728700,-77.231520,,,,,,1
+524,4065,"Machen Rd and Kendra Way",,38.831143,-77.436671,,,,,,1
+525,4268,"Stringfellow Rd and Westbook Dr",,38.850494,-77.402690,,,,,,1
+526,736,"Telegraph Rd and Belleau Woods La",,38.757180,-77.136340,,,,,,1
+527,4207,"Lee Rd and Conference Center Dr",,38.880210,-77.452960,,,,,,1
+528,2528,"Kingstowne Village Pkwy and Littlethorpe La",,38.750460,-77.159040,,,,,,1
+529,1963,"Fox Mill Rd and John Milton Dr",,38.928881,-77.375328,,,,,,1
+530,3603,"Town Ctr Pkwy and Sunset Hills Rd",,38.954434,-77.362745,,,,,,1
+531,3710,"S Van Dorn St and Bent Willow Dr",,38.789369,-77.136534,,,,,,1
+532,2638,"Lake Newport Rd and Deer Point Way",,38.980330,-77.355419,,,,,,1
+533,3312,"11490 Sunset Hills Rd",,38.952242,-77.343740,,,,,,1
+534,3723,"S Van Dorn St and Oakwood Rd",,38.791424,-77.136718,,,,,,1
+535,3811,"Wiehle Ave and Weatherstone Ct",,38.984930,-77.340460,,,,,,1
+536,3382,"S Lakes Dr and Ridge Heights Rd",,38.934113,-77.333015,,,,,,1
+537,2353,"Herndon Pkwy and Early Fall Ct",,38.966250,-77.403230,,,,,,1
+538,2672,"Leesburg Pike and Lewinsville Rd",,38.943480,-77.255510,,,,,,1
+539,3846,"7620 Backlick Rd",,38.750580,-77.185810,,,,,,1
+540,2459,"Jones Branch Dr and Freddie Mac Ctr",,38.931648,-77.224893,,,,,,1
+541,4219,"Lee Jackson Hwy and Lees Corner Rd",,38.887565,-77.414019,,,,,,1
+542,4253,"Poplar Tree Rd and Leighfield St",,38.872225,-77.426077,,,,,,1
+543,3779,"Westpark Dr and 7925 Westbranch Dr",,38.926077,-77.220373,,,,,,1
+544,1483,"Braddock Rd and Tapestry Dr",,38.826740,-77.294680,,,,,,1
+545,1425,"Braddock Rd and Columbia Rd",,38.811840,-77.176280,,,,,,1
+546,3304,"Spring Hill Rd and Post Office",,38.928930,-77.237710,,,,,,1
+547,1527,"Bennington Woods Rd and Harvest Green Dr",,38.974170,-77.353340,,,,,,1
+548,5369,"Gosnall Rd and Tyspring St",,38.921980,-77.238590,,,,,,1
+549,1480,"Braddock Rd and Southampton Dr",,38.810810,-77.239600,,,,,,1
+550,3388,"S Lakes Dr and S Lakes Ct",,38.941230,-77.357360,,,,,,1
+553,2282,"Telegraph Rd and Helmsdale La",,38.755460,-77.137450,,,,,,1
+555,4212,"Lee Jackson Hwy and Chantilly Rd",,38.890497,-77.422310,,,,,,1
+556,1079,"Arlington Dr and Richmond Hwy",,38.754690,-77.082920,,,,,,1
+557,3717,"Van Dorn St and Franconia Rd",,38.783477,-77.136042,,,,,,1
+558,2346,"Herndon Pkwy and Crestview Dr",,38.977830,-77.399480,,,,,,1
+559,837,"Fort Hunt Rd and Belle View Blvd",,38.775630,-77.062520,,,,,,1
+560,2885,"N Shore Dr and Fairway Dr",,38.965460,-77.344710,,,,,,1
+561,3620,"Telegraph Rd and Farmington Dr",,38.794010,-77.083410,,,,,,1
+562,2547,"Lawyers Rd and Goldcup La",,38.921592,-77.351187,,,,,,1
+563,2852,"Newington Forest Ave and Curving Creek Ct",,38.738490,-77.242760,,,,,,1
+564,3045,"Penderbrook Dr and Inverness Rd",,38.868441,-77.358857,,,,,,1
+565,2130,"Government Center Pkwy and Forum Dr W",,38.851938,-77.357641,,,,,,1
+566,1999,"Frying Pan Rd and Fox Mill Rd",,38.945160,-77.398560,,,,,,1
+567,2126,"Gallows Rd and Woodburn Rd",,38.858070,-77.225610,,,,,,1
+568,3820,"Worldgate Dr and Wiltshire La",,38.957356,-77.399100,,,,,,1
+569,2159,"Glade Dr and Middle Creek La",,38.929693,-77.353299,,,,,,1
+571,1470,"Braddock Rd and Red Spruce Rd",,38.826670,-77.291930,,,,,,1
+572,1781,"Dulles Technology Dr and River Birch Rd",,38.953730,-77.416040,,,,,,1
+573,1393,"Bren Mar Dr and Phyllis La",,38.798508,-77.152520,,,,,,1
+574,2507,"Kinross Cir and Ravenscraig Ct",,38.914740,-77.415420,,,,,,1
+575,2908,"N Shore Dr and Ring Rd",,38.970050,-77.327230,,,,,,1
+576,532,"Telegraph Rd and East Dr",,38.797070,-77.080940,,,,,,1
+577,3149,"Rose Hill Dr and Flower La",,38.779812,-77.117067,,,,,,1
+578,2522,"Kingstowne Village Pkwy and Darden Row",,38.749730,-77.161610,,,,,,1
+579,4230,"Little Rocky Run Cir and Rockton Ct",,38.831409,-77.425103,,,,,,1
+581,1613,"Center Harbor Rd and North Village Rd",,38.979560,-77.344830,,,,,,1
+584,6220,"Old Courthouse Rd and Battery Park St",,38.917684,-77.240641,,,,,,1
+585,577,"Seven Woods Dr and Redondo Pl",,38.739320,-77.098750,,,,,,1
+586,2232,"Guinea Rd and Bronte Dr",,38.809550,-77.278270,,,,,,1
+587,958,"Vernon View Dr and Danewood Dr",,38.717410,-77.062680,,,,,,1
+588,3504,"Sunrise Valley Dr and Colts Neck Rd",,38.945750,-77.357440,,,,,,1
+589,3091,"Pohick Rd and Magic Leaf Rd",,38.740420,-77.230930,,,,,,1
+590,4191,"Field Encampment Rd and Meadow Glade La",,38.830509,-77.448023,,,,,,1
+591,2844,"New Dominion Pkwy and Fountain Dr",,38.960660,-77.357430,,,,,,1
+592,1949,"Fair Lakes Shopping Ctr",,38.858971,-77.392252,,,,,,1
+593,3087,"Pohick Rd and Larne St",,38.712610,-77.199570,,,,,,1
+595,5542,"Maple Ave and Mashie Dr",,38.910580,-77.252290,,,,,,1
+596,2901,"N Shore Dr and Washington Plz (West)",,38.968430,-77.343400,,,,,,1
+597,5463,"Chain Bridge Rd and Pathfinder La",,38.929785,-77.185048,,,,,,1
+599,1930,"Fair Lakes Shopping Ctr",,38.858390,-77.392910,,,,,,1
+600,1692,"Commerce St and Monticello Blvd",,38.779130,-77.191500,,,,,,1
+601,3415,"Soapstone Dr and Glencourse La",,38.939618,-77.345466,,,,,,1
+602,3526,"Sunrise Valley Dr and Glade Dr",,38.949310,-77.374060,,,,,,1
+604,2462,"Jones Branch Dr and Park Run Dr",,38.931929,-77.227450,,,,,,1
+605,2164,"Glade Dr and Quartermaster La",,38.925771,-77.336473,,,,,,1
+606,1288,"Backlick Rd and Spring Garden Dr",,38.773070,-77.184070,,,,,,1
+607,4255,"Poplar Tree Rd and Orr Dr",,38.875422,-77.418361,,,,,,1
+608,1443,"Braddock Rd and Heming Ave",,38.811290,-77.204130,,,,,,1
+609,3320,"Sherwood Hall Ln and Mount Woodley Pl",,38.743260,-77.079140,,,,,,1
+610,2955,"Old Keene Mill Rd and Greeley Blvd",,38.776180,-77.216410,,,,,,1
+611,2499,"Kinross Cir and Kilbrennan Ct",,38.917120,-77.418940,,,,,,1
+612,2930,"Nutley St and Roland St",,38.892927,-77.272574,,,,,,1
+613,2524,"Kingstowne Village Pkwy and Hayfield Rd",,38.756740,-77.145220,,,,,,1
+614,1290,"Backlick Rd and Sipes La",,38.824810,-77.193250,,,,,,1
+615,1015,"Richmond Hwy and Fairhaven Ave",,38.784150,-77.073830,,,,,,1
+616,1172,"Huntington Metro South Bay C",,38.792322,-77.076025,,,,,,1
+617,5653,"Lewinsville Rd and Snow Meadow La",,38.937023,-77.210374,,,,,,1
+618,2534,"Kingstowne Village Pkwy and Village Park Dr",,38.753520,-77.151380,,,,,,1
+619,5654,"Lewinsville Rd and Scotts Run Rd",,38.934991,-77.206199,,,,,,1
+620,4210,"Lee Jackson Hwy and Avion Pkwy",,38.901652,-77.449096,,,,,,1
+621,2875,"N Shore Dr and Northgate Sq",,38.970230,-77.336130,,,,,,1
+623,3726,"S Van Dorn St and Woodfield Estates Dr",,38.786620,-77.136200,,,,,,1
+624,3126,"Rose Hill Dr and May Blvd",,38.780903,-77.117928,,,,,,1
+625,1959,"Sunrise Valley Dr and Wood Oak Dr E",,38.951710,-77.400760,,,,,,1
+626,2847,"New Dominion Pkwy and Reston Pkwy",,38.960050,-77.354940,,,,,,1
+627,3406,"Soapstone Dr and Catalpa Ct",,38.923177,-77.344841,,,,,,1
+628,5662,"Lewinsville Rd and Timberly La",,38.936606,-77.209146,,,,,,1
+630,3893,"Little River Tpke and Woodland Rd",,38.832070,-77.206850,,,,,,1
+631,1846,"Kmart Herndon Ctr",,38.970340,-77.376340,,,,,,1
+632,3047,"Post Forest Dr and Cedar Forest Dr",,38.855399,-77.366061,,,,,,1
+633,4284,"14280 Sullyfield Cir",,38.892735,-77.439905,,,,,,1
+634,2312,"Hooes Rd and Fairfax County Pkwy",,38.750140,-77.244450,,,,,,1
+635,2324,"Hooes Rd and Pohick Rd",,38.745920,-77.247870,,,,,,1
+636,3882,"International Dr and Fletcher St",,38.916776,-77.225646,,,,,,1
+637,2664,"Leesburg Pike and Delta Glen Ct",,38.973510,-77.303570,,,,,,1
+638,3720,"S Van Dorn St and Kingstowne Blvd",,38.773670,-77.133790,,,,,,1
+639,2972,"Old Keene Mill Rd and Rolling Mill Pl",,38.778445,-77.237405,,,,,,1
+640,3135,"Rose Hill Dr and Celtic Dr",,38.782281,-77.119187,,,,,,1
+641,4270,"Sully Park Dr and Wood Creek La",,38.850762,-77.456999,,,,,,1
+642,3731,"Viking Dr and John Milton Dr",,38.929899,-77.382941,,,,,,1
+645,2016,"Franconia Rd and Ridge View Dr",,38.791224,-77.105968,,,,,,1
+646,2494,"Kinross Cir and Centreville Rd",,38.920130,-77.417350,,,,,,1
+647,2878,"N Shore Dr and Becontree La",,38.969900,-77.331170,,,,,,1
+648,3511,"Sunrise Valley Dr and Dulles Town Blvd",,38.955230,-77.425110,,,,,,1
+649,3124,"Richmond Hwy and Armistead Rd",,38.702222,-77.209103,,,,,,1
+650,4051,"Avion Pkwy and Virginia Mallory Dr",,38.904522,-77.448871,,,,,,1
+651,3481,"Stringfellow Rd and Poplar Tree Rd",,38.874529,-77.408338,,,,,,1
+654,2145,"Glade Dr and Breton Ct",,38.934533,-77.361396,,,,,,1
+655,2549,"Lawrence St and Imperial St",,38.738030,-77.113140,,,,,,1
+656,2239,"Guinea Rd and Olley La",,38.810430,-77.268450,,,,,,1
+657,1108,"Van Dorn Metro Bay D",,38.799516,-77.128606,,,,,,1
+659,3175,"Richmond Hwy and Old Mill Rd",,38.717530,-77.131750,,,,,,1
+660,5824,"S Kings Hwy and Tower Dr",,38.777240,-77.085321,,,,,,1
+661,763,"Telegraph Rd and Rainwater Pl",,38.718745,-77.192338,,,,,,1
+662,3760,"Wakefield Dr and W Wakefield Dr",,38.772700,-77.058570,,,,,,1
+663,3690,"8500 Tyco Rd",,38.931360,-77.239170,,,,,,1
+664,3395,"S Lakes Dr and Sagewood La",,38.940450,-77.328935,,,,,,1
+665,1412,"Braddock Rd and Backlick Rd",,38.811790,-77.184480,,,,,,1
+666,1490,"Braddock Rd and Woodland Way",,38.810790,-77.249260,,,,,,1
+667,4262,"Sully Park Dr and Croatan Ct",,38.850669,-77.453137,,,,,,1
+668,2964,"Old Keene Mill Rd and Huntsman Blvd",,38.774150,-77.248420,,,,,,1
+669,4206,"Lees Corner and Lee Jackson Hwy",,38.886766,-77.413685,,,,,,1
+670,3528,"Sunrise Valley Dr and Glade Dr",,38.948460,-77.374720,,,,,,1
+671,1241,"Arlington Dr and Richmond Hwy",,38.754520,-77.082300,,,,,,1
+672,3724,"S Van Dorn St and Pickett St",,38.804788,-77.133777,,,,,,1
+674,1484,"Braddock Rd and Tapestry Dr",,38.826400,-77.295140,,,,,,1
+675,3310,"Sunset Hills Rd and Isaac Newton Sq (East)",,38.951242,-77.339910,,,,,,1
+677,4099,"Stone Rd and Awbrey Patent Dr",,38.850165,-77.452395,,,,,,1
+678,6124,"Fullerton Rd and Cluny Ct",,38.742454,-77.208536,,,,,,1
+679,2962,"Old Keene Mill Rd and Hanover Ave",,38.777700,-77.195280,,,,,,1
+680,1387,"Burke Lake Rd and Rolling Rd",,38.808170,-77.254620,,,,,,1
+681,5396,"Jones Branch Dr and West Branch Dr",,38.931368,-77.219408,,,,,,1
+682,2811,"Monument Dr and Polo Dr",,38.862526,-77.367306,,,,,,1
+683,3343,"Sherwood Hall La and Whiteoaks Dr",,38.749990,-77.061070,,,,,,1
+684,4229,"Little Rocky Run Cir and Rock Forest Ct",,38.834348,-77.420089,,,,,,1
+685,1834,"Elden St and Jonquil La",,38.967560,-77.373899,,,,,,1
+686,4279,"Stringfellow Rd and Westbrook Dr",,38.850587,-77.402413,,,,,,1
+687,3163,"Richmond Hwy and Huntington Ave",,38.789340,-77.064920,,,,,,1
+688,2924,"Nutley St and Courthouse Rd",,38.891062,-77.271137,,,,,,1
+689,1810,"6200 Edsall Rd",,38.806670,-77.141490,,,,,,1
+690,2783,"Mt Vernon Mem Hwy and Grist Mill Rd",,38.709200,-77.125600,,,,,,1
+691,2361,"Herndon Pkwy and Fairbrook Dr",,38.956210,-77.378430,,,,,,1
+692,2342,"Herndon Pkwy and Campbell Way",,38.959870,-77.394840,,,,,,1
+693,2211,"Greensboro Dr and International Dr",,38.922730,-77.227807,,,,,,1
+694,2569,"Lake Braddock Dr and Burke Rd",,38.801250,-77.276040,,,,,,1
+695,2857,"Newington Forest Ave and Treasure Tree Ct",,38.740230,-77.250400,,,,,,1
+696,3035,"The Parkway and Trigger Ct",,38.782600,-77.095440,,,,,,1
+697,861,"Little River Tpke and Southland Ave",,38.819370,-77.147770,,,,,,1
+698,2411,"Huntington Ave and Foley St",,38.791300,-77.066420,,,,,,1
+699,3562,"Sunrise Valley Dr and S Lakes Dr",,38.950490,-77.373270,,,,,,1
+700,961,"Fort Hunt Rd and Gladstone Pl",,38.736660,-77.054520,,,,,,1
+702,4178,"Centrewood Dr and Saint Germain Dr",,38.836140,-77.436738,,,,,,1
+703,3324,"Sherwood Hall La and Robinhood Ct",,38.750010,-77.060770,,,,,,1
+704,6073,"John J Kingman Rd and Beulah St",,38.722231,-77.158910,,,,,,1
+705,3356,"S Kings Hwy and Furman La",,38.780360,-77.080530,,,,,,1
+706,885,"Belle View Blvd and Cavalier Dr",,38.772180,-77.068090,,,,,,1
+707,1298,"Backlick Rd and Woodland Dr",,38.805220,-77.184000,,,,,,1
+709,3702,"Vantage Dr and Stream Bed Way",,38.769720,-77.107270,,,,,,1
+710,4274,"Stringfellow Rd and Coralberry Dr",,38.895934,-77.401330,,,,,,1
+711,2946,"Old Keene Mill Rd and Bauer Dr",,38.778070,-77.241200,,,,,,1
+712,3009,"Parcher Ave and Springer Dr (West)",,38.962574,-77.407145,,,,,,1
+714,1170,"Thomas Edison High School",,38.783970,-77.133020,,,,,,1
+715,4076,"Sully Park Dr and Sully Lake Dr",,38.855633,-77.454188,,,,,,1
+716,4175,"Centrewood Dr and Machen Rd",,38.833032,-77.437584,,,,,,1
+717,3801,"Wiehle Ave and Inlet Ct",,38.965660,-77.332730,,,,,,1
+718,4748,"Tower Dr and Tower Dr",,38.772154,-77.086195,,,,,,1
+719,3622,"Telegraph Rd and Glenwood Mews Ct",,38.759020,-77.135230,,,,,,1
+720,1101,"Norton Rd and Franconia Rd",,38.792090,-77.093910,,,,,,1
+722,2396,"Herndon Pkwy and Van Buren St",,38.957021,-77.387551,,,,,,1
+723,2866,"North Kings Hwy and Jamaica Dr",,38.784780,-77.077700,,,,,,1
+724,2385,"Herndon Pkwy and Stevenson Ct",,38.979960,-77.389460,,,,,,1
+725,3854,"Birchleigh Way and Meadowleigh Way",,38.756560,-77.169659,,,,,,1
+726,2958,"Old Keene Mill Rd and Harwood Pl",,38.774370,-77.210180,,,,,,1
+727,3445,"Springer Dr and Ferguson Pl",,38.961248,-77.403480,,,,,,1
+728,1448,"Braddock Rd and Irvin Pl",,38.820940,-77.163940,,,,,,1
+729,1807,"Edsall Rd and Whiting St S",,38.807490,-77.135060,,,,,,1
+730,4181,"Centrewood Dr and Summer Tree Rd",,38.830081,-77.439995,,,,,,1
+733,1833,"1264 Elden St",,38.961252,-77.400350,,,,,,1
+734,2364,"Herndon Pkwy and Ferndale Ave",,38.978780,-77.392540,,,,,,1
+735,2649,"Loisdale Rd and Loisdale Ct",,38.775340,-77.177350,,,,,,1
+736,3861,"Edsall Rd and Bloomfield Dr",,38.802094,-77.160976,,,,,,1
+738,1379,"Burke Lake Rd and Grantham St",,38.809220,-77.253060,,,,,,1
+740,1350,"Beryl Rd and Paula Rd",,38.802124,-77.158862,,,,,,1
+741,1023,"Mt Vernon Hwy and Wessynton Way",,38.718890,-77.089680,,,,,,1
+742,2722,"Maple Ave and East St",,38.908984,-77.255766,,,,,,1
+743,1604,"Centreville Rd and West Ox Rd",,38.936827,-77.413412,,,,,,1
+744,2558,"Lawrence St and Central Park Dr",,38.738610,-77.109750,,,,,,1
+745,2653,"Lockheed Blvd and Saul Rd",,38.759990,-77.091542,,,,,,1
+747,1454,"Braddock Rd and Nash Dr",,38.818680,-77.275910,,,,,,1
+748,1463,"Braddock Rd and Randolph Dr",,38.815970,-77.168580,,,,,,1
+750,5469,"Chain Bridge Rd and Hunting Ave",,38.928208,-77.198359,,,,,,1
+751,4264,"Sully Park Dr and Flower Hill Dr",,38.850145,-77.455267,,,,,,1
+752,1280,"Backlick Rd and Leewood Forest Dr",,38.804310,-77.183810,,,,,,1
+753,698,"Vantage Rd and Stream Bed Way",,38.769690,-77.107120,,,,,,1
+754,2817,"Mt Vernon Hwy and Albee La",,38.733590,-77.092180,,,,,,1
+755,3344,"Silverbrook Rd and Tanyard La",,38.710140,-77.229020,,,,,,1
+756,1177,"Mt Vernon Square Apartments",,38.757610,-77.077633,,,,,,1
+757,1909,"Fort Hunt Rd and Paul Spring Rd",,38.760120,-77.059210,,,,,,1
+758,2283,"Hinson Farm Rd and Tis Well Dr",,38.737950,-77.077470,,,,,,1
+760,1818,"1070 Elden St",,38.966302,-77.396447,,,,,,1
+761,6135,"Belvoir Rd and 18Th St",,38.691977,-77.136502,,,,,,1
+762,2075,"Gallows Rd and Boone Blvd",,38.913740,-77.228060,,,,,,1
+763,1337,"Beulah St and Gayfields Rd",,38.752400,-77.165600,,,,,,1
+764,4241,"Newton Patent Dr and Red House Dr",,38.845342,-77.440837,,,,,,1
+765,1588,"Centreville Rd and Floris St",,38.934621,-77.413645,,,,,,1
+766,1438,"Braddock Rd and Glen Park Rd",,38.811310,-77.231060,,,,,,1
+767,1421,"Braddock Rd and Braddock Rd",,38.826420,-77.286510,,,,,,1
+769,1680,"6790 Commercial Dr",,38.800640,-77.177690,,,,,,1
+771,2065,"Frontier Dr and Franconia Rd",,38.775650,-77.171410,,,,,,1
+772,948,"Fort Hunt Rd and Shenandoah Rd",,38.741890,-77.055930,,,,,,1
+773,2057,"Franconia Rd and Zekan La",,38.779260,-77.160000,,,,,,1
+774,2727,"Malcolm Rd and Nutley St",,38.902049,-77.277611,,,,,,1
+775,1720,"Cranford St and Eaton Woods Pl",,38.695405,-77.220034,,,,,,1
+776,5573,"Old Courthouse Rd and Lord Fairfax Rd",,38.912956,-77.229370,,,,,,1
+777,3353,"S Kings Hwy and Brick Hearth Ct",,38.776740,-77.086380,,,,,,1
+779,2387,"Herndon Pkwy and Spring St",,38.958380,-77.375130,,,,,,1
+780,2526,"Kingstowne Village Pkwy and Joust La (South)",,38.760380,-77.143720,,,,,,1
+781,828,"Fort Hunt Rd and Admiral Dr",,38.749830,-77.057160,,,,,,1
+782,1064,"Smithway Dr and Beacon Hill Rd",,38.770290,-77.073820,,,,,,1
+783,4173,"Centreville Farms Rd and Lee Hwy",,38.840346,-77.411700,,,,,,1
+784,1617,"Center Harbor Rd and Waterfront Rd",,38.978790,-77.342650,,,,,,1
+785,3155,"Richmond Hwy and Graves St",,38.728240,-77.109900,,,,,,1
+788,611,"Frye Rd and Lawrence St",,38.737510,-77.115330,,,,,,1
+789,3716,"S Van Dorn St and Edsall Rd",,38.806560,-77.133720,,,,,,1
+790,973,"Richmond Hwy and Arlington Dr",,38.754870,-77.083300,,,,,,1
+791,1806,"Edsall Rd and Whiting St S",,38.807650,-77.134660,,,,,,1
+792,2865,"6000 N Kings Hwy",,38.787640,-77.077520,,,,,,1
+794,3309,"Sherwood Hall Ln and Holland Rd",,38.743010,-77.078900,,,,,,1
+796,2948,"Old Keene Mill Rd and Byron Ave",,38.775930,-77.202190,,,,,,1
+797,1218,"Alabama Dr and Florida Ave",,38.963224,-77.392578,,,,,,1
+798,3636,"Telegraph Rd and Rainwater Pl",,38.718590,-77.192080,,,,,,1
+799,2513,"Kinross Cir and Stone Heather Dr",,38.914650,-77.407300,,,,,,1
+801,3453,"Summer Ridge Rd and Edgeware La",,38.764830,-77.139030,,,,,,1
+802,2220,"Greensboro Dr and Pinnacle Dr",,38.922668,-77.230497,,,,,,1
+804,1220,"Alban Rd and Southern Oak Dr",,38.724932,-77.208711,,,,,,1
+805,2535,"Kingstowne Village Pkwy and Windham Hill Run",,38.750790,-77.158460,,,,,,1
+807,2111,"Gallows Rd and Providence Forest Dr",,38.877210,-77.227100,,,,,,1
+808,3949,"Wiehle Metro",,38.948773,-77.339283,,,,,,1
+809,2882,"N Shore Dr and N Shore Dr",,38.964870,-77.345810,,,,,,1
+810,1398,"Boston Blvd and Fullerton Rd",,38.740300,-77.198840,,,,,,1
+811,3944,"Pohick Rd and Cullum St",,38.713305,-77.201312,,,,,,1
+814,2669,"Leesburg Pike and Forestville Dr",,38.958320,-77.274930,,,,,,1
+817,4664,"Guinea Rd and Queens Woods Dr",,38.810370,-77.273740,,,,,,1
+818,904,"Fort Hunt Rd and Shenandoah Rd",,38.742210,-77.055960,,,,,,1
+819,5667,"Lewinsville Rd and Winter Hunt Rd",,38.941800,-77.223151,,,,,,1
+820,2840,"Morning View La and Thomas Grant Dr",,38.751450,-77.169570,,,,,,1
+821,1580,"Center St and Post Dr",,38.967068,-77.388563,,,,,,1
+823,1191,"Huntington Metro North Bay A",,38.794833,-77.075053,,,,,,1
+825,5018,"Sully Station Dr and Farming Way",,38.868940,-77.453590,,,,,,1
+826,3850,"Beulah St and Kathmoor Dr",,38.780537,-77.146047,,,,,,1
+827,2078,"Gallows Rd and Cottage St",,38.886980,-77.226990,,,,,,1
+828,2904,"N Shore Dr and Temporary Rd",,38.959960,-77.350320,,,,,,1
+829,614,"Lawrence St and Oaklake Ct",,38.738530,-77.109640,,,,,,1
+830,2174,"Glade Dr and Triple Crown Rd",,38.927667,-77.351874,,,,,,1
+832,588,"Helmsdale La and Telegraph Rd",,38.755250,-77.137090,,,,,,1
+834,719,"Quander Rd and Williams Dr",,38.769740,-77.067090,,,,,,1
+835,2809,"Monroe and Pine",,38.970880,-77.383810,,,,,,1
+836,5466,"Chain Bridge Rd and Evans Farm Dr",,38.929633,-77.194341,,,,,,1
+837,4089,"Stringfellow Rd and Cross Keys Ct",,38.892589,-77.403738,,,,,,1
+838,3728,"Viking Dr and Bradwell Rd",,38.927158,-77.383977,,,,,,1
+839,2488,"King Center Dr and Barclay Dr",,38.767690,-77.138388,,,,,,1
+840,1919,"Fort Hunt Rd and Swan Ter",,38.779130,-77.063080,,,,,,1
+841,704,"Huntington Ave and Old Richmond Hwy",,38.790661,-77.065073,,,,,,1
+842,3402,"Spring Mall Rd and Junction Blvd",,38.771560,-77.174540,,,,,,1
+843,3050,"Post Forest Dr and Random Hills Rd",,38.855023,-77.363778,,,,,,1
+844,1916,"Flint Hill Rd and Sunrise Rd",,38.895579,-77.283284,,,,,,1
+845,902,"Fort Hunt Rd and Wellington Rd",,38.739130,-77.053880,,,,,,1
+846,720,"Quander Rd and Duke Dr",,38.770510,-77.067960,,,,,,1
+847,653,"Richmond Hwy and Buckman Rd",,38.729150,-77.107510,,,,,,1
+848,4296,"Union Mill Rd and Trey La",,38.833811,-77.411344,,,,,,1
+849,1951,"Fair Lakes Blvd and Sedgehurst Dr",,38.856585,-77.397306,,,,,,1
+850,3072,"Pole Rd and Alameda Ct",,38.728670,-77.126900,,,,,,1
+851,5924,"Willard Rd and Daly Dr",,38.885807,-77.442028,,,,,,1
+853,2782,"Mt Vernon Mem Hwy and Ferry Landing Rd",,38.707590,-77.117700,,,,,,1
+854,6234,"Cedar La and Park St",,38.887855,-77.242270,,,,,,1
+855,2552,"Lawrence St and Kidd St",,38.738190,-77.111380,,,,,,1
+856,2974,"Old Keene Mill Rd and Keene Mill Ctr",,38.779030,-77.234790,,,,,,1
+857,2647,"Lorton Station Blvd and Grandwind Dr",,38.708330,-77.211900,,,,,,1
+858,1873,"Franklin Farm Rd and Nestlewood Dr",,38.906960,-77.400047,,,,,,1
+859,1308,"Baron Cameron Ave and Hunter Mill Rd",,38.975990,-77.316390,,,,,,1
+860,2055,"Franconia Rd and Valley View Dr",,38.781560,-77.148190,,,,,,1
+861,3768,"Westpark Dr and Park Run Dr",,38.928739,-77.225567,,,,,,1
+862,3505,"11830 Sunrise Valley Dr",,38.948380,-77.355640,,,,,,1
+863,2035,"Franconia Rd and Gum St",,38.784190,-77.129480,,,,,,1
+864,3007,"Park Ave and Grant St",,38.976501,-77.380517,,,,,,1
+866,2017,"Franconia Rd and Clermont Dr",,38.790020,-77.108983,,,,,,1
+867,3877,"Hooes Rd and Newington Forest Ave",,38.740880,-77.251140,,,,,,1
+868,1757,"Dranesville Rd and Bennett St",,38.986100,-77.377550,,,,,,1
+869,2788,"Mt Vernon Mem Hwy and Old Mill Rd",,38.713940,-77.100880,,,,,,1
+870,3391,"S Lakes Dr and Springwood Dr",,38.935357,-77.350110,,,,,,1
+871,2259,"Hanover Ave and Charlotte St",,38.783560,-77.194110,,,,,,1
+872,3302,"Ymca-Reston",,38.954705,-77.368227,,,,,,1
+875,1932,"Fair Lakes Pkwy and Fair Lakes Cir",,38.860538,-77.389883,,,,,,1
+876,1230,"Amherst Ave and Floyd Ave",,38.789450,-77.187450,,,,,,1
+877,4304,"Westfields Blvd and Sully Station Dr",,38.866529,-77.448520,,,,,,1
+878,1066,"Mary Baldwin Dr and Kenyon Dr",,38.768370,-77.071250,,,,,,1
+879,1928,"Florida Ave and Center St",,38.965057,-77.389849,,,,,,1
+880,2884,"N Shore Dr and Charter Oak Ct",,38.958930,-77.348850,,,,,,1
+881,6230,"Trap Rd and Old Courthouse Rd",,38.930340,-77.270813,,,,,,1
+882,3389,"S Lakes Dr and Soapstone Dr",,38.933840,-77.346210,,,,,,1
+883,2281,"Helmsdale La and Lund Ct",,38.752376,-77.131498,,,,,,1
+884,2917,"N Shore Dr and Fellowship Sq",,38.969400,-77.342090,,,,,,1
+885,3098,"Pole Rd and Plantation Dr",,38.729150,-77.125060,,,,,,1
+886,3051,"Post Forest Dr and Legato Rd",,38.855026,-77.364451,,,,,,1
+888,5009,"Sully Station Dr and Farming Way",,38.869040,-77.453380,,,,,,1
+889,1254,"Backlick Rd and Auburn St",,38.822640,-77.192010,,,,,,1
+890,4228,"Little Rocky Run Cir and Forest Pond Ct",,38.831890,-77.421147,,,,,,1
+891,976,"Richmond Hwy and Collard St",,38.766710,-77.083320,,,,,,1
+892,1952,"Fair Lakes Cir and Shoppes La",,38.859476,-77.387782,,,,,,1
+893,6226,"Beulah Rd and Ayr Hill Ave",,38.908991,-77.260526,,,,,,1
+894,2373,"Herndon Pkwy and Missouri Ave",,38.958060,-77.389290,,,,,,1
+895,2424,"Hummer Rd and Marshall Dr",,38.844120,-77.204710,,,,,,1
+896,877,"Richmond Hy and Brevar Rd",,38.729190,-77.108031,,,,,,1
+897,5911,"Lee Rd and Chantilly Crossing Ln",,38.895960,-77.447935,,,,,,1
+898,2961,"Old Keene Mill Rd and Hillside Rd",,38.776830,-77.243760,,,,,,1
+899,3715,"S Van Dorn St and Pickett St (North)",,38.805200,-77.134070,,,,,,1
+900,1625,"Colts Neck Rd and Greywing Ct",,38.941150,-77.359820,,,,,,1
+901,2630,"Lee Jackson Hwy and Plaza Ln",,38.882584,-77.400953,,,,,,1
+902,1583,"Centreville Rd and Coppermine Rd",,38.947543,-77.413370,,,,,,1
+903,871,"Little River Tpke and Braddock Rd",,38.822440,-77.162890,,,,,,1
+905,4209,"Lee Jackson Hwy and Airline Pkwy",,38.901547,-77.449812,,,,,,1
+906,1370,"Beacon Hill Rd and Oak Dr",,38.770240,-77.074980,,,,,,1
+907,6037,"Willard Rd and Lee Rd",,38.887284,-77.451711,,,,,,1
+908,1856,"Elden St and Worldgate Dr",,38.959613,-77.401266,,,,,,1
+910,3684,"Twinbrook Rd and Twinbrook Run Dr",,38.815760,-77.274810,,,,,,1
+911,3575,"Seven Woods Dr and Tamarind St",,38.741500,-77.098170,,,,,,1
+912,3099,"Pohick Rd and Southrun Rd",,38.736170,-77.225940,,,,,,1
+913,1795,"Edsall Rd and Dublin Ave",,38.806880,-77.180000,,,,,,1
+915,3333,"Sunset Hills Rd and Town Center Pkwy",,38.954161,-77.364783,,,,,,1
+916,2337,"Herndon Pkwy and Bayshire La",,38.976680,-77.403660,,,,,,1
+917,3413,"Soapstone Dr and Golf Course Sq",,38.944373,-77.348078,,,,,,1
+918,2907,"N Shore Dr and Wedge Dr",,38.958220,-77.336210,,,,,,1
+919,3307,"Sunset Hills Rd and Hunter Mill Rd",,38.948573,-77.312930,,,,,,1
+920,5543,"Maple Ave and Follin Ln",,38.910320,-77.253990,,,,,,1
+921,1976,"Follin La and Echols St",,38.906519,-77.249655,,,,,,1
+922,3490,"Sunrise Valley Dr and Association Dr",,38.945120,-77.344710,,,,,,1
+923,2810,"Monroe St and Pine St",,38.970610,-77.383699,,,,,,1
+924,4319,"Herndon - Monroe P+R",,38.951652,-77.383016,,,,,,1
+925,1274,"Backlick Rd and Highland St",,38.791510,-77.186520,,,,,,1
+926,2872,"Norton Rd and Kings Cross",,38.794600,-77.093250,,,,,,1
+927,3066,"Pinecrest Rd and Viking Dr",,38.931830,-77.383028,,,,,,1
+928,2925,"Nutley St and Courthouse Rd",,38.890950,-77.271320,,,,,,1
+929,2143,"Glade Dr and Ansdel Ct",,38.931008,-77.357283,,,,,,1
+930,3048,"Post Forest Dr and Lincoln Crest St",,38.856154,-77.368152,,,,,,1
+931,4177,"Centrewood Dr and Multiplex Dr",,38.828419,-77.440329,,,,,,1
+932,3335,"Spring Hill Rd and Turning Leaf La",,38.936286,-77.232286,,,,,,1
+933,2504,"Kinross Cir and Kirkwell Pl",,38.918020,-77.413500,,,,,,1
+934,4127,"Bushman Dr and Appalachian Cir",,38.871780,-77.296920,,,,,,1
+936,1830,"Elden St and Grant St",,38.968530,-77.378870,,,,,,1
+937,4153,"Chain Bridge Rd and Preston Heights C",,38.877600,-77.305220,,,,,,1
+938,1262,"Backlick Rd and Cindy La",,38.823130,-77.192050,,,,,,1
+940,1260,"Backlick Rd and Braddock Rd",,38.812290,-77.186350,,,,,,1
+941,4261,"Saint Germain Dr and Strasburg Dr",,38.837282,-77.443942,,,,,,1
+942,2656,"Leesburg Pike and Atwood Rd",,38.954530,-77.269220,,,,,,1
+943,2581,"Lake Braddock Dr and Olley La",,38.805780,-77.269170,,,,,,1
+944,1227,"Amherst Ave and Cumberland Ave",,38.783800,-77.187060,,,,,,1
+945,2026,"Franconia Rd and Roso St",,38.779690,-77.157330,,,,,,1
+946,4150,"Chain Bridge Rd and Oak Valley Dr",,38.885720,-77.285610,,,,,,1
+947,1996,"Frying Pan Rd and Grey Roy La",,38.945980,-77.395990,,,,,,1
+948,2579,"Lake Braddock Dr and Mersea Ct",,38.803410,-77.267300,,,,,,1
+949,960,"Fort Hunt Rd and Wellington Rd",,38.738970,-77.053970,,,,,,1
+950,1954,"12777 Fair Lakes Cir",,38.858103,-77.385584,,,,,,1
+952,3538,"Sunrise Valley Dr and Lakeport Way",,38.941780,-77.331220,,,,,,1
+953,3433,"Soapstone Dr and Stoneview Sq",,38.932460,-77.346851,,,,,,1
+954,2460,"Jones Branch Dr and Lincoln Ctr",,38.932056,-77.230243,,,,,,1
+955,3836,"Worldgate Dr and Alton Sq",,38.955063,-77.394324,,,,,,1
+956,2157,"Glade Dr and Marginella Dr",,38.944840,-77.375100,,,,,,1
+957,1369,"2600 Beacon Hill Rd",,38.771370,-77.078550,,,,,,1
+958,5612,"Centreville Rd and Metrotech Dr",,38.896993,-77.428964,,,,,,1
+959,1631,"Colts Neck Rd and Insha Ct",,38.933429,-77.362241,,,,,,1
+960,4115,"Blake La and Cyrandall Valley Rd",,38.876400,-77.289070,,,,,,1
+961,4305,"White Granite Dr and Chain Bridge Rd",,38.874657,-77.306283,,,,,,1
+963,1800,"Edsall Rd and Winter View Dr",,38.804112,-77.144341,,,,,,1
+964,3824,"Worldgate Dr and Elden St",,38.958031,-77.400276,,,,,,1
+965,3545,"Sunrise Valley Dr and Parkridge Blvd",,38.943207,-77.315558,,,,,,1
+968,1472,"Braddock Rd and Ravensworth Rd",,38.811530,-77.209830,,,,,,1
+969,3802,"Wiehle Ave and Longwood Grove Dr",,38.976450,-77.334740,,,,,,1
+970,2291,"Highland St and Hanover Ave",,38.793510,-77.195410,,,,,,1
+971,5894,"White Granite Dr and Flag Pole La",,38.873092,-77.305141,,,,,,1
+972,6215,"Tysons Corner Metro Bay B",,38.920668,-77.222104,,,,,,1
+973,6181,"Sunset Hills Rd and Isaac Newton Sq (West)",,38.951456,-77.340908,,,,,,1
+974,1140,"Kingstowne Blvd and Sir Viceroy Dr",,38.771480,-77.135410,,,,,,1
+975,4058,"River Birch Rd and Mcnair Farms Dr",,38.948611,-77.416594,,,,,,1
+976,1500,"Burke Rd and Ashbourn Dr",,38.804670,-77.278940,,,,,,1
+977,3592,"Twin Branches Rd and Villaridge Dr",,38.938245,-77.328072,,,,,,1
+978,3396,"S Lakes Dr and Thoreau Pl",,38.940310,-77.329160,,,,,,1
+979,4059,"Coppermine Rd and River Birch Rd",,38.948833,-77.415546,,,,,,1
+980,708,"Huntington Ave and Blaine Dr",,38.794050,-77.070170,,,,,,1
+981,4275,"Stringfellow Rd and Jasper Rd",,38.886870,-77.405630,,,,,,1
+982,1723,"Crestleigh Way and Foxleigh Way",,38.755890,-77.168480,,,,,,1
+983,2700,"Little River Tpke and Medford Dr",,38.831940,-77.204300,,,,,,1
+984,4169,"Centrewood Dr and Field Encampment Rd",,38.827649,-77.441011,,,,,,1
+985,2112,"Gallows Rd and Prescott Dr",,38.878730,-77.227540,,,,,,1
+986,1771,"Dranesville Rd and Powells Tavern Pl",,38.999375,-77.376502,,,,,,1
+987,3028,"Parcher Ave and Springer Dr (East)",,38.960398,-77.403648,,,,,,1
+988,1761,"Dranesville Rd and Forty Oaks Dr",,39.002358,-77.375407,,,,,,1
+989,3159,"Richmond Hwy and Hagel Cir",,38.695750,-77.215540,,,,,,1
+990,5572,"Old Courthouse Rd and Lord Fairfax Rd",,38.912633,-77.229238,,,,,,1
+992,6462,"Beacon Hill Rd and Richmond Hwy",,38.772030,-77.080630,,,,,,1
+993,3235,"Reston Pkwy and Bennington Woods Rd",,38.974200,-77.351440,,,,,,1
+994,3725,"S Van Dorn St and Pickett St (South)",,38.803760,-77.134030,,,,,,1
+995,3498,"Sunrise Valley Dr and Centennial Park",,38.945290,-77.341690,,,,,,1
+996,4199,"Flag Pole La and Granite Creek La",,38.872154,-77.303544,,,,,,1
+997,2731,"Maple Ave and Park St",,38.904310,-77.261970,,,,,,1
+998,3181,"Richmond Hwy and Russell Rd",,38.733110,-77.100040,,,,,,1
+1000,4224,"Lee Jackson Hwy and Walney Rd",,38.894406,-77.432352,,,,,,1
+1001,3615,"Telegraph Rd and D'Evereux Circle Dr",,38.764790,-77.126250,,,,,,1
+1002,1383,"Reston Town Ctr Bay K",,38.957150,-77.357890,,,,,,1
+1003,5462,"Chain Bridge Rd and Buena Vista Ave",,38.931148,-77.181524,,,,,,1
+1004,3601,"Town Center Pkwy and New Dominion Pkwy",,38.960140,-77.362990,,,,,,1
+1005,1146,"Kingstowne Blvd and Kingstowne Ctr",,38.772220,-77.134690,,,,,,1
+1006,2583,"Lake Braddock Dr and Tripolis Ct",,38.805450,-77.270940,,,,,,1
+1007,2902,"N Shore Dr and Northgate Sq",,38.969970,-77.335490,,,,,,1
+1008,3147,"Rose Hill Dr and Eastchester Cir",,38.783809,-77.120755,,,,,,1
+1009,2056,"Franconia Rd and Willowfield Way",,38.779722,-77.159253,,,,,,1
+1010,5399,"Jones Branch Dr and Westpark Dr",,38.926622,-77.217683,,,,,,1
+1011,938,"Fort Hunt Rd and Fort Hunt Ct",,38.761470,-77.059650,,,,,,1
+1012,1486,"Braddock Rd and Twinbrook Rd",,38.818130,-77.274860,,,,,,1
+1013,635,"Fordson Rd and Beechcraft Dr",,38.754229,-77.086023,,,,,,1
+1014,1277,"Backlick Rd and Kandel Ct",,38.819420,-77.190180,,,,,,1
+1015,1641,"Commerce St and Monticello Blvd",,38.779910,-77.191700,,,,,,1
+1016,1442,"Braddock Rd and Heming Ave",,38.811640,-77.203400,,,,,,1
+1017,1724,"Crestleigh Way and Beulah St",,38.754540,-77.166040,,,,,,1
+1018,2082,"Gallows Rd and Dolce Dr",,38.846700,-77.203650,,,,,,1
+1019,2714,"Lorton Station Blvd and Percy Simms Dr",,38.712950,-77.213370,,,,,,1
+1020,942,"Fort Hunt Rd and Mason Hill Dr",,38.755600,-77.057520,,,,,,1
+1021,4047,"Centreville P+R",,38.835759,-77.455111,,,,,,1
+1022,638,"Sherwood Hall La and Hollindale Dr",,38.751620,-77.058610,,,,,,1
+1023,1478,"Braddock Rd and Sideburn Rd",,38.823850,-77.307260,,,,,,1
+1024,2089,"Gallows Rd and Elm Pl",,38.895810,-77.225140,,,,,,1
+1026,1903,"Fort Hunt Rd and Marine Dr",,38.758550,-77.058450,,,,,,1
+1027,5539,"Chain Bridge and St Andrews",,38.914130,-77.243290,,,,,,1
+1028,1361,"Bennington Woods Rd and Waterside View Dr",,38.970130,-77.357360,,,,,,1
+1029,3216,"Rolling Rd and Edinburgh Dr",,38.738450,-77.211290,,,,,,1
+1030,3744,"Vernon View Dr and Prices La",,38.712540,-77.062380,,,,,,1
+1031,1335,"Beulah St and Crestleigh Rd",,38.753650,-77.165248,,,,,,1
+1032,3074,"Pohick Rd and Aspenpark Rd",,38.711920,-77.198940,,,,,,1
+1033,2736,"Manchester Blvd and Silver Lake Blvd",,38.765066,-77.154298,,,,,,1
+1034,3499,"Sunrise Valley Dr and Centreville Rd",,38.951606,-77.407636,,,,,,1
+1036,6469,"Crown Royal Dr and High Meadow Rd",,38.788484,-77.138523,,,,,,1
+1037,2314,"Hooes Rd and Hooes Rd",,38.745140,-77.249910,,,,,,1
+1039,2244,"Guinea Rd and Sandy Lewis Dr",,38.799290,-77.292530,,,,,,1
+1040,3833,"West Ox Rd and Ox Hill Rd",,38.873091,-77.367320,,,,,,1
+1041,631,"Sherwood Hall La and Fordson Rd",,38.743060,-77.082050,,,,,,1
+1042,3493,"Sunrise Valley Dr and Wood Oak Dr (West)",,38.951690,-77.402370,,,,,,1
+1043,3532,"Sunrise Valley Dr and Indian Ridge Rd",,38.947690,-77.349140,,,,,,1
+1044,2554,"Lawyers Rd and Lewis St",,38.903877,-77.273403,,,,,,1
+1045,1977,"Follin La and Echols St",,38.906341,-77.249220,,,,,,1
+1047,5540,"Chain Bridge and Westbriar",,38.912540,-77.246770,,,,,,1
+1049,1440,"Braddock Rd and Herend Pl",,38.824010,-77.282170,,,,,,1
+1050,2863,"North Kings Hwy and Fort Dr",,38.789190,-77.076350,,,,,,1
+1051,2720,"Maple Ave and Center St",,38.902093,-77.264401,,,,,,1
+1052,5471,"Chain Bridge Rd and Anderson Rd",,38.926092,-77.204348,,,,,,1
+1053,3591,"Twin Branches Rd and Sentinel Point Ct",,38.935449,-77.326513,,,,,,1
+1054,2965,"Old Keene Mill Rd and Hunter Village Dr",,38.774390,-77.205740,,,,,,1
+1055,1231,"Amherst Ave and Highland St",,38.792020,-77.186870,,,,,,1
+1056,1273,"Backlick Rd and Hechinger Dr",,38.796459,-77.185796,,,,,,1
+1057,2413,"Hummer Rd and Frontage Rd",,38.833650,-77.210480,,,,,,1
+1058,6196,"Alban Rd and Mazzello Pl",,38.728527,-77.204331,,,,,,1
+1059,1561,"Chain Bridge Rd and Glengyle Dr",,38.891580,-77.277950,,,,,,1
+1060,3689,"Tyco Rd and Leesburg Pike",,38.930600,-77.241680,,,,,,1
+1061,2525,"Kingstowne Village Pkwy and Joust La (North)",,38.763120,-77.141930,,,,,,1
+1062,573,"Lenclair St and Memorial St",,38.770410,-77.086210,,,,,,1
+1063,3621,"Telegraph Rd and Florence La",,38.788770,-77.087220,,,,,,1
+1064,6464,"Mount Vernon Government Dr and M",,38.740490,-77.076110,,,,,,1
+1066,2260,"Hanover Ave and Essex Ave",,38.786520,-77.193690,,,,,,1
+1068,2151,"Glade Dr and Dosinia Ct",,38.941640,-77.368590,,,,,,1
+1069,2966,"Old Keene Mill Rd and Jansen Dr",,38.778487,-77.220463,,,,,,1
+1070,2263,"Hanover Ave and Falmouth St",,38.781110,-77.194850,,,,,,1
+1071,1183,"Franconia-Springfield Metro Bay E",,38.766772,-77.168881,,,,,,1
+1072,3033,"Tthe Parkway and Telegraph Rd",,38.784720,-77.095270,,,,,,1
+1073,4164,"15036 Conference Center Dr",,38.879184,-77.462053,,,,,,1
+1075,3046,"Penderbrook Dr and Ridge Knoll Dr",,38.870372,-77.362591,,,,,,1
+1076,2267,"Harrison La and Groveton St",,38.770378,-77.093788,,,,,,1
+1078,914,"Fort Hunt Rd and Belle Haven Rd",,38.780730,-77.062550,,,,,,1
+1079,5468,"Chain Bridge Rd and Montcalm Dr",,38.928075,-77.198763,,,,,,1
+1080,3646,"Thomas Dr and Deepford St",,38.781640,-77.163910,,,,,,1
+1081,2171,"Glade Dr and Soapstone Dr",,38.926172,-77.344945,,,,,,1
+1082,2932,"Nutley St and Tapawingo Rd",,38.886260,-77.269050,,,,,,1
+1083,1296,"Backlick Rd and Wilburdale Dr",,38.816090,-77.187580,,,,,,1
+1084,3634,"Telegraph Rd and Pike Rd",,38.785790,-77.093660,,,,,,1
+1085,1046,"Mt Vernon Hwy and Woodland La",,38.720930,-77.089930,,,,,,1
+1086,1456,"Braddock Rd and Pickett Rd",,38.819435,-77.276243,,,,,,1
+1087,2867,"North Kings Hwy and Poag St",,38.782240,-77.078830,,,,,,1
+1088,1591,"Center St and Locust St",,38.969086,-77.387964,,,,,,1
+1089,1812,"Edsall Rd and Yoakum Pkwy",,38.807520,-77.140670,,,,,,1
+1090,3866,"Fleet Dr and Beulah St",,38.772169,-77.153677,,,,,,1
+1091,964,"Fort Hunt Rd and Bishop Crest Ct",,38.729710,-77.057130,,,,,,1
+1092,2010,"Ffx County Pkwy and Whitlers Creek Dr",,38.758510,-77.224690,,,,,,1
+1093,1533,"Bennington Woods Rd and Waterside View Dr",,38.968240,-77.358990,,,,,,1
+1094,3414,"Soapstone Dr and Golf Course Sq",,38.944035,-77.348351,,,,,,1
+1095,3905,"Monument Dr and Park Vista Blvd",,38.854268,-77.349489,,,,,,1
+1096,1388,"Burke Lake Rd and Kings Park Library",,38.807070,-77.256280,,,,,,1
+1097,3020,"The Parkway and Prospect Ter",,38.776340,-77.099070,,,,,,1
+1098,3263,"Sacremento Dr and Claymont Dr",,38.725224,-77.129239,,,,,,1
+1099,3518,"Sunrise Valley Dr and Dulles View Dr (South)",,38.951420,-77.425880,,,,,,1
+1100,2107,"Gallows Rd and Merry Oaks La",,38.908070,-77.222580,,,,,,1
+1101,1947,"12500 Fair Lakes Cir",,38.858428,-77.381149,,,,,,1
+1103,3447,"Southrun Rd and Brutus Ct",,38.727900,-77.235060,,,,,,1
+1104,2793,"Mt Vernon Mem Hwy and Richmon Hwy",,38.715980,-77.132440,,,,,,1
+1105,1367,"Becontree La and Goldenrain Ct",,38.968060,-77.329950,,,,,,1
+1106,2921,"N Shore Dr and Wainwright Dr (North)",,38.963840,-77.348750,,,,,,1
+1107,5993,"Columbia Pike and Maple Pl",,38.830971,-77.195066,,,,,,1
+1108,4256,"Poplar Tree Rd and Orr Dr",,38.875232,-77.418507,,,,,,1
+1110,3819,"Worldgate Dr and Alton Sq",,38.955370,-77.390089,,,,,,1
+1111,1005,"Richmond Hwy and Southgate Dr",,38.773520,-77.081300,,,,,,1
+1112,4121,"Braddock Rd and Birchleaf Park Ct",,38.851213,-77.443823,,,,,,1
+1113,1876,"Franklin Farm Rd and Old Dairy Rd",,38.909656,-77.413335,,,,,,1
+1114,3434,"Soapstone Dr and Sweetbay La",,38.925776,-77.344596,,,,,,1
+1115,4248,"Poplar Tree Rd and Braddock Ridge Dr",,38.857333,-77.449806,,,,,,1
+1116,6204,"Lewinsville Rd and Balls Hill Rd",,38.932433,-77.199842,,,,,,1
+1118,2273,"Hayfield Rd and Spring Faire Ct",,38.761580,-77.149770,,,,,,1
+1119,3628,"Telegraph Rd and East Dr",,38.796240,-77.081860,,,,,,1
+1120,2241,"Guinea Rd and Pierrpont St",,38.804220,-77.282760,,,,,,1
+1121,2949,"Old Keene Mill Rd and Carrleigh Pkwy",,38.780271,-77.228978,,,,,,1
+1122,2708,"Little River Tpke and Woodland Rd",,38.832460,-77.207370,,,,,,1
+1123,1759,"Dranesville Rd and Cliveden St",,38.993567,-77.376616,,,,,,1
+1124,1633,"Colts Neck Rd and Quorn La",,38.928805,-77.369691,,,,,,1
+1125,5568,"Chain Bridge Rd and Horse Shoe D",,38.913508,-77.244126,,,,,,1
+1126,1010,"Richmond Hwy and Arlington Dr",,38.754940,-77.083720,,,,,,1
+1127,2134,"Government Center Pkwy and Oakdale Crescent Ct",,38.851608,-77.351486,,,,,,1
+1128,1422,"Braddock Rd and Burke Station Rd",,38.826300,-77.288540,,,,,,1
+1129,3730,"Viking Dr and Chiswell Pl",,38.919321,-77.376724,,,,,,1
+1130,1760,"Dranesville Rd and Forty Oaks Dr",,39.002670,-77.375590,,,,,,1
+1131,5629,"Centreville Rd and Armfield Farm Dr",,38.904500,-77.423678,,,,,,1
+1132,4300,"Walney Rd and Leeton Cir",,38.874486,-77.430286,,,,,,1
+1133,1439,"Braddock Rd and Glen Park Rd",,38.810960,-77.231060,,,,,,1
+1134,2160,"Glade Dr and Green Range Dr N",,38.939370,-77.366390,,,,,,1
+1135,886,"Beacon Hill Rd and Oak Dr",,38.770560,-77.075790,,,,,,1
+1136,1293,"Backlick Rd and Sunset La",,38.817690,-77.188980,,,,,,1
+1138,2541,"Lawyers Rd and Charlestown La",,38.922391,-77.354558,,,,,,1
+1139,1792,"Edsall Rd and Cherokee Ave",,38.804860,-77.168240,,,,,,1
+1140,2923,"N Shore Dr and Wainwright Dr (South)",,38.963340,-77.350250,,,,,,1
+1141,3083,"Pole Rd and Credos Ct",,38.728040,-77.128690,,,,,,1
+1142,666,"Tamarind St and Laramie Pl",,38.741110,-77.097030,,,,,,1
+1143,2149,"Glade Dr and Cocquina Dr",,38.946890,-77.374540,,,,,,1
+1144,4075,"Machen Rd and Multiplex Dr",,38.830923,-77.436722,,,,,,1
+1145,4149,"Chain Bridge Rd and Oakton Meadows Ct",,38.881030,-77.300500,,,,,,1
+1146,881,"Belle View Blvd and 13Th St",,38.775170,-77.058110,,,,,,1
+1147,5565,"Maple Ave and Mashie Dr",,38.910338,-77.252613,,,,,,1
+1148,4285,"Sullyfield Cir and Westmore St",,38.891041,-77.434617,,,,,,1
+1149,2562,"Lawyers Rd and Tack La",,38.924473,-77.369330,,,,,,1
+1150,5988,"Fields Brigade Rd and Quiet Crossing",,38.870816,-77.376309,,,,,,1
+1152,1831,"Elden St and Herndon Pkwy",,38.963136,-77.398998,,,,,,1
+1153,2892,"N Shore Dr and Ivy Oak Sq (North)",,38.958490,-77.348160,,,,,,1
+1154,2054,"Franconia Rd and Villa St",,38.783520,-77.138450,,,,,,1
+1155,2803,"Monument Dr and Fair Ridge Dr",,38.866368,-77.371850,,,,,,1
+1156,4154,"Chain Bridge Rd and Sutton Rd",,38.887850,-77.282290,,,,,,1
+1157,883,"Belle View Blvd and Fort Hunt Rd",,38.775190,-77.061500,,,,,,1
+1158,6107,"Silverbrook Rd and Laurel Crest Dr",,38.717152,-77.235228,,,,,,1
+1159,3313,"Sherwood Hall Ln and Richmond Hwy",,38.742710,-77.083050,,,,,,1
+1160,665,"Buckman Rd and Janna Lee Ave",,38.739120,-77.094350,,,,,,1
+1161,3484,"Stringfellow Rd and Stream Valley Dr",,38.878058,-77.408818,,,,,,1
+1162,1411,"Braddock Rd and Backlick Rd",,38.811990,-77.188180,,,,,,1
+1163,2539,"Lawyers Rd and Blue Spruce Rd",,38.922794,-77.358208,,,,,,1
+1164,3707,"Van Buren St and Worldgate Dr",,38.954595,-77.388045,,,,,,1
+1166,2733,"Maple Ave and Gylndon St",,38.904162,-77.261814,,,,,,1
+1167,2529,"Kingstowne Village Pkwy and Norham Dr",,38.757930,-77.144180,,,,,,1
+1168,1822,"Elden St and Center St",,38.969435,-77.388018,,,,,,1
+1169,3705,"205 Van Buren St",,38.955861,-77.388517,,,,,,1
+1170,2580,"Lake Braddock Dr and Olley La",,38.806040,-77.268480,,,,,,1
+1171,1461,"Braddock Rd and Port Royal Rd",,38.811080,-77.223260,,,,,,1
+1172,3962,"Soapstone Dr and Glencourse La",,38.936701,-77.345512,,,,,,1
+1173,5467,"Chain Bridge Rd and Mclean Commons Ct",,38.929441,-77.195999,,,,,,1
+1174,2794,"Mt Vernon Mem Hwy and Richomond Hwy",,38.716020,-77.132160,,,,,,1
+1175,2658,"Leesburg Pike and Colvin Forest Dr",,38.970440,-77.298100,,,,,,1
+1176,2446,"International Dr and Fletcher St",,38.916610,-77.225370,,,,,,1
+1178,1007,"Richmond Hwy and Collard St",,38.766970,-77.083650,,,,,,1
+1179,2498,"3210 Kinross Cir",,38.913710,-77.409640,,,,,,1
+1180,2315,"Hooes Rd and Innisfree Dr",,38.754090,-77.242620,,,,,,1
+1181,3476,"Stringfellow Rd and Fair Lakes Pkwy",,38.862382,-77.406006,,,,,,1
+1182,2881,"N Shore Dr and Clubhouse Rd",,38.964100,-77.346730,,,,,,1
+1183,6458,"Richmond Hwy and Ladson Ln",,38.740350,-77.087690,,,,,,1
+1184,3166,"Rose Hill Dr and Leewood Dr",,38.782716,-77.119231,,,,,,1
+1185,1980,"Fordson Rd and Joseph Makell Ct",,38.746985,-77.081464,,,,,,1
+1186,1516,"Buckman Rd and Russell Rd",,38.735850,-77.102320,,,,,,1
+1187,1575,"Chain Bridge Rd and West Dr",,38.839900,-77.310553,,,,,,1
+1188,4183,"Centreville Farms Rd and Granite Step Tr",,38.848433,-77.404882,,,,,,1
+1189,1426,"Braddock Rd and Carriage Park Rd",,38.824570,-77.305140,,,,,,1
+1192,1070,"Lockheed Blvd and Fairchild Dr",,38.759670,-77.088670,,,,,,1
+1193,3767,"Westpark Dr and Westbranch Dr",,38.927692,-77.222721,,,,,,1
+1194,3386,"S Lakes High School",,38.931260,-77.338700,,,,,,1
+1195,3417,"Soapstone Dr and Hearthstone Ct",,38.928399,-77.344082,,,,,,1
+1196,2436,"Hunters Woods Fellowship House",,38.937080,-77.361060,,,,,,1
+1198,5649,"Lewinsville Rd and Meadow Green La",,38.941667,-77.220991,,,,,,1
+1199,1338,"Beulah St and Steinway St",,38.758502,-77.161635,,,,,,1
+1201,1092,"Lorton Park + Ride",,38.703928,-77.222213,,,,,,1
+1202,3554,"Sunrise Valley Dr and Colts Neck Rd",,38.946590,-77.356730,,,,,,1
+1203,3626,"Telegraph Rd and Highland Meadows Ct",,38.763658,-77.128819,,,,,,1
+1204,1891,"Fort Hunt Rd and Admiral Dr",,38.749990,-77.057330,,,,,,1
+1205,3241,"Reston Pkwy and Lake Newport Rd",,38.977750,-77.348830,,,,,,1
+1206,6465,"Lawrence St and Russell Rd",,38.739930,-77.105560,,,,,,1
+1207,1526,"Bennington Woods Rd and Fieldthorn Dr",,38.972190,-77.357430,,,,,,1
+1208,2898,"N Shore Dr and Links Dr (West)",,38.956010,-77.342320,,,,,,1
+1209,6193,"Vienna Metro North Bay F",,38.879150,-77.271338,,,,,,1
+1210,687,"Broadmoor St and Derth Ct",,38.745340,-77.137110,,,,,,1
+1212,963,"Fort Hunt Rd and Falster Rd",,38.731840,-77.056320,,,,,,1
+1213,3808,"Wiehle Ave and North Shore Dr",,38.969280,-77.333510,,,,,,1
+1214,2161,"Glade Dr and Millrace La",,38.939450,-77.366180,,,,,,1
+1215,2228,"Greensboro Dr and The Rotonda",,38.926145,-77.233668,,,,,,1
+1216,6471,"Franconia Rd and Westchester St",,38.785906,-77.123563,,,,,,1
+1218,2778,"Mt Vernon Mem Hwy and Cherrytree Dr",,38.713399,-77.102221,,,,,,1
+1219,2696,"Little River Tpke and Brookside Dr",,38.819690,-77.149950,,,,,,1
+1220,6001,"Stevenage Rd and Bennington Woods Rd",,38.967650,-77.358787,,,,,,1
+1221,3618,"Telegraph Rd and Dunsmore Rd",,38.760890,-77.132860,,,,,,1
+1222,4203,"Gothwaite Dr and Cardigan Sq",,38.839144,-77.459106,,,,,,1
+1223,3857,"Braddock Rd and Blue Ridge Ave",,38.811670,-77.199730,,,,,,1
+1224,1624,"Colts Neck Rd and Greywing Ct",,38.940930,-77.359720,,,,,,1
+1225,3524,"Sunrise Valley Dr and Glen Echo Rd",,38.951155,-77.406824,,,,,,1
+1227,1390,"Burke Lake Rd and Signal Hill Dr",,38.806080,-77.257730,,,,,,1
+1228,3345,"Silverbrook Rd and Bluebird Way",,38.708460,-77.228880,,,,,,1
+1229,3650,"Tis Well Dr and Doctor Craik Ct",,38.736260,-77.078370,,,,,,1
+1230,3193,"Richmond Hwy and Sky View Dr",,38.725890,-77.114630,,,,,,1
+1231,2036,"Franconia Rd and Gum St",,38.783980,-77.129080,,,,,,1
+1232,3639,"Telegraph Rd and Sandlin St",,38.783290,-77.100750,,,,,,1
+1233,1256,"Backlick Rd and Backlick Ct",,38.800820,-77.184630,,,,,,1
+1234,2715,"Lorton Station Blvd and Percy Simms Dr",,38.713010,-77.213761,,,,,,1
+1236,1978,"Follin La and Vega La",,38.903668,-77.245667,,,,,,1
+1237,1756,"Dranesville Rd and Butter Churn Dr",,39.003710,-77.374917,,,,,,1
+1238,1772,"Dranesville Rd and Shallow Ford Rd",,38.996500,-77.376860,,,,,,1
+1239,1762,"Dranesville Rd and Herndon Pkwy",,38.983040,-77.378290,,,,,,1
+1240,2047,"Franconia Rd and Ridge View Dr",,38.791097,-77.105687,,,,,,1
+1242,3369,"S Lakes Dr and Salt Kettle Way",,38.932930,-77.334510,,,,,,1
+1243,2575,"Lake Braddock Dr and Cotherstone Ct",,38.801670,-77.267400,,,,,,1
+1245,2063,"Lee High School",,38.781310,-77.171670,,,,,,1
+1246,2046,"Franconia Rd and Peverill Dr",,38.789250,-77.110520,,,,,,1
+1247,5397,"7925 Jones Branch Dr",,38.930249,-77.216874,,,,,,1
+1248,2023,"Flat Rock Rd and Deer Cap Ct",,38.774440,-77.151100,,,,,,1
+1249,3440,"Soapstone Dr and Woodhollow Ct",,38.927019,-77.343982,,,,,,1
+1250,907,"George Washington Memorial Pkwy and Stratford La",,38.711670,-77.071850,,,,,,1
+1251,3542,"Sunrise Valley Dr and Monroe St",,38.948650,-77.392330,,,,,,1
+1252,2726,"Maple Ave and Lawyers Rd",,38.900030,-77.267270,,,,,,1
+1253,4277,"Stone Rd and Sully Park Dr",,38.850123,-77.452712,,,,,,1
+1254,3249,"Reston Pkwy and Wiehle Ave",,38.986480,-77.343040,,,,,,1
+1255,1948,"12750 Fair Lakes Cir",,38.858464,-77.385916,,,,,,1
+1256,2093,"Gallows Rd and Gatehouse Rd",,38.868490,-77.227670,,,,,,1
+1257,4135,"Bushman Dr and Valentino Dr W",,38.873000,-77.299330,,,,,,1
+1258,1635,"Colts Neck Rd and Steeplechase Dr",,38.932101,-77.362628,,,,,,1
+1259,2518,"Kingstowne Village Pkwy and Ashby La",,38.755050,-77.149030,,,,,,1
+1260,1877,"Franklin Farm Rd and Pond Crest La",,38.907018,-77.387305,,,,,,1
+1261,4146,"Chain Bridge Rd and Oakton Glen Dr",,38.884350,-77.288520,,,,,,1
+1262,3642,"Telegraph Rd and Virginia Hills Ave",,38.782530,-77.102690,,,,,,1
+1263,972,"Vernon View Dr and Prices La",,38.712620,-77.062510,,,,,,1
+1264,2099,"Gallows Rd and Iliff Dr",,38.892000,-77.224860,,,,,,1
+1265,2236,"Guinea Rd and Harford La",,38.810610,-77.268860,,,,,,1
+1266,916,"Fort Hunt Rd and Belle View Blvd",,38.774690,-77.062680,,,,,,1
+1267,1452,"Braddock Rd and Montrose St",,38.818980,-77.164760,,,,,,1
+1269,4184,"Centreville Farms Rd and Lamium La",,38.842573,-77.412949,,,,,,1
+1270,2243,"Guinea Rd and Queens Woods Dr",,38.810210,-77.272980,,,,,,1
+1271,1854,"Electric Ave and Williams Ave",,38.900730,-77.233430,,,,,,1
+1272,1385,"Bluemont Way and Presidents St",,38.957510,-77.355750,,,,,,1
+1273,2735,"Manchester Blvd and Rock Ridge La",,38.764261,-77.148354,,,,,,1
+1274,839,"Fort Hunt Rd and Belle Haven Rd",,38.780530,-77.062460,,,,,,1
+1275,5660,"Lewinsville Rd and Windy Hill Rd",,38.934168,-77.203194,,,,,,1
+1276,3519,"Sunrise Valley Dr and Dulles View Dr",,38.951770,-77.425760,,,,,,1
+1277,1195,"Huntington Metro North Bay E",,38.795775,-77.074920,,,,,,1
+1278,4142,"Chain Bridge Rd and Jermantown Rd",,38.877350,-77.305730,,,,,,1
+1279,4161,"Country Creek Rd and Shawn Leigh Dr",,38.878362,-77.276749,,,,,,1
+1280,5020,"Sully Goverment Ctr",,38.871127,-77.450446,,,,,,1
+1281,2745,"Mary Baldwin Dr and Smithway Dr",,38.768220,-77.073140,,,,,,1
+1282,1414,"Braddock Rd and Braddock Green Ct",,38.822860,-77.280400,,,,,,1
+1283,3798,"Wiehle Ave and Fairway Dr",,38.963020,-77.333720,,,,,,1
+1284,3827,"West Ox Rd and Fair Lakes Pkwy",,38.859133,-77.371026,,,,,,1
+1285,2128,"Government Center Pkwy and Forum Dr E",,38.851284,-77.355384,,,,,,1
+1286,888,"Beacon Hill Rd and Richmond Hwy",,38.771940,-77.079850,,,,,,1
+1287,5544,"Maple Ave and Pleasant St",,38.898040,-77.269780,,,,,,1
+1288,2059,"Franconia Springfield Pkwy and Spring Village Dr",,38.764870,-77.195880,,,,,,1
+1289,1842,"Elden St and Monroe St",,38.969670,-77.383170,,,,,,1
+1290,6108,"Silverbrook Rd and Indian Paintbrush Way",,38.721640,-77.239478,,,,,,1
+1291,2785,"Mt Vernon Mem Hwy and Mt Vernon Rd",,38.710550,-77.128700,,,,,,1
+1292,3935,"Herndon-Monroe P+R Bay C",,38.951641,-77.383238,,,,,,1
+1294,3095,"Pohick Rd and Newington Woods Dr",,38.743910,-77.236980,,,,,,1
+1295,3258,"Russell Rd and Norwood Dr",,38.738880,-77.104320,,,,,,1
+1297,1477,"Braddock Rd and Sideburn Rd",,38.824260,-77.308440,,,,,,1
+1298,2899,"N Shore Dr and Moorings Dr",,38.969330,-77.338530,,,,,,1
+1299,2357,"Herndon Pkwy and Exchange Pl",,38.954910,-77.379900,,,,,,1
+1300,3314,"Sherwood Hall La and Kirkside Dr",,38.745960,-77.069530,,,,,,1
+1301,1904,"7400 Fort Hunt Rd",,38.756920,-77.057660,,,,,,1
+1302,3640,"Telegraph Rd and Sandlin Ct",,38.783040,-77.101060,,,,,,1
+1303,5392,"Galleria Dr and Tysons Blvd",,38.922465,-77.220517,,,,,,1
+1304,2044,"Franconia Rd and La Vista Dr",,38.788410,-77.117760,,,,,,1
+1306,2819,"Mt Vernon Hwy and Battersea La (South)",,38.723680,-77.090480,,,,,,1
+1307,4236,"New Braddock Rd and William Mosby Dr",,38.828346,-77.428184,,,,,,1
+1308,1380,"Burke Lake Rd and Grantham St",,38.809110,-77.252890,,,,,,1
+1309,1808,"6000 Edsall Rd",,38.807710,-77.137040,,,,,,1
+1311,2262,"Hanover Ave and Exmore St",,38.781590,-77.194560,,,,,,1
+1312,150,"Hayfield Rd and Kingstowne Village Pkwy W",,38.756699,-77.146284,,,,,,1
+1314,2772,"Manchester Park Cir",,38.768002,-77.145173,,,,,,1
+1315,1870,"Franklin Farm Rd and Fairfax County Pkwy",,38.906972,-77.405101,,,,,,1
+1316,2710,"Lorton Station Blvd and Graysons Mill La",,38.716156,-77.208650,,,,,,1
+1317,3913,"Vienna Metro South Bay P",,38.877204,-77.271800,,,,,,1
+1319,1829,"Elden St and Grant St",,38.968600,-77.378460,,,,,,1
+1321,880,"Potomac Ave and Belle View Blvd",,38.774930,-77.056970,,,,,,1
+1322,6474,"Deepford St and Wayles St",,38.783590,-77.166500,,,,,,1
+1323,3141,"Rose Hill Dr and Cottonwood Dr",,38.778258,-77.114912,,,,,,1
+1324,1603,"Centreville Rd and Virginia Randolph",,38.943625,-77.413563,,,,,,1
+1325,1359,"Beulah St and View Ln",,38.743330,-77.165830,,,,,,1
+1327,2501,"Kinross Cir and Kinbrace Rd",,38.914360,-77.413000,,,,,,1
+1328,5829,"West Ox Rd and  Franklin Farm Rd",,38.905960,-77.382579,,,,,,1
+1329,1892,"Fort Hunt Rd and Alexandria Ave",,38.747120,-77.058110,,,,,,1
+1330,2021,"Franconia Rd and Craft Rd",,38.788710,-77.113280,,,,,,1
+1331,3875,"Greensboro Dr and Spring Hill Rd",,38.928391,-77.236033,,,,,,1
+1332,968,"Fort Hunt Rd and Elkin St",,38.722280,-77.060800,,,,,,1
+1333,5508,"Beverly Rd and Old Mclean Village Rd",,38.937150,-77.177640,,,,,,1
+1334,2567,"Lawyers Rd and Windover Ave",,38.903481,-77.271282,,,,,,1
+1336,1188,"Laurel Crest Dr and Pinion Pl",,38.717166,-77.229339,,,,,,1
+1337,2709,"Lorton Station Blvd and Graysons Mill La",,38.716471,-77.209186,,,,,,1
+1338,3463,"Southrun Rd and Silverdale Rd",,38.727050,-77.238370,,,,,,1
+1339,1628,"Colts Neck Rd and Hunter Woods Plz",,38.938260,-77.362100,,,,,,1
+1340,1910,"Fort Hunt Rd and Plymouth Rd",,38.725250,-77.059220,,,,,,1
+1342,3612,"Telegraph Rd and Climbhill Rd",,38.779470,-77.106770,,,,,,1
+1343,4299,"Walney Rd and Fillingame Dr",,38.872230,-77.429540,,,,,,1
+1344,3245,"Reston Pkwy and South Lakes Dr",,38.943500,-77.361190,,,,,,1
+1345,6116,"Rolling Rd and Terra Grande Ave",,38.734881,-77.208546,,,,,,1
+1346,873,"Little River Tpke and Cherokee Ave",,38.820740,-77.156000,,,,,,1
+1347,3479,"Stringfellow Rd and Point Pleasant Dr",,38.871516,-77.408097,,,,,,1
+1348,5541,"Chain Bridge and Niblick",,38.911070,-77.249990,,,,,,1
+1349,6066,"Fullerton Rd and Boston Blvd",,38.741001,-77.198681,,,,,,1
+1350,3173,"Richmond Hwy and North Kings Hwy",,38.781450,-77.078220,,,,,,1
+1351,1368,"2600 Beacon Hill Rd",,38.771290,-77.077940,,,,,,1
+1352,3714,"S Van Dorn St and Crown Royal Dr",,38.788000,-77.136376,,,,,,1
+1353,955,"Vernon View Dr and River Farm Dr",,38.710940,-77.062200,,,,,,1
+1354,1289,"Backlick Rd and Spring Garden Dr",,38.772700,-77.183820,,,,,,1
+1355,1839,"Elden St and Locust St",,38.968171,-77.395180,,,,,,1
+1357,2854,"Newington Forest Ave and Falling Leaf Rd",,38.743000,-77.239800,,,,,,1
+1359,1437,"Braddock Rd and Forestdale Dr",,38.826100,-77.299890,,,,,,1
+1360,3616,"Telegraph Rd and Van Dorn St",,38.765790,-77.124260,,,,,,1
+1361,1637,"Colts Neck Rd and Sunrise Valley Dr",,38.944880,-77.357830,,,,,,1
+1362,2673,"Leesburg Pike and Lewinsville Rd",,38.942520,-77.255060,,,,,,1
+1363,398,"North Point Village Ctr",,38.979345,-77.349710,,,,,,1
+1364,3256,"Russell Rd and Keswick Rd",,38.737330,-77.103350,,,,,,1
+1365,2370,"Herndon Pkwy and Juniper Ct",,38.960600,-77.396690,,,,,,1
+1366,3464,"Southrun Rd and Silverdale Rd",,38.726910,-77.238290,,,,,,1
+1367,1776,"DRANESVILLE RD @ WORCHESTER ST",,38.979250,-77.378520,,,,,,1
+1368,3240,"Reston Pkwy and Great Owl Dr",,38.982000,-77.347560,,,,,,1
+1369,2959,"Old Keene Mill Rd and Harwood Pl",,38.774110,-77.210140,,,,,,1
+1370,2568,"Lake Braddock Dr and Burke Rd",,38.801300,-77.276430,,,,,,1
+1371,2890,"N Shore Dr and Golf View Ct",,38.956580,-77.345130,,,,,,1
+1372,3648,"Thomas Dr and Franconia Rd",,38.779660,-77.163550,,,,,,1
+1374,2900,"N Shore Dr and Maple Ridge Rd",,38.968300,-77.343580,,,,,,1
+1375,3657,"Thomas Jefferson Dr and Misty Dawn Dr",,38.948430,-77.407880,,,,,,1
+1376,3804,"Wiehle Ave and Longwood Grove Dr (North)",,38.978150,-77.335210,,,,,,1
+1377,1451,"Braddock Rd and Monroe Dr",,38.811820,-77.173460,,,,,,1
+1378,1897,"Fort Hunt Rd and Fort Hunt Ct",,38.761940,-77.059530,,,,,,1
+1379,671,"Russell Rd and Keswick Rd",,38.737180,-77.103390,,,,,,1
+1380,2435,"Hummer Rd and Walton La",,38.841060,-77.207270,,,,,,1
+1381,2040,"Franconia Rd and Jane Way",,38.786950,-77.120350,,,,,,1
+1382,1587,"Center St and Florida Ave",,38.965332,-77.389539,,,,,,1
+1383,2090,"Gallows Rd and Elm Pl",,38.895940,-77.224850,,,,,,1
+1385,3458,"Summer Ridge Rd and Lensfield Ct",,38.761670,-77.136730,,,,,,1
+1386,1608,"Center Harbor Rd and Church Hill Pl",,38.980060,-77.346470,,,,,,1
+1387,876,"Little River Tpke and Manitoba Dr",,38.818704,-77.144886,,,,,,1
+1388,1654,"Commerce St and Bowie Dr",,38.780470,-77.177250,,,,,,1
+1389,1794,"Edsall Rd and Dublin Ave",,38.807090,-77.179680,,,,,,1
+1390,705,"Huntington Ave and Richmond Hwy",,38.789970,-77.064360,,,,,,1
+1392,3043,"Penderbrook Dr and Greenridge Ct",,38.872634,-77.364092,,,,,,1
+1393,3096,"Pole Rd and Orville St",,38.730240,-77.120520,,,,,,1
+1394,3315,"Sheldon Dr and Merle Pl",,38.799650,-77.157270,,,,,,1
+1395,2162,"Glade Dr and Old Trail Dr",,38.926765,-77.348528,,,,,,1
+1396,2147,"Glade Dr and Crows Nest La",,38.925707,-77.339774,,,,,,1
+1397,3915,"Vienna Metro South Bay R",,38.877140,-77.272233,,,,,,1
+1398,3372,"S Lakes Dr and Double Eagle Ct",,38.935490,-77.349940,,,,,,1
+1399,1175,"Harrison Ln and Bedrock Rd",,38.761555,-77.095461,,,,,,1
+1400,5010,"Sully Station Dr and Glen Meadow Dr",,38.868950,-77.456440,,,,,,1
+1401,3607,"Telegraph Rd and Ashby Manor Pl",,38.788120,-77.088450,,,,,,1
+1402,2029,"Flat Rock Rd and Flat Rock Ct",,38.774440,-77.152360,,,,,,1
+1403,3815,"Wiehle Ave and Woodbrook La",,38.984090,-77.338700,,,,,,1
+1404,1067,"Mary Baldwin Dr and Radcliffe Dr",,38.768480,-77.069390,,,,,,1
+1405,3563,"Sunrise Valley Dr and Soapstone Dr",,38.945820,-77.347570,,,,,,1
+1406,2039,"Flat Rock Rd and Indian Trail Ct",,38.774040,-77.154050,,,,,,1
+1407,1423,"Braddock Rd and Bradwood St",,38.811740,-77.189110,,,,,,1
+1409,3290,"Sheldon Dr and Beryl Rd",,38.800967,-77.156451,,,,,,1
+1410,1259,"Backlick Rd and Beverly St",,38.821130,-77.191210,,,,,,1
+1411,2347,"Herndon Pkwy and Elden St W",,38.963390,-77.400180,,,,,,1
+1412,2585,"Lake Braddock Dr and Westport La",,38.801870,-77.275110,,,,,,1
+1413,1062,"Mary Baldwin Dr and Kenyon Dr",,38.768460,-77.071290,,,,,,1
+1415,1551,"Chain Bridge Rd and Armstrong St",,38.841747,-77.309288,,,,,,1
+1416,2219,"Greensboro Dr and Solutions Dr",,38.923079,-77.230662,,,,,,1
+1417,2279,"Helmsdale La and Duddington Dr",,38.755456,-77.138253,,,,,,1
+1419,2967,"Old Keene Mill Rd and Jansen Dr",,38.778330,-77.220670,,,,,,1
+1420,2336,"Herndon Pkwy and Summerfield Dr",,38.969290,-77.406130,,,,,,1
+1421,3541,"Sunrise Valley Dr and Milburn La",,38.949000,-77.385530,,,,,,1
+1423,5464,"Chain Bridge Rd and Audmar Dr",,38.929736,-77.188410,,,,,,1
+1424,2258,"Hanover Ave and Bath St",,38.784090,-77.193700,,,,,,1
+1427,2943,"Old Keene Mill Rd and Ainsworth Ave",,38.780690,-77.226406,,,,,,1
+1428,703,"Huntington Ave and Foley St",,38.792033,-77.067084,,,,,,1
+1429,5867,"Telegraph Rd and Telegraph Sq Dr",,38.717300,-77.193623,,,,,,1
+1430,264,"Stringfellow Rd and Blueberry La",,38.883054,-77.406756,,,,,,1
+1431,4156,"Country Creek Rd and Fairfax Metro La",,38.878622,-77.275568,,,,,,1
+1432,648,"Sherwood Hall La and Friars Ct",,38.744090,-77.074200,,,,,,1
+1433,979,"Richmond Hwy and Beddoo St",,38.773530,-77.080880,,,,,,1
+1434,2860,"New Guinea Rd and Colony View Dr",,38.799686,-77.301034,,,,,,1
+1435,3385,"S Lakes Dr and Usgs",,38.948600,-77.369480,,,,,,1
+1436,2980,"Old Keene Mill Rd and Wyngate Dr",,38.776500,-77.243740,,,,,,1
+1437,1922,"Fort Hunt Rd and Waynewood Blvd",,38.726590,-77.058480,,,,,,1
+1438,3332,"Sunset Hills Rd and Washington + Old Dominion Trail",,38.946975,-77.327742,,,,,,1
+1439,3732,"Viking Dr and Kettering Dr",,38.925418,-77.384548,,,,,,1
+1440,841,"Fort Hunt Rd and Woodmont Rd",,38.787810,-77.060760,,,,,,1
+1441,1048,"Mt Vernon Hwy and Battersea La N",,38.727610,-77.090950,,,,,,1
+1442,1682,"Commercial Dr and Industrial Rd",,38.799910,-77.182740,,,,,,1
+1443,3371,"S Lakes Dr and Castel Rock Sq",,38.934344,-77.347922,,,,,,1
+1444,2532,"Kingstowne Village Pkwy and Taliaferro Way",,38.751450,-77.157730,,,,,,1
+1445,2919,"Lake Anne Fellowship House",,38.969510,-77.342750,,,,,,1
+1446,2648,"Lorton Rd and Lewis Chapel Rd",,38.704120,-77.216860,,,,,,1
+1447,2150,"Glade Dr and Compass Point La",,38.926130,-77.333979,,,,,,1
+1448,4132,"Bushman Dr and Oakwood Chase Ct",,38.876010,-77.294080,,,,,,1
+1449,3223,"Rolling Rd and Laurel Oak Dr",,38.727610,-77.209690,,,,,,1
+1450,2180,"Glade Dr and Twin Branches Rd",,38.931282,-77.325314,,,,,,1
+1451,5431,"Chain Bridge Rd and Westmoreland St",,38.929664,-77.184836,,,,,,1
+1452,2041,"Frye Rd and Kidd St",,38.735560,-77.114940,,,,,,1
+1453,2922,"N Shore Dr and Wainwright Dr (South)",,38.962950,-77.350830,,,,,,1
+1455,2845,"New Dominion Pkwy and Fountain Dr",,38.960410,-77.357190,,,,,,1
+1456,4060,"River Birch Rd and Sutters Mill Dr",,38.948085,-77.418505,,,,,,1
+1458,3849,"Beulah St and Kathmoor Dr",,38.780770,-77.145789,,,,,,1
+1459,2165,"Glade Dr and Ridgehampton Ct",,38.934800,-77.365370,,,,,,1
+1461,3422,"Soapstone Dr and Lawyers Rd",,38.920997,-77.346399,,,,,,1
+1462,831,"Fort Hunt Rd and Marine Dr",,38.758850,-77.058420,,,,,,1
+1463,2098,"Gallows Rd and Holmes Run Dr",,38.852820,-77.217860,,,,,,1
+1464,2543,"Lawyers Rd and Daniel Webster Dr",,38.922810,-77.374160,,,,,,1
+1465,2400,"2303 Huntington Ave",,38.794190,-77.070870,,,,,,1
+1466,2800,"Monument Dr and Fairfax Corner Ave",,38.856235,-77.356356,,,,,,1
+1468,2463,"Jones Branch Dr and Westpark Dr",,38.926421,-77.217587,,,,,,1
+1469,3202,"Richmond Hwy and Schooley Dr",,38.770950,-77.081700,,,,,,1
+1470,1184,"Franconia-Springfield Metro Bay F",,38.766773,-77.168673,,,,,,1
+1471,3495,"Sunrise Valley Dr and Colts Brook Dr",,38.947760,-77.389860,,,,,,1
+1472,4250,"Poplar Tree Rd and Poplar Branch Dr",,38.875385,-77.411515,,,,,,1
+1473,4162,"Country Creek Rd and Sutton Oaks La",,38.878368,-77.278977,,,,,,1
+1474,1616,"Center Harbor Rd and Sundial Dr",,38.981060,-77.337480,,,,,,1
+1475,5965,"Reston Town Ctr Bay E",,38.956868,-77.359707,,,,,,1
+1476,3645,"Telegraph Rd and Willowood La",,38.776860,-77.108970,,,,,,1
+1477,3322,"Sunset Hills Rd and Old Reston Ave",,38.955070,-77.351672,,,,,,1
+1478,3243,"Reston Pkwy and Oslo Rd",,38.931070,-77.369380,,,,,,1
+1479,1918,"Fort Hunt Rd and Olde Towne Rd",,38.779230,-77.062890,,,,,,1
+1480,3259,"Rolling Valley P+R Bay C",,38.775823,-77.262687,,,,,,1
+1481,1340,"Beulah St and Landsdowne Ctr",,38.740830,-77.163920,,,,,,1
+1482,2781,"Mt Vernon Mem Hwy and Forest Haven Dr",,38.708460,-77.110880,,,,,,1
+1483,1799,"Edsall Rd and Industrial Dr",,38.805390,-77.169720,,,,,,1
+1484,2521,"Kingstowne Village Pkwy and Bradmore St",,38.757340,-77.144930,,,,,,1
+1485,1852,"Elden St and Van Buren St",,38.969010,-77.381080,,,,,,1
+1486,1185,"Franconia-Springfield Metro Bay G",,38.766837,-77.168421,,,,,,1
+1487,3146,"Rose Hill Dr and Eastchester Cir",,38.784451,-77.120660,,,,,,1
+1488,1261,"Backlick Rd and Braddock Rd",,38.812740,-77.186580,,,,,,1
+1489,4174,"Centrewood Dr and Machen Rd",,38.832042,-77.439460,,,,,,1
+1490,1339,"Beulah and Kingstowne Commons",,38.760580,-77.158900,,,,,,1
+1491,1130,"Summer Ridge Rd and Worsley Way",,38.760340,-77.137280,,,,,,1
+1492,1504,"Burke Rd and Lake Braddock Dr",,38.801610,-77.276860,,,,,,1
+1493,2179,"Glade Dr and Thrush Ridge Rd",,38.929260,-77.327638,,,,,,1
+1495,4214,"Lee Jackson Hwy and Dorforth Dr E",,38.872389,-77.375597,,,,,,1
+1496,2668,"Leesburg Pike and Faulkner Dr",,38.965170,-77.285010,,,,,,1
+1497,1783,"Dulles Technology Dr and Sunrise Valley Dr",,38.956530,-77.413750,,,,,,1
+1498,5838,"Groom Cottage Dr and Lorton Market St",,38.699871,-77.221830,,,,,,1
+1499,2540,"Lawyers Rd and Charlestown La",,38.922468,-77.354194,,,,,,1
+1500,3502,"13825 Sunrise Valley Dr",,38.954800,-77.425000,,,,,,1
+1501,2914,"N Shore Dr and Wedge Dr",,38.958260,-77.335770,,,,,,1
+1502,2663,"Leesburg Pike and Colvin Run Rd (East)",,38.967410,-77.291210,,,,,,1
+1503,3318,"Sunset Hills Rd and Michael Faraday Ct",,38.949293,-77.333503,,,,,,1
+1504,1785,"Dulles Technology Dr and Sunrise Valley Dr",,38.956670,-77.413750,,,,,,1
+1505,2861,"North Kings Hwy and Fairhaven Ave",,38.786200,-77.077680,,,,,,1
+1506,3368,"S Lakes Dr and Cedar Cove Ct",,38.931823,-77.335841,,,,,,1
+1507,1292,"Backlick Rd and Sunset La N",,38.817830,-77.188840,,,,,,1
+1509,2718,"Maple Ave and Branch Rd",,38.906310,-77.259126,,,,,,1
+1510,4106,"Avion Pkwy and Concorde Pkwy",,38.909060,-77.451298,,,,,,1
+1512,5398,"Jones Branch Dr and 495 Express La Ramp",,38.928624,-77.216610,,,,,,1
+1513,1809,"Edsall Rd and Winter View Dr",,38.804340,-77.144550,,,,,,1
+1514,5545,"Maple Ave and Lewis St",,38.896160,-77.272130,,,,,,1
+1515,3055,"Pinecrest Rd and Captiva Ct",,38.942000,-77.366220,,,,,,1
+1516,2393,"Herndon Pkwy and Summerfield Dr",,38.970020,-77.406680,,,,,,1
+1517,3550,"Sunrise Valley Dr and Roland Clarke Pl",,38.948270,-77.350670,,,,,,1
+1518,3429,"Southgate Dr and Richmond Hwy",,38.774369,-77.082804,,,,,,1
+1520,1270,"Backlick Rd and Franconia Springfield Pkwy",,38.766310,-77.184500,,,,,,1
+1521,3374,"S Lakes Dr and Greenkeepers Ct",,38.939700,-77.353180,,,,,,1
+1522,3416,"Soapstone Dr and Glencourse La",,38.936710,-77.345369,,,,,,1
+1523,4216,"Lee Jackson Hwy and Galesbury La",,38.889254,-77.418086,,,,,,1
+1524,3888,"Loisdale Rd and Layton Dr",,38.764487,-77.182350,,,,,,1
+1525,2014,"Franconia Rd and Cannon La",,38.791650,-77.100330,,,,,,1
+1526,2392,"Herndon Pkwy and Springtide Pl",,38.967330,-77.404860,,,,,,1
+1527,6228,"Beulah Rd and Delancey Dr",,38.920084,-77.269020,,,,,,1
+1528,3729,"Viking Dr and Reigh St",,38.919885,-77.378948,,,,,,1
+1529,4190,"Field Encampment Rd and Uniform Dr",,38.828486,-77.444684,,,,,,1
+1530,1178,"Fordson Rd and Huntley Meadows Plz",,38.751002,-77.084034,,,,,,1
+1531,1441,"Braddock Rd and Herend Pl",,38.824170,-77.281830,,,,,,1
+1532,990,"Richmond Hwy and Sherwood Hall La",,38.742075,-77.085359,,,,,,1
+1533,5576,"Old Courthouse Rd and Chain Bridge Rd",,38.915757,-77.236224,,,,,,1
+1534,2277,"Helmsdale La and Blanford Ct",,38.755459,-77.141076,,,,,,1
+1535,1362,"Beulah St and Windsor Ave",,38.760580,-77.159320,,,,,,1
+1536,1460,"Braddock Rd and Queensberry Ave",,38.811060,-77.224930,,,,,,1
+1538,2538,"Lawyers Rd and Blue Spruce Rd",,38.923004,-77.358251,,,,,,1
+1541,1239,"Arlington Dr and Republic Ct",,38.754560,-77.079160,,,,,,1
+1542,1494,"Bowman Towne Dr and Cameron Glen Dr",,38.962120,-77.358580,,,,,,1
+1543,1394,"Bren Mar Dr and Phyllis La",,38.798567,-77.151847,,,,,,1
+1544,1832,"Elden St and Herndon Pkwy",,38.963199,-77.398640,,,,,,1
+1545,1200,"Van Dorn Metro Bay F",,38.799590,-77.128198,,,,,,1
+1546,4276,"Stringfellow Rd and Jasper Rd",,38.886902,-77.405466,,,,,,1
+1547,2873,"Norton Rd and Kings Cross Rd",,38.794510,-77.093430,,,,,,1
+1548,645,"Sherwood Hall La and Midday La",,38.746910,-77.066310,,,,,,1
+1549,3876,"Hanover Ave and Grace St",,38.791073,-77.195761,,,,,,1
+1550,4053,"Braddock Rd and Braddock Springs Rd",,38.835486,-77.425208,,,,,,1
+1551,2796,"Mt Vernon Mem Hwy and Southwood Dr",,38.711020,-77.105450,,,,,,1
+1552,1268,"Backlick Rd and Essex Ave",,38.785720,-77.185840,,,,,,1
+1553,1223,"Alban Rd and Springfield Oaks Dr",,38.727020,-77.206510,,,,,,1
+1554,2804,"Monument Dr and Government Center Pkw",,38.857932,-77.362045,,,,,,1
+1555,1458,"Braddock Rd and Port Royal Rd",,38.811470,-77.221410,,,,,,1
+1556,657,"Rose Hill Dr and Greenhaven Pl",,38.785150,-77.121190,,,,,,1
+1557,5646,"Lewinsville Rd and Artnauman Ct",,38.940010,-77.228439,,,,,,1
+1558,4134,"Bushman Dr and Summit Square Dr",,38.872770,-77.299280,,,,,,1
+1560,3873,"Glade Dr and Soapstone Dr",,38.926272,-77.344943,,,,,,1
+1561,2091,"Gallows Rd and Executive Ave",,38.849850,-77.210270,,,,,,1
+1562,6103,"Lorton Rd and Silverbrook Rd",,38.704765,-77.227271,,,,,,1
+1563,1445,"Braddock Rd and Inverchapel Rd",,38.811380,-77.228660,,,,,,1
+1564,4234,"New Braddock Rd and Montero Dr",,38.828688,-77.426058,,,,,,1
+1565,2317,"Hooes Rd and Lauren Dr",,38.752100,-77.244810,,,,,,1
+1566,3696,"University Dr and George Mason Blvd",,38.835306,-77.309434,,,,,,1
+1567,3595,"Town Center Pkwy and Bowman Towne Dr",,38.962540,-77.361960,,,,,,1
+1568,3513,"Sunrise Valley Dr and Sully Rd",,38.959990,-77.421440,,,,,,1
+1569,3712,"S Van Dorn St and Chrysanthemum Dr",,38.786270,-77.136530,,,,,,1
+1570,865,"Little River Tpke and Braddock Rd",,38.822660,-77.162570,,,,,,1
+1571,1557,"8581 Cinder Bed Rd",,38.725170,-77.194770,,,,,,1
+1572,2178,"Glade Dr and Thrush Ridge Rd",,38.929241,-77.327897,,,,,,1
+1573,983,"6065 Richmond Hwy",,38.785470,-77.069702,,,,,,1
+1574,2168,"Glade Dr and Rosedown Dr",,38.942390,-77.372490,,,,,,1
+1575,3364,"S Kings Hwy and Vantage Dr",,38.770450,-77.107490,,,,,,1
+1576,4298,"Walney Rd and Walbern Dr",,38.872462,-77.429832,,,,,,1
+1577,2261,"Hanover Ave and Essex Ave",,38.785750,-77.193240,,,,,,1
+1578,3584,"Tapawingo Rd and Hillcrest Dr",,38.890592,-77.261075,,,,,,1
+1579,4269,"Sully Park Dr and Wood Creek La",,38.850744,-77.457244,,,,,,1
+1580,2117,"Gallows Rd and Townsend St",,38.860752,-77.226520,,,,,,1
+1581,6177,"Fullerton Rd and Boudinot Dr",,38.742619,-77.193705,,,,,,1
+1582,3821,"West Ox Rd and Pender Creek Cir",,38.861759,-77.370357,,,,,,1
+1583,3568,"Sunrise Valley Dr and Upper Lake Dr (East)",,38.942080,-77.333240,,,,,,1
+1584,1512,"Burke Rd and Peppercorn Dr",,38.803741,-77.278267,,,,,,1
+1586,2465,"7940 Jones Branch Dr",,38.930519,-77.216763,,,,,,1
+1588,3718,"S Van Dorn St and Franconia Rd",,38.783020,-77.135510,,,,,,1
+1589,4143,"Chain Bridge Rd and Miller Rd",,38.880630,-77.301740,,,,,,1
+1591,3409,"Soapstone Dr and Winged Foot Ct",,38.941189,-77.346664,,,,,,1
+1592,3177,"Richmond Hy and Mt Vernon Mem Hwy",,38.719170,-77.127810,,,,,,1
+1593,1775,"Dranesville Rd and Third St",,38.981194,-77.378427,,,,,,1
+1594,4193,"Field Encampment Rd and Silo Valley View",,38.828396,-77.441649,,,,,,1
+1595,2108,"Gallows Rd and Oak St",,38.900200,-77.224040,,,,,,1
+1596,1068,"Dartmouth Dr and Randolph Macon Dr",,38.768150,-77.068470,,,,,,1
+1597,3966,"Sunrise Valley Dr and Dulles Technology Dr",,38.958080,-77.411970,,,,,,1
+1598,2025,"Franconia Rd and Franconia Forest La",,38.781193,-77.151587,,,,,,1
+1599,1887,"Franklin Farm Rd and Willow Glen Dr",,38.904866,-77.393533,,,,,,1
+1601,2577,"Lake Braddock Dr and Lighthouse La",,38.805270,-77.274160,,,,,,1
+1602,3826,"West Ox Rd and Fairfield House Dr",,38.863315,-77.369804,,,,,,1
+1603,2576,"Lockheed Blvd and Jon Paul Dr",,38.759777,-77.090851,,,,,,1
+1604,2377,"Herndon Pkwy and Palmer Dr",,38.959010,-77.391740,,,,,,1
+1605,4233,"New Braddock Rd and Federation Dr",,38.827100,-77.434830,,,,,,1
+1606,2531,"Kingstowne Village Pkwy and Stone Wheat Ct",,38.749850,-77.162490,,,,,,1
+1607,6000,"Bracknell Dr and Stevenage Rd",,38.967360,-77.357311,,,,,,1
+1608,2096,"Gallows Rd and Gallows Branch Rd",,38.908885,-77.222792,,,,,,1
+1609,3271,"Northern Virginia Community College",,38.762787,-77.176898,,,,,,1
+1612,4244,"Pickwick Rd and Bent Tree Cir",,38.837376,-77.422698,,,,,,1
+1613,3451,"Southrun Rd and Carmela Cir",,38.728300,-77.234490,,,,,,1
+1614,3474,"Stringfellow Rd and Melville La",,38.864231,-77.406550,,,,,,1
+1615,2060,"Frontier Dr and Buckskin St",,38.778870,-77.171710,,,,,,1
+1616,1475,"Braddock Rd and Stone Haven Dr",,38.810910,-77.245490,,,,,,1
+1617,2048,"Franconia Rd and Sable Dr",,38.791630,-77.096870,,,,,,1
+1618,3574,"Seven Woods Dr and Sausalito Pl",,38.740740,-77.099120,,,,,,1
+1619,4281,"14100 Sullyfield Cir",,38.893968,-77.434944,,,,,,1
+1620,1639,"Commerce St and Amherst Ave",,38.782560,-77.187720,,,,,,1
+1621,982,"Richmond Hwy and Quander Rd",,38.784370,-77.072360,,,,,,1
+1622,2557,"Lawyers Rd and Riders La",,38.921163,-77.350318,,,,,,1
+1623,901,"Fort Hunt Rd and Gladstone Pl",,38.736820,-77.054330,,,,,,1
+1624,4157,"Conference Center Dr and Lee Rd",,38.881610,-77.455117,,,,,,1
+1625,3300,"Sherwood Hall La and Frances Dr",,38.744110,-77.074630,,,,,,1
+1626,4198,"Flag Pole La and Granite Creek La",,38.872347,-77.303702,,,,,,1
+1627,1467,"Braddock Rd and Roanoke River Rd",,38.825670,-77.313000,,,,,,1
+1628,2729,"Malcolm Rd and Orchard St",,38.900007,-77.281088,,,,,,1
+1629,2684,"Leesburg Pike and Tysons Corner Ctr",,38.914790,-77.225020,,,,,,1
+1630,2677,"Leesburg Pike and Serenity Woods La",,38.965040,-77.285460,,,,,,1
+1631,1078,"Arlington Dr and Vernon Square Dr",,38.754800,-77.080520,,,,,,1
+1633,4108,"Bushman Dr and Bradford Wood Ct",,38.875370,-77.294420,,,,,,1
+1635,1447,"Braddock Rd and Irvin Pl",,38.820800,-77.164250,,,,,,1
+1636,1953,"Fair Lakes Cir and Shoppes La",,38.859586,-77.387560,,,,,,1
+1637,2559,"Lawyers Rd and Seskey Glen Ct",,38.922850,-77.373860,,,,,,1
+1638,1173,"Huntington Metro South Bay D",,38.792776,-77.076203,,,,,,1
+1639,2916,"N Shore Dr and Wiehle Ave",,38.969670,-77.332670,,,,,,1
+1641,2359,"570 Herndon Pkwy",,38.955060,-77.384370,,,,,,1
+1642,3822,"West Ox Rd and Cedar Lakes Dr",,38.861753,-77.370763,,,,,,1
+1643,4166,"Centrewood Dr and Brenham Dr",,38.834422,-77.436900,,,,,,1
+1644,1204,"Humphreys Engineer Center",,38.743881,-77.142503,,,,,,1
+1645,2265,"Hanover Ave and Floyd Ave",,38.788230,-77.194500,,,,,,1
+1646,1629,"Colts Neck Rd and Hunters Square Ct",,38.935855,-77.363622,,,,,,1
+1647,3377,"S Lakes Dr and Olde Crafts Dr (South)",,38.936613,-77.351353,,,,,,1
+1648,2350,"Herndon Pkwy and Dulles Pl",,38.973010,-77.405700,,,,,,1
+1649,2447,"International Dr and Tysons Corner Ct",,38.918470,-77.225480,,,,,,1
+1650,935,"George Washington Memorial Pkwy and Stratford La",,38.710770,-77.070600,,,,,,1
+1651,1310,"Baron Cameron Ave and Lake Fairfax Dr",,38.974560,-77.320260,,,,,,1
+1652,1824,"Electric Ave and Chestertown Dr",,38.901280,-77.241010,,,,,,1
+1654,3144,"Richmond Hwy and Dutchman Dr",,38.698750,-77.212850,,,,,,1
+1656,1119,"Telegraph Rd and Rose Hill Dr",,38.774860,-77.110850,,,,,,1
+1657,6165,"Mclean Metro",,38.924601,-77.207962,,,,,,1
+1658,4247,"Park Meadow Dr and Meadow Wood La",,38.871748,-77.439278,,,,,,1
+1659,3354,"S Kings Hwy and Chimney Wood Ct",,38.778640,-77.083480,,,,,,1
+1660,3748,"WAKEFIELD ST @ BELLE VIEW BLVD",,38.774560,-77.060660,,,,,,1
+1662,2978,"Old Keene Mill Rd and Tiverton Dr",,38.774560,-77.206260,,,,,,1
+1663,2428,"Hummer Rd and Royce Ct",,38.838430,-77.208410,,,,,,1
+1664,1226,"Amherst Ave and Springfield Blvd",,38.777656,-77.185160,,,,,,1
+1665,2944,"Old Keene Mill Rd and Ainsworth Ave",,38.780460,-77.226110,,,,,,1
+1666,3025,"The Parkway and S Kings Hwy",,38.772730,-77.099270,,,,,,1
+1667,3540,"Sunrise Valley Dr and Milburn La",,38.949410,-77.385540,,,,,,1
+1668,1446,"Braddock Rd and Inverchapel Rd",,38.810990,-77.227930,,,,,,1
+1669,147,"Hayfield Rd and Kingstowne Village Pkwy",,38.756870,-77.146020,,,,,,1
+1670,2433,"Hunter Mill Rd and Sunrise Valley Dr",,38.943453,-77.312722,,,,,,1
+1671,2697,"Little River Tpke and Chowan Ave",,38.819617,-77.151384,,,,,,1
+1672,3251,"Rolling Stone Way and Bedrock Rd",,38.764169,-77.106034,,,,,,1
+1673,1706,"Commerce St and Springfield Plz",,38.782450,-77.189740,,,,,,1
+1674,4158,"Conference Center Dr and Parkstone Dr",,38.874856,-77.463238,,,,,,1
+1675,3408,"Soapstone Dr and Durand Dr",,38.941787,-77.346903,,,,,,1
+1676,1532,"Bennington Woods Rd and Trails Edge La",,38.973990,-77.355440,,,,,,1
+1677,1614,"Chancellor Way and Orange Plank Rd",,38.751370,-77.216040,,,,,,1
+1678,2888,"N Shore Dr and Greenmont Ct",,38.970340,-77.329880,,,,,,1
+1679,3711,"S Van Dorn St and Castlewellen Dr",,38.778839,-77.135333,,,,,,1
+1680,3113,"Quander Rd and Williams Dr",,38.769890,-77.067510,,,,,,1
+1681,1417,"Broadmoor St and Buckingham Palace Ct",,38.748320,-77.132750,,,,,,1
+1682,2723,"Maple Ave and East St",,38.909654,-77.254915,,,,,,1
+1683,1399,"7358 Boston Blvd",,38.739367,-77.199923,,,,,,1
+1684,3378,"S Lakes Dr and Pine Cone Ct",,38.933040,-77.345070,,,,,,1
+1685,2765,"Memorial St and South Kings Hwy",,38.773681,-77.090871,,,,,,1
+1686,3971,"Tower Dr and Southgate Dr",,38.773410,-77.086260,,,,,,1
+1687,3658,"Thomas Jefferson Dr and Misty Dawn Dr",,38.948260,-77.407840,,,,,,1
+1688,4286,"Tabscott Dr and Lees Corner Rd",,38.884012,-77.416230,,,,,,1
+1689,6132,"Gunston Rd and Twelfth St",,38.695836,-77.144482,,,,,,1
+1690,1297,"Backlick Rd and Woodland Dr",,38.805970,-77.184390,,,,,,1
+1691,3260,"Sacremento Dr and Southlawn Ct",,38.725372,-77.129249,,,,,,1
+1692,1804,"Eds Dr and Mclearen Rd",,38.927840,-77.425330,,,,,,1
+1693,3641,"Telegraph Rd and Sharon Chapel Rd",,38.789500,-77.086040,,,,,,1
+1695,2092,"Gallows Rd and Gatehouse Rd",,38.869607,-77.227120,,,,,,1
+1696,3643,"Telegraph Rd and Wilcox Ct",,38.779250,-77.106840,,,,,,1
+1697,943,"Fort Hunt Rd and Sherwood Hall Rd",,38.751670,-77.057370,,,,,,1
+1698,2381,"Herndon Pkwy and Reneau Way",,38.970190,-77.370110,,,,,,1
+1700,2786,"Mt Vernon Mem Hwy and Mt Vernon Rd",,38.710540,-77.128470,,,,,,1
+1701,1798,"Edsall Rd and Independence Cir",,38.803115,-77.145848,,,,,,1
+1702,2768,"Mcnair Farms Dr and Masons Ferry Dr",,38.947760,-77.408760,,,,,,1
+1703,2172,"Glade Dr and Twin Branches Rd",,38.931371,-77.325382,,,,,,1
+1704,1348,"Beulah St and 7800 Beulah St",,38.746890,-77.167240,,,,,,1
+1706,2574,"Lake Braddock Dr and Cotherstone Ct",,38.801920,-77.267840,,,,,,1
+1707,3859,"Commercial Dr and E Industrial Rd",,38.798376,-77.176814,,,,,,1
+1710,2103,"Gallows Rd and Madron La",,38.904950,-77.222472,,,,,,1
+1711,2461,"Jones Branch Dr and Park Run Dr",,38.932030,-77.226817,,,,,,1
+1712,3052,"Post Forest Dr and West Ox Rd",,38.856489,-77.370726,,,,,,1
+1713,1813,"6260 Edsall Rd",,38.806320,-77.142200,,,,,,1
+1714,2897,"N Shore Dr and Links Dr W",,38.956370,-77.342910,,,,,,1
+1715,3184,"Richmond Hwy and Sacramento Dr",,38.719440,-77.127770,,,,,,1
+1716,3644,"Telegraph Rd and Wickford Dr",,38.762650,-77.130170,,,,,,1
+1717,5575,"Old Courthouse Rd and Hull Rd",,38.914432,-77.232540,,,,,,1
+1718,3832,"West Ox Rd and Legato Rd",,38.865359,-77.367027,,,,,,1
+1719,2893,"N Shore Dr and Ivy Oak Sq",,38.957250,-77.347320,,,,,,1
+1722,3399,"S Lakes Dr and Whisperwood Glen La",,38.932210,-77.335600,,,,,,1
+1723,1796,"Edsall Rd and Edsall Ridge Pl",,38.805193,-77.142996,,,,,,1
+1725,3236,"Reston Pkwy and Center Harbor Rd",,38.980660,-77.347680,,,,,,1
+1726,2707,"Little River Tpke and Virginia St",,38.821410,-77.158730,,,,,,1
+1727,1248,"Arlington Dr and Windbreak Dr",,38.756210,-77.077820,,,,,,1
+1728,3191,"Rose Hill Dr and Sturbridge Pl",,38.776477,-77.112470,,,,,,1
+1729,4227,"Little Rocky Run Cir and Barren Springs Ct",,38.830340,-77.422088,,,,,,1
+1730,575,"Buckman Rd and Russell Rd",,38.735840,-77.102020,,,,,,1
+1731,1836,"Elden St and Jackson St",,38.969250,-77.381430,,,,,,1
+1732,2351,"Herndon Pkwy and Dulles Pl",,38.972680,-77.405590,,,,,,1
+1733,4221,"Elmwood",,38.892872,-77.427450,,,,,,1
+1734,2062,"Lee High School",,38.781620,-77.171820,,,,,,1
+1736,742,"Telegraph Rd and Mission Ct",,38.776770,-77.108770,,,,,,1
+1737,3916,"VIENNA METRO",,38.877102,-77.272441,,,,,,1
+1738,3215,"Rolling Rd and Bristol Square Ct",,38.735680,-77.209230,,,,,,1
+1739,5923,"Lee Rd and Willard Rd",,38.888714,-77.451419,,,,,,1
+1740,1381,"Burke Lake Rd and Lake Braddock Dr",,38.800750,-77.265770,,,,,,1
+1741,3328,"12021 Sunset Hills Rd",,38.954100,-77.359530,,,,,,1
+1742,1225,"Alban Rd and Terra Woods Dr",,38.728790,-77.203740,,,,,,1
+1743,4107,"Avion Pkwy and Stonecroft Blvd",,38.907680,-77.456952,,,,,,1
+1744,2827,"Mt Vernon Hwy and Grist Mill Woods Way",,38.714130,-77.130990,,,,,,1
+1746,2732,"Maple Ave and Park St",,38.903033,-77.263236,,,,,,1
+1747,997,"Richmond Hwy and Wyngate Manor C",,38.724510,-77.116990,,,,,,1
+1749,1867,"Franklin Farm Rd and Centreville Rd",,38.912959,-77.420024,,,,,,1
+1750,2155,"Glade Dr and Green Range Dr S",,38.936730,-77.367820,,,,,,1
+1751,3701,"Vantage Dr and Rock Creek Rd",,38.768280,-77.108710,,,,,,1
+1752,3651,"Tis Well Dr and Hinson Farm Rd",,38.737600,-77.078010,,,,,,1
+1753,3837,"Worldgate Dr and Elden St",,38.958606,-77.400534,,,,,,1
+1754,2169,"Glade Dr and Reston Pkwy",,38.934580,-77.365650,,,,,,1
+1755,5669,"Lewinsville Rd and Artnauman Ct",,38.940229,-77.228458,,,,,,1
+1756,2066,"Frontier Dr and Spring Mall Rd",,38.772510,-77.171750,,,,,,1
+1757,1436,"Braddock Rd and Forestdale Dr",,38.826360,-77.299960,,,,,,1
+1758,2009,"Frying Pan Rd and Simpkins Farm Dr",,38.943862,-77.401697,,,,,,1
+1759,1763,"Dranesville Rd and Herndon Pkwy",,38.982512,-77.378199,,,,,,1
+1760,2372,"Herndon Pkwy and Leona La",,38.974286,-77.370223,,,,,,1
+1761,1272,"Backlick Rd and Galesville Pl",,38.825380,-77.193330,,,,,,1
+1763,5391,"Westpark Dr and Jones Branch Dr",,38.924589,-77.218224,,,,,,1
+1765,764,"Telegraph Rd and Lockport Pl",,38.715490,-77.194330,,,,,,1
+1766,4048,"Sully Station P+R",,38.870780,-77.450303,,,,,,1
+1767,2950,"Old Keene Mill Rd and Carrleigh Pkwy",,38.780140,-77.228430,,,,,,1
+1768,3685,"Tysons Corner Ctr",,38.916410,-77.221105,,,,,,1
+1769,3264,"Sacremento Dr and Venoy Ct",,38.723870,-77.128940,,,,,,1
+1770,1435,"Braddock Rd and Ferndale St",,38.811610,-77.195860,,,,,,1
+1771,1071,"Lockheed Blvd and Fairchild Dr",,38.759530,-77.088860,,,,,,1
+1772,2339,"Herndon Pkwy and Buchannan Dr",,38.965170,-77.371910,,,,,,1
+1773,2489,"King Centre Dr and Sir Viceroy Dr",,38.769427,-77.134066,,,,,,1
+1774,2894,"N Shore Dr and Ivy Oak Sq (South)",,38.957250,-77.347050,,,,,,1
+1775,4260,"Saint Germain Dr and Turin La",,38.836527,-77.446009,,,,,,1
+1776,4057,"River Birch Rd and Sutters Mill Dr",,38.947933,-77.417958,,,,,,1
+1777,1212,"8400 Alban Rd",,38.729950,-77.199590,,,,,,1
+1778,3590,"Twin Branches Rd and Lake Audubon Ct",,38.935039,-77.326542,,,,,,1
+1779,3428,"Soapstone Dr and Ridge Heights Rd",,38.938811,-77.345040,,,,,,1
+1780,971,"Vernon View Dr and Wakefield St",,38.714490,-77.062710,,,,,,1
+1781,1769,"Dranesville Rd and Old Hunt Way",,38.983757,-77.377884,,,,,,1
+1782,2556,"Lawyers Rd and Glenbrooke Woods Dr",,38.915130,-77.378360,,,,,,1
+1783,1482,"Braddock Rd and Spring Valley Dr",,38.814000,-77.170230,,,,,,1
+1784,3131,"Richmond Hwy and 8100 Richmond Hwy",,38.738346,-77.090805,,,,,,1
+1785,1496,"Bowman Towne Dr and Fountain Dr (West)",,38.962310,-77.357210,,,,,,1
+1786,2233,"Guinea Rd and Bronte Dr",,38.809150,-77.278230,,,,,,1
+1788,1894,"Fort Hunt Rd and Elkin St",,38.722290,-77.060630,,,,,,1
+1789,587,"Helmsdale La and Wexford Pl",,38.753770,-77.134530,,,,,,1
+1791,1179,"Harrison La and Robert E Lee Pl",,38.761294,-77.095343,,,,,,1
+1792,3834,"West Ox Rd and Polo Dr",,38.862770,-77.369708,,,,,,1
+1793,4179,"Centrewood Dr and Saint Germain Dr",,38.836139,-77.436464,,,,,,1
+1794,2880,"N Shore Dr and Lake Anne Village Ctr",,38.970030,-77.340120,,,,,,1
+1796,2784,"Mt Vernon Mem Hwy and Grist Mill Rd",,38.709070,-77.125720,,,,,,1
+1797,3267,"Springfield Ctr Dr and Loisdale Rd",,38.765393,-77.181946,,,,,,1
+1798,3467,"Summer Ridge Rd and Worsley Way",,38.760250,-77.137200,,,,,,1
+1799,864,"Little River Tpke and Green Spring Rd",,38.821900,-77.159540,,,,,,1
+1800,1147,"Hanover Ave and Monticello Blvd",,38.778730,-77.194770,,,,,,1
+1801,5295,"Braddock Rd and King David Blvd",,38.810880,-77.261850,,,,,,1
+1803,2584,"Lake Braddock Dr and Wallingford Dr",,38.805540,-77.274210,,,,,,1
+1804,3967,"Sunrise Valley Dr and Elm Tree Dr",,38.951430,-77.401593,,,,,,1
+1805,6229,"Beulah Rd and Abbotsford Dr",,38.921689,-77.270162,,,,,,1
+1806,3825,"Worldgate Dr and Wiltshire La",,38.956345,-77.398885,,,,,,1
+1807,1487,"Braddock Rd and Wakefield Chapel Rd",,38.811150,-77.235840,,,,,,1
+1808,2237,"Guinea Rd and Lakepointe Dr",,38.801660,-77.285060,,,,,,1
+1810,1014,"Richmond Hwy and Mount Eagle Dr",,38.786650,-77.068660,,,,,,1
+1811,3525,"Sunrise Valley Dr and Fox Mill Rd",,38.950580,-77.406080,,,,,,1
+1812,1803,"Eds Dr and Mclearen Rd",,38.923784,-77.423469,,,,,,1
+1813,3736,"Viking Dr and Petersborough St",,38.920420,-77.381039,,,,,,1
+1814,4112,"Avion Pkwy and Concorde Pkwy",,38.908281,-77.449653,,,,,,1
+1815,581,"Buckman Rd and Rolling Hills Ave",,38.739329,-77.091550,,,,,,1
+1816,3652,"Thomas Jefferson Dr and Founders Way",,38.945120,-77.406440,,,,,,1
+1818,2325,"Hooes Rd and Scarborough St",,38.756320,-77.235070,,,,,,1
+1819,1626,"Colts Neck Rd and Winterthur La",,38.939210,-77.360880,,,,,,1
+1820,1433,"Braddock Rd and Dunleigh Dr",,38.810620,-77.261260,,,,,,1
+1821,2995,"Park Ave and Branch Dr",,38.974210,-77.387020,,,,,,1
+1822,913,"Fort Hunt Rd and Woodmont Rd",,38.788720,-77.060850,,,,,,1
+1823,3914,"Vienna Metro South Bay Q",,38.877172,-77.272017,,,,,,1
+1824,1019,"Mt Vernon Hwy and Albee La",,38.733470,-77.092420,,,,,,1
+1825,3360,"S Kings Hwy and Saint Mark'S Ct",,38.772030,-77.100670,,,,,,1
+1826,5650,"Lewinsville Rd and Titania La",,38.941045,-77.218904,,,,,,1
+1827,3358,"S Kings Hwy and Telegraph Rd",,38.767760,-77.119650,,,,,,1
+1828,3262,"Sacremento Dr and Pole Rd",,38.727190,-77.130610,,,,,,1
+1829,1938,"Fair Lakes Pkwy and Legato Rd",,38.862200,-77.364180,,,,,,1
+1830,5302,"Braddock Rd and Red Fox Dr (West)",,38.810710,-77.257780,,,,,,1
+1831,1488,"Broadmoor St and Welch Ct",,38.746780,-77.139790,,,,,,1
+1832,1855,"Electric Ave and Williams Ave",,38.900530,-77.233440,,,,,,1
+1833,2275,"Helmsdale La and Amesbury Ct",,38.755291,-77.137963,,,,,,1
+1835,3522,"Sunrise Valley Dr and U.S.G.S Dr",,38.950060,-77.366540,,,,,,1
+1836,939,"Fort Hunt Rd and Paul Spring Pkwy",,38.748390,-77.057760,,,,,,1
+1837,3376,"S Lakes Dr and Olde Crafts Dr (North)",,38.939101,-77.352894,,,,,,1
+1838,6120,"Fullerton Rd and Twist La",,38.742334,-77.208297,,,,,,1
+1839,3478,"Stringfellow Rd and Point Pleasant Dr",,38.871952,-77.407942,,,,,,1
+1840,2542,"Lawyers Rd and Crossfields Way",,38.918170,-77.375920,,,,,,1
+1841,2362,"Herndon Pkwy and Fairbrook Dr",,38.955840,-77.378460,,,,,,1
+1842,2376,"Herndon Pkwy and Monroe St",,38.982760,-77.385540,,,,,,1
+1843,1811,"Edsall Rd and Yoakum Pkwy",,38.807650,-77.138560,,,,,,1
+1844,1466,"Braddock Rd and Roanoke River Rd",,38.826020,-77.313000,,,,,,1
+1845,6475,"Deepford St and Walles St",,38.783440,-77.166400,,,,,,1
+1846,3975,"Lorton Station Blvd",,38.714529,-77.212979,,,,,,1
+1847,2519,"Kingstowne Village Pkwy and Alderman Dr",,38.751212,-77.165214,,,,,,1
+1848,4258,"Poplar Tree Rd and Stringfellow Rd",,38.875349,-77.409234,,,,,,1
+1849,3323,"Sunset Hills Rd and Plaza America Dr",,38.953230,-77.348420,,,,,,1
+1850,2527,"Kingstowne Village Pkwy and King Centre Dr",,38.767490,-77.140280,,,,,,1
+1851,2891,"N Shore Dr and Hickory Cl",,38.966530,-77.343100,,,,,,1
+1852,3509,"Sunrise Valley Dr and Dulles Corner La",,38.956720,-77.424070,,,,,,1
+1853,3298,"Sherwood Hall Ln and Fordson Rd",,38.743250,-77.081930,,,,,,1
+1854,2954,"Old Keene Mill Rd and Field Master Dr",,38.772940,-77.255280,,,,,,1
+1856,2018,"Franconia Rd and Clermont Dr",,38.790140,-77.108300,,,,,,1
+1859,4289,"5875 Trinity Pkwy",,38.841964,-77.439278,,,,,,1
+1860,1450,"Braddock Rd and Kings Park Dr",,38.810430,-77.248300,,,,,,1
+1861,2125,"Gallows Rd and Willow Oaks Corporate Dr",,38.863610,-77.227433,,,,,,1
+1862,3381,"S Lakes Dr and Ridge Heights Rd",,38.934210,-77.333250,,,,,,1
+1864,2956,"Old Keene Mill Rd and Greeley Blvd",,38.775620,-77.215640,,,,,,1
+1865,2352,"Herndon Pkwy and Elden St S",,38.962070,-77.398170,,,,,,1
+1866,2394,"Herndon Pkwy and Summerfield Dr",,38.966210,-77.402740,,,,,,1
+1868,1817,"Eisenhower Ave and S Van Dorn St",,38.798990,-77.133267,,,,,,1
+1869,3872,"Goverment Ctr P+R",,38.854290,-77.360375,,,,,,1
+1870,580,"Janna Lee Ave and Buckman Rd",,38.739137,-77.095549,,,,,,1
+1871,1765,"Dranesville Rd and Kingstream Dr",,38.991184,-77.376595,,,,,,1
+1872,1224,"Alban Rd and Springfield Oaks Dr",,38.726910,-77.206350,,,,,,1
+1874,3073,"Pole Rd and Alameda Ct",,38.728450,-77.126970,,,,,,1
+1875,1424,"Braddock Rd and Columbia Rd",,38.812000,-77.175970,,,,,,1
+1876,2990,"Ox Tr and West Ox Rd",,38.888320,-77.378630,,,,,,1
+1878,2285,"Highland St and Brunswick St",,38.791090,-77.188410,,,,,,1
+1879,4182,"Centreville Farms Rd and Twilight Glow Dr",,38.845408,-77.413168,,,,,,1
+1883,3160,"Richmond Hwy and Hollyhill Rd",,38.762970,-77.084030,,,,,,1
+1884,4218,"Lee Jackson Hwy and Dorforth Dr W",,38.873495,-77.378384,,,,,,1
+1885,3151,"Richmond Hwy and Hollyhill Rd",,38.763010,-77.084389,,,,,,1
+1886,4220,"Lee Jackson Hwy and Lees Corner Rd",,38.886959,-77.413185,,,,,,1
+1887,1194,"Huntington Metro North Bay D",,38.795373,-77.074858,,,,,,1
+1888,3192,"Rose Hill Dr and Sturbridge Pl",,38.776279,-77.112270,,,,,,1
+1889,4104,"Legato Rd and Halsted St",,38.865015,-77.365200,,,,,,1
+1890,3346,"Silverbrook Rd and Plaskett Ln",,38.709177,-77.228400,,,,,,1
+1891,1276,"Backlick Rd and Jayhawk St",,38.827240,-77.194390,,,,,,1
+1892,5015,"Sully Station Dr and Braddock Rd",,38.864660,-77.459850,,,,,,1
+1893,3539,"Sunrise Valley Dr and Locust Park Dr",,38.949090,-77.396810,,,,,,1
+1894,5648,"Lewinsville Rd and Winter Hunt Rd",,38.941619,-77.223039,,,,,,1
+1895,1069,"Dartmouth Dr and Quander Rd",,38.769120,-77.066540,,,,,,1
+1896,3357,"S Kings Hwy and Lantern Pl",,38.769420,-77.113170,,,,,,1
+1897,2153,"Glade Dr and Freetown Dr",,38.935920,-77.367960,,,,,,1
+1898,4137,"Chain Bridge Rd and Babcock Rd",,38.888840,-77.281390,,,,,,1
+1899,1609,"Center Harbor Rd and Heritage Oak Way",,38.979930,-77.339140,,,,,,1
+1900,3803,"Wiehle Ave and Longwood Grove Dr (South)",,38.976270,-77.334330,,,,,,1
+1901,699,"Dartmouth Dr and Duke Dr",,38.768820,-77.067180,,,,,,1
+1902,3494,"Sunrise Valley Dr and Colts Brook Dr",,38.948020,-77.389660,,,,,,1
+1903,2675,"Leesburg Pike and Middleton Ridge Rd",,38.962100,-77.280150,,,,,,1
+1904,2442,"International Dr and Greensboro Dr",,38.923675,-77.226873,,,,,,1
+1905,2830,"Morning View La and John Thomas Dr",,38.748570,-77.170920,,,,,,1
+1906,5613,"Centreville Rd and Renoir Ter",,38.900370,-77.425940,,,,,,1
+1907,2979,"Old Keene Mill Rd and Westmore Dr (West)",,38.775750,-77.201930,,,,,,1
+1908,6202,"Backlick Rd and Barta Rd",,38.756950,-77.184414,,,,,,1
+1909,4084,"Sullyfield Cir and Westmore St",,38.892203,-77.434072,,,,,,1
+1910,2230,"Greensboro Dr and Westpark Dr",,38.924419,-77.232191,,,,,,1
+1911,688,"Belle View Blvd and Williams Dr",,38.772070,-77.068050,,,,,,1
+1913,4273,"Stringfellow Rd and Coralberry Dr",,38.896175,-77.401439,,,,,,1
+1914,3892,"Little River Tpke and Heritage Dr",,38.832360,-77.208640,,,,,,1
+1915,1589,"Centreville Rd and Floris St",,38.934130,-77.413460,,,,,,1
+1916,2240,"Guinea Rd and Pierrpont St",,38.804390,-77.282330,,,,,,1
+1917,5577,"Chain Bridge Rd and Old Courthou",,38.916218,-77.238315,,,,,,1
+1918,2605,"Leesburg Pike and Laurel Hill Rd",,38.939360,-77.252000,,,,,,1
+1920,1984,"Fordson Rd and Richmond Hwy",,38.748010,-77.082040,,,,,,1
+1921,5574,"Old Courthouse Rd and Byrd Rd",,38.913634,-77.230718,,,,,,1
+1922,5428,"Chain Bridge Rd and Evers Dr",,38.929427,-77.194870,,,,,,1
+1923,2594,"Laurel Crest Dr and Western Hemlock (East)",,38.717726,-77.230929,,,,,,1
+1924,4124,"Braddock Rd and Union Mill Rd",,38.832555,-77.413601,,,,,,1
+1925,1572,"Chain Bridge Rd and Nutley St",,38.894200,-77.274310,,,,,,1
+1927,2389,"Herndon Pkwy and Spring St",,38.959347,-77.373435,,,,,,1
+1928,4259,"Saint Germain Dr and Golden Oak Dr",,38.835366,-77.447858,,,,,,1
+1929,4067,"Trinity Pkwy and Trinity Pl",,38.840388,-77.435789,,,,,,1
+1930,1941,"Fair Lakes Pkwy and Market Commons Dr",,38.859590,-77.375030,,,,,,1
+1932,4025,"Gambrill Rd P+E",,38.755807,-77.232676,,,,,,1
+1933,6253,"Air+Space Museum and Udvar-Hazy Ctr",,38.910750,-77.443140,,,,,,1
+1934,2553,"Lawyers Rd and Lawyers Rd",,38.924240,-77.373370,,,,,,1
+1935,1869,"Franklin Farm Rd and Fairfax County Pkwy",,38.906695,-77.405131,,,,,,1
+1936,4145,"Chain Bridge Rd and Oakton Glen Dr",,38.884480,-77.288750,,,,,,1
+1937,2911,"N Shore Dr and Lake Anne Village Ctr",,38.970100,-77.340400,,,,,,1
+1939,3366,"S Lakes Dr and Chestnut Burr Ct",,38.931950,-77.343290,,,,,,1
+1940,1267,"Backlick Rd and Jayhawk St",,38.827220,-77.194650,,,,,,1
+1941,3321,"Sherwood Hall La and Oaklawn Dr",,38.744920,-77.071900,,,,,,1
+1942,1974,"Fountain Dr and Bowman Towne Dr (South)",,38.961850,-77.356640,,,,,,1
+1943,4117,"Blake La and Edgelea Rd",,38.876300,-77.287470,,,,,,1
+1944,522,"Wakefield Dr and Potomac Ave",,38.772780,-77.057450,,,,,,1
+1945,5465,"Chain Bridge Rd and Wasp La",,38.929864,-77.191459,,,,,,1
+1946,3082,"Pole Rd and Credos Ct",,38.728150,-77.128890,,,,,,1
+1947,2375,"Herndon Pkwy and Monroe St",,38.982970,-77.385630,,,,,,1
+1948,1228,"Amherst Ave and Essex Ave",,38.785880,-77.187370,,,,,,1
+1949,2717,"Maple Ave and Beulah Rd",,38.907520,-77.257910,,,,,,1
+1951,2886,"N Shore Dr and Fairway Dr",,38.965360,-77.344300,,,,,,1
+1953,2264,"Hanover Ave and Floyd Ave",,38.788840,-77.195050,,,,,,1
+1954,772,"Telegraph Rd and Wilton Rd",,38.787410,-77.089600,,,,,,1
+1955,1309,"Baron Cameron Ave and Lake Fairfax Dr",,38.974910,-77.319230,,,,,,1
+1956,2050,"Franconia Rd and Saint John Dr",,38.783280,-77.141110,,,,,,1
+1958,1074,"Arlington Dr and Windbreak Dr",,38.755300,-77.078400,,,,,,1
+1959,4240,"Newton Patent Dr and Newton Tavern Ct",,38.846626,-77.439647,,,,,,1
+1961,1115,"Newington Forest Ave and Treasure Tree Ct",,38.740019,-77.250289,,,,,,1
+1962,6106,"Silverbrook Rd and Laurel Crest Dr",,38.718036,-77.236033,,,,,,1
+1963,3572,"Seven Woods Dr and Capistrano Pl",,38.738990,-77.098820,,,,,,1
+1964,2397,"570 Herndon Pkwy",,38.954820,-77.384150,,,,,,1
+1965,709,"Broadmoor St and Hayfield Rd",,38.746370,-77.135020,,,,,,1
+1967,4188,"Fairfax County Pkwy and Springhaven",,38.900180,-77.405230,,,,,,1
+1968,1584,"Centreville Rd and Coppermine Rd",,38.947558,-77.412908,,,,,,1
+1969,5651,"Lewinsville Rd and Old Falls Rd",,38.940742,-77.215813,,,,,,1
+1970,969,"Vernon View Dr and Fort Hunt Rd",,38.719120,-77.061580,,,,,,1
+1971,2724,"Maple Ave and Glyndon St",,38.905360,-77.260570,,,,,,1
+1972,5655,"Lewinsville Rd and Tysons Mclean Dr",,38.933638,-77.202604,,,,,,1
+1973,3596,"Town Center Pkwy and Cameron Glen Dr",,38.963580,-77.361180,,,,,,1
+1975,3247,"Reston Pkwy and Sunrise Valley Dr",,38.946360,-77.358750,,,,,,1
+1976,3004,"Park Ave and Dranesville Rd",,38.977737,-77.378665,,,,,,1
+1977,5663,"Lewinsville Rd and Bridle Path La",,38.939558,-77.213053,,,,,,1
+1978,3527,"Sunrise Valley Dr and Fairfax County Pkwy",,38.948570,-77.375030,,,,,,1
+1979,996,"Richmond Hwy and Lukens Ln",,38.723300,-77.119980,,,,,,1
+1980,3387,"S Lakes Dr and Southgate Sq",,38.942950,-77.364030,,,,,,1
+1982,3002,"The Parkway and Dorset Dr",,38.774700,-77.099570,,,,,,1
+1983,2365,"Herndon Pkwy and Grant St",,38.982360,-77.381940,,,,,,1
+1985,770,"Telegraph Rd and Lockport Pl",,38.791910,-77.084900,,,,,,1
+1986,4249,"Poplar Tree Rd and Fallen Oak Dr",,38.875138,-77.413481,,,,,,1
+1987,4252,"Poplar Tree Rd and Autumn Glory Way",,38.873645,-77.423261,,,,,,1
+1988,896,"Fort Hunt Rd and Waynewood Blvd",,38.726330,-77.058340,,,,,,1
+1989,1142,"Hanover Ave and Monticello Blvd",,38.779230,-77.194990,,,,,,1
+1990,3257,"Russell Rd and Norwood Dr",,38.738860,-77.104470,,,,,,1
+1991,4000,"Elden St and Alabama Dr",,38.964685,-77.397859,,,,,,1
+1992,2582,"Lake Braddock Dr and Tripolis Ct",,38.805610,-77.270560,,,,,,1
+1993,1878,"Franklin Farm Rd and Pond Crest La",,38.906930,-77.387136,,,,,,1
+1995,3697,"University Dr and Aquia Creek La",,38.835112,-77.310776,,,,,,1
+1996,1586,"Centreville Rd and Cedar Run La",,38.927620,-77.415230,,,,,,1
+1997,3329,"Sunset Hills Rd and American Dream Way",,38.953117,-77.347015,,,,,,1
+1998,2606,"Lenclair St and Memorial St",,38.770724,-77.086223,,,,,,1
+1999,1107,"Metro Pentagon Bay L7",,38.869101,-77.054181,,,,,,1
+2000,1499,"Burke Rd and Ashbourn Dr",,38.804630,-77.279210,,,,,,1
+2003,3339,"Sherwood Hall La and Wellington Rd",,38.747860,-77.064300,,,,,,1
+2004,2905,"N Shore Dr and Outlet Rd",,38.959910,-77.350430,,,,,,1
+2005,3881,"Hummer Rd and Walton La",,38.841429,-77.207250,,,,,,1
+2006,1778,"Dranesville Rd and Woodson Dr",,39.009480,-77.374580,,,,,,1
+2007,3224,"Rolling Rd and Northumberland Rd",,38.730830,-77.209220,,,,,,1
+2008,1872,"Franklin Farm Rd and Hidden Meadow Dr",,38.907048,-77.408519,,,,,,1
+2009,6232,"Cedar and Amanda Pl",,38.887691,-77.242676,,,,,,1
+2010,4271,"Stone Rd and Billingsgate La",,38.845960,-77.453750,,,,,,1
+2011,1900,"Fort Hunt Rd and Hunting Cove Pl",,38.785195,-77.061248,,,,,,1
+2012,3195,"Richmond Hwy and Woodlawn Ter",,38.751430,-77.083390,,,,,,1
+2014,2983,"Old Reston Ave and Stratford Pl",,38.958050,-77.352310,,,,,,1
+2015,3600,"Reston Hospital Center",,38.961240,-77.362760,,,,,,1
+2016,2437,"Hunters Woods Village Ctr",,38.937480,-77.362070,,,,,,1
+2017,3795,"Wiehle Ave and Chestnut Grove Sq",,38.955020,-77.334510,,,,,,1
+2018,4122,"Braddock Rd and Pickwick Rd",,38.835282,-77.420682,,,,,,1
+2019,3677,"Twinbrook Rd and Heathwood Ct",,38.814180,-77.275160,,,,,,1
+2020,2984,"Old Reston Ave and Washngtn + Old Dominion Tr",,38.955860,-77.351670,,,,,,1
+2021,4160,"Country Creek Rd and Rensselaer Ct",,38.878180,-77.278922,,,,,,1
+2022,3189,"Richmond Hwy and Belford Dr",,38.743933,-77.084108,,,,,,1
+2024,2856,"Newington Forest Ave and Summer Breeze La",,38.740430,-77.240190,,,,,,1
+2025,3034,"The Parkway and Telegraph Rd",,38.784760,-77.095130,,,,,,1
+2026,673,"Lawrence St and Russell Rd",,38.739900,-77.105380,,,,,,1
+2027,1327,"Beulah St and Springfield Pkwy",,38.764193,-77.156374,,,,,,1
+2028,919,"Fort Hunt Rd and Quander Rd",,38.764690,-77.060400,,,,,,1
+2029,1623,"Colts Neck Rd and Colts Neck Ct",,38.943330,-77.357990,,,,,,1
+2030,3965,"Sunrise Valley Dr and Centreville Rd",,38.952970,-77.410000,,,,,,1
+2031,3021,"The Parkway and Prospect Ter",,38.776730,-77.098600,,,,,,1
+2032,2561,"Lawyers Rd and Steeplechase Dr",,38.923830,-77.362671,,,,,,1
+2034,4163,"Conference Center Dr and Stonecroft Blvd",,38.880290,-77.459049,,,,,,1
+2036,3878,"Herndon Pkwy and Reneau Way",,38.970171,-77.369777,,,,,,1
+2037,1599,"Centreville Rd and Mcnair Farms Dr",,38.945199,-77.413296,,,,,,1
+2038,4278,"Stone Rd and Braddock Rd",,38.852709,-77.451312,,,,,,1
+2039,2927,"Nutley St and Kingsley Rd",,38.884000,-77.268320,,,,,,1
+2040,1330,"Becontree La and Becontree La",,38.966290,-77.329010,,,,,,1
+2041,2688,"Leesburg Pike and Towlston Rd",,38.951630,-77.265190,,,,,,1
+2042,3190,"Richmond Hwy and South Kings Hwy",,38.781030,-77.079080,,,,,,1
+2043,4096,"Fair Lakes Pkwy and Rippling Pond Dr",,38.861711,-77.402410,,,,,,1
+2044,1774,"DRANESVILLE RD @ THIRD ST",,38.981550,-77.378660,,,,,,1
+2045,3835,"Worldgate Dr and Van Buren St",,38.954880,-77.389423,,,,,,1
+2046,3491,"Sunrise Valley Dr and Barton Hill Rd",,38.940948,-77.324584,,,,,,1
+2047,2986,"Ox Tr and Joseph Siewick Dr",,38.888250,-77.379320,,,,,,1
+2048,1998,"Frying Pan Rd and Fieldcreek Dr",,38.943440,-77.402160,,,,,,1
+2049,5668,"Lewinsville Rd and Falstaff Rd",,38.941035,-77.225710,,,,,,1
+2051,4113,"Avion Pkwy and Virginia Mallory Dr",,38.908043,-77.454660,,,,,,1
+2052,3154,"Rose Hill Dr and Greenhaven Pl",,38.785332,-77.120908,,,,,,1
+2053,2629,"Lee Jackson Hwy and Fair Ridge Dr",,38.869894,-77.369098,,,,,,1
+2054,860,"Little River Tpke and Beauregard St",,38.818810,-77.144280,,,,,,1
+2055,3830,"Worldgate Dr and Highcourt La",,38.955170,-77.392126,,,,,,1
+2056,5278,"Little River Tpke and Backlick Rd E",,38.829892,-77.193519,,,,,,1
+2057,3183,"Richmond Hwy and Sacramento Dr",,38.720306,-77.125954,,,,,,1
+2058,3516,"Sunrise Valley Dr and Merrybrook Dr",,38.956630,-77.423690,,,,,,1
+2060,3507,"Sunrise Valley Dr and Cornelia Rd",,38.949720,-77.397269,,,,,,1
+2061,1681,"6883 Commercial Dr",,38.801170,-77.180040,,,,,,1
+2062,2073,"Gallows Rd and Bright Meadows La",,38.890970,-77.225570,,,,,,1
+2063,3373,"S Lakes Dr and Escalante Ct",,38.940760,-77.357058,,,,,,1
+2064,1246,"Armstrong St and University Dr",,38.841461,-77.307908,,,,,,1
+2066,5294,"Braddock Rd and Red Fox Dr (West)",,38.811000,-77.257770,,,,,,1
+2067,2466,"Jones Branch Dr and Westbranch Dr",,38.931557,-77.218885,,,,,,1
+2068,1689,"Coppermine Rd and Mcnair Farms Dr",,38.947590,-77.410910,,,,,,1
+2069,937,"Fort Hunt Rd and Rollins Dr",,38.763250,-77.059780,,,,,,1
+2070,4283,"14120 Sullyfield Cir",,38.894448,-77.436539,,,,,,1
+2073,702,"Huntington Ave and Fifer Dr",,38.793440,-77.069210,,,,,,1
+2074,3885,"Inova Fair Oaks Hospital",,38.885414,-77.380251,,,,,,1
+2075,2105,"Gallows Rd and Madrillon Rd",,38.911112,-77.225426,,,,,,1
+2076,1176,"Fordson Rd and Richmond Hwy",,38.750881,-77.084199,,,,,,1
+2077,3599,"Town Ctr Pkwy and Edgewater Pond Rd",,38.963650,-77.361410,,,,,,1
+2078,1880,"Franklin Farm Rd and Stone Heather Dr",,38.907660,-77.410080,,,,,,1
+2079,1786,"Dulles Technology Dr and Sunrise Valley Dr",,38.953100,-77.413150,,,,,,1
+2080,6172,"Wall Rd and Centreville Rd",,38.915485,-77.420526,,,,,,1
+2081,3745,"Vernon View Dr and River Farm Dr",,38.710940,-77.062280,,,,,,1
+2082,2721,"Maple Ave and East St",,38.909450,-77.255480,,,,,,1
+2083,3094,"Pohick Rd and Newington Forest Ave",,38.743690,-77.239600,,,,,,1
+2084,3443,"Springer Dr and Berger Pl",,38.962917,-77.404578,,,,,,1
+2085,3161,"Richmond Hwy and Highland Ln",,38.724610,-77.117220,,,,,,1
+2086,2730,"Malcolm Rd and Oak Vale Ct",,38.899189,-77.282489,,,,,,1
+2087,3403,"Spring Mall Rd and Junction Blvd",,38.771310,-77.174570,,,,,,1
+2088,2637,"Lake Newport Rd and Arbor Glen Way",,38.977885,-77.352054,,,,,,1
+2089,2227,"Glade Dr and Tumbletree Way",,38.925612,-77.340178,,,,,,1
+2090,1307,"Baron Cameron Ave and Hunter Gate Way",,38.976570,-77.316390,,,,,,1
+2091,4050,"Lee Rd and Chantilly Crossing Ctr",,38.897884,-77.447077,,,,,,1
+2092,2713,"Lorton Station Blvd and Old Beech Ct",,38.705850,-77.211120,,,,,,1
+2093,2678,"Lake Pleasant Dr and Saint Dennis Dr",,38.741960,-77.217900,,,,,,1
+2094,962,"Fort Hunt Rd and Oakbrooke Ave",,38.734990,-77.055200,,,,,,1
+2095,5994,"John Marr Dr and Little River Tpke",,38.829027,-77.190157,,,,,,1
+2096,2167,"Glade Dr and Rosedown Dr",,38.942500,-77.372390,,,,,,1
+2097,3090,"Pohick Rd and Magic Leaf Rd",,38.740570,-77.231470,,,,,,1
+2098,3890,"Leesburg Pike and Middleton Ridge Rd",,38.961540,-77.279870,,,,,,1
+2099,3573,"Seven Woods Dr and El Cerrito Pl",,38.738180,-77.098420,,,,,,1
+2100,967,"Fort Hunt Rd and Old Stage Rd",,38.725160,-77.059500,,,,,,1
+2101,3945,"Pohick Rd and Waldren Dr",,38.715237,-77.204965,,,,,,1
+2102,2497,"Kinross Cir and Glen Taylor La (East)",,38.917950,-77.407980,,,,,,1
+2103,2698,"Little River Tpke and Markham St",,38.831550,-77.201680,,,,,,1
+2104,3217,"Saratoga Shopping Ctr",,38.740080,-77.211520,,,,,,1
+2105,5895,"White Granite Dr and Flag Pole La",,38.873017,-77.305325,,,,,,1
+2106,2795,"Mt Vernon Mem Hwy and Southwood Dr",,38.710830,-77.106010,,,,,,1
+2107,2068,"Fullerton Rd and Backlick Rd",,38.745314,-77.189821,,,,,,1
+2108,1522,"Belle View Blvd and Wakefield Dr",,38.775190,-77.059850,,,,,,1
+2110,2238,"Guinea Rd and Lakepointe Dr",,38.801190,-77.285260,,,,,,1
+2111,3828,"West Ox Rd and Fairfax Towne Ctr",,38.865713,-77.367284,,,,,,1
+2112,2928,"Nutley St and Kingsley Rd",,38.883770,-77.267980,,,,,,1
+2113,898,"Fort Hunt Rd and Falster Rd",,38.731910,-77.056130,,,,,,1
+2114,2920,"N Shore Dr and Wainwright Dr (North)",,38.963840,-77.349570,,,,,,1
+2115,4648,"Guinea Rd and Burke Rd",,38.805990,-77.281000,,,,,,1
+2116,4036,"15Th St (South) and Eads",,38.859964,-77.053956,,,,,,1
+2117,4069,"Little Rocky Run Cir and Rockdale Ct",,38.834793,-77.422590,,,,,,1
+2118,2076,"Gallows Rd and Merry Oaks La",,38.907199,-77.221833,,,,,,1
+2119,5910,"Walney Rd and Dallas St",,38.888868,-77.433772,,,,,,1
+2120,3556,"Sunrise Valley Dr and Rolling Fork Cir",,38.950884,-77.405243,,,,,,1
+2121,4213,"Lee Jackson Hwy and Alder Woods Dr",,38.873163,-77.376539,,,,,,1
+2122,3570,"Sunrise Valley Dr and Woodland Pond La",,38.948520,-77.394060,,,,,,1
+2123,977,"Richmond Hwy and Groveton St",,38.768590,-77.082190,,,,,,1
+2125,1221,"8400 Alban Rd",,38.729720,-77.199630,,,,,,1
+2127,3503,"Sunrise Valley Dr and Reston Pkwy",,38.945860,-77.358260,,,,,,1
+2128,4045,"Stringfellow Rd P+R",,38.853413,-77.404172,,,,,,1
+2129,1382,"Burke Lake Rd and Lake Braddock Dr",,38.801050,-77.265140,,,,,,1
+2130,2146,"Glade Dr and Charterhouse Cir",,38.931439,-77.357489,,,,,,1
+2132,1341,"Beulah St and Landsdowne Ctr",,38.741420,-77.164900,,,,,,1
+2133,1791,"6800 Edsall Rd",,38.807020,-77.181524,,,,,,1
+2134,689,"Belle View Blvd and Swarthmore Dr",,38.772340,-77.067080,,,,,,1
+2136,4092,"Poplar Tree Rd and Walney Rd",,38.870403,-77.428699,,,,,,1
+2137,1882,"Franklin Farm Rd and Thorngate Dr",,38.910780,-77.417883,,,,,,1
+2138,3706,"Van Buren St and Worldgate Dr",,38.954415,-77.388485,,,,,,1
+2139,1495,"Bowman Towne Dr and Fountain Dr",,38.962370,-77.355410,,,,,,1
+2140,3567,"Sunrise Valley Dr and Upper Lake Dr (West)",,38.943920,-77.337850,,,,,,1
+2141,5016,"Sully Station Dr and Windrift Ct",,38.867110,-77.458900,,,,,,1
+2142,5652,"Lewinsville Rd and Falstaff Rd",,38.938877,-77.212589,,,,,,1
+2143,3100,"Pohick Rd and Timber Brook La",,38.741850,-77.232300,,,,,,1
+2144,1464,"Braddock Rd and Red Fox Dr (East)",,38.810890,-77.253900,,,,,,1
+2145,950,"Rose Hill Dr and Bee St",,38.777289,-77.112645,,,,,,1
+2146,4139,"Chain Bridge Rd and Courthouse Rd",,38.882650,-77.293050,,,,,,1
+2147,2423,"Hummer Rd and Marshall Dr",,38.844490,-77.204550,,,,,,1
+2148,1718,"Crestleigh Way and Beulah St",,38.754610,-77.165919,,,,,,1
+2149,3847,"Beulah St and Darleon Pl",,38.776225,-77.149059,,,,,,1
+2150,3297,"Sherwood Hall La and Davenport St",,38.745550,-77.070150,,,,,,1
+2151,3308,"Sherwood Hall La and Hollindale Dr",,38.751750,-77.058710,,,,,,1
+2153,5537,"Dolley Madison Blvd and Scotts Crossing",,38.925440,-77.207920,,,,,,1
+2154,2555,"Lawrence St and Lake Park Dr",,38.739240,-77.107500,,,,,,1
+2155,934,"Mt Vernon Estate",,38.711250,-77.087230,,,,,,1
+2156,2694,"Leesburg Pike and Wolftrap Run Rd",,38.945510,-77.258030,,,,,,1
+2157,1434,"Braddock Rd and Ferndale St",,38.811800,-77.195870,,,,,,1
+2158,2883,"N Shore Dr and Charter Oak Ct",,38.959130,-77.348830,,,,,,1
+2159,2693,"Leesburg Pike and Wolftrap Run Rd",,38.945880,-77.257910,,,,,,1
+2160,4295,"Union Mill Rd and Braddock Rd",,38.834497,-77.411814,,,,,,1
+2161,5567,"Chain Bridge Rd and Westbriar Dr",,38.912328,-77.246704,,,,,,1
+2163,5303,"Braddock Rd and Red Fox Dr",,38.810558,-77.253549,,,,,,1
+2164,1493,"Bowman Towne Dr and Cameron Glen Dr",,38.962270,-77.358820,,,,,,1
+2165,5429,"Chain Bridge Rd and Wasp La",,38.929665,-77.191355,,,,,,1
+2166,4780,"Columbia Pike and Annandale Center Dr",,38.831853,-77.192827,,,,,,1
+2167,1556,"8580 Cinder Bed Rd",,38.725280,-77.194910,,,,,,1
+2168,4080,"Galesbury La and Lee Jackson Hwy",,38.887856,-77.418104,,,,,,1
+2169,2427,"Hummer Rd and Royce St",,38.838772,-77.208503,,,,,,1
+2170,1767,"Dranesville Rd and Leesburg Pike",,39.012250,-77.371670,,,,,,1
+2172,3796,"Wiehle Ave and Chestnut Grove Sq",,38.954690,-77.334740,,,,,,1
+2173,2517,"Kingstowne Village Pkwy and Ashby La",,38.755110,-77.149350,,,,,,1
+2176,6222,"Old Courthouse Rd and Pine Valley Dr",,38.919757,-77.247108,,,,,,1
+2178,3452,"Summer Ridge Rd and Darby Towne Ct",,38.763720,-77.137480,,,,,,1
+2179,1571,"Chain Bridge Rd and Nutley St",,38.894350,-77.274430,,,,,,1
+2180,2599,"Laurel Crest Dr and Silverbrook Rd",,38.717723,-77.235374,,,,,,1
+2182,3968,"Telegraph Rd and Roxann Rd",,38.762579,-77.130569,,,,,,1
+2183,4291,"Trinity Pkwy and Trinity Pl",,38.840503,-77.436063,,,,,,1
+2184,1837,"Elden St and Jonquil La",,38.967410,-77.373930,,,,,,1
+2185,2586,"Lake Braddock Dr and Westport La",,38.801820,-77.274730,,,,,,1
+2186,2158,"Glade Dr and Marginella Dr",,38.944540,-77.374790,,,,,,1
+2187,2895,"N Shore Dr and Links Dr (East)",,38.957970,-77.338820,,,,,,1
+2188,3534,"Sunrise Valley Dr and Jefferson Park",,38.949660,-77.421940,,,,,,1
+2189,1479,"Braddock Rd and Southampton Dr",,38.811130,-77.240660,,,,,,1
+2190,1868,"Franklin Farm Rd and Centreville Rd",,38.912790,-77.420183,,,,,,1
+2192,4155,"Chain Bridge Rd and White Granite Dr",,38.875630,-77.306840,,,,,,1
+2193,2109,"Gallows Rd and Oak St",,38.900282,-77.223719,,,,,,1
+2194,4294,"5800 Trinity Pkwy",,38.842770,-77.438550,,,,,,1
+2195,3738,"Viking Dr and Viking Ct",,38.923078,-77.384234,,,,,,1
+2196,3852,"Beryl Rd and Sheldon Dr",,38.801206,-77.156585,,,,,,1
+2197,884,"Belle View Blvd and Bluebill La",,38.775120,-77.063500,,,,,,1
+2201,863,"Little River Tpke and Merritt Rd",,38.820860,-77.155310,,,,,,1
+2202,3430,"Southgate Dr and Richmond Hwy",,38.774235,-77.082830,,,,,,1
+2203,3268,"Springfield Ctr Dr and Loisdale Rd",,38.765121,-77.182048,,,,,,1
+2204,2631,"Lee Jackson Hwy and Plaza La",,38.881747,-77.399840,,,,,,1
+2205,2000,"Frying Pan Rd and Fox Mill Rd",,38.944620,-77.399110,,,,,,1
+2206,3367,"S Lakes Dr and Chestnut Burr Ct",,38.931835,-77.343593,,,,,,1
+2207,3593,"Twin Branches Rd and Villaridge Ct",,38.937574,-77.327581,,,,,,1
+2208,2659,"Leesburg Pike and Carpers Farm Way",,38.967260,-77.291660,,,,,,1
+2209,2378,"Herndon Pkwy and Elden St",,38.962210,-77.398020,,,,,,1
+2210,2020,"Franconia Rd and Craft Rd",,38.788958,-77.113775,,,,,,1
+2211,1923,"Fort Hunt Rd and Wake Forest Dr",,38.768170,-77.059860,,,,,,1
+2212,5986,"Meadow Field Dr and Rosemeade Dr",,38.869941,-77.372949,,,,,,1
+2213,2533,"Kingstowne Village Pkwy and Village Park Dr",,38.753700,-77.151440,,,,,,1
+2216,3537,"Sunrise Valley Dr and Lakeport Way",,38.942082,-77.331080,,,,,,1
+2217,1944,"Fair Lakes Promenade",,38.860210,-77.368110,,,,,,1
+2218,1879,"Franklin Farm Rd and Stone Heather Dr",,38.907829,-77.410530,,,,,,1
+2219,4254,"Poplar Tree Rd and Leighfield Valley",,38.871616,-77.426666,,,,,,1
+2220,3722,"S Van Dorn St and Oakwood Rd",,38.792170,-77.137230,,,,,,1
+2221,1600,"Centreville Rd and Old Centreville Rd",,38.944124,-77.413945,,,,,,1
+2223,3062,"Pinecrest Rd and Magna Carta Rd",,38.932414,-77.381091,,,,,,1
+2224,4078,"Billingsgate La and Wycombe St",,38.843099,-77.457847,,,,,,1
+2225,1697,"Old Keene Mill Rd and Commerce St",,38.778271,-77.192261,,,,,,1
+2226,3633,"Telegraph Rd and Pike Rd",,38.785854,-77.094018,,,,,,1
+2227,1145,"Edsall Rd and Montgomery St",,38.806870,-77.176280,,,,,,1
+2228,1521,"Belle View Blvd and Fort Hunt Rd",,38.775002,-77.061600,,,,,,1
+2230,981,"Richmond Hwy and Regan St",,38.777710,-77.079925,,,,,,1
+2232,4170,"Centreville Farms Rd and Granite Step Tr",,38.848586,-77.404583,,,,,,1
+2233,3174,"Richmond Hwy and North Kings Hwy",,38.783070,-77.076530,,,,,,1
+2234,4144,"Chain Bridge Rd and Miller Rd",,38.880240,-77.301930,,,,,,1
+2235,1943,"Fair Lakes Pkwy and West Ox Rd",,38.859190,-77.369810,,,,,,1
+2236,1203,"Norton Rd and Franconia Rd",,38.792558,-77.093656,,,,,,1
+2237,3964,"Stringfellow Rd and Melville La",,38.864384,-77.406415,,,,,,1
+2238,2272,"Hayfield Rd and Rock Cliff La",,38.761770,-77.150340,,,,,,1
+2239,1634,"Colts Neck Rd and Royal Fern Ct",,38.943210,-77.358260,,,,,,1
+2241,2118,"Gallows Rd and Townsend St",,38.859760,-77.226470,,,,,,1
+2242,2032,"Frye Rd and Gage Rd",,38.733640,-77.114270,,,,,,1
+2243,1202,"Telegraph Rd and Rose Hill Dr",,38.774721,-77.110801,,,,,,1
+2244,2163,"Glade Dr and Quartermaster La",,38.925843,-77.337045,,,,,,1
+2245,3006,"PARK AVE @ GRANT ST",,38.976570,-77.380570,,,,,,1
+2246,2687,"Leesburg Pike and Towlston Rd",,38.951770,-77.264830,,,,,,1
+2248,3619,"Telegraph Rd and Farmington Dr",,38.794240,-77.082820,,,,,,1
+2249,2152,"Glade Dr and Freetown Ct",,38.935880,-77.367770,,,,,,1
+2250,2115,"Gallows Rd and Thor Dr",,38.848690,-77.208070,,,,,,1
+2251,3805,"Wiehle Ave and Northgate Sq",,38.972630,-77.333650,,,,,,1
+2252,1975,"Fordson Rd and Belvedere Dr S",,38.744580,-77.080540,,,,,,1
+2253,3393,"S Lakes Dr and Twin Branches Rd",,38.938954,-77.328637,,,,,,1
+2254,6468,"Franconia Rd and Beulah St",,38.782140,-77.145260,,,,,,1
+2255,3551,"Sunrise Valley and Roland Clarke Pl",,38.948200,-77.351060,,,,,,1
+2256,2652,"Loisdale Rd and Loisdale Ct",,38.775370,-77.176820,,,,,,1
+2257,3727,"View La and Bold Lion La",,38.742872,-77.170403,,,,,,1
+2258,1148,"Southrun Rd and Calvert Cliff Ct",,38.728450,-77.245480,,,,,,1
+2259,2997,"Park Ave and Branch Dr",,38.975710,-77.390006,,,,,,1
+2261,4292,"Trinity Pkwy and Wood Meadow Way",,38.842050,-77.435873,,,,,,1
+2262,2177,"Glade Dr and Timberhead La",,38.927395,-77.329994,,,,,,1
+2263,4147,"Chain Bridge Rd and Oakton Manor Ct",,38.882560,-77.297300,,,,,,1
+2264,2829,"Morning View La and Island Creek Ct",,38.749750,-77.171010,,,,,,1
+2265,3168,"Richmond Hwy and Martha St",,38.734283,-77.097821,,,,,,1
+2266,3623,"Telegraph Rd and Hayfield Rd",,38.751290,-77.140440,,,,,,1
+2267,5842,"Richmond Hwy and Gunston Cove Rd",,38.693082,-77.218454,,,,,,1
+2268,1211,"8300 Alban Rd",,38.731101,-77.198518,,,,,,1
+2269,1217,"Alabama Dr and Florida Ave",,38.963401,-77.392711,,,,,,1
+2270,3394,"S Lakes Dr and Twin Branches Rd",,38.938187,-77.329260,,,,,,1
+2271,2641,"Lake Newport Rd and Woodcrest Dr",,38.979452,-77.354025,,,,,,1
+2272,1970,"Follin La and Vega La",,38.903974,-77.246299,,,,,,1
+2273,2420,"Huntington Ave and Indian Dr",,38.796850,-77.076550,,,,,,1
+2274,1973,"Fountain Dr and Bowman Towne Dr",,38.961890,-77.356820,,,,,,1
+2275,2876,"Northumberland Rd and Rolling Rd",,38.730710,-77.209660,,,,,,1
+2276,1430,"Braddock Rd and Dodson Dr",,38.812020,-77.179460,,,,,,1
+2277,2544,"Lawyers Rd and Farrier La",,38.924687,-77.370051,,,,,,1
+2278,2820,"Mt Vernon Hwy and Battersea La (South)",,38.723500,-77.090320,,,,,,1
+2279,2154,"Glade Dr and Green Range Dr",,38.937000,-77.367460,,,,,,1
+2280,4197,"Fair Lakes Pkwy and Fair Lakes Cir",,38.861251,-77.389225,,,,,,1
+2281,3299,"Sherwood Hall Ln and Richmond Hw",,38.742850,-77.083140,,,,,,1
+2282,3895,"Little River Tpke and Medford Dr",,38.831700,-77.204560,,,,,,1
+2283,2650,"Loisdale Rd and Lois Dr",,38.758140,-77.182770,,,,,,1
+2284,4062,"Walney Rd and Eagle Chase Rd",,38.877319,-77.433532,,,,,,1
+2285,2515,"Kinross Cir and Glen Taylor La (West)",,38.918170,-77.410880,,,,,,1
+2286,1469,"9895 Braddock Rd",,38.826070,-77.285990,,,,,,1
+2287,2034,"Franconia Rd and Grovedale Dr",,38.780980,-77.151230,,,,,,1
+2288,5569,"Old Courthouse Rd and Chain Bridge Rd",,38.915750,-77.236769,,,,,,1
+2289,1816,"Eisenhower Ave and S Van Dorn St",,38.799260,-77.133820,,,,,,1
+2291,1356,"Beulah St and Silver Lake Blvd",,38.763521,-77.156289,,,,,,1
+2292,640,"Parkers La and Hinson Farm Rd",,38.739450,-77.074450,,,,,,1
+2293,2284,"Highland St and Brunswick St",,38.791200,-77.188020,,,,,,1
+2294,2868,"North Kings Hwy and School St",,38.784080,-77.078170,,,,,,1
+2296,3427,"Soapstone Dr and Rolling Green Ct",,38.934830,-77.345568,,,,,,1
+2297,1655,"Commerce St and Brandon Ave",,38.782390,-77.183270,,,,,,1
+2298,3501,"Sunrise Valley Dr and Mansarde Ave",,38.953770,-77.426090,,,,,,1
+2299,1457,"Braddock Rd and Piedmont Pl",,38.811360,-77.201320,,,,,,1
+2300,5656,"Lewinsville Rd and Farm Credit Dr",,38.932445,-77.200454,,,,,,1
+2301,4111,"Awbrey Patent Dr and Thorndyke Ct",,38.849700,-77.449872,,,,,,1
+2303,4151,"Chain Bridge Rd and Fox Rest La",,38.885950,-77.284710,,,,,,1
+2304,1936,"Fair Lakes Blvd and Great Heron Dr",,38.856005,-77.401302,,,,,,1
+2305,3555,"Sunrise Valley Dr and Robert Fulton Dr",,38.942011,-77.321713,,,,,,1
+2306,1061,"Dartmouth Dr and Radcliffe Dr",,38.768060,-77.068960,,,,,,1
+2307,1511,"Burke Rd and Peppercorn Dr",,38.803610,-77.278450,,,,,,1
+2309,3172,"Richmond Hwy and Mohawk Ln",,38.731540,-77.102950,,,,,,1
+2311,3003,"The Parkway and Dorset Dr",,38.774300,-77.099370,,,,,,1
+2312,2384,"Herndon Pkwy and Sterling Rd",,38.975050,-77.404510,,,,,,1
+2314,1410,"Braddock Rd and Bradlick Ctr",,38.812010,-77.184490,,,,,,1
+2315,2479,"Joseph Siewick Dr and Alder Woods Dr",,38.882660,-77.381940,,,,,,1
+2316,4238,"Newbrook Dr and Westfields Blvd",,38.876359,-77.437788,,,,,,1
+2317,3361,"S Kings Hwy and Southgate Dr",,38.774856,-77.088861,,,,,,1
+2319,5839,"Lorton Market St and Groom Cottage Dr",,38.700304,-77.221952,,,,,,1
+2320,2864,"North Kings Hwy and Fort Dr",,38.789230,-77.076590,,,,,,1
+2321,3614,"Telegraph Rd and D'Evereux Circle Dr",,38.764930,-77.126500,,,,,,1
+2322,2767,"Mcnair Farms Dr and Coppermine Rd",,38.947050,-77.409630,,,,,,1
+2323,3150,"Rose Hill Dr and Flower La",,38.779630,-77.117090,,,,,,1
+2324,4109,"Awbrey Patent Dr and Four Chimney Dr",,38.848361,-77.447799,,,,,,1
+2326,2064,"Frontier Dr and Franconia Rd",,38.776110,-77.171750,,,,,,1
+2327,5017,"Sully Station Dr and Glen Meadow Rd",,38.868680,-77.456890,,,,,,1
+2328,4148,"Chain Bridge Rd and Oakton Manor Ct",,38.882360,-77.297050,,,,,,1
+2329,5893,"Chain Bridge Rd and Mcclean Commons Ct",,38.929298,-77.196098,,,,,,1
+2330,3480,"Chantilly High School",,38.881824,-77.407192,,,,,,1
+2331,3894,"Little River Tpke and Ravensworth Rd",,38.830360,-77.196250,,,,,,1
+2332,4152,"Chain Bridge Rd and Hunter Mill Rd",,38.881300,-77.300410,,,,,,1
+2333,1024,"Mt Vernon Hwy and Braddock Ave",,38.720530,-77.090040,,,,,,1
+2334,1898,"Fort Hunt Rd and Gahant Rd",,38.744000,-77.057330,,,,,,1
+2335,1592,"Center St and Locust St",,38.968587,-77.387846,,,,,,1
+2336,1758,"Dranesville Rd and Bennett St",,38.985609,-77.377378,,,,,,1
+2337,3392,"South Lakes High School",,38.931059,-77.338480,,,,,,1
+2338,3659,"Thomas Jefferson Dr and Masons Ferry Dr",,38.945300,-77.406510,,,,,,1
+2339,910,"Mt Vernon Mem Hwy and Old Mill Rd",,38.714200,-77.100740,,,,,,1
+2340,1673,"Commerce St and Bowie Dr",,38.780080,-77.177040,,,,,,1
+2341,2043,"Franconia Rd and La Vista Dr",,38.788548,-77.118010,,,,,,1
+2342,3242,"Reston Pkwy and Mclearen Rd",,38.925650,-77.373580,,,,,,1
+2343,3044,"Penderbrook Dr and Greenway Dr",,38.873597,-77.365070,,,,,,1
+2344,2744,"Mary Baldwin Dr and Smithway Dr",,38.768390,-77.073470,,,,,,1
+2345,3008,"Parcher Ave and Huston Pl",,38.961281,-77.405119,,,,,,1
+2346,1820,"Elden St and Carlisle Dr",,38.966320,-77.368380,,,,,,1
+2347,3963,"Soapstone Dr and Ridge Heights Rd",,38.938240,-77.345205,,,,,,1
+2348,6225,"Church St and East St",,38.909620,-77.257946,,,,,,1
+2350,1874,"Franklin Farm Rd and Nestlewood Dr",,38.906847,-77.400362,,,,,,1
+2351,4130,"Bushman Dr and Borge St",,38.873570,-77.300410,,,,,,1
+2352,1597,"Centreville Rd and Mcnair Farms Dr",,38.945635,-77.413699,,,,,,1
+2353,2889,"N Shore Dr and Greenmont Ct",,38.970250,-77.329760,,,,,,1
+2355,5019,"Sully Station Dr and Glen Meadow Rd",,38.866699,-77.449866,,,,,,1
+2356,3449,"Southrun Rd and Bark Tree Ct",,38.731460,-77.227950,,,,,,1
+2358,2490,"South Kings Hwy and Lantern Pl",,38.769250,-77.113270,,,,,,1
+2359,5647,"Lewinsville Rd and Falstaff Rd",,38.941112,-77.224792,,,,,,1
+2360,1431,"Braddock Rd and Dodson Dr",,38.811810,-77.180200,,,,,,1
+2361,615,"Lawrence St and Lakepark Dr",,38.739070,-77.107660,,,,,,1
+2362,725,"Huntington Ave and Farrington Ave",,38.795040,-77.072280,,,,,,1
+2363,2719,"Maple Ave and Center St",,38.901780,-77.265100,,,,,,1
+2364,1844,"Elden St and Post Dr",,38.968179,-77.376392,,,,,,1
+2365,4194,"Fair Lakes Pkwy and Autumn Woods Way",,38.860296,-77.398459,,,,,,1
+2366,1779,"Dranesville Rd and Woodson Dr",,39.009087,-77.374501,,,,,,1
+2367,2545,"Lawrence St and Frye Rd",,38.737770,-77.115250,,,,,,1
+2368,998,"Richmond Hwy and Forest Pl",,38.725460,-77.114970,,,,,,1
+2369,2571,"Lake Braddock Dr and Bromyard Ct",,38.805530,-77.267600,,,,,,1
+2370,3455,"Southrun Rd and Great Lake La",,38.729400,-77.229960,,,,,,1
+2372,3676,"Twinbrook Rd and Heathwood Ct",,38.813990,-77.274980,,,,,,1
+2373,3265,"Sacremento Dr and Village Green Ct",,38.722710,-77.128090,,,,,,1
+2374,2791,"Mt Vernon Mem Hwy and Patton Blvd",,38.708360,-77.122420,,,,,,1
+2375,2053,"Franconia Rd and South Van Dorn St",,38.783973,-77.137656,,,,,,1
+2376,1357,"Beulah St and Steinway St",,38.758230,-77.161490,,,,,,1
+2377,6064,"Richmond Hwy and Gunston Cove Rd",,38.693320,-77.218054,,,,,,1
+2378,2640,"Lake Newport Rd and Poplar Grove Dr",,38.979218,-77.359148,,,,,,1
+2379,2341,"Herndon Pkwy and Cavendish St",,38.980250,-77.371070,,,,,,1
+2380,3049,"Post Forest Dr and Black Ironwood Dr",,38.855890,-77.367977,,,,,,1
+2381,2170,"Glade Dr and Sugarberry Ct",,38.929585,-77.353765,,,,,,1
+2383,1284,"Backlick Rd and Matthew Pl",,38.809230,-77.185380,,,,,,1
+2384,2799,"Monument Dr and Fairfax Corner Ave",,38.856522,-77.357041,,,,,,1
+2385,712,"Kingsbury Rd and Helmsdale La",,38.750880,-77.129840,,,,,,1
+2386,4237,"Newbrook Dr and Park Meadow Dr",,38.871245,-77.434479,,,,,,1
+2387,1281,"Backlick Rd and Leewood Forest Dr",,38.804050,-77.184040,,,,,,1
+2388,3594,"Town Center Pkwy and Baron Cameron Ave",,38.965280,-77.360320,,,,,,1
+2389,4287,"Tabscott Dr and Novar Dr",,38.884928,-77.417892,,,,,,1
+2390,2338,"Herndon Pkwy and Bayshire La",,38.976376,-77.404080,,,,,,1
+2391,3365,"S Kings Hwy and Woodstone Pl",,38.771600,-77.101860,,,,,,1
+2392,2131,"Government Center Pkwy and Forum Dr E",,38.851158,-77.355723,,,,,,1
+2393,2578,"Lake Braddock Dr and Mersea Ct",,38.803410,-77.267560,,,,,,1
+2395,1826,"Navy Federal Credit Union",,38.901860,-77.243670,,,,,,1
+2397,2124,"Wolftrap",,38.901640,-77.223610,,,,,,1
+2398,3355,"S Kings Hwy and Furman La",,38.780410,-77.080770,,,,,,1
+2399,5510,"Elm St and Beverly Rd",,38.935290,-77.178730,,,,,,1
+2400,4192,"Field Encampment Rd and Saint Germain Dr",,38.831863,-77.450205,,,,,,1
+2401,3806,"Wiehle Ave and Northgate Sq",,38.972170,-77.333260,,,,,,1
+2402,3889,"Loisdale Rd and Lois Dr",,38.758430,-77.182912,,,,,,1
+2403,3238,"Reston Pkwy and Glade Dr",,38.934560,-77.367410,,,,,,1
+2404,3611,"Telegraph Rd and Belleau Woods La",,38.757290,-77.136590,,,,,,1
+2405,2945,"Old Keene Mill Rd and Bardu Ave",,38.780111,-77.222958,,,,,,1
+2406,2952,"Old Keene Mill Rd and English Ivy Ct",,38.777733,-77.239289,,,,,,1
+2407,3254,"Rolling Stone Way and Rock Creek Rd",,38.766054,-77.106056,,,,,,1
+2408,3488,"Sunrise Valley Dr and Alexander Bell Dr",,38.943314,-77.319735,,,,,,1
+2409,6067,"Gunston Rd and 5Th St",,38.704097,-77.148833,,,,,,1
+2411,3316,"Sheldon Dr and Merle Pl",,38.799628,-77.157133,,,,,,1
+2413,3943,"Pohick Rd and Cullum St",,38.713358,-77.200820,,,,,,1
+2414,1787,"13600 Dulles Technology Dr",,38.955740,-77.415530,,,,,,1
+2415,1784,"Dulles Technology Dr and Sunrise Valley Dr",,38.953020,-77.413020,,,,,,1
+2416,3560,"Sunrise Valley Dr and South Lakes Dr",,38.941810,-77.328854,,,,,,1
+2418,5388,"Tysons Blvd and Westbranch Dr",,38.923996,-77.222272,,,,,,1
+2419,1044,"Little River Tpke and Oasis Dr",,38.817790,-77.142190,,,,,,1
+2421,3733,"View La and Morning Glen La",,38.743030,-77.167370,,,,,,1
+2422,6473,"Franconia Rd and Beulah St",,38.782249,-77.146479,,,,,,1
+2423,1282,"Backlick Rd and Leesville Blvd",,38.802390,-77.183990,,,,,,1
+2424,4079,"Sully Park Dr and Sully Lake Dr",,38.855740,-77.453973,,,,,,1
+2425,2563,"Lawyers Rd and Viking Dr",,38.919140,-77.375650,,,,,,1
+2426,3379,"S Lakes Dr and Pinecrest Rd",,38.942840,-77.364870,,,,,,1
+2428,3632,"Telegraph Rd and Old Telegraph Rd",,38.781270,-77.104640,,,,,,1
+2429,2836,"Mt Vernon Hwy and Sunny View Dr",,38.735810,-77.091500,,,,,,1
+2430,3800,"Wiehle Ave and Issac Newton South",,38.951790,-77.335370,,,,,,1
+2431,1590,"Centreville Rd and Highland Mews Ct",,38.921030,-77.417760,,,,,,1
+2432,5661,"Lewinsville Rd and Scotts Run Rd",,38.935095,-77.206126,,,,,,1
+2434,3631,"Temporary Rd and Old Reston Ave",,38.960090,-77.353260,,,,,,1
+2435,2070,"Gallows Rd and Anderson Dr",,38.861490,-77.227520,,,,,,1
+2436,2235,"Guinea Rd and Falmead Rd (East)",,38.799560,-77.292000,,,,,,1
+2437,3023,"Parkers Ln and Sherwood Hall Ln",,38.742150,-77.076330,,,,,,1
+2438,1955,"Fair Lakes Cir and Argon Plaza",,38.858105,-77.381557,,,,,,1
+2440,5008,"Sully Station Dr and Woodford Dr",,38.867026,-77.450117,,,,,,1
+2444,1905,"Fort Hunt Rd and Mason Hill Dr",,38.756740,-77.057420,,,,,,1
+2445,1283,"Backlick Rd and Leesville Blvd",,38.802630,-77.184140,,,,,,1
+2446,5854,"Eads St (South) and 18Th St (South)",,38.857884,-77.053269,,,,,,1
+2447,2564,"Lawyers Rd and West St",,38.902335,-77.269269,,,,,,1
+2448,4090,"Lee Jackson Hwy and Centerview Dr",,38.894961,-77.432580,,,,,,1
+2449,3500,"Sunrise Valley Dr and Coppermine Rd",,38.953770,-77.425680,,,,,,1
+2450,2520,"Kingstowne Village Pkwy and Beulah St",,38.751220,-77.165570,,,,,,1
+2451,835,"Fort Hunt Rd and Wake Forest Dr",,38.767640,-77.059790,,,,,,1
+2453,1564,"Chain Bridge Rd and James Madison Dr",,38.893120,-77.275600,,,,,,1
+2454,3319,"Sherwood Hall La and Midday La",,38.746960,-77.066490,,,,,,1
+2455,3608,"Telegraph Rd and Broadmoor St",,38.749080,-77.142460,,,,,,1
+2456,5982,"Fields Brigade Rd and Brickell Dr",,38.868567,-77.378289,,,,,,1
+2457,4245,"Pickwick Rd and Bent Tree Cir",,38.836997,-77.422205,,,,,,1
+2458,3459,"Southrun Rd and Rushing Creek Dr",,38.735390,-77.226520,,,,,,1
+2460,5426,"Chain Bridge Rd and Seneca Ave",,38.926709,-77.201140,,,,,,1
+2461,4272,"Stone Rd and Billingsgate La",,38.845376,-77.453624,,,,,,1
+2462,3597,"Town Ctr Pkwy and Baron Cameron Ave",,38.964870,-77.360220,,,,,,1
+2463,1416,"Braddock Rd and Woodland Dr",,38.811920,-77.191030,,,,,,1
+2464,2674,"Leesburg Pike and Lyons St",,38.953810,-77.268580,,,,,,1
+2465,1888,"Franklin Farm Rd and Willow Glen Dr",,38.904894,-77.393145,,,,,,1
+2466,2789,"Mt Vern Mem Hwy and Old Mt Vernon Rd",,38.716170,-77.096880,,,,,,1
+2467,3239,"Reston Pkwy and Glade Dr",,38.934760,-77.366860,,,,,,1
+2468,3588,"Tapawingo Rd and Ware St",,38.888594,-77.264746,,,,,,1
+2469,3831,"Worldgate Dr and Highcourt La",,38.954757,-77.392474,,,,,,1
+2470,3326,"Sunset Hills Rd and Reston Pkwy",,38.955507,-77.356294,,,,,,1
+2471,5470,"Chain Bridge Rd and Seneca Ave",,38.926893,-77.201010,,,,,,1
+2473,3057,"Pinecrest Rd and Glade Dr",,38.941050,-77.366890,,,,,,1
+2474,2067,"Fullerton Rd and Backlick Rd",,38.745280,-77.189240,,,,,,1
+2475,1871,"Franklin Farm Rd and Franklin Farm Ct",,38.907380,-77.408154,,,,,,1
+2476,4093,"Poplar Tree Rd and Walney Rd",,38.870506,-77.428935,,,,,,1
+2477,3384,"S Lakes Dr and Reston Pkwy",,38.943200,-77.362310,,,,,,1
+2478,4136,"Bushman Dr and Valentino Dr E",,38.872220,-77.294740,,,,,,1
+2480,3514,"Sunrise Vly Dr and Dulles Corner Dr (North)",,38.960280,-77.421550,,,,,,1
+2481,3237,"Reston Pkwy and Deer Forest Rd",,38.983800,-77.346070,,,,,,1
+2483,3164,"Richmond Hwy and Janna Lee Ave",,38.736890,-77.093600,,,,,,1
+2484,4200,"Gothwaite Dr and Bentley Sq",,38.840621,-77.458674,,,,,,1
+2485,4125,"Braddock Rd and Village Center Dr",,38.853851,-77.447979,,,,,,1
+2486,1690,"Coppermine Rd and Mcnair Farms Dr",,38.947462,-77.411349,,,,,,1
+2487,1295,"Backlick Rd and Villa Park Rd",,38.770910,-77.184150,,,,,,1
+2488,2022,"Frontier Dr and Deepford St",,38.783960,-77.171600,,,,,,1
+28704,6008,"Fountain Dr and Baron Cameron Ave",,38.965286,-77.356177,,,,,,1
+28705,5394,"Westpark Dr and Jones Branch Dr",,38.925071,-77.218563,,,,,,1
+28706,5891,"Centreville Rd and Parcher Ave",,38.959099,-77.402199,,,,,,1
+28709,2133,"Government Center Pkwy and Monument Way",,38.856578,-77.353546,,,,,,1
+28710,3559,"Sunrise Valley Dr and S Lakes Dr",,38.949690,-77.366310,,,,,,1
+28711,4185,"Centreville Farms Rd and Rachael Alice La",,38.848881,-77.409821,,,,,,1
+28712,3171,"RICHMOND HWY @ MOHAWK LN",,38.731190,-77.104340,,,,,,1
+28713,5809,"Center St and Post Dr",,38.967042,-77.388746,,,,,,1
+28714,3666,"Tysons Westpark",,38.932579,-77.231998,,,,,,1
+28716,6002,"Bracknell Dr and Stevenage Rd",,38.967372,-77.357151,,,,,,1
+28717,4297,"Walney Rd and Brentwall Dr",,38.874339,-77.430509,,,,,,1
+28718,3558,"Sunrise Valley Dr and Reston Pkwy",,38.946380,-77.360310,,,,,,1
+28719,3186,"Richmond Hwy and Shannons Green",,38.735885,-77.095019,,,,,,1
+28720,6010,"Fountain Dr and Spectrum Ctr",,38.963553,-77.355972,,,,,,1
+28721,6258,"Old Courthouse Rd and Howard Ave",,38.915166,-77.234924,,,,,,1
+28722,3660,"Thomas Jefferson Dr and Sir Ramsay Way",,38.942360,-77.408570,,,,,,1
+28723,3656,"Thomas Jefferson Dr and Logan Wood Dr",,38.944130,-77.408360,,,,,,1
+28724,3661,"T Jefferson Dr and Woodrow Wilson Dr",,38.944080,-77.408100,,,,,,1
+28725,5802,"Walnut Branch Rd and Grey Squirrel La",,38.973778,-77.358342,,,,,,1
+28727,2416,"Huntington Ave and Hunting Creek Rd",,38.790418,-77.065551,,,,,,1
+28728,999,"Richmond Hwy and Frye Rd",,38.727220,-77.111400,,,,,,1
+28730,3167,"Richmond Hwy and Lukens Ln",,38.723220,-77.119480,,,,,,1
+28731,5866,"Centreville Rd and Metrotech Dr",,38.896555,-77.429864,,,,,,1
+28733,3041,"Park Center Rd and Towerview Rd",,38.931670,-77.424480,,,,,,1
+28734,3107,"Park Run Dr and Jones Branch Dr",,38.930803,-77.227264,,,,,,1
+28735,4167,"Centreville Farms Rd and Calamint Ct",,38.845869,-77.413123,,,,,,1
+28737,4176,"Centreville Farms Rd and Mist Flower Dr",,38.842352,-77.412343,,,,,,1
+28738,3655,"Thomas Jefferson Dr and James Monroe Cir",,38.942560,-77.408440,,,,,,1
+28739,5942,"Reston North P+R",,38.951082,-77.338716,,,,,,1
+28740,1528,"Bennington Woods Rd and Moss Point La",,38.972830,-77.357980,,,,,,1
+28741,2229,"Greensboro Dr and The Rotonda",,38.925945,-77.233692,,,,,,1
+28743,3140,"Richmond Hwy and Talbot Farm Dr",,38.721190,-77.123600,,,,,,1
+28747,3663,"Jones Branch Dr and Park Run Dr",,38.932701,-77.231180,,,,,,1
+28748,3520,"Sunrise Valley Dr and Edmund Halley Dr",,38.948900,-77.364790,,,,,,1
+44718,3219,"Rolling Rd and Hooes Rd",,38.753770,-77.215570,,,,,,1
+44719,3225,"Rolling Rd and Virginia Dr",,38.743222,-77.212095,,,,,,1
+44720,6262,"Jones Branch Dr and Lincoln Center Ct",,38.931903,-77.230127,,,,,,1
+45110,6195,"Chancellor Way and Rolling Rd",,38.752451,-77.216149,,,,,,1
+45111,6285,"Cedar La and Stonewall Dr",,38.890924,-77.239956,,,,,,1
+45112,6295,"Burgundy Rd and Tremont Dr",,38.797297,-77.092355,,,,,,1
+45113,6294,"Health Clinic",,38.965258,-77.359102,,,,,,1
+45114,2671,"Lake Pleasant and Hudson Falls Way",,38.735654,-77.218138,,,,,,1
+45115,6300,"Franklin Farm Rd and Wrenn House La",,38.906665,-77.403102,,,,,,1
+45116,1937,"Fair Lakes Blvd and Great Heron Dr",,38.855963,-77.402059,,,,,,1
+45117,5459,"Chain Bridge Rd and Tennyson Dr",,38.932019,-77.179703,,,,,,1
+45118,6289,"Old Courthouse Rd and Drewlaine Dr",,38.923149,-77.255802,,,,,,1
+45119,6296,"Burgundy Rd and S Quaker La",,38.797884,-77.088251,,,,,,1
+45122,6009,"Fountain Dr and Spectrum Ctr",,38.962999,-77.356342,,,,,,1
+45123,6287,"Cedar La and Wedderburn Station Dr",,38.894915,-77.236722,,,,,,1
+45124,6217,"Fleetwood Rd and Bakers Crest Ct",,38.938494,-77.179788,,,,,,1
+45125,5820,"North County Human Services Ctr",,38.964260,-77.359670,,,,,,1
+45126,766,"Telegraph Rd and Lockport Pl",,38.714900,-77.193750,,,,,,1
+45128,6286,"Cedar La and Redwood Dr",,38.891575,-77.239528,,,,,,1
+45130,2871,"Northumberland Rd and Euclid Way",,38.733983,-77.215019,,,,,,1
+45131,6288,"Cedar La and Wedderburn Station Dr",,38.893792,-77.237765,,,,,,1
+45132,2869,"Norton Rd and Burgundy Rd",,38.796892,-77.092747,,,,,,1
+45133,2742,"Mulberry Bottom La and Double Creek Ct",,38.743713,-77.217408,,,,,,1
+45134,6299,"Burgundy Rd and Chapin Ave",,38.797773,-77.083629,,,,,,1
+45135,6216,"Elm St and Fleetwood Rd",,38.937163,-77.181360,,,,,,1
+45136,2665,"Lake Pleasant Dr and Colorado Springs Dr",,38.740830,-77.220153,,,,,,1
+45137,6218,"Beverly Rd and Fleetwood Rd",,38.939101,-77.177544,,,,,,1
+45138,2740,"Mulberry Bottom La and Attleboro Dr",,38.742642,-77.217062,,,,,,1
+45139,6298,"Burgundy Rd and Chapin Ave",,38.797962,-77.083173,,,,,,1
+45140,2444,"Metro Center Dr and Kaiser Permanente",,38.949760,-77.342341,,,,,,1
+45141,2741,"Mulberry Bottom La and Attleboro Dr",,38.745236,-77.216953,,,,,,1
+45142,6261,"Metro Rd and Summers Grove",,38.800263,-77.131322,,,,,,1
+45143,3884,"Metro Center Dr and Reston Station Blvd",,38.949649,-77.341406,,,,,,1
+45144,2692,"Lake Pleasant Dr and West Point Dr",,38.739190,-77.220317,,,,,,1
+45145,2877,"Northumberland Rd and Rowanta Way",,38.731243,-77.211488,,,,,,1
+45146,6297,"Burgundy Rd and S Quaker La",,38.797941,-77.088062,,,,,,1
+45147,6267,"Fullerton Rd and Cameron Brown Ct",,38.742642,-77.203468,,,,,,1
+45746,5290,"Lee Jackson Hwy and Rugby Rd",,38.877378,-77.387303,,,,,,1
+45748,6283,"7415 Loisdale Rd",,38.756260,-77.183141,,,,,,1
+45749,6276,"Loisdale Rd and Newington Rd",,38.739733,-77.187351,,,,,,1
+45750,6272,"7951 Loisdale Rd",,38.742323,-77.187485,,,,,,1
+45751,6282,"7601 Loisdale Rd",,38.753053,-77.183571,,,,,,1
+45752,6277,"Loisdale Rd and Constance Dr",,38.760783,-77.182546,,,,,,1
+45753,6281,"7801 Loisdale Rd",,38.746917,-77.185621,,,,,,1
+45754,6278,"Loisdale Rd and Constance Dr",,38.761356,-77.182785,,,,,,1
+45755,6270,"Loisdale Rd and Newington Rd",,38.740561,-77.187605,,,,,,1
+45756,6035,"Stone Rd and Stonepath Cir (North)",,38.841070,-77.454889,,,,,,1
+45757,1945,"Fair Lakes Cir and Roger Stover Dr",,38.859438,-77.379452,,,,,,1
+45759,1861,"Fairfax County Pkwy and Terminal Rd",,38.734543,-77.189895,,,,,,1
+46317,6292,"Tapawingo Rd and Park St",,38.895597,-77.253372,,,,,,1
+46319,4195,"Fair Lakes Pkwy and Autumn Woods Way",,38.860239,-77.397970,,,,,,1
+46321,6293,"Tapawingo Rd and Plum St",,38.891996,-77.257846,,,,,,1
+46322,4280,"Sullyfield Cir and Brookfield Corp Dr",,38.890131,-77.438990,,,,,,1
+46326,5287,"Lee Jackson Hwy and Middle Ridge Rd",,38.877632,-77.389140,,,,,,1
+48619,1501,"Burgundy Rd and East Dr",,38.797820,-77.081707,,,,,,1
+48624,6307,"Tysons Corner Metro Bay A",,38.921043,-77.222135,,,,,,1
+48626,6318,"18Th St and Crystal City Metro",,38.857503,-77.051819,,,,,,1
+48628,2816,"Metro Pentagon Bay L4",,38.868297,-77.055097,,,,,,1
+48631,1213,"Alban Rd and Boudinot Dr",,38.739770,-77.192989,,,,,,1
+48633,1214,"Alban Rd and Boudinot Dr",,38.739050,-77.193059,,,,,,1
+48634,1215,"8100 Alban Rd",,38.735882,-77.194769,,,,,,1
+48636,1596,"Centreville Rd and Mclearen Rd",,38.921807,-77.417433,,,,,,1
+48638,1656,"Commerce St and Brandon Ave",,38.782101,-77.182033,,,,,,1
+48639,1838,"Elden St and Laurel Way",,38.966496,-77.367307,,,,,,1
+48640,2633,"Lee Jackson Hwy and Muirfield La",,38.881158,-77.397277,,,,,,1
+48641,2654,"Lorton Rd and Sanger St",,38.704595,-77.226846,,,,,,1
+48642,2662,"Leesburg Pike and Colvin Run Rd (West)",,38.974351,-77.304248,,,,,,1
+48650,4083,"Lee Jackson Hwy and Highland Oaks Dr",,38.880300,-77.395032,,,,,,1
+48651,4225,"Lee Jackson Hwy and Westfax Dr",,38.903352,-77.454417,,,,,,1
+48652,4699,"Alban Rd and Alban Station Ct",,38.733313,-77.196405,,,,,,1
+48653,4702,"Alban Rd and Alban Station Ct",,38.733818,-77.196113,,,,,,1
+48654,5402,"Dolley Madison Blvd and Old Meadow Rd",,38.923981,-77.210116,,,,,,1
+48656,5538,"Mclean Metro",,38.924672,-77.209096,,,,,,1
+48659,5831,"Armistead Rd and Gunston Plz",,38.703605,-77.209491,,,,,,1
+48661,6140,"Dulles Airport",,38.953619,-77.446294,,,,,,1
+48666,6179,"Fullerton Rd and Angus Ct",,38.742736,-77.203543,,,,,,1
+48667,6231,"Trap Rd and Gelding La",,38.932543,-77.266344,,,,,,1
+53828,3921,"West Falls Church Metro",,38.900953,-77.189413,,,,,,1
+53829,4313,"Wolf Trap Filene Ctr",,38.937325,-77.265880,,,,,,1
+54229,6315,"Spring Hill Rd and Tyco Rd",,38.930822,-77.234435,,,,,,1
+54230,6325,"Woodburn Rd and Wellness Blvd",,38.854672,-77.225272,,,,,,1
+54231,6306,"Lawyers Rd and Margaret Thomas La",,38.917254,-77.377116,,,,,,1
+54232,6317,"Centreville Rd and Lowe St",,38.901749,-77.425201,,,,,,1
+54233,6320,"Herndon Pkwy and Queens Row St N",,38.977111,-77.371142,,,,,,1
+54234,6331,"Richmond Hwy and Belvoir Rd",,38.711950,-77.143546,,,,,,1
+54235,6314,"Spring Hill Rd and Tyco Rd",,38.930417,-77.234837,,,,,,1
+54239,6312,"Telegraph Rd and Belvoir View Pl",,38.722214,-77.188541,,,,,,1
+54240,6316,"Centreville Rd and Lowe St",,38.902584,-77.424128,,,,,,1
+54243,6311,"Town Center Pkwy and Bluemont Way",,38.957072,-77.362699,,,,,,1
+54244,6313,"Telegraph Rd and Belvoir View Pl",,38.722019,-77.188419,,,,,,1
+54245,6337,"Soapstone Dr and Green Watch Way",,38.934529,-77.345978,,,,,,1
+54246,6336,"209 Elden St",,38.966900,-77.371755,,,,,,1
+57108,2269,"Hanover Ave and Greenville Pl",,38.791450,-77.195690,,,,,,1
+57109,2270,"Hanover Ave and Highland St",,38.793375,-77.195810,,,,,,1
+57110,2289,"Highland St and Gloucester Ave",,38.792460,-77.192750,,,,,,1
+57111,899,"Fort Hunt Rd and Collingwood Rd",,38.733210,-77.055640,,,,,,1
+57915,5879,"River Birch Rd and Legacy Cir",,38.948203,-77.419608,,,,,,1
+57916,5628,"Fairfax County Pkwy and Tuckaway Dr",,38.900279,-77.404877,,,,,,1
+57918,5880,"River Birch Rd and Legacy Cir",,38.948050,-77.419793,,,,,,1
+57919,6342,"Richmond Hwy and Groveton St",,38.768506,-77.082725,,,,,,1
+57920,6324,"Woodburn Rd and Wellness Blvd",,38.854503,-77.225079,,,,,,1
+57921,4739,"Telegraph Rd and Virginia Hills Ave",,38.782556,-77.102359,,,,,,1
+57922,4010,"Reston Town Ctr",,38.956966,-77.359275,,,,,,1
+57923,4011,"Reston Town Ctr Bay H",,38.957021,-77.359064,,,,,,1
+57924,5966,"Reston Town Ctr Bay F",,38.956920,-77.359490,,,,,,1
+57925,5969,"Reston Town Ctr Bay D",,38.956811,-77.359803,,,,,,1
+57926,5970,"Reston Town Ctr Bay C",,38.956875,-77.359546,,,,,,1
+57927,5971,"Reston Town Ctr Bay B",,38.956916,-77.359345,,,,,,1
+57928,5972,"Reston Town Ctr Bay A",,38.956972,-77.359115,,,,,,1
+57929,6338,"Franconia-Springfield Metro Bay J",,38.766975,-77.167846,,,,,,1
+57930,6340,"Franconia-Springfield Metro Bay K",,38.767027,-77.167743,,,,,,1
+57931,6341,"Franconia-Springfield Metro",,38.767081,-77.167578,,,,,,1
+57932,6343,"Vienna Metro",,38.876925,-77.272697,,,,,,1
+57933,980,"Richmond Hwy and Dawn Dr",,38.775767,-77.080268,,,,,,1
+57934,1559,"8520 Cinder Bed Rd",,38.726817,-77.188943,,,,,,1
+57936,1595,"Centreville Rd and Kinross Cir",,38.919782,-77.418670,,,,,,1
+57938,1889,"Franklin Farm Rd and Dower House Dr",,38.907536,-77.385515,,,,,,1
+57939,1933,"Fair Lakes Pkwy and Fair Lakes Ct",,38.860354,-77.377901,,,,,,1
+57940,2383,"Herndon Pkwy and Sterling Rd",,38.974884,-77.404868,,,,,,1
+57942,2388,"Herndon Pkwy and Spring St",,38.958640,-77.374450,,,,,,1
+57943,2812,"Monument Dr and Park Vista Blvd",,38.853992,-77.349915,,,,,,1
+57944,3143,"Richmond Hwy and Dawn Dr",,38.775198,-77.080885,,,,,,1
+57945,3187,"Richmond Hwy and Sherwood Hall La",,38.742763,-77.085404,,,,,,1
+57946,3627,"Temporary Rd and Reston Pkwy",,38.960299,-77.353827,,,,,,1
+57949,5401,"Tysons Corner Metro",,38.919874,-77.223065,,,,,,1
+57953,6154,"Fort Belvoir North Area",,38.755546,-77.195935,,,,,,1
+57954,6158,"New Guinea Rd and Colony View Dr",,38.799761,-77.300745,,,,,,1
+58306,6137,"Belvoir Rd and 6Th St",,38.703470,-77.141180,,,,,,1
+75722,2101,"Gallows Rd and Lee Hwy",,38.873691,-77.226829,,,,,,1
+76441,3886,"3700 Joseph Siewick Dr",,38.883897,-77.381925,,,,,,1
+76442,2487,"King Centre Dr and Sir Viceroy Dr",,38.769613,-77.132710,,,,,,1
+76443,6439,"Kingstowne Village Pkwy and Cross Gate La",,38.755745,-77.147175,,,,,,1
+76445,5888,"West Ox Rd and Thomson Rd",,38.890701,-77.378700,,,,,,1
+76446,5961,"Lorton Vre Bay C",,38.714734,-77.214581,,,,,,1
+76447,3865,"Fleet Dr and Gravel Ave",,38.772153,-77.153896,,,,,,1
+76448,6454,"Town Center Shopping Ctr",,39.013594,-77.372784,,,,,,1
+76449,2144,"Glade Dr and Breton Ct",,38.934731,-77.361324,,,,,,1
+76450,6422,"Backlick Rd and Forest View Dr",,38.761472,-77.184337,,,,,,1
+76452,6418,"Arlington Dr and Arlington Dr",,38.757987,-77.078262,,,,,,1
+76453,6392,"Ring Rd and Saffold Way",,38.971515,-77.326691,,,,,,1
+76454,6396,"Hunt Club Rd and Ring Rd",,38.970749,-77.323224,,,,,,1
+76456,685,"Broadmoor St and Telegraph Rd",,38.748580,-77.142240,,,,,,1
+76457,6431,"Southrun Rd and White Feather Ct",,38.728310,-77.242058,,,,,,1
+76458,4322,"Richmond Hwy and Woodlawn Ct",,38.721900,-77.122850,,,,,,1
+76459,6455,"Braddock Rd and Ox Rd",,38.826610,-77.314799,,,,,,1
+76461,6424,"Kingstowne Village Pkwy and King Centre Dr",,38.767353,-77.140446,,,,,,1
+76462,6404,"New Dominion Pkwy and Explorer St",,38.960652,-77.361000,,,,,,1
+76463,6395,"Lake Fairfax Dr and Hunt Club Rd",,38.974054,-77.319598,,,,,,1
+76464,5834,"Temporary Rd and North Shore Dr",,38.959987,-77.351442,,,,,,1
+76465,6409,"Cedar Ridge Apt",,38.965416,-77.328188,,,,,,1
+76466,6377,"5900 Trinity Pkwy",,38.840876,-77.441030,,,,,,1
+76467,4747,"Pole Rd and Highland Ln",,38.730240,-77.120280,,,,,,1
+76468,6382,"Vernon View Dr and Danewood Dr",,38.717752,-77.062710,,,,,,1
+76469,6353,"Fortnightly Blvd and Branch Dr",,38.972286,-77.387281,,,,,,1
+76470,4723,"Newington Frst Ave and Winding Way Ct",,38.738388,-77.243576,,,,,,1
+76471,6430,"Pohick Rd and Southrun Rd",,38.736633,-77.226219,,,,,,1
+76472,6485,"Wiehle Metro Bay J",,38.948443,-77.338757,,,,,,1
+76473,6421,"Backlick Rd and Forest View Dr",,38.761606,-77.183955,,,,,,1
+76474,6419,"Harrison La and Polins Ct",,38.765482,-77.094056,,,,,,1
+76475,5762,"15Th St S and Hayes St S",,38.860573,-77.059471,,,,,,1
+76476,6432,"Pohick Rd and Gambrill Ct",,38.743109,-77.233442,,,,,,1
+76478,4716,"Southrun Rd and Pohick Rd",,38.735397,-77.226163,,,,,,1
+76479,4715,"Southrun Rd and Grandview Ct",,38.731693,-77.227551,,,,,,1
+76480,6378,"Sunrise Valley Dr and Field Point Rd",,38.953740,-77.410989,,,,,,1
+76481,1331,"Beulah St and Burnett St",,38.776360,-77.148490,,,,,,1
+76482,1721,"Crown Royal Dr and Founders Hill Dr",,38.790962,-77.139339,,,,,,1
+76483,5833,"Lorton Market St and Lorton Station South",,38.701585,-77.221644,,,,,,1
+76484,6393,"Soapstone Dr and Lawyers Rd",,38.921462,-77.346575,,,,,,1
+76486,4307,"West Ox Rd and Thompson Rd",,38.890900,-77.379097,,,,,,1
+76487,4722,"Newington Forest Ave and Athena St",,38.740247,-77.240486,,,,,,1
+76488,6386,"Tamarind St and Janna Lee Ave",,38.740634,-77.096068,,,,,,1
+76489,6417,"North Kings Hwy and Poag St",,38.782596,-77.078477,,,,,,1
+76490,2331,"Hooes Rd and Scott St",,38.741690,-77.251140,,,,,,1
+76491,4740,"Telegraph Rd and Hillview Ave",,38.784220,-77.098000,,,,,,1
+76492,6415,"Cranston St and Gunstin Cove Rd",,38.693445,-77.219781,,,,,,1
+76493,6411,"Franconia Rd West and Pioneer Dr",,38.778390,-77.174779,,,,,,1
+76494,5013,"Braddock Rd and Carlbern Dr",,38.860880,-77.456260,,,,,,1
+76495,6237,"Maple Ave and Lewis St Northwest",,38.895759,-77.272244,,,,,,1
+76496,5991,"7100 Columbia Pike",,38.832794,-77.190429,,,,,,1
+76497,6442,"King Ctr Dr and Van Dorn St S",,38.771951,-77.131922,,,,,,1
+76498,2947,"Old Keene Mill Rd and Bardu Ave",,38.779240,-77.222226,,,,,,1
+76499,6365,"Tysons Blvd and Park Run Dr",,38.926466,-77.227253,,,,,,1
+76500,6168,"Grainger Ct and Boston Blvd",,38.739776,-77.201038,,,,,,1
+76502,6397,"Ring Rd and Westhills La",,38.972097,-77.324100,,,,,,1
+76504,6038,"Sacramento Dr and Woodlawn Manor Ct",,38.726776,-77.130477,,,,,,1
+76505,6350,"Elden St and Post Rd",,38.967643,-77.375426,,,,,,1
+76506,3853,"Beulah St and Walhaven Dr",,38.777965,-77.147243,,,,,,1
+76507,5909,"Walney Rd and Vernon St",,38.892516,-77.432116,,,,,,1
+76509,2480,"3700 Joseph Siewick Dr",,38.883940,-77.382099,,,,,,1
+76510,3137,"Richmond Hwy and Cherwek Dr",,38.699978,-77.211258,,,,,,1
+76511,4063,"Armistead Rd and Pohick River",,38.703503,-77.209567,,,,,,1
+76512,6484,"Wiehle Metro Bay H",,38.948388,-77.338572,,,,,,1
+76513,6358,"Nutley St and Maple Ave",,38.893994,-77.273756,,,,,,1
+76514,6354,"Sunrise Valley Dr and Dulles View Dr N",,38.952297,-77.426686,,,,,,1
+76515,5919,"Sully Park Dr and Flower Hill Dr",,38.850315,-77.456035,,,,,,1
+76516,4201,"Gothwaite Dr and Billingsgate La",,38.841594,-77.457687,,,,,,1
+76517,3450,"Summer Ridge Rd and Buxton Ct",,38.762320,-77.136670,,,,,,1
+76518,6444,"Van Dorn St S and Greendale Village Dr",,38.772610,-77.131652,,,,,,1
+76519,6434,"Pohick Rd and Gambrill Ct",,38.742998,-77.233704,,,,,,1
+76521,5825,"Backlick Rd and Rhoden Ct",,38.795990,-77.186169,,,,,,1
+76522,6371,"West Ox Rd and Fair Lakes Pkwy",,38.859684,-77.371350,,,,,,1
+76523,6480,"Wiehle Metro Bay D",,38.948471,-77.338272,,,,,,1
+76524,5917,"Old Centreville Rd and Sunset Ridge Rd",,38.831731,-77.431773,,,,,,1
+76525,5884,"Rugby Rd and Portloe Ter",,38.878700,-77.387604,,,,,,1
+76526,6015,"Post Dr and Elden St",,38.966802,-77.375597,,,,,,1
+76527,5848,"Franconia Rd and Fleet Dr",,38.779892,-77.155848,,,,,,1
+76531,5905,"Lee Rd and Lee Jackson Hwy",,38.898473,-77.446796,,,,,,1
+76532,4710,"Southrun Rd and Rocky Knob Ct",,38.728441,-77.244717,,,,,,1
+76533,6356,"Worldgate Dr and Alton Sq",,38.954795,-77.394820,,,,,,1
+76536,6398,"10742 Sunset Hills Rd",,38.947800,-77.318679,,,,,,1
+76538,5404,"Dolley Madison Blvd and Colshire Dr",,38.925107,-77.207634,,,,,,1
+76539,1726,"Crown Royal Dr and Highdale Cir",,38.791014,-77.139126,,,,,,1
+76540,5960,"Lorton Vre Bay B",,38.714773,-77.214484,,,,,,1
+76541,6483,"Wiehle Metro Bay G",,38.948309,-77.338365,,,,,,1
+76542,5803,"Walnut Branch Rd and Ffx County Pkwy",,38.975392,-77.360816,,,,,,1
+76543,5014,"Braddock Rd and Carlburn Dr",,38.860420,-77.455420,,,,,,1
+76544,2957,"Old Keene Mill Rd and Hastings St",,38.777449,-77.197300,,,,,,1
+76545,6453,"Spring Mall Dr and Loisdale Rd",,38.772170,-77.179299,,,,,,1
+76547,6352,"Station St and W+Od Tr",,38.970279,-77.386179,,,,,,1
+76548,6441,"Kingstowne Village Pkwy and Cross Gate La",,38.755485,-77.147070,,,,,,1
+76549,6375,"Fair Lakes Pkwy and Fair Lakes Ct",,38.860916,-77.378579,,,,,,1
+76550,3887,"Joseph Siewick Dr and Alder Woods Dr",,38.883104,-77.382047,,,,,,1
+76551,4735,"Telegraph Rd and Hillview Ave",,38.784358,-77.097955,,,,,,1
+76552,6416,"Parkers La and Sherwood Hall La",,38.741998,-77.075935,,,,,,1
+76553,6368,"West Ox Rd and Oxon Dr",,38.899278,-77.381065,,,,,,1
+76554,6443,"Beulah St and Nelson La",,38.779626,-77.146411,,,,,,1
+76555,6367,"Franklin Farm Rd and Ffx County Pkwy W",,38.907398,-77.406252,,,,,,1
+76557,4126,"Bushman Dr and Appalachian Cir",,38.871895,-77.296806,,,,,,1
+76558,6436,"Leaf Rd and Telegraph Rd",,38.746877,-77.144967,,,,,,1
+76559,5892,"Bowman Hill Dr and Fountain Dr",,38.962200,-77.357201,,,,,,1
+76560,6348,"Old Keene Mill Rd and Hastings St",,38.777168,-77.197241,,,,,,1
+76561,6438,"Hayfield Rd and Kingstowne Village Pkwy E",,38.756066,-77.145531,,,,,,1
+76562,6366,"West Ox Rd and Folkstone Dr",,38.909535,-77.380436,,,,,,1
+76563,4235,"New Braddock Rd and Singletons Way",,38.828030,-77.430370,,,,,,1
+76565,6349,"Sunset Hills Rd and Reston Pkwy W",,38.955016,-77.357546,,,,,,1
+76567,6479,"Wiehle Metro Bay C",,38.948550,-77.338472,,,,,,1
+76568,2028,"Flat Rock Rd and Flat Rock Ct",,38.774590,-77.152250,,,,,,1
+76569,6492,"Spring Mall Dr and Loisdale Rd",,38.772290,-77.178809,,,,,,1
+76570,6486,"Wiehle Metro Bay K",,38.948521,-77.339026,,,,,,1
+76571,4140,"Chain Bridge Rd and Five Oaks Rd",,38.887489,-77.283106,,,,,,1
+76572,6403,"Fountain Dr and Bowman Towne Dr N",,38.962554,-77.356318,,,,,,1
+76573,6489,"Tysons Corner Metro Bay F",,38.919905,-77.222906,,,,,,1
+76575,6376,"New Braddock Rd and Union Mill Rd",,38.830405,-77.413731,,,,,,1
+76576,6414,"Gunston Cove Rd and Cranford St",,38.693263,-77.219511,,,,,,1
+76577,6387,"Laughlin Ave and Lowell Ave",,38.932052,-77.178295,,,,,,1
+76578,6407,"North Shore Dr and Golf View Ct",,38.956328,-77.345105,,,,,,1
+76579,6427,"Edsall Rd and Clifton St",,38.806429,-77.171274,,,,,,1
+76580,3145,"Richmond Hwy and Dutchman Dr",,38.698000,-77.213277,,,,,,1
+76581,5670,"Spring Hill Rd and Turning Leaf La",,38.936290,-77.232468,,,,,,1
+76582,3466,"Summer Ridge Rd and Wescott Hills Way",,38.760430,-77.141860,,,,,,1
+76583,6364,"Tysons Blvd and Westbranch Dr",,38.925857,-77.223087,,,,,,1
+76584,6413,"Laurel Crest Dr and Paper Birch Dr",,38.713883,-77.226149,,,,,,1
+76585,6250,"Hunt Club Rd and Ring Rd",,38.970974,-77.323308,,,,,,1
+76586,6192,"South Kings Hwy and Telegraph Rd",,38.767637,-77.119780,,,,,,1
+76587,4738,"Telegraph Rd and Ronson Dr",,38.781250,-77.104590,,,,,,1
+76588,5890,"West Ox Rd and Autumn Crest Dr",,38.902699,-77.382401,,,,,,1
+76589,951,"Richmond Hwy and Kings Village Rd",,38.746000,-77.083180,,,,,,1
+76590,6435,"Telegraph Rd and Highland Meadows Ct",,38.763364,-77.128935,,,,,,1
+76591,6408,"Hunter Woods Plz and Colts Neck Rd",,38.935955,-77.361983,,,,,,1
+76592,6447,"Harrison La and Polins Ct",,38.765426,-77.094449,,,,,,1
+76593,2140,"Gunston Hill Dr and Groom Cottage Dr",,38.697720,-77.220199,,,,,,1
+76594,6323,"Vienna Metro North Bay A",,38.878760,-77.272325,,,,,,1
+76596,4713,"Southrun Rd and Catia La",,38.728317,-77.233754,,,,,,1
+76597,6355,"Dulles Tech Dr and River Birch Rd S",,38.953521,-77.416087,,,,,,1
+76598,6429,"Edsall Rd and Clifton St",,38.806468,-77.172318,,,,,,1
+76599,6069,"Doerr Rd and Ft Belvoir Hospital",,38.705640,-77.144909,,,,,,1
+76600,6412,"Pohick Rd and Alban Rd",,38.723726,-77.209189,,,,,,1
+76601,6370,"West Ox Rd and Oxon Dr",,38.899262,-77.381337,,,,,,1
+76602,6362,"Tysons Blvd and Galleria Dr",,38.922837,-77.221748,,,,,,1
+76603,1199,"Van Dorn Metro Bay E",,38.799549,-77.128365,,,,,,1
+76604,3446,"Summer Ridge Rd and Bentley Mill Pl",,38.763510,-77.137110,,,,,,1
+76606,6445,"S Kings Hwy and Queens Rd",,38.773551,-77.092932,,,,,,1
+76607,5886,"West Ox Rd and Nataniel Oaks Dr",,38.892601,-77.379898,,,,,,1
+76608,5904,"Old Centreville Rd and Sawteeth Way",,38.834375,-77.431231,,,,,,1
+76609,4724,"Newington Forest Ave and Willowdale Ct",,38.738602,-77.247338,,,,,,1
+76610,6481,"Wiehle Metro Bay E",,38.948411,-77.338073,,,,,,1
+76611,4721,"Newington Forest Ave and Falling Leaf Rd",,38.743199,-77.240074,,,,,,1
+76612,5024,"Paddington La and Gothwaite Dr",,38.837860,-77.459150,,,,,,1
+76613,5920,"West Ox Rd and Southfield Dr",,38.902100,-77.382004,,,,,,1
+76614,5846,"11550 Sunset Hills Rd",,38.952208,-77.344045,,,,,,1
+76617,4016,"Army Navy Dr and S Eads St",,38.865085,-77.055167,,,,,,1
+76618,4120,"Blake La and Sugar La",,38.876078,-77.287442,,,,,,1
+76619,1585,"Centreville Rd and Cedar Run La",,38.926080,-77.416209,,,,,,1
+76621,4001,"Elden St and Alabama Dr",,38.964040,-77.398059,,,,,,1
+76622,1819,"Elden St and Carlisle Dr",,38.966585,-77.368817,,,,,,1
+76628,6065,"Fullerton Rd and Boston Blvd",,38.741411,-77.199121,,,,,,1
+76629,2369,"Herndon Pkwy and Grove St",,38.961600,-77.372330,,,,,,1
+76630,2502,"Kingstowne Blvd and Kingstowne Village Pkwy",,38.769710,-77.139229,,,,,,1
+76632,2624,"Lake Fairfax Dr and Hunt Club Dr",,38.974163,-77.319291,,,,,,1
+76634,2632,"Lee Jackson Hwy and Majestic La",,38.879524,-77.393933,,,,,,1
+76637,4105,"Legato Rd and Ragan Oaks Ct",,38.862950,-77.363319,,,,,,1
+76639,4028,"Lorton Market St and Shoppers Market",,38.702594,-77.221295,,,,,,1
+76640,2931,"Nutley St and Tapawingo Rd",,38.886520,-77.269420,,,,,,1
+76641,6219,"Old Dominion Dr and Chain Bridge Rd",,38.934063,-77.177860,,,,,,1
+76644,3383,"S Lakes Dr and Reston Pkwy",,38.943313,-77.362053,,,,,,1
+76645,3311,"Sunset Hills Rd and Isaac Newton Sq (West)",,38.951028,-77.339673,,,,,,1
+76646,4303,"Westfields Blvd and Poplar Tree Rd",,38.867113,-77.448327,,,,,,1
+76647,6302,"Westpark Dr and Park Run Dr",,38.928990,-77.226689,,,,,,1
+76649,3799,"Wiehle Ave and Fairway Dr",,38.962910,-77.333909,,,,,,1
+76651,6162,"Wiehle Metro South",,38.946783,-77.339293,,,,,,1
+76652,1401,"7387 Boston Blvd",,38.739223,-77.199878,,,,,,1
+76653,2019,"Franconia Rd and Frontier Dr",,38.777723,-77.173061,,,,,,1
+76654,2114,"Gallows Rd and Strawberry La",,38.871353,-77.227438,,,,,,1
+76655,2100,"Gallows Rd and Lee Hwy",,38.873851,-77.227260,,,,,,1
+76656,4651,"Guinea Rd and Falmead Rd W",,38.799382,-77.293343,,,,,,1
+76657,6019,"Grove St and Post Dr",,38.965395,-77.375568,,,,,,1
+76658,6018,"Grove St and Post Dr",,38.965234,-77.375686,,,,,,1
+76659,6402,"Post Dr and Elden St",,38.966772,-77.375418,,,,,,1
+76660,5843,"Sunset Hills Rd and Ymca-Reston",,38.955362,-77.368497,,,,,,1
+76661,2395,"Herndon Pkwy and Tamarack Way",,38.967744,-77.371211,,,,,,1
+76662,2386,"Herndon Pkwy and Spring St",,38.959769,-77.373395,,,,,,1
+76663,2368,"Herndon Pkwy and Grove St",,38.963197,-77.371501,,,,,,1
+76664,4732,"Wiehle Ave and Roger Bacon Dr",,38.951966,-77.335041,,,,,,1
+76665,1630,"Colts Neck Rd and Hunters Woods Plz",,38.938171,-77.361970,,,,,,1
+76666,3341,"Sunset Hills Rd and Wiehle Ave",,38.950584,-77.337443,,,,,,1
+76667,3342,"Sunset Hills Rd and Wiehle Ave",,38.950240,-77.336857,,,,,,1
+76668,4100,"West Ox Rd and Bennett Rd",,38.895528,-77.380578,,,,,,1
+76670,6149,"21St St and Middleton Rd",,38.687770,-77.136977,,,,,,1
+76673,974,"Richmond Hwy and Lockheed Blvd",,38.758790,-77.083714,,,,,,1
+76674,953,"Richmond Hwy and Woodlawn Ter",,38.751113,-77.083054,,,,,,1
+76675,1009,"Richmond Hwy and Lockheed Blvd",,38.758494,-77.083956,,,,,,1
+76676,6114,"Pohick Rd and Whernside St",,38.711303,-77.197952,,,,,,1
+76677,3848,"Beulah St and Grovedale Dr",,38.777663,-77.147855,,,,,,1
+76678,2737,"Manchester Blvd and Silverlake Blvd",,38.764751,-77.154322,,,,,,1
+76679,6148,"Goethals Rd and Constitution Rd",,38.714053,-77.146994,,,,,,1
+76680,6303,"Westpark Dr and Westbranch Dr",,38.927798,-77.222525,,,,,,1
+76681,6305,"7948 Westpark Dr",,38.926250,-77.220278,,,,,,1
+76682,3691,"Tyco Rd and Spring Hill Rd",,38.931319,-77.236499,,,,,,1
+76683,6238,"Maple Ave and Beulah Rd NE",,38.907441,-77.257726,,,,,,1
+76684,6235,"Maple Ave and Pleasant St Southwest",,38.898006,-77.269575,,,,,,1
+76686,5766,"Pentagon City Metro",,38.863181,-77.059143,,,,,,1
+76687,4217,"Lee Jackson Hwy and Galesbury La",,38.889074,-77.418659,,,,,,1
+76688,4211,"Lee Jackson Hwy and Chantilly Rd",,38.890852,-77.422265,,,,,,1
+76689,4215,"Lee Jackson Hwy and Elmwood St",,38.892168,-77.426568,,,,,,1
+76690,6357,"Chain Bridge Rd and Redmond Dr",,38.932972,-77.178740,,,,,,1
+76691,5461,"Chain Bridge Rd and Laughlin Ave",,38.931790,-77.180359,,,,,,1
+76693,6206,"Farm Credit Administration",,38.932098,-77.202343,,,,,,1
+76694,5664,"Lewinsville Rd and Old Falls Rd",,38.940892,-77.215781,,,,,,1
+76695,3334,"Sunset Hills Rd and Town Center Pkwy",,38.953883,-77.359346,,,,,,1
+76698,6319,"23Rd St and Crystal Dr",,38.853496,-77.050205,,,,,,1
+76699,3851,"Beulah St and Metro Park Dr",,38.767796,-77.155183,,,,,,1
+76700,2072,"Gallows Rd and Aston St",,38.851395,-77.214323,,,,,,1
+76701,3870,"Gallows Rd and Madrillon Rd",,38.910976,-77.225528,,,,,,1
+76702,5840,"Groom Cottage Dr and Samuel Wallis St",,38.698926,-77.220516,,,,,,1
+76703,1859,"Ffx County Pkwy and Whitlers Creek Dr",,38.757971,-77.225146,,,,,,1
+76809,6153,"Patriot Ridge",,38.746813,-77.188177,,,,,,1
+76811,4027,"Lorton Market St and Shoppers Market",,38.703472,-77.221030,,,,,,1
+76812,4323,"Richmond Hwy and Hagel Cir",,38.696282,-77.215398,,,,,,1
+76813,2464,"Jones Branch Dr and 495 Express Lane",,38.927838,-77.216383,,,,,,1
+76816,1602,"Sunrise Valley Dr and Dulles Tech Dr",,38.953012,-77.410455,,,,,,1
+76997,5377,"Gosnell Rd and Raglan Rd",,38.920472,-77.238709,,,,,,1
+76999,3106,"2711 Prosperity Ave",,38.879198,-77.236074,,,,,,1
+77004,6248,"Tapawingo Rd and Cottage St",,38.891196,-77.259736,,,,,,1
+77006,6494,"Wiehle Ave and Inlet Ct",,38.965970,-77.332511,,,,,,1
+77010,6497,"Wiehle Metro South",,38.946618,-77.339250,,,,,,1
+77011,6495,"Air + Space Museum Pkwy and Wall Rd",,38.916422,-77.422858,,,,,,1
+77015,3939,"Herndon-Monroe P+R",,38.951666,-77.384320,,,,,,1
+77017,6505,"N Shore Dr and Jonathan Wy",,38.961791,-77.351126,,,,,,1
+77018,4321,"Herndon-Monroe P+R",,38.951652,-77.382791,,,,,,1
+77019,6498,"Wiehle Metro South",,38.946516,-77.339053,,,,,,1
+77020,6437,"Telegraph Rd and Hayfield Rd",,38.753682,-77.138567,,,,,,1
+77021,3788,"Whernside St and Charlesborough Ct",,38.712320,-77.193750,,,,,,1
+77023,5376,"Old Courthouse Rd and Old Courthouse Rd",,38.918195,-77.238494,,,,,,1
+77024,3936,"Herndon-Monroe P+R",,38.951657,-77.383537,,,,,,1
+77028,6470,"Franconia Rd and Westchester St",,38.785911,-77.123062,,,,,,1
+77029,6309,"Chain Bridge Rd and Horse Shoe D",,38.915459,-77.239746,,,,,,1
+77037,1358,"Beulah St and Clemaline Blvd",,38.742899,-77.165279,,,,,,1
+77038,5578,"Cedar La and Bowling Green Dr",,38.886600,-77.243300,,,,,,1
+77039,6503,"Cedar La and Cottage St",,38.882600,-77.245200,,,,,,1
+77042,5580,"Cedar La and Cottage St",,38.882414,-77.245548,,,,,,1
+77043,5581,"Cedar La and Desale St",,38.884681,-77.244010,,,,,,1
+77045,5579,"Cedar La and Desale St",,38.884953,-77.244120,,,,,,1
+77046,5582,"Cedar La and Bowling Green Dr",,38.886800,-77.242800,,,,,,1
+77047,6499,"Hilltop Rd and Morada Ct",,38.877800,-77.244500,,,,,,1
+77048,6500,"Hilltop Rd and Morada Ct",,38.878000,-77.244600,,,,,,1
+77050,6501,"Hilltop Rd and Willowmere Dr",,38.876700,-77.241500,,,,,,1
+77052,3105,"2741 Prosperity Ave",,38.877100,-77.236400,,,,,,1
+77054,3104,"2730 Prosperity Ave",,38.876897,-77.236617,,,,,,1
+77056,3103,"2710 Prosperity Ave",,38.879303,-77.236316,,,,,,1
+77058,5375,"Old Courthouse Rd and Chain Bridge Rd",,38.916900,-77.237800,,,,,,1
+77060,6504,"Gosnell Rd and Tyspring St",,38.921900,-77.238336,,,,,,1
+77061,5368,"Gosnell Rd and Leesburg Pike",,38.923559,-77.237419,,,,,,1
+77062,5372,"Gosnell Rd and Wall St",,38.919794,-77.238973,,,,,,1
+77063,5373,"Old Courthouse Rd and Old Courthouse Rd",,38.917937,-77.238783,,,,,,1
+77064,5374,"Old Courthouse Rd and Chain Bridge Rd",,38.916591,-77.237866,,,,,,1
+77068,3791,"Whernside St and Wilma La",,38.712023,-77.195913,,,,,,1
+77069,2295,"Hilltop Rd and Old Lee Hwy",,38.875659,-77.238054,,,,,,1
+77070,6506,"Hilltop Rd and Old Lee Hwy",,38.875804,-77.237864,,,,,,1
+77071,5378,"Gosnell Rd and Leesburg Pike",,38.923461,-77.237131,,,,,,1
+77072,6502,"Hilltop Rd and Andiron La",,38.877090,-77.242005,,,,,,1
+77073,6508,"Backlick Rd and John Marr Dr",,38.829410,-77.194518,,,,,,1
+77078,559,"Richmond Hwy and Pohick Rd",,38.708359,-77.160334,,,,,,1
+77080,2013,"Fair Ridge Dr and Apple Orchard Ct",,38.868537,-77.370625,,,,,,1
+77081,3713,"S Van Dorn St and Crown Royal Dr",,38.788472,-77.136752,,,,,,1
+77170,6510,"Virginia Ave and 21St St",,38.894998,-77.046242,,,,,,1
+77171,6511,"Virginia Ave and 19Th St",,38.893077,-77.042791,,,,,,1
+77172,6512,"18Th St and E St",,38.895245,-77.041591,,,,,,1
+77173,6513,"19Th St and F St",,38.897491,-77.043552,,,,,,1
+77268,4979,"Monument Dr and West Ox Rd",,38.863303,-77.367539,,,,,,1
+77270,3855,"Birchleigh Way and Springleigh Way",,38.756917,-77.170728,,,,,,1
+77272,1719,"Crestleigh Way and Birchleigh Way",,38.756563,-77.168799,,,,,,1
+77376,6516,"Spring Hill Metro Station",,38.929246,-77.241406,,,,,,1
+77377,6522,"Dunn Loring Metro",,38.882254,-77.228961,,,,,,1
+77378,6533,"West Ox Rd and West Ox Rd",,38.909641,-77.380916,,,,,,1
+77379,6345,"Dunn Loring Metro",,38.882332,-77.228723,,,,,,1
+77380,6521,"Mclean Metro Station",,38.924545,-77.207909,,,,,,1
+77381,5889,"West Ox Rd and Bennett Rd",,38.895524,-77.380257,,,,,,1
+77382,3669,"Tysons Westpark",,38.932772,-77.231888,,,,,,1
+77383,6529,"Silverbrook Rd and White Spruce Way",,38.715074,-77.233145,,,,,,1
+77384,6518,"Spring Hill Metro Station",,38.929341,-77.241497,,,,,,1
+77385,6527,"Pole Rd and Leaf Rd",,38.729618,-77.123131,,,,,,1
+77386,6528,"Silverbrook Rd and White Spruce Way",,38.715113,-77.233009,,,,,,1
+77387,6525,"Westpark Dr and International Dr",,38.926117,-77.231846,,,,,,1
+77389,6515,"Spring Hill Metro Station",,38.929143,-77.241308,,,,,,1
+77390,6519,"Spring Hill Metro Station",,38.929436,-77.241596,,,,,,1
+77391,6524,"Westpark Dr and International Dr",,38.926409,-77.231928,,,,,,1
+77392,5950,"Stringfellow Rd Park and Ride",,38.853205,-77.404089,,,,,,1
+77393,6523,"Herndon-Monroe Park and Ride",,38.951849,-77.383079,,,,,,1
+77394,3665,"Tysons Westpark",,38.932652,-77.231640,,,,,,1
+77395,6526,"Herndon Pkwy and Spruce Ct",,38.960688,-77.396335,,,,,,1
+77396,6347,"Dunn Loring Metro",,38.882395,-77.228553,,,,,,1
+77462,6187,"Saratoga Park and Ride",,38.746009,-77.209373,,,,,,1
+77463,6186,"Saratoga Park-and-ride",,38.745881,-77.209593,,,,,,1
+77464,6459,"Sacremento Dr and Richmond Hwy",,38.720823,-77.125861,,,,,,1
+77466,6332,"Richmond Hwy and Belvoir Rd",,38.711606,-77.143169,,,,,,1
+77467,1004,"Richmond Hwy and Backlick Rd",,38.708875,-77.160438,,,,,,1
+77468,1190,"Defense Logistics Agency",,38.721032,-77.162215,,,,,,1
+77470,4310,"Singletons Way and George Baylor Dr",,38.828940,-77.430990,,,,,,1
+77471,6257,"Mark Center Transit Center",,38.831909,-77.116752,,,,,,1
+77473,6074,"Gunston Rd and Goethals Rd",,38.712051,-77.151933,,,,,,1
+77474,3653,"Thomas Jefferson Dr and Golden Harvest Dr",,38.947478,-77.406450,,,,,,1
+77475,5011,"Sully Station Dr and Harvest Ct",,38.867893,-77.458298,,,,,,1
+77476,2587,"Laurel Crest Dr and Bitterroot Ct",,38.716398,-77.226846,,,,,,1
+77477,6072,"John J Kingman Rd and Beulah St",,38.722477,-77.159124,,,,,,1
+77484,3956,"Reston South Park And Ride",,38.926065,-77.372192,,,,,,1
+77487,2814,"Monroe St and Eastpark Dr",,38.949143,-77.391092,,,,,,1
+77488,6534,"International Dr and Lincoln Cir",,38.929937,-77.232125,,,,,,1
+77489,3040,"13869 Park Center Rd",,38.932780,-77.426020,,,,,,1
+77490,6449,"Reston Hospital Center",,38.961565,-77.362908,,,,,,1
+77491,6535,"McLearen Rd and Education Dr",,38.927216,-77.422149,,,,,,1
+77492,6532,"19th St and H St",,38.899134,-77.043562,,,,,,1
+77493,3662,"Towerview Rd and McLearen Rd",,38.930490,-77.425440,,,,,,1
+77494,3039,"13873 Park Center Rd",,38.934300,-77.427570,,,,,,1
+77495,1895,"8717 Fort Hunt Rd",,38.721140,-77.060910,,,,,,1
+77496,3037,"14077 Park Center Rd",,38.939800,-77.427850,,,,,,1
+77497,2753,"Mclearen Rd and Towerview Rd",,38.929420,-77.425890,,,,,,1
+77498,3038,"13983 Park Center Rd",,38.936590,-77.427710,,,,,,1
+77499,2754,"Mclearen Rd and Towerview Rd",,38.929790,-77.425920,,,,,,1
+77500,6531,"18th St and G St",,38.898128,-77.041589,,,,,,1
+77501,6548,"Metro Pentagon Bay L6",,38.868342,-77.054104,,,,,,1
+77502,1127,"Franconia Rd and Fleet Dr",,38.780243,-77.155927,,,,,,1
+77503,6568,"Silverbrook Rd and Power House Rd",,38.713058,-77.231582,,,,,,1
+77504,6567,"Silverbrook Rd and Power House Rd",,38.713495,-77.231604,,,,,,1
+77505,2441,"International Dr and Greensboro Dr",,38.923973,-77.226538,,,,,,1
+77506,6578,"7000 Newington Road",,38.738728,-77.185111,,,,,,1
+77507,6574,"Amherst Ave and Calamo St",,38.775441,-77.184529,,,,,,1
+77509,6573,"Amherst Ave and Springfield Boulevard",,38.777736,-77.185507,,,,,,1
+77510,6566,"Westfields Blvd and Park Meadow Dr",,38.876558,-77.440446,,,,,,1
+77512,3818,"Wiehle Ave and North Shore Dr",,38.957406,-77.334796,,,,,,1
+77515,6380,"Air + Space Museum Pkwy and Wall Rd",,38.915473,-77.423678,,,,,,1
+77519,6582,"Jeff Todd Way and Mill Towns Ct",,38.720287,-77.134580,,,,,,1
+77520,6556,"Park St and Adahi Rd",,38.893318,-77.249593,,,,,,1
+77521,6562,"Chain Bridge Rd and Boone Blvd",,38.916810,-77.235966,,,,,,1
+77522,6555,"Park St and Mchenry St",,38.891647,-77.248377,,,,,,1
+77523,6611,"Park St and Patrick St",,38.888827,-77.243638,,,,,,1
+77524,6561,"Center St - opposite of Vienna Town Hall",,38.900911,-77.264314,,,,,,1
+77525,6551,"Park St and Adahi Rd",,38.893309,-77.249709,,,,,,1
+77526,6558,"Park St and Moore Ave",,38.897450,-77.254886,,,,,,1
+77527,6552,"Park St and McHenry St",,38.891683,-77.248563,,,,,,1
+77528,6554,"Lee Highway and Merrilee Dr",,38.874153,-77.231529,,,,,,1
+77529,6559,"Park St and Battle Ct",,38.899650,-77.257766,,,,,,1
+77530,6610,"Lee Highway and Juniper St",,38.874378,-77.228131,,,,,,1
+77531,6560,"Mill St and Vienna Community Ctr.",,38.900226,-77.260185,,,,,,1
+77532,6553,"Lee Highway and Eskridge Rd",,38.873912,-77.231425,,,,,,1
+77533,6557,"Park St and Elmar Dr",,38.896412,-77.253516,,,,,,1
+77534,6612,"Gallows Rd and Lee Hwy",,38.875240,-77.226697,,,,,,1
+77535,6583,"Telegraph Rd and Jeff Todd Way Wb",,38.744321,-77.150096,,,,,,1
+77536,6584,"Telegraph Rd and Hilltop Village Center",,38.741523,-77.161420,,,,,,1
+77537,6550,"Mill St at Vienna Community Ctr",,38.900065,-77.260057,,,,,,1
+77539,6581,"Jeff Todd Way and Mill Towns Ct",,38.720180,-77.134720,,,,,,1
+77540,6549,"Center St and Vienna Town Hall",,38.900831,-77.264303,,,,,,1
+77543,6586,"Bren Mar Dr and Indian Run Pkwy",,38.799457,-77.149318,,,,,,1
+77544,6588,"Bren Mar Dr and Edsall Rd",,38.802168,-77.148910,,,,,,1
+77545,6585,"Bren Mar Dr and Edsall Rd",,38.802230,-77.148759,,,,,,1
+77546,6613,"Beulah Rd Ne and Nelson Dr Ne",,38.910983,-77.263818,,,,,,1
+77550,6587,"Bren Mar Dr and Indian Run Pkwy",,38.799333,-77.149772,,,,,,1
+77555,6580,"Jeff Todd Way and Telegraph Rd",,38.743961,-77.149833,,,,,,1
+77556,2530,"Kingstowne Village Pkwy and Summer Ridge Rd",,38.760183,-77.143483,,,,,,1
+77557,6290,"Park St and Battle Ct",,38.899633,-77.257894,,,,,,1
+77558,6291,"Park St and Moore Ave",,38.897441,-77.255049,,,,,,1
+77559,1858,"Electric Ave and Central Ave",,38.899786,-77.231270,,,,,,1
+77560,4141,"Chain Bridge Rd and Hill Rd",,38.882797,-77.293438,,,,,,1
+77561,6619,"Creek Crossing Rd and Avis Ct",,38.917815,-77.257464,,,,,,1
+77563,6620,"S Kings Hwy and Southgate Dr",,38.775151,-77.088700,,,,,,2
+77564,6622,"Jeff Todd Way and Pole R",,38.723101,-77.136099,,,,,,2
+77565,6014,"Machen Rd and Rosy Ln",,38.835225,-77.439751,,,,,,1
+77567,6621,"Jeff Todd Way and Pole Rd",,38.723330,-77.136613,,,,,,2

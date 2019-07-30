@@ -1,0 +1,30 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+2753,OMNI,CCC,Cross County Connector,,3,,9370DB,000000
+2754,OMNI,D-100,Dale City Washington DC Express,,3,,0078FF,000000
+2755,OMNI,D-200,Dale City Pentagon Rosslyn Express,,3,,0078FF,000000
+2756,OMNI,D-300,Dale City Navy Yard Express,,3,,0078FF,000000
+2757,OMNI,D-400,Dale City Mark Center Express,,3,,0078FF,000000
+2758,OMNI,DaleLoc,Dale City Local,,3,,0078FF,000000
+2759,OMNI,DumfLoc,Dumfries Local,,3,,008000,000000
+2760,OMNI,G-100,Gainesville Washington DC Express,,3,,CC6300,000000
+2761,OMNI,G-200,Gainesville Pentagon Express,,3,,CC6300,000000
+2762,OMNI,H-100,Haymarket to Rosslyn/Ballston,,3,,CC6300,000000
+2763,OMNI,L-100,Lake Ridge Washington Express,,3,,FF00FF,000000
+2764,OMNI,L-200,Lake Ridge Crystal City Express,,3,,FF00FF,000000
+2765,OMNI,L-300,Lake Ridge Mark Center Express,,3,,FF00FF,000000
+2766,OMNI,LH,Linton Hall Metro Express,,3,,C66300,000000
+2767,OMNI,M-100,Manassas Washington DC Express,,3,,FF0000,000000
+2768,OMNI,M-200,Manassas Pentagon Express,,3,,FF0000,000000
+2769,OMNI,MC-100,Montclair Washington DC Express,,3,,008000,000000
+2770,OMNI,MC-200,Montclair Pentagon Express,,3,,008000,000000
+2771,OMNI,MME,Manassas Metro Express,,3,,FF0000,000000
+2772,OMNI,MNNLoc,Manassas North Local,,3,,FF0000,000000
+2773,OMNI,MNPKLoc,Manassas Park Local,,3,,FFFF80,000000
+2774,OMNI,MNSLoc,Manassas South Local,,3,,FF0000,000000
+2793,OMNI,PWME,Prince William Metro Express,,3,,008080,000000
+2834,OMNI,RIPVRE,Rippon VRE Shuttle,,3,,0078FF,000000
+2777,OMNI,RS,South Route 1 Express,,3,,008000,000000
+2778,OMNI,Rt1Loc,Route 1 Local,,3,,008000,000000
+2780,OMNI,T,Tysons Corner Express,,3,,52A3A3,000000
+2792,OMNI,WoodLoc,Woodbridge Lake Ridge Local,,3,,FF00FF,000000
+2835,OMNI,WOODVRE,Woodbridge VRE Shuttle,,3,,FF00FF,000000

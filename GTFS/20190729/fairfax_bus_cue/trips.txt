@@ -1,0 +1,593 @@
+route_id,service_id,trip_id,trip_headsign,block_id,shape_id
+gold2,all-sat,414,To Metrorail Station,83,sta2
+gold1,all-mtwh,517,To Metrorail Station,73,sta4
+green1,all-f,171,To George Mason University,54,gm1
+gold2,all-f,284,To Metrorail Station,83,sta2
+green1,all-sun,280,To Metrorail Station,53,sta1
+gold2,all-f,294,To Metrorail Station,83,sta2
+green2,all-mtwh,80,To Metrorail Station,64,sta0
+green1,all-sun,269,To George Mason University,53,gm1
+gold1,all-sun,582,To Metrorail Station,73,sta4
+gold2,all-sat,410,To Metrorail Station,83,sta2
+gold1,all-mtwh,502,To George Mason University,73,gm4
+green2,all-mtwh,77,To Metrorail Station,63,sta0
+gold1,all-mtwh,526,To George Mason University,73,gm4
+green1,all-f,181,To George Mason University,54,gm1
+gold2,all-mtwh,352,To Metrorail Station,83,sta2
+gold2,all-mtwh,368,To Metrorail Station,83,sta2
+green2,all-f,31,To George Mason University,64,gm0
+gold1,all-sun,589,To George Mason University,73,gm4
+green1,all-mtwh,235,To George Mason University,54,gm1
+green1,all-mtwh,243,To George Mason University,54,gm1
+gold2,all-mtwh,355,To George Mason University,83,gm3
+green2,all-f,13,To Metrorail Station,63,sta0
+green1,all-f,140,To George Mason University,53,gm1
+green1,all-sun,268,To Metrorail Station,53,sta1
+gold2,all-f,326,To Metrorail Station,84,sta2
+green1,all-f,170,To Metrorail Station,54,sta1
+green2,all-sun,128,To Metrorail Station,63,sta0
+gold2,all-f,283,To George Mason University,83,gm3
+gold2,all-f,293,To George Mason University,83,gm3
+gold2,all-mtwh,382,To Metrorail Station,84,sta2
+green2,all-mtwh,59,To Metrorail Station,63,sta0
+green2,all-sat,113,To George Mason University,63,gm0
+green1,all-f,180,To Metrorail Station,54,sta1
+green2,all-sun,126,To Metrorail Station,63,sta0
+gold1,all-mtwh,550,To Metrorail Station,74,sta4
+gold1,all-sat,567,To George Mason University,73,gm4
+green2,all-sun,132,To Metrorail Station,63,sta0
+green1,all-f,141,To Metrorail Station,53,sta1
+gold2,all-sat,400,To Metrorail Station,83,sta2
+gold2,all-f,327,To George Mason University,84,gm3
+green2,all-f,32,To Metrorail Station,64,sta0
+green1,all-sat,261,To George Mason University,53,gm1
+green2,all-f,14,To George Mason University,63,gm0
+gold2,all-f,282,To Metrorail Station,83,sta2
+gold2,all-f,296,To Metrorail Station,83,sta2
+gold2,all-sun,436,To Metrorail Station,83,sta2
+green2,all-mtwh,55,To Metrorail Station,63,sta0
+gold1,all-sun,579,To George Mason University,73,gm4
+gold2,all-mtwh,366,To Metrorail Station,83,sta2
+green1,all-f,183,To George Mason University,54,gm1
+green1,all-mtwh,221,To Metrorail Station,53,sta1
+green1,all-f,142,To George Mason University,53,gm1
+green1,all-mtwh,217,To Metrorail Station,53,sta1
+gold1,all-mtwh,545,To George Mason University,74,gm4
+gold2,all-sat,406,To Metrorail Station,83,sta2
+green1,all-mtwh,212,To George Mason University,53,gm1
+green2,all-sun,136,To Metrorail Station,63,sta0
+gold2,all-f,338,To Metrorail Station,84,sta2
+green2,all-mtwh,57,To Metrorail Station,63,sta0
+green2,all-mtwh,63,To Metrorail Station,63,sta0
+green2,all-f,15,To Metrorail Station,63,sta0
+green1,all-sat,246,To Metrorail Station,53,sta1
+gold2,all-f,328,To Metrorail Station,84,sta2
+green1,all-mtwh,218,To George Mason University,53,gm1
+green1,all-mtwh,204,To George Mason University,53,gm1
+green2,all-sun,130,To Metrorail Station,63,sta0
+green2,all-mtwh,76,To George Mason University,63,gm0
+gold2,all-f,281,To George Mason University,83,gm2
+gold2,all-mtwh,348,To Metrorail Station,83,sta2
+green2,all-f,40,To Metrorail Station,64,sta0
+green2,all-mtwh,70,To George Mason University,63,gm0
+green2,all-sun,133,To George Mason University,63,gm0
+green1,all-sat,265,To George Mason University,53,gm1
+green2,all-sat,104,To Metrorail Station,63,sta0
+green1,all-f,182,To Metrorail Station,54,sta1
+gold2,all-f,295,To George Mason University,83,gm3
+green2,all-f,50,To Metrorail Station,64,sta0
+gold2,all-mtwh,396,To Metrorail Station,84,sta2
+green1,all-f,143,To Metrorail Station,53,sta1
+green2,all-sat,103,To George Mason University,63,gm0
+gold2,all-sat,417,To George Mason University,83,gm3
+green2,all-f,30,To Metrorail Station,64,sta0
+green2,all-f,20,To George Mason University,63,gm0
+green2,all-f,16,To George Mason University,63,gm0
+green1,all-mtwh,201,To Metrorail Station,53,sta1
+gold2,all-f,329,To George Mason University,84,gm3
+gold2,all-sat,399,To George Mason University,83,gm3
+gold1,all-sun,587,To George Mason University,73,gm4
+gold2,all-f,288,To Metrorail Station,83,sta2
+green2,all-mtwh,86,To Metrorail Station,64,sta0
+gold2,all-f,336,To Metrorail Station,84,sta2
+gold2,all-f,322,To Metrorail Station,84,sta2
+gold1,all-mtwh,506,To George Mason University,73,gm4
+gold2,all-f,298,To Metrorail Station,83,sta2
+gold1,all-sat,559,To George Mason University,73,gm4
+green2,all-f,41,To George Mason University,64,gm0
+gold1,all-sun,580,To Metrorail Station,73,sta4
+green1,all-mtwh,227,To George Mason University,54,gm1
+gold2,all-mtwh,346,To Metrorail Station,83,sta2
+green1,all-mtwh,194,To George Mason University,53,gm1
+green2,all-sun,125,To George Mason University,63,gm0
+green1,all-mtwh,205,To Metrorail Station,53,sta1
+gold2,all-f,287,To George Mason University,83,gm3
+gold1,all-sat,566,To Metrorail Station,73,sta4
+gold1,all-sat,574,To Metrorail Station,73,sta4
+green1,all-mtwh,202,To George Mason University,53,gm1
+gold2,all-f,323,To George Mason University,84,gm3
+green2,all-f,42,To Metrorail Station,64,sta0
+gold2,all-f,297,To George Mason University,83,gm3
+green1,all-mtwh,198,To George Mason University,53,gm1
+green2,all-f,10,To George Mason University,63,gm0
+gold2,all-mtwh,389,To George Mason University,84,gm3
+gold2,all-f,337,To George Mason University,84,gm3
+gold2,all-mtwh,391,To George Mason University,84,gm3
+gold2,all-f,334,To Metrorail Station,84,sta2
+gold1,all-sat,558,To Metrorail Station,73,sta4
+green2,all-f,43,To George Mason University,64,gm0
+green2,all-sat,106,To Metrorail Station,63,sta0
+gold2,all-f,286,To Metrorail Station,83,sta2
+gold2,all-f,324,To Metrorail Station,84,sta2
+gold2,all-mtwh,371,To George Mason University,84,gm2
+green2,all-f,11,To Metrorail Station,63,sta0
+green1,all-mtwh,196,To George Mason University,53,gm1
+gold2,all-sat,397,To George Mason University,83,gm3
+green1,all-mtwh,195,To Metrorail Station,53,sta1
+gold1,all-sun,588,To Metrorail Station,73,sta4
+gold2,all-sat,402,To Metrorail Station,83,sta2
+gold2,all-f,335,To George Mason University,84,gm3
+gold2,all-sun,432,To Metrorail Station,83,sta2
+gold2,all-f,285,To George Mason University,83,gm3
+gold2,all-mtwh,351,To George Mason University,83,gm3
+green2,all-sun,134,To Metrorail Station,63,sta0
+green2,all-sat,102,To Metrorail Station,63,sta0
+green2,all-sat,109,To George Mason University,63,gm0
+green2,all-f,44,To Metrorail Station,64,sta0
+gold1,all-mtwh,541,To George Mason University,74,gm4
+gold2,all-f,299,To George Mason University,83,gm3
+green1,all-mtwh,211,To Metrorail Station,53,sta1
+gold1,all-sun,590,To Metrorail Station,73,sta4
+gold2,all-f,325,To George Mason University,84,gm3
+green1,all-sat,264,To Metrorail Station,53,sta1
+green1,all-sun,279,To George Mason University,53,gm1
+green2,all-f,12,To George Mason University,63,gm0
+gold1,all-mtwh,501,To Metrorail Station,73,sta4
+green1,all-mtwh,241,To George Mason University,54,gm1
+gold1,all-f,491,To George Mason University,74,gm4
+green1,all-f,161,To Metrorail Station,53,sta1
+gold1,all-mtwh,528,To Metrorail Station,74,sta3
+gold2,all-mtwh,357,To George Mason University,83,gm3
+gold1,all-mtwh,539,To George Mason University,74,gm4
+green1,all-f,151,To Metrorail Station,53,sta1
+gold1,all-f,481,To George Mason University,74,gm4
+green1,all-f,189,To George Mason University,54,gm1
+gold2,all-mtwh,393,To George Mason University,84,gm3
+gold1,all-sat,569,To George Mason University,73,gm4
+gold2,all-f,313,To George Mason University,84,gm2
+gold1,all-sat,557,To George Mason University,73,gm4
+gold2,all-f,332,To Metrorail Station,84,sta2
+gold2,all-mtwh,362,To Metrorail Station,83,sta2
+green1,all-f,179,To George Mason University,54,gm1
+gold1,all-f,492,To Metrorail Station,74,sta4
+green1,all-sat,247,To George Mason University,53,gm1
+green1,all-f,160,To George Mason University,53,gm1
+gold2,all-sun,424,To Metrorail Station,83,sta2
+green1,all-sat,253,To George Mason University,53,gm1
+green1,all-mtwh,224,To Metrorail Station,54,sta1
+green1,all-f,150,To George Mason University,53,gm1
+green1,all-sun,270,To Metrorail Station,53,sta1
+gold1,all-f,482,To Metrorail Station,74,sta4
+green1,all-f,188,To Metrorail Station,54,sta1
+gold1,all-sat,561,To George Mason University,73,gm4
+gold2,all-f,312,To Metrorail Station,83,sta2
+green1,all-mtwh,192,To George Mason University,53,gm1
+green1,all-sun,271,To George Mason University,53,gm1
+green1,all-f,178,To Metrorail Station,54,sta1
+gold2,all-f,333,To George Mason University,84,gm3
+green1,all-f,163,To Metrorail Station,53,sta1
+green2,all-mtwh,52,To George Mason University,63,gm0
+gold1,all-f,493,To George Mason University,74,gm4
+green1,all-sat,263,To George Mason University,53,gm1
+gold2,all-sat,418,To Metrorail Station,83,sta2
+green2,all-sat,101,To George Mason University,63,gm0
+gold1,all-mtwh,520,To George Mason University,73,gm4
+gold1,all-sat,571,To George Mason University,73,gm4
+gold2,all-f,311,To George Mason University,83,gm3
+green1,all-mtwh,238,To Metrorail Station,54,sta1
+gold2,all-f,320,To Metrorail Station,84,sta2
+gold1,all-mtwh,523,To Metrorail Station,73,sta4
+gold1,all-mtwh,536,To Metrorail Station,74,sta4
+gold2,all-mtwh,367,To George Mason University,83,gm3
+gold2,all-mtwh,394,To Metrorail Station,84,sta2
+green1,all-f,177,To George Mason University,54,gm1
+green2,all-mtwh,56,To George Mason University,63,gm0
+gold2,all-f,301,To George Mason University,83,gm3
+gold2,all-f,330,To Metrorail Station,84,sta2
+green1,all-sun,275,To George Mason University,53,gm1
+green1,all-mtwh,232,To Metrorail Station,54,sta1
+green2,all-mtwh,54,To George Mason University,63,gm0
+green2,all-mtwh,83,To George Mason University,64,gm0
+gold2,all-mtwh,360,To Metrorail Station,83,sta2
+green1,all-f,162,To George Mason University,53,gm1
+gold2,all-mtwh,349,To George Mason University,83,gm3
+gold1,all-f,494,To Metrorail Station,74,sta4
+gold2,all-mtwh,364,To Metrorail Station,83,sta2
+gold1,all-f,480,To Metrorail Station,74,sta4
+green1,all-sun,273,To George Mason University,53,gm1
+gold2,all-f,321,To George Mason University,84,gm3
+green1,all-mtwh,222,To Metrorail Station,54,sta1
+gold2,all-f,310,To Metrorail Station,83,sta2
+gold2,all-mtwh,375,To George Mason University,84,gm3
+gold1,all-mtwh,518,To George Mason University,73,gm4
+green1,all-mtwh,233,To George Mason University,54,gm1
+green2,all-mtwh,91,To George Mason University,64,gm0
+green1,all-mtwh,213,To Metrorail Station,53,sta1
+gold2,all-f,331,To George Mason University,84,gm3
+green1,all-f,176,To Metrorail Station,54,sta1
+gold2,all-f,300,To Metrorail Station,83,sta2
+green2,all-mtwh,95,To George Mason University,64,gm0
+green2,all-mtwh,90,To Metrorail Station,64,sta0
+gold2,all-f,317,To George Mason University,84,gm3
+gold1,all-sat,555,To George Mason University,73,gm4
+green2,all-f,17,To Metrorail Station,63,sta0
+gold2,all-sun,427,To George Mason University,83,gm3
+green1,all-f,165,To Metrorail Station,53,sta1
+green2,all-mtwh,96,To Metrorail Station,64,sta0
+green1,all-f,155,To Metrorail Station,53,sta1
+gold2,all-sat,412,To Metrorail Station,83,sta2
+green2,all-mtwh,73,To Metrorail Station,63,sta0
+green1,all-f,185,To George Mason University,54,gm1
+green1,all-sat,252,To Metrorail Station,53,sta1
+gold2,all-f,303,To George Mason University,83,gm3
+gold1,all-sun,578,To Metrorail Station,73,sta4
+green1,all-f,175,To George Mason University,54,gm1
+gold2,all-f,290,To Metrorail Station,83,sta2
+green1,all-sat,245,To George Mason University,53,gm1
+green2,all-f,18,To George Mason University,63,gm0
+gold1,all-sat,576,To Metrorail Station,73,sta4
+gold1,all-sat,563,To George Mason University,73,gm4
+green2,all-sat,112,To Metrorail Station,63,sta0
+green2,all-mtwh,75,To Metrorail Station,63,sta0
+green2,all-mtwh,72,To George Mason University,63,gm0
+gold2,all-f,316,To Metrorail Station,84,sta2
+green1,all-f,164,To George Mason University,53,gm1
+gold1,all-mtwh,512,To George Mason University,73,gm4
+green2,all-sat,114,To Metrorail Station,63,sta0
+gold2,all-mtwh,379,To George Mason University,84,gm3
+gold1,all-mtwh,548,To Metrorail Station,74,sta4
+green1,all-f,154,To George Mason University,53,gm1
+green1,all-sat,255,To George Mason University,53,gm1
+green2,all-mtwh,93,To George Mason University,64,gm0
+green2,all-sat,121,To George Mason University,63,gm0
+gold2,all-f,302,To Metrorail Station,83,sta2
+green1,all-sat,251,To George Mason University,53,gm1
+green1,all-f,184,To Metrorail Station,54,sta1
+green2,all-mtwh,68,To George Mason University,63,gm0
+green2,all-f,19,To Metrorail Station,63,sta0
+green2,all-sat,115,To George Mason University,63,gm0
+green1,all-f,174,To Metrorail Station,54,sta1
+gold1,all-mtwh,498,To George Mason University,73,gm4
+green1,all-mtwh,237,To George Mason University,54,gm1
+green1,all-sat,254,To Metrorail Station,53,sta1
+gold2,all-sat,408,To Metrorail Station,83,sta2
+green2,all-mtwh,66,To George Mason University,63,gm0
+green2,all-sat,118,To Metrorail Station,63,sta0
+green1,all-f,167,To Metrorail Station,53,sta1
+gold2,all-f,315,To George Mason University,84,gm3
+gold1,all-mtwh,525,To Metrorail Station,73,sta4
+gold2,all-sun,433,To George Mason University,83,gm3
+gold1,all-mtwh,544,To Metrorail Station,74,sta4
+gold2,all-f,305,To George Mason University,83,gm3
+gold1,all-mtwh,495,To Metrorail Station,73,sta3
+gold1,all-sat,570,To Metrorail Station,73,sta4
+green1,all-f,153,To Metrorail Station,53,sta1
+green1,all-sat,260,To Metrorail Station,53,sta1
+gold2,all-mtwh,354,To Metrorail Station,83,sta2
+gold2,all-f,292,To Metrorail Station,83,sta2
+green2,all-mtwh,100,To Metrorail Station,64,sta0
+gold2,all-mtwh,385,To George Mason University,84,gm3
+green2,all-sat,108,To Metrorail Station,63,sta0
+green1,all-f,173,To George Mason University,54,gm1
+green1,all-f,187,To George Mason University,54,gm1
+gold1,all-mtwh,507,To Metrorail Station,73,sta4
+gold2,all-sun,428,To Metrorail Station,83,sta2
+gold1,all-sun,577,To George Mason University,73,gm4
+green2,all-sun,124,To Metrorail Station,63,sta0
+green1,all-f,166,To George Mason University,53,gm1
+gold2,all-sun,429,To George Mason University,83,gm3
+green1,all-f,152,To George Mason University,53,gm1
+gold1,all-f,439,To Metrorail Station,73,sta4
+gold2,all-sat,405,To George Mason University,83,gm3
+green2,all-mtwh,58,To George Mason University,63,gm0
+gold1,all-sun,591,To George Mason University,73,gm4
+gold2,all-f,304,To Metrorail Station,83,sta2
+green2,all-mtwh,62,To George Mason University,63,gm0
+gold1,all-sun,592,To Metrorail Station,73,sta4
+gold1,all-f,490,To Metrorail Station,74,sta4
+gold2,all-mtwh,347,To George Mason University,83,gm3
+gold2,all-f,291,To George Mason University,83,gm3
+gold1,all-f,470,To Metrorail Station,74,sta3
+green1,all-f,172,To Metrorail Station,54,sta1
+gold2,all-f,314,To Metrorail Station,84,sta2
+green1,all-f,186,To Metrorail Station,54,sta1
+gold2,all-mtwh,378,To Metrorail Station,84,sta2
+green1,all-sun,277,To George Mason University,53,gm1
+green2,all-mtwh,82,To Metrorail Station,64,sta0
+green1,all-sun,267,To George Mason University,53,gm1
+gold1,all-f,450,To George Mason University,73,gm4
+gold1,all-f,460,To George Mason University,73,gm4
+gold1,all-f,447,To Metrorail Station,73,sta4
+green2,all-mtwh,92,To Metrorail Station,64,sta0
+gold1,all-f,478,To Metrorail Station,74,sta4
+green2,all-sat,107,To George Mason University,63,gm0
+green1,all-f,146,To George Mason University,53,gm1
+gold2,all-f,306,To Metrorail Station,83,sta2
+gold2,all-mtwh,340,To Metrorail Station,83,sta2
+gold1,all-mtwh,537,To George Mason University,74,gm4
+green1,all-f,156,To George Mason University,53,gm1
+gold1,all-sun,586,To Metrorail Station,73,sta4
+gold1,all-mtwh,538,To Metrorail Station,74,sta4
+gold1,all-f,488,To Metrorail Station,74,sta4
+gold1,all-f,437,To Metrorail Station,73,sta3
+green2,all-f,2,To George Mason University,63,gm0
+gold1,all-mtwh,535,To George Mason University,74,gm4
+gold1,all-mtwh,516,To George Mason University,73,gm4
+green1,all-mtwh,209,To Metrorail Station,53,sta1
+gold2,all-mtwh,345,To George Mason University,83,gm3
+green1,all-f,147,To Metrorail Station,53,sta1
+gold2,all-f,307,To George Mason University,83,gm3
+gold1,all-f,477,To George Mason University,74,gm4
+gold1,all-f,448,To George Mason University,73,gm4
+gold2,all-mtwh,390,To Metrorail Station,84,sta2
+gold1,all-mtwh,514,To George Mason University,73,gm4
+gold2,all-sat,404,To Metrorail Station,83,sta2
+green1,all-mtwh,228,To Metrorail Station,54,sta1
+gold1,all-sat,553,To George Mason University,73,gm4
+gold1,all-mtwh,505,To Metrorail Station,73,sta4
+gold1,all-mtwh,543,To George Mason University,74,gm4
+gold1,all-f,438,To George Mason University,73,gm4
+green2,all-f,1,To Metrorail Station,63,sta0
+gold2,all-sun,431,To George Mason University,83,gm3
+green1,all-f,157,To Metrorail Station,53,sta1
+gold1,all-f,487,To George Mason University,74,gm4
+green2,all-mtwh,94,To Metrorail Station,64,sta0
+gold2,all-sat,411,To George Mason University,83,gm3
+gold1,all-f,462,To George Mason University,73,gm4
+green1,all-mtwh,206,To George Mason University,53,gm1
+green1,all-mtwh,191,To Metrorail Station,53,sta1
+gold2,all-mtwh,374,To Metrorail Station,84,sta2
+green1,all-f,144,To George Mason University,53,gm1
+gold2,all-f,308,To Metrorail Station,83,sta2
+gold1,all-sat,564,To Metrorail Station,73,sta4
+gold1,all-mtwh,540,To Metrorail Station,74,sta4
+gold1,all-f,476,To Metrorail Station,74,sta4
+gold1,all-f,449,To Metrorail Station,73,sta4
+gold1,all-mtwh,497,To Metrorail Station,73,sta4
+green1,all-mtwh,229,To George Mason University,54,gm1
+green1,all-f,158,To George Mason University,53,gm1
+gold2,all-f,318,To Metrorail Station,84,sta2
+green2,all-sun,135,To George Mason University,63,gm0
+gold2,all-mtwh,373,To George Mason University,84,gm3
+green2,all-mtwh,78,To Metrorail Station,64,sta0
+green2,all-sat,105,To George Mason University,63,gm0
+green1,all-sat,259,To George Mason University,53,gm1
+gold1,all-f,461,To Metrorail Station,73,sta4
+green1,all-mtwh,234,To Metrorail Station,54,sta1
+gold2,all-sun,426,To Metrorail Station,83,sta2
+gold1,all-mtwh,533,To George Mason University,74,gm4
+green1,all-mtwh,226,To Metrorail Station,54,sta1
+green1,all-mtwh,240,To Metrorail Station,54,sta1
+green2,all-sun,123,To George Mason University,63,gm0
+green1,all-mtwh,231,To George Mason University,54,gm1
+gold1,all-f,475,To George Mason University,74,gm4
+green1,all-sun,274,To Metrorail Station,53,sta1
+gold1,all-sat,573,To George Mason University,73,gm4
+green1,all-f,145,To Metrorail Station,53,sta1
+gold2,all-f,309,To George Mason University,83,gm3
+gold1,all-mtwh,508,To George Mason University,73,gm4
+green2,all-sun,131,To George Mason University,63,gm0
+gold1,all-mtwh,529,To George Mason University,74,gm4
+gold1,all-f,489,To George Mason University,74,gm4
+gold1,all-mtwh,510,To George Mason University,73,gm4
+green2,all-mtwh,51,To Metrorail Station,63,sta0
+gold2,all-mtwh,365,To George Mason University,83,gm3
+gold1,all-mtwh,524,To George Mason University,73,gm4
+green1,all-f,159,To Metrorail Station,53,sta1
+green1,all-mtwh,236,To Metrorail Station,54,sta1
+gold2,all-f,319,To George Mason University,84,gm3
+gold1,all-f,454,To George Mason University,73,gm4
+gold2,all-mtwh,387,To George Mason University,84,gm3
+gold1,all-sat,556,To Metrorail Station,73,sta4
+green1,all-mtwh,199,To Metrorail Station,53,sta1
+gold1,all-f,443,To Metrorail Station,73,sta4
+gold1,all-mtwh,500,To George Mason University,73,gm4
+gold1,all-f,464,To George Mason University,73,gm4
+green2,all-sat,119,To George Mason University,63,gm0
+green1,all-mtwh,230,To Metrorail Station,54,sta1
+gold2,all-sat,407,To George Mason University,83,gm3
+gold1,all-f,484,To Metrorail Station,74,sta4
+green2,all-f,6,To George Mason University,63,gm0
+gold2,all-mtwh,388,To Metrorail Station,84,sta2
+green2,all-mtwh,89,To George Mason University,64,gm0
+gold2,all-sat,401,To George Mason University,83,gm3
+gold1,all-mtwh,531,To George Mason University,74,gm4
+gold1,all-f,474,To Metrorail Station,74,sta4
+green1,all-sat,249,To George Mason University,53,gm1
+gold2,all-sat,419,To George Mason University,83,gm3
+gold1,all-f,453,To Metrorail Station,73,sta4
+green2,all-mtwh,65,To Metrorail Station,63,sta0
+green1,all-sun,276,To Metrorail Station,53,sta1
+gold1,all-f,444,To George Mason University,73,gm4
+gold1,all-f,463,To Metrorail Station,73,sta4
+gold1,all-mtwh,499,To Metrorail Station,73,sta4
+gold1,all-sat,554,To Metrorail Station,73,sta4
+gold2,all-mtwh,339,To George Mason University,83,gm2
+green2,all-f,5,To Metrorail Station,63,sta0
+gold1,all-f,483,To George Mason University,74,gm4
+green2,all-sat,116,To Metrorail Station,63,sta0
+gold2,all-mtwh,343,To George Mason University,83,gm3
+green1,all-mtwh,207,To Metrorail Station,53,sta1
+gold2,all-mtwh,361,To George Mason University,83,gm3
+gold2,all-sat,403,To George Mason University,83,gm3
+green2,all-mtwh,85,To George Mason University,64,gm0
+gold1,all-f,473,To George Mason University,74,gm4
+green2,all-mtwh,69,To Metrorail Station,63,sta0
+gold1,all-f,445,To Metrorail Station,73,sta4
+gold1,all-f,452,To George Mason University,73,gm4
+gold2,all-sun,435,To George Mason University,83,gm3
+gold1,all-mtwh,546,To Metrorail Station,74,sta4
+gold2,all-sun,434,To Metrorail Station,83,sta2
+gold1,all-mtwh,551,To George Mason University,74,gm4
+green1,all-f,168,To Metrorail Station,54,sta1
+gold1,all-f,466,To George Mason University,73,gm4
+green1,all-sun,278,To Metrorail Station,53,sta1
+gold2,all-mtwh,369,To George Mason University,83,gm3
+green2,all-f,4,To George Mason University,63,gm0
+gold1,all-f,486,To Metrorail Station,74,sta4
+gold1,all-f,472,To Metrorail Station,74,sta4
+gold2,all-sat,398,To Metrorail Station,83,sta2
+green1,all-f,148,To George Mason University,53,gm1
+gold2,all-mtwh,341,To George Mason University,83,gm3
+gold1,all-f,446,To George Mason University,73,gm4
+green2,all-mtwh,87,To George Mason University,64,gm0
+gold1,all-f,451,To Metrorail Station,73,sta4
+green1,all-f,169,To George Mason University,54,gm1
+gold1,all-mtwh,534,To Metrorail Station,74,sta4
+green1,all-mtwh,220,To George Mason University,53,gm1
+green1,all-sat,262,To Metrorail Station,53,sta1
+gold1,all-f,465,To Metrorail Station,73,sta4
+green1,all-sat,256,To Metrorail Station,53,sta1
+green2,all-mtwh,53,To Metrorail Station,63,sta0
+gold1,all-f,471,To George Mason University,74,gm4
+gold1,all-f,485,To George Mason University,74,gm4
+gold2,all-mtwh,392,To Metrorail Station,84,sta2
+gold2,all-mtwh,358,To Metrorail Station,83,sta2
+green2,all-f,3,To Metrorail Station,63,sta0
+green1,all-mtwh,225,To George Mason University,54,gm1
+green2,all-mtwh,88,To Metrorail Station,64,sta0
+gold2,all-mtwh,372,To Metrorail Station,84,sta2
+gold1,all-mtwh,504,To George Mason University,73,gm4
+green1,all-f,149,To Metrorail Station,53,sta1
+green1,all-mtwh,242,To Metrorail Station,54,sta1
+green2,all-mtwh,67,To Metrorail Station,63,sta0
+green2,all-f,26,To George Mason University,63,gm0
+gold2,all-mtwh,356,To Metrorail Station,83,sta2
+green2,all-sat,110,To Metrorail Station,63,sta0
+gold1,all-f,458,To George Mason University,73,gm4
+green1,all-f,137,To Metrorail Station,53,sta1
+gold1,all-mtwh,509,To Metrorail Station,73,sta4
+green1,all-mtwh,200,To George Mason University,53,gm1
+green2,all-mtwh,61,To Metrorail Station,63,sta0
+green2,all-sun,127,To George Mason University,63,gm0
+green1,all-sat,266,To Metrorail Station,53,sta1
+gold2,all-mtwh,377,To George Mason University,84,gm3
+green2,all-sat,120,To Metrorail Station,63,sta0
+green1,all-mtwh,193,To Metrorail Station,53,sta1
+gold2,all-sun,425,To George Mason University,83,gm3
+gold1,all-f,468,To George Mason University,73,gm4
+green1,all-sat,248,To Metrorail Station,53,sta1
+green2,all-mtwh,71,To Metrorail Station,63,sta0
+gold2,all-f,289,To George Mason University,83,gm3
+green2,all-mtwh,98,To Metrorail Station,64,sta0
+green2,all-sat,117,To George Mason University,63,gm0
+green1,all-sat,258,To Metrorail Station,53,sta1
+gold1,all-mtwh,496,To George Mason University,73,gm4
+green2,all-f,46,To Metrorail Station,64,sta0
+gold2,all-sun,422,To Metrorail Station,83,sta2
+green2,all-f,25,To Metrorail Station,63,sta0
+gold1,all-sat,568,To Metrorail Station,73,sta4
+green2,all-f,39,To George Mason University,64,gm0
+gold1,all-f,467,To Metrorail Station,73,sta4
+green2,all-f,9,To Metrorail Station,63,sta0
+gold2,all-sun,421,To George Mason University,83,gm3
+gold1,all-f,440,To George Mason University,73,gm4
+green2,all-sun,129,To George Mason University,63,gm0
+gold1,all-f,457,To Metrorail Station,73,sta4
+green2,all-f,45,To George Mason University,64,gm0
+green1,all-mtwh,197,To Metrorail Station,53,sta1
+gold2,all-mtwh,342,To Metrorail Station,83,sta2
+green2,all-f,28,To Metrorail Station,64,sta0
+gold1,all-mtwh,519,To Metrorail Station,73,sta4
+gold1,all-mtwh,530,To Metrorail Station,74,sta4
+green2,all-f,38,To Metrorail Station,64,sta0
+green1,all-mtwh,210,To George Mason University,53,gm1
+green1,all-mtwh,215,To Metrorail Station,53,sta1
+gold1,all-mtwh,532,To Metrorail Station,74,sta4
+green2,all-f,8,To George Mason University,63,gm0
+green1,all-mtwh,223,To George Mason University,54,gm1
+green1,all-mtwh,214,To George Mason University,53,gm1
+green2,all-f,29,To George Mason University,64,gm0
+green1,all-f,190,To Metrorail Station,54,sta1
+gold2,all-mtwh,376,To Metrorail Station,84,sta2
+green2,all-mtwh,84,To Metrorail Station,64,sta0
+green2,all-f,48,To Metrorail Station,64,sta0
+green1,all-f,139,To Metrorail Station,53,sta1
+gold1,all-f,441,To Metrorail Station,73,sta4
+gold1,all-f,456,To George Mason University,73,gm4
+gold2,all-sat,420,To Metrorail Station,83,sta2
+green1,all-f,138,To George Mason University,53,gm1
+gold1,all-sun,583,To George Mason University,73,gm4
+green2,all-mtwh,81,To George Mason University,64,gm0
+green2,all-f,27,To Metrorail Station,63,sta0
+gold1,all-sat,575,To George Mason University,73,gm4
+gold1,all-mtwh,549,To George Mason University,74,gm4
+gold2,all-mtwh,384,To Metrorail Station,84,sta2
+green1,all-sat,250,To Metrorail Station,53,sta1
+green2,all-mtwh,60,To George Mason University,63,gm0
+green2,all-f,37,To George Mason University,64,gm0
+gold1,all-f,469,To Metrorail Station,73,sta4
+gold2,all-mtwh,395,To George Mason University,84,gm3
+gold1,all-sat,565,To George Mason University,73,gm4
+green2,all-f,7,To Metrorail Station,63,sta0
+gold1,all-mtwh,521,To Metrorail Station,73,sta4
+gold2,all-mtwh,370,To Metrorail Station,83,sta2
+gold1,all-sat,560,To Metrorail Station,73,sta4
+gold1,all-mtwh,515,To Metrorail Station,73,sta4
+gold2,all-mtwh,353,To George Mason University,83,gm3
+gold1,all-f,455,To Metrorail Station,73,sta4
+gold1,all-mtwh,522,To George Mason University,73,gm4
+gold1,all-f,442,To George Mason University,73,gm4
+gold2,all-sat,409,To George Mason University,83,gm3
+green2,all-f,47,To George Mason University,64,gm0
+gold2,all-sat,416,To Metrorail Station,83,sta2
+green2,all-mtwh,79,To George Mason University,64,gm0
+green2,all-f,36,To Metrorail Station,64,sta0
+gold2,all-sat,415,To George Mason University,83,gm3
+green2,all-mtwh,99,To George Mason University,64,gm0
+gold2,all-sun,430,To Metrorail Station,83,sta2
+green2,all-f,22,To George Mason University,63,gm0
+gold2,all-mtwh,350,To Metrorail Station,83,sta2
+green1,all-mtwh,244,To Metrorail Station,54,sta1
+gold1,all-mtwh,547,To George Mason University,74,gm4
+gold1,all-mtwh,527,To Metrorail Station,73,sta4
+gold1,all-mtwh,511,To Metrorail Station,73,sta4
+green2,all-f,35,To George Mason University,64,gm0
+gold2,all-mtwh,380,To Metrorail Station,84,sta2
+green2,all-mtwh,97,To George Mason University,64,gm0
+green1,all-mtwh,219,To Metrorail Station,53,sta1
+gold2,all-sun,423,To George Mason University,83,gm3
+green1,all-sat,257,To George Mason University,53,gm1
+green2,all-sat,111,To George Mason University,63,gm0
+gold2,all-mtwh,386,To Metrorail Station,84,sta2
+green2,all-f,21,To Metrorail Station,63,sta0
+green1,all-mtwh,239,To George Mason University,54,gm1
+green2,all-f,49,To George Mason University,64,gm0
+green2,all-mtwh,64,To George Mason University,63,gm0
+green1,all-mtwh,203,To Metrorail Station,53,sta1
+green2,all-sat,122,To Metrorail Station,63,sta0
+gold2,all-mtwh,359,To George Mason University,83,gm3
+gold1,all-sun,584,To Metrorail Station,73,sta4
+gold2,all-mtwh,383,To George Mason University,84,gm3
+gold2,all-sat,413,To George Mason University,83,gm3
+gold1,all-sun,581,To George Mason University,73,gm4
+gold1,all-sat,572,To Metrorail Station,73,sta4
+gold1,all-mtwh,513,To Metrorail Station,73,sta4
+green2,all-f,34,To Metrorail Station,64,sta0
+green1,all-sun,272,To Metrorail Station,53,sta1
+gold2,all-mtwh,363,To George Mason University,83,gm3
+green2,all-f,24,To George Mason University,63,gm0
+gold1,all-sat,562,To Metrorail Station,73,sta4
+gold1,all-sun,585,To George Mason University,73,gm4
+green2,all-mtwh,74,To George Mason University,63,gm0
+green2,all-f,33,To George Mason University,64,gm0
+gold1,all-f,459,To Metrorail Station,73,sta4
+green2,all-f,23,To Metrorail Station,63,sta0
+green1,all-mtwh,216,To George Mason University,53,gm1
+gold2,all-mtwh,381,To George Mason University,84,gm3
+gold1,all-mtwh,552,To Metrorail Station,74,sta4
+gold1,all-f,479,To George Mason University,74,gm4
+gold1,all-mtwh,542,To Metrorail Station,74,sta4
+gold1,all-mtwh,503,To Metrorail Station,73,sta4
+green1,all-mtwh,208,To George Mason University,53,gm1
+gold2,all-mtwh,344,To Metrorail Station,83,sta2

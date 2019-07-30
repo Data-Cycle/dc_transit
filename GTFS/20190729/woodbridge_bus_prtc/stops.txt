@@ -1,0 +1,517 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+4,CHINN,Chinn Park Dr @ Chinn Center Departures,13025 Chinn Park Dr,38.670657,-77.332072,,,,,,0
+5,DUFERLAZ,Ferlazzo Building,15941 DONALD CURTIS DR,38.608262,-77.295263,,,,,,0
+7,DUQUANT,Broadway St @ Potomac Ave Departures,,38.52193,-77.290836,,,,,,0
+34,MNOVA,NOVA Campus in Manassas Departures,6901 SUDLEY RD,38.80907,-77.517992,,,,,,0
+41,WOBSmo-B,Old Bridge Rd @ Smoketown Rd,,38.68096,-77.320401,,,,,,0
+44,WHilln-A,Prince William Pkwy @ Hillendale Dr,,38.668252,-77.333747,,,,,,0
+114,DUDumfNB,Route 1 @ Dumfries Rd,Jefferson Davis Hwy & Dumfries Rd,38.573828,-77.315641,,,,,,0
+115,DUPsmPt,Route 1 @ Possum Point Rd,Jefferson Davis Hwy & Possum Point Rd,38.569675,-77.320447,,,,,,0
+118,DUWlmtn,Williamstown Dr @ Fraley Blvd,,38.56533,-77.325046,,,,,,0
+120,DUAndrsn,Route 1 @ Anderson Rd,Jefferson Davis Hwy & Anderson Rd,38.548894,-77.334841,,,,,,0
+122,DUWdmark,Powells Creek Blvd @ Woodmark Dr,,38.593485,-77.299516,,,,,,0
+149,MByrd,Grant Ave @ Byrd Dr,,38.74511,-77.473819,,,,,,0
+162,MAshSd-S,Ashton Ave @ Sudley Manor Dr,,38.784872,-77.520592,,,,,,0
+164,MRsmry-S,Ashton Ave @ Rosemary Dr,,38.790963,-77.522886,,,,,,0
+165,MAsCov-S,Ashton Ave @ Coverstone Dr,,38.791807,-77.525082,,,,,,0
+168,MMiramar,Miramar Dr @ Coverstone Dr,,38.795322,-77.519884,,,,,,0
+170,MNVBat-S,Nova Way @ Battleview Pkwy,,38.80611,-77.518722,,,,,,0
+172,MEastChu,Church St @ East St,,38.751988,-77.470811,,,,,,0
+173,MWestChu,Church St @ West St,,38.751683,-77.473387,,,,,,0
+207,WOccEl-B,Occoquan Rd @ Devils Reach Rd,,38.67158,-77.260249,,,,,,0
+212,MEastCnt,Center St @ East St,,38.751245,-77.470139,,,,,,0
+220,MPMSVA-B,Manassas Dr @ Signal View Dr,,38.757913,-77.436592,,,,,,0
+223,MStonewa,Sudley Rd @ Stonewall Rd,,38.764665,-77.480991,,,,,,0
+224,MDiggs-N,Sudley Rd @ Digges Rd,,38.768053,-77.485282,,,,,,0
+227,MBlend-S,Ashton Ave @ Blendia Ln,,38.780267,-77.516512,,,,,,0
+228,MSeym-S,Ashton Ave @ Seymour Dr,,38.787482,-77.521006,,,,,,0
+230,MPLibE-A,Liberia Ave @ Euclid Ave,,38.75954,-77.455982,,,,,,0
+231,MPQuarry,Liberia Ave @ Quarry Rd,,38.755233,-77.451126,,,,,,0
+232,MZbdQury,Zebedee St @ Quarry Rd,,38.752668,-77.468476,,,,,,0
+233,MMaple,Centreville Rd @ Maple St,,38.753578,-77.468082,,,,,,0
+237,MPLiMJ-B,Liberia Ave @ Manassas Junction,Liberia Ave & Centreville Rd,38.760748,-77.457778,,,,,,0
+244,MPPtrn-B,Portsmouth Rd @ Portwood Turn,,38.780253,-77.502341,,,,,,0
+245,MForstwo,Sudley Service Rd @ Forestwood Ln,,38.764797,-77.480426,,,,,,0
+246,MPLibE-B,Liberia Ave @ Euclid Ave,,38.75895,-77.454529,,,,,,0
+248,MBartw,Grant Ave @ Bartow St,,38.744955,-77.473476,,,,,,0
+249,MBlend-N,Ashton Ave @ Blendia Ln,,38.780447,-77.516146,,,,,,0
+250,MSeym-N,Ashton Ave @ Seymour Dr,,38.7881,-77.520147,,,,,,0
+251,MCvAsh-N,Coverstone Dr @ Ashton Ave,,38.792447,-77.524664,,,,,,0
+253,MChurCnt,Church St @ Center St,,38.751078,-77.478297,,,,,,0
+262,GidBixb,Gideon Dr @ Bixby Rd,,38.636293,-77.299569,,,,,,0
+263,DCGERRY,Dale Blvd @ Gerry Ln,,38.647428,-77.338929,,,,,,0
+265,DCLauHil,Prince William Pkwy @ Laurel Hills Dr,,38.674611,-77.340349,,,,,,0
+272,WVillage,Route 1 @ Village Dr,Jefferson Davis Hwy & Village Dr,38.641902,-77.265987,,,,,,0
+280,WBelAir,Route 1 @ Bel Air Rd,Jefferson Davis Hwy & Bel Air Rd,38.641855,-77.266381,,,,,,0
+282,DUFireDp,Route 1 @ Bradys Hill Rd,Jefferson Davis Hwy & Bradys Hill Rd,38.55311,-77.332846,,,,,,0
+283,DUWaysid,Route 1 @ Wayside Dr,Jefferson Davis Hwy & Wayside Dr,38.579093,-77.311811,,,,,,0
+284,DUCheryH,Route 1 @ River Heritage Blvd,Jefferson Davis Hwy & River Heritage Blvd,38.584503,-77.308399,,,,,,0
+286,DUMcGuff,Powells Creek Blvd @ McGuffys Trl,,38.586268,-77.296072,,,,,,0
+287,DUMirand,Powells Creek Blvd @ Miranda Ln,,38.58694,-77.293717,,,,,,0
+288,DUSinger,Powells Creek Blvd @ Singer Way,,38.589547,-77.294437,,,,,,0
+289,DUNantic,Powells Creek Blvd @ Nanticoke Way,,38.590783,-77.296161,,,,,,0
+290,DUDeting,Powells Creek Blvd @ Dettingen Pl,,38.592142,-77.297729,,,,,,0
+292,DUFern,Powells Creek Blvd @ Fern Pl,Powells Creek Blvd & Fern Patrick Henry Dr,38.591568,-77.297317,,,,,,0
+293,DUCapSIN,Powells Creek Blvd @ Capon Tree Ln,,38.589112,-77.294049,,,,,,0
+294,DUCapMIR,Powells Creek Blvd @ Capon Tree Ln,,38.586983,-77.293986,,,,,,0
+295,DUPowRvr,Powells Creek Blvd @ River Ridge Blvd,,38.586147,-77.297029,,,,,,0
+297,DULibvil,N Main St @ Graham St,,38.570165,-77.320324,,,,,,0
+298,DUACTS,S Main St @ Lansing Ct,,38.563732,-77.330096,,,,,,0
+305,DCMcC-IB,Prince William Pkwy @ McCoart Building,Prince William Pkwy & County Complex Ct,38.678632,-77.350904,,,,,,0
+306,DCHoReIB,Hoadly Rd @ Reserve Ln,,38.674792,-77.382624,,,,,,0
+308,DCPrincd,Dale Blvd @ Princedale Dr,,38.664092,-77.378536,,,,,,0
+309,DCNassIB,Dale Blvd @ Nassau Dr,,38.66085,-77.373601,,,,,,0
+311,DCLindIB,Dale Blvd @ Lindendale Rd,,38.659474,-77.358705,,,,,,0
+313,DCKerry,Dale Blvd @ Kerrydale Rd,,38.658145,-77.343966,,,,,,0
+316,DCMIN-IB,Dale Blvd @ Minnieville Rd,,38.646775,-77.338336,,,,,,0
+318,DCEastIB,Darbydale Ave @ Eastlawn Ave,,38.634218,-77.342114,,,,,,0
+320,DCDan-IB,Darbydale Ave @ Danville Rd,,38.633275,-77.329384,,,,,,0
+322,DCCheryd,Dale Blvd @ Cherrydale Dr,,38.631365,-77.317922,,,,,,0
+323,DCBir-IB,Dale Blvd @ Birchdale Ave,,38.628712,-77.310944,,,,,,0
+325,GidTwn,Gideon Dr @ Town Center Rd,,38.636023,-77.299401,,,,,,0
+326,DCAsh-OB,Dale Blvd @ Ashdale Ave,,38.62785,-77.304804,,,,,,0
+327,DCBir-OB,Dale Blvd @ Birchdale Ave,,38.628907,-77.310074,,,,,,0
+328,DCBarksd,Dale Blvd @ Barksdale St,,38.631092,-77.317159,,,,,,0
+330,DCDan-OB,Darbydale Ave @ Danville Rd,,38.633582,-77.328611,,,,,,0
+332,DCHillen,Dale Blvd @ Hillendale Dr,,38.65595,-77.341882,,,,,,0
+333,DCKings,Dale Blvd @ Kingsman Rd,,38.658677,-77.344351,,,,,,0
+336,DCNassOB,Dale Blvd @ Nassau Dr,,38.661057,-77.373282,,,,,,0
+337,DCNott,Dale Blvd @ Nottingdale Dr,,38.664475,-77.378422,,,,,,0
+338,DCTriden,Dale Blvd @ Trident Ln,,38.667763,-77.387412,,,,,,0
+339,DCWebstr,Hoadly Rd @ Websters Way,,38.6743,-77.383759,,,,,,0
+340,DCMcC-OB,Prince William Pkwy @ Marblestone Dr,,38.678293,-77.351497,,,,,,0
+342,DCOrangw,Dale Blvd @ Orangewood Dr,,38.667097,-77.386629,,,,,,0
+343,DCEastOB,Darbydale Ave @ Eastlawn Ave,,38.635473,-77.342837,,,,,,0
+344,DCQuate,Dale Blvd @ Quate Ln,,38.659732,-77.360187,,,,,,0
+345,DCRidgfl,Hoadly Rd @ Ridgefield Village Dr,,38.677653,-77.364369,,,,,,0
+350,WHornr-A,Occoquan Rd @ Horner Rd,,38.663293,-77.253304,,,,,,0
+351,WHyltn-A,Occoquan Rd @ Vineyard Way,,38.667037,-77.257581,,,,,,0
+352,WWdHollw,Old Bridge Rd @ Wood Hollow Dr,,38.675938,-77.267391,,,,,,0
+353,WClipp-A,Old Bridge Rd @ Clipper Dr,,38.678457,-77.274157,,,,,,0
+354,WOakwd-A,Old Bridge Rd @ Oakwood Dr,,38.682505,-77.293977,,,,,,0
+356,WDilln-A,Old Bridge Rd @ Dillingham Sq,,38.683342,-77.316901,,,,,,0
+357,WOBSmo-A,Old Bridge Rd @ Smoketown Rd,,38.680697,-77.322251,,,,,,0
+358,WWestr,Old Bridge Rd @ Westridge Dr,,38.677442,-77.327854,,,,,,0
+361,WHilln-B,Prince William Pkwy @ Hillendale Dr,,38.666818,-77.332336,,,,,,0
+362,WTitania,Old Bridge Rd @ Titania Way,,38.674633,-77.331016,,,,,,0
+363,WOBridLn,Old Bridge Rd @ Old Bridge Ln,,38.676213,-77.328954,,,,,,0
+364,WCrick-B,Old Bridge Rd @ Cricket Ln,,38.682484,-77.317353,,,,,,0
+365,WOakwd-B,Old Bridge Rd @ Oakwood Dr,,38.682155,-77.293962,,,,,,0
+366,WClipp-B,Old Bridge Rd @ Clipper Dr,,38.678212,-77.273867,,,,,,0
+367,WHyltn-B,Occoquan Rd @ Hylton Ave,,38.666948,-77.257679,,,,,,0
+372,OMNITC,OMNIRIDE Transit Center Departures,14700 Potomac Mills Rd,38.63012,-77.294969,,,,,,0
+375,DUSHOPCT,Fraley Blvd @ Dumfries Shopping Ctr,Fraley Blvd & Dumfries Shopping Plaza,38.562965,-77.327816,,,,,,0
+377,DUDumfSB,Route 1 @ Dumfries Rd,Jefferson Davis Hwy & Dumfries Rd,38.57445,-77.315417,,,,,,0
+378,DUWash,N Main St @ Washington St,,38.567948,-77.325539,,,,,,0
+379,CURTIS,S Main St @ Curtis Dr,,38.56098,-77.331749,,,,,,0
+380,WJDLng-B,Route 1 @ Prince William Pkwy,Jefferson Davis Hwy & Prince William Pkwy,38.64916,-77.261627,,,,,,0
+382,WJefGorA,Route 1 @ Gordon Blvd,Jeff Davis Hy (NB) @ Gordon Blvd,38.659275,-77.248516,,,,,,0
+384,WHoffmn,Prince William Pkwy @ Hoffman Dr,,38.665222,-77.330539,,,,,,0
+385,WMNMobil,Minnieville Rd @ Prince William Pkwy,,38.652992,-77.314279,,,,,,0
+389,WPenn,Prince William Pkwy @ Pennington Ln,,38.664442,-77.328662,,,,,,0
+390,WOccF,Occoquan Rd @ F St,,38.66364,-77.254102,,,,,,0
+394,W22Opitz,2200 Opitz Blvd,,38.632965,-77.279431,,,,,,0
+395,DCAsdee,Prince William Pkwy @ Greatbridge Rd,,38.677665,-77.347506,,,,,,0
+396,DCRidge,Prince William Pkwy @ Ridgefield Rd,,38.677767,-77.348739,,,,,,0
+399,MCOVR-S,Coverstone Dr @ Purdue Ct,,38.793345,-77.521912,,,,,,0
+400,MNSHPBA,Manassas Shopping Ctr @ Bowl America Departures,9000 Mathis Ave,38.759882,-77.465246,,,,,,0
+402,MCtrCHSt,Center St @ Church St,,38.75044,-77.478186,,,,,,0
+403,MCrstAsh,Crestwood Dr @ Ashton Ave,,38.778518,-77.515256,,,,,,0
+404,MSage,Coverstone Dr @ Sage Ct,,38.793917,-77.519771,,,,,,0
+406,DUDCurt,Cardinal Dr @ Donald Curtis Dr,,38.609615,-77.294254,,,,,,0
+407,DUNeaCol,Neabsco Mills Rd @ N College Dr,,38.62216,-77.291312,,,,,,0
+408,DCQCh-IB,Hoadly Rd @ Queen Chapel Rd,,38.676248,-77.368887,,,,,,0
+410,DCKirkIB,Dale Blvd @ Kirkdale Dr,,38.660127,-77.347671,,,,,,0
+411,DCDixon,Darbydale Ave @ Dixon Ct,,38.632945,-77.335579,,,,,,0
+412,DCBenFit,Dale Blvd @ Benita Fitzgerald Dr,,38.62924,-77.313952,,,,,,0
+413,DCEmpire,Darbydale Ave @ Empire St,,38.633038,-77.336704,,,,,,0
+414,DCKirkOB,Dale Blvd @ Kirkdale Dr,,38.660292,-77.347066,,,,,,0
+415,DCQUEEN,Dale Blvd @ Queensdale Dr,,38.65959,-77.367824,,,,,,0
+416,DCTrentd,Dale Blvd @ Trentdale Dr,,38.66927,-77.391117,,,,,,0
+417,DCQCh-OB,Hoadly Rd @ Queen Chapel Rd,,38.675935,-77.368924,,,,,,0
+418,WPHosp,Opitz Blvd @ Potomac Centre Blvd,,38.634657,-77.284474,,,,,,0
+419,WPotLib,Opitz Blvd @ Potomac Library,2201 Opitz Blvd,38.632955,-77.280438,,,,,,0
+420,DUFul-IB,Fuller Rd @ Fuller Heights Rd,,38.545397,-77.335176,,,,,,0
+421,DURiv-IB,River Ridge Blvd @ Route 1,River Ridge Blvd & Jefferson Davis Hwy,38.586652,-77.303529,,,,,,0
+422,DUNea-IB,Neabsco Mills Rd @ Route 1,Neabsco Mills Rd & Jefferson Davis Hwy,38.612268,-77.290625,,,,,,0
+423,DUNov-IB,S College Rd @ NOVA Campus,S College Rd & Neabsco Mills Rd,38.61872,-77.292672,,,,,,0
+426,DUNov-OB,N College Dr @ NOVA Campus,N College Dr & Neabsco Mills Rd,38.619128,-77.292791,,,,,,0
+427,DUNea-OB,Neabsco Mills Rd @ Route 1,Neabsco Mills Rd & Jefferson Davis Hwy,38.612062,-77.290789,,,,,,0
+428,DURiv-OB,River Ridge Blvd @ Route 1,River Ridge Blvd & Jefferson Davis Hwy,38.587192,-77.304277,,,,,,0
+429,DUFul-OB,Fuller Rd @ Route 1,Fuller Rd & Jefferson Davis Hwy,38.545375,-77.335459,,,,,,0
+430,DCMAPLED,Dale Blvd @ Mapledale Ave,,38.659275,-77.367827,,,,,,0
+431,DCKey-IB,Dale Blvd @ Keytone Rd,,38.65986,-77.355381,,,,,,0
+432,DCDel-IB,Dale Blvd @ Delaney Rd,,38.660172,-77.353254,,,,,,0
+433,DCGre-IB,Dale Blvd @ Greenwood Dr,,38.654402,-77.342957,,,,,,0
+434,DCGle-IB,Dale Blvd @ Glendale Rd,,38.649442,-77.342171,,,,,,0
+435,DCWor-IB,Darbydale Ave @ Worchester Dr,,38.641752,-77.341566,,,,,,0
+436,DCEmb-IB,Darbydale Ave @ Emberdale Dr,Darbydale Ave & Emberdale Ave,38.632777,-77.339346,,,,,,0
+438,DCClv-IB,Dale Blvd @ Cloverdale Rd,,38.634303,-77.320651,,,,,,0
+439,DCClv-OB,Dale Blvd @ Cloverdale Rd,,38.634483,-77.320414,,,,,,0
+440,DCDelMOB,Darbydale Ave @ Del Mar Dr,,38.637667,-77.325676,,,,,,0
+441,DCEmb-OB,Darbydale Ave @ Emberdale Dr,,38.63292,-77.339692,,,,,,0
+442,DCWor-OB,Darbydale Ave @ Worchester Dr,,38.641908,-77.341299,,,,,,0
+445,DCDel-OB,Dale Blvd @ Delaney Rd,,38.66043,-77.353179,,,,,,0
+446,DCKey-OB,Dale Blvd @ Keytone Rd,,38.660087,-77.355904,,,,,,0
+447,DCTan-OB,Dale Blvd @ Tango Ln,,38.671603,-77.395304,,,,,,0
+450,WJDLNG-A,Route 1 @ Longview Dr,Jefferson Davis Hwy & Longview Dr,38.648785,-77.261767,,,,,,0
+452,WOccEl-A,Occoquan Rd @ Devils Reach Rd,,38.671558,-77.260077,,,,,,0
+453,WElys-A,Old Bridge Rd @ Elysian Dr,,38.674794,-77.264584,,,,,,0
+454,WHernd-A,Old Bridge Rd @ Herndon Dr,,38.676402,-77.267742,,,,,,0
+455,WColby-A,Od Bridge Rd @ Colby Dr,Old Bridge Rd & Colby Dr,38.679001,-77.282671,,,,,,0
+456,WAnt-A,Old Bridge Rd @ Antietam Rd,,38.68359,-77.302041,,,,,,0
+457,WHedg-A,Old Bridge Rd @ Hedges Run Dr,,38.68508,-77.313424,,,,,,0
+460,WWorth-A,Worth Ave @ Prince William Pkwy,,38.649813,-77.295266,,,,,,0
+461,WIkea-A,Potomac Mills Cir @ Biddeford Way,,38.643283,-77.290122,,,,,,0
+462,WTex-A,Potomac Mills Rd @ Potomac Mills Cir,,38.639998,-77.294126,,,,,,0
+463,WPFest-A,Potomac Festival before OMNIRIDE,Potomac Mills Rd & Opitz Blvd,38.636555,-77.296106,,,,,,0
+464,WPFest-B,Potomac Festival after OMNIRIDE,Potomac Mills Rd & Town Center Rd,38.63593,-77.296482,,,,,,0
+465,WPier1-B,Potomac Mills Rd @ Gideon Dr,,38.640135,-77.293906,,,,,,0
+466,WIkea-B,Potomac Mills Cir @ Biddeford Way,,38.642949,-77.290257,,,,,,0
+467,WWorth-B,Worth Ave @ Prince William Pkwy,,38.648787,-77.294891,,,,,,0
+468,WShopr-B,Prince William Pkwy @ Shoppers Best Way,,38.651792,-77.298409,,,,,,0
+469,WPSmok-B,Prince William Pkwy @ Smoketown Rd,,38.65148,-77.301274,,,,,,0
+470,WElm-B,Prince William Pkwy @ Elm Farm Rd,,38.659759,-77.324021,,,,,,0
+471,WHedg-B,Old Bridge Rd @ Hedges Run Dr,,38.684622,-77.313651,,,,,,0
+472,WAnt-B,Old Bridge Rd @ Antietam Rd,,38.683038,-77.301132,,,,,,0
+473,WColby-B,Old Bridge Rd @ Colby Dr,,38.678597,-77.283554,,,,,,0
+474,WEly-B,Old Bridge Rd @ Elysian Dr,,38.674307,-77.264481,,,,,,0
+476,WPHosp-B,Opitz Blvd @ Sentara Medical Center,2300 Opitz Blvd,38.634794,-77.283986,,,,,,0
+600,LinLot,Lindendale Commuter Lot,Dale Blvd & Ridgefield Rd,38.660435,-77.360471,,,,,,0
+602,DaCLot,Dale City Commuter Lot,Dale Blvd & Gemini Way,38.646798,-77.341134,,,,,,0
+603,DaleNFAM,Dale Blvd @ N Forestdale Ave,,38.640823,-77.333267,,,,,,0
+605,DalDarAM,Dale Blvd @ Darbydale Ave,,38.6385,-77.325111,,,,,,0
+608,Pier1AM,Potomac Mills Rd @ Gideon Dr,,38.640035,-77.293867,,,,,,0
+609,TelPkyAM,Telegraph Rd @ Prince William Pkwy,,38.653503,-77.290519,,,,,,0
+610,HorLot1A,Horner Rd Commuter Lot Stop 1 AM,Horner Rd Commuter Lot Service Drive & Telegraph Rd,38.658658,-77.280651,,,,,,0
+611,TelPkyPM,Telegraph Rd @ Prince William Pkwy,,38.652733,-77.290604,,,,,,0
+613,HorLot2A,Horner Rd Commuter Lot Stop 2 AM,orner Road Commuter Lot Service Drive & Telegraph Rd,38.658922,-77.283081,,,,,,0
+614,PMLotPM,Potomac Mills Commuter Lot,Potomac Mills Cir & Potomac Mills Rd,38.640388,-77.293702,,,,,,0
+616,DalForPM,Dale Blvd @ Forestdale Ave,,38.639,-77.3245,,,,,,0
+617,DalNFPM,Dale Blvd @ N Forestdale Ave,,38.640988,-77.332561,,,,,,0
+714,TMLot,Tackett's Mill Commuter Lot,Tacketts Mill Dr & Old Bridge Rd,38.676358,-77.279119,,,,,,0
+715,LRLot,Lake Ridge Commuter Lot Departures,Minnieville Rd & Old Bridge Rd,38.676003,-77.276511,,,,,,0
+716,HecLotAM,Old Bridge Rd and 123 Commuter Lot,Old Bridge Rd & Gordon Blvd,38.674992,-77.255351,,,,,,0
+717,HecLotPM,Old Bridge Rd and 123 Commuter Lot,Old Bridge Rd & Gordon Blvd,38.674325,-77.255542,,,,,,0
+902,WatSBAM,Waterway Dr @ Spring Branch Blvd,,38.624943,-77.348024,,,,,,0
+903,WatHolAM,Waterway Dr @ Holleyside Dr,,38.623583,-77.348936,,,,,,0
+904,WatTRAM,Waterway Dr @ Timber Ridge Dr,,38.622194,-77.348666,,,,,,0
+905,WatEdgAM,Waterway Dr @ Edgehill Dr,,38.621127,-77.346531,,,,,,0
+906,WatSGAM,Waterway Dr @ Silvan Glen Dr,,38.619993,-77.344467,,,,,,0
+907,WatGCAM,Waterway Dr @ Golf Club Dr,,38.616983,-77.341626,,,,,,0
+908,WatFalAM,Waterway Dr @ Fallstone Pl,,38.611845,-77.337889,,,,,,0
+909,WatAvoAM,Waterway Dr @ Avon Dr,,38.608865,-77.335526,,,,,,0
+910,WatAlePM,Waterway Dr @ Alexander Pl,,38.603408,-77.338941,,,,,,0
+911,WatAshAM,Waterway Dr @ Ashgrove Dr,,38.605115,-77.344004,,,,,,0
+912,WatBraPM,Waterway Dr @ Brawner Dr,,38.606009,-77.34731,,,,,,0
+913,WatMonAM,Waterway Dr @ Moncure Dr,,38.60861,-77.350549,,,,,,0
+914,WatMtAM,Waterway Dr @ Montview Dr,,38.609827,-77.353191,,,,,,0
+915,WatWidAM,Waterway Dr @ Widewater Dr,,38.610843,-77.355336,,,,,,0
+916,WatSLAM,Waterway Dr @ South Lake Blvd,Waterway Dr & S Lake Blvd,38.610542,-77.359186,,,,,,0
+917,DumExeAM,Dumfries Rd @ Exeter Dr,,38.593177,-77.334544,,,,,,0
+918,234Lot,Route 234 Commuter Lot,Dumfries Rd & Jefferson Davis Hwy,38.576812,-77.315842,,,,,,0
+919,DumExePM,Dumfries Rd @ Exeter Dr,,38.593978,-77.334139,,,,,,0
+920,DumStoPM,Dumfries Rd @ Stockbridge Dr,,38.597668,-77.335749,,,,,,0
+921,MonLotPM,Montclair Commuter Lot,Dumfries Rd & Stockbridge Dr,38.599775,-77.337675,,,,,,0
+922,WatSLPM,Waterway Dr @ South Lake Blvd,Waterway Dr & Southlake Blvd,38.610797,-77.358051,,,,,,0
+923,WatWidPM,Waterway Dr @ Widewater Dr,,38.610565,-77.355424,,,,,,0
+924,WatMtPM,Waterway Dr @ Montview Dr,,38.609535,-77.353182,,,,,,0
+925,WatMonPM,Waterway Dr @ Moncure Dr,,38.608315,-77.350574,,,,,,0
+926,WatMarAM,Waterway Dr @ Marlington Dr,,38.607725,-77.348621,,,,,,0
+927,WatBraAM,Waterway Dr @ Brawner Dr,,38.605902,-77.346886,,,,,,0
+928,WatAshPM,Waterway Dr @ Ashgrove Dr,,38.604838,-77.343952,,,,,,0
+929,WatAleAM,Waterway Dr @ Alexander Pl,,38.603736,-77.338766,,,,,,0
+930,WatNorPM,Waterway Dr @ Northgate Dr,,38.608402,-77.334981,,,,,,0
+931,WatFalPM,Waterway Dr @ Fallstone Pl,WATERWAY DR & Fallstone Pl,38.611534,-77.337424,,,,,,0
+932,WatGCPM,Waterway Dr @ Golf Club Dr,,38.61738,-77.341712,,,,,,0
+933,WatSGPM,Waterway Dr @ Silvan Glen Dr,,38.619748,-77.343832,,,,,,0
+934,WatLarPM,Waterway Dr @ Larkspur Ln,,38.621417,-77.346624,,,,,,0
+935,WatTRPM,Waterway Dr @ Timber Ridge Dr,,38.622376,-77.348407,,,,,,0
+936,WatHolPM,Waterway Dr @ Holleyside Ct,,38.623732,-77.348612,,,,,,0
+937,WatSBPM,Waterway Dr @ Spring Branch Blvd,,38.625018,-77.347534,,,,,,0
+1008,ClaRRAM,River Ridge Blvd @ Clancy Dr,,38.575035,-77.301877,,,,,,0
+1009,RRWayAM,Wayside Dr @ River Ridge Blvd,,38.574215,-77.304,,,,,,0
+1010,WayKirAM,Wayside Dr @ Kirby Dr,,38.575505,-77.305757,,,,,,0
+1011,WayLarAM,Wayside Dr @ Larkin Dr,,38.576623,-77.308186,,,,,,0
+1012,WayLCPM,Wayside Dr @ Locust Creek Dr,,38.576455,-77.308301,,,,,,0
+1013,WayCosPM,Wayside Dr @ Cosgrove Way,,38.575348,-77.305822,,,,,,0
+1014,WayRRPM,River Ridge Blvd @ Wayside Dr,,38.573725,-77.303367,,,,,,0
+1108,123Lot,Route 123 and I-95  Commuter Lot,Annapolis Way & Gordon Blvd,38.670235,-77.251141,,,,,,0
+1205,PorLot,Portsmouth Commuter Lot,Portsmouth Rd & Williamson Blvd,38.781345,-77.505483,,,,,,0
+1207,WilEmeAM,Williamson Blvd @ Emerald Dr,,38.793083,-77.510161,,,,,,0
+1208,WilStoAM,Williamson Blvd @ Stonehouse Dr,,38.7968,-77.513404,,,,,,0
+1209,WilStoPM,Williamson Blvd @ Stonehouse Dr,,38.79657,-77.513292,,,,,,0
+1210,WilLocPM,Williamson Blvd @ Emerald Dr,,38.793122,-77.510479,,,,,,0
+1213,GraLeeAM,Grant Ave @ Lee Ave,,38.752036,-77.475288,,,,,,0
+1214,GraLeePM,Grant Ave @ Lee Ave,,38.752405,-77.475551,,,,,,0
+1215,GraSudAM,Grant Ave @ Sudley Rd,,38.76095,-77.477047,,,,,,0
+1216,GraSudPM,Grant Ave @ Sudley Rd,,38.760982,-77.477317,,,,,,0
+1219,CenLibAM,Centreville Rd @ Liberia Ave,,38.760708,-77.461333,,,,,,0
+1220,CenLibPM,Centreville Rd @ Liberia Ave,,38.761567,-77.460399,,,,,,0
+1234,ManJun,Manassas Junction,Centreville Rd & Liberia Ave,38.762272,-77.458226,,,,,,0
+1301,Rt1MP,Route 1 @ Mt Pleasant Dr,Jefferson Davis Hwy & Mt Pleasant Dr,38.65249,-77.255647,,,,,,0
+1305,Rt1MarPM,Route 1 @ Marys Way,Jefferson Davis Hwy & Marys Way,38.65276,-77.255797,,,,,,0
+1310,OpiDSPM,Opitz Blvd @ Daniel Stuart Sq,,38.633555,-77.275586,,,,,,0
+1311,OpiMonAM,Opitz Blvd @ Montgomery Ave,,38.634838,-77.273119,,,,,,0
+1315,PkyNPWB,Prince William Pkwy @ Noble Pond Way,Prince William  Pkwy & Noble Pond Way,38.648813,-77.306492,,,,,,0
+1400,14IndAM,14th St @ Independence Ave SW,14th St SW & Independence Ave,38.8869,-77.031787,,,,,,0
+1403,14PenAM,14th St @ Pennsylvania Ave NW,14th St NW & Pennsylvania Ave NW,38.895935,-77.031822,,,,,,0
+1404,14NYAM,14th St @ New York Ave NW,14th St NW & New York Ave NW,38.899219,-77.03188,,,,,,0
+1407,I18AM,I St @ 18th St NW,,38.901343,-77.041364,,,,,,0
+1409,19FAM,19th St @ F St NW,19th St NW & F St NW,38.897375,-77.043499,,,,,,0
+1419,H13AM,H St @ 13th St NW,H St Nw & 13th St NW,38.899743,-77.029677,,,,,,0
+1420,H11AM,H St @ 11th St NW,,38.899803,-77.027089,,,,,,0
+1422,11EAM,11th St @ E St NW,11th St NW & E St NW,38.896185,-77.027082,,,,,,0
+1423,Pen10AM,Pennsylvania Ave @ 10th St NW,Pennsylvania Ave NW & 10th St NW,38.894173,-77.025526,,,,,,0
+1424,Pen7AM,Pennsylvania Ave @ 7th St NW,Pennsylvania Ave NW & 7th St NW,38.89324,-77.022229,,,,,,0
+1429,7CAM,7th St @ C St SW,7th St SW & C St SW,38.886679,-77.022059,,,,,,0
+1430,D9,D St @ 9th St SW,,38.884905,-77.023726,,,,,,0
+1432,M3AM,M St @ Delaware Ave SW,,38.876378,-77.013672,,,,,,0
+1433,MHalAM,M St @ Half St SE,M St SE & Half St SE,38.876313,-77.007029,,,,,,0
+1435,M4thAM,M St @ 4th St SE,M St SE & 4th St SE,38.876458,-77.000807,,,,,,0
+1436,MIH,M St @ Isaac Hull Ave,M St SE & Isaac Hull Ave,38.876408,-76.997417,,,,,,0
+1437,M9,M St @ 9th St SE,M St SE & 9th St SE,38.87635,-76.992994,,,,,,0
+1439,11EadAM,S Eads St @ Army Navy Dr,,38.864504,-77.054377,,,,,,0
+1502,18FPM,18th St @ F St NW,18th St SW & F St NW,38.897083,-77.041661,,,,,,0
+1503,18PenPM,18th St @ Pennsylvania Ave NW,18th St NW & Pennsylvania Ave NW,38.89939,-77.041697,,,,,,0
+1504,HJacPM,H St NW @  Jackson Pl NW,,38.900203,-77.037454,,,,,,0
+1507,14FPM,14th St @ F St NW,14th St NW & F St NW,38.897676,-77.032072,,,,,,0
+1508,14ComPM,14th St @ Pennsylvania Ave NW,14th St NW & Pennsylvania Ave NW,38.894757,-77.032084,,,,,,0
+1509,14IndPM,14th St @ Independence Ave SW,14th St SW & Independence Ave SW,38.887033,-77.032047,,,,,,0
+1511,M4PM,M St @ 4th St SE,M St SE & 4th St SE,38.876615,-77.000402,,,,,,0
+1512,MNJPM,M St @ New Jersey Ave SE,M St SE & New Jersey Ave SE,38.87652,-77.004696,,,,,,0
+1513,MHalPM,M St @ Half St SE,M St SE & Half St SE,38.876493,-77.008487,,,,,,0
+1515,D7,D St @ 7th St SW,D St SW & 7th St SW,38.884775,-77.023216,,,,,,0
+1516,7Mar,7th St @ Maryland Ave SW,7th St SW & Maryland Ave SW,38.886195,-77.021769,,,,,,0
+1520,Pen7PM,Pennsylvania Ave @ 7th St NW,Pennsylvania Ave NW & 7th St NW,38.893637,-77.022574,,,,,,0
+1522,11EPM,11th St @ E St NW,11th St NW & E St NW,38.895947,-77.02698,,,,,,0
+1526,FSMetro,Franconia Springfield Metro Departures,6880 Frontier Dr,38.766858,-77.169282,,,,,,0
+1529,WatMarPM,Waterway Dr @ Marlington Dr,,38.607792,-77.349331,,,,,,0
+1536,MCentPre,Centreville Rd @ Prescott Ave,,38.755142,-77.466369,,,,,,0
+1537,MPortn-N,Sudley Rd @ Portner Ave,,38.75748,-77.470184,,,,,,0
+1540,MRolln-N,Ashton Ave @ Rolling Rd,,38.761332,-77.496781,,,,,,0
+1541,MGodw-N,Ashton Ave @ Godwin Dr,Ashton Ave & Godwin Ave,38.76403,-77.500681,,,,,,0
+1542,MBnnWd-N,Ashton Ave @ Bannerwood Dr,,38.764937,-77.502597,,,,,,0
+1543,MRixlw-N,Ashton Ave @ Rixlew Ln,,38.767097,-77.505947,,,,,,0
+1546,MSudBatt,Sudley Rd @ Battleview Pkwy,,38.804375,-77.520804,,,,,,0
+1547,MRixlw-S,Ashton Ave @ Rixlew Ln,,38.766583,-77.505541,,,,,,0
+1548,MBnnWd-S,Ashton Ave @ Bannerwood Dr,,38.764788,-77.502802,,,,,,0
+1549,MGodw-S,Ashton Ave @ Godwin Dr,,38.76376,-77.500752,,,,,,0
+1550,MBurnsd,Ashton Ave @ Burnside Rd,,38.76172,-77.497844,,,,,,0
+1551,MDiggs-S,Sudley Rd @ Digges Rd,,38.767765,-77.485439,,,,,,0
+1554,MPortn-S,Sudley Rd @ Portner Ave,,38.75731,-77.470134,,,,,,0
+1555,MCentSud,Centreville Rd @ Sudley Rd,,38.755148,-77.466601,,,,,,0
+1557,MHenWe-S,Hendley Rd @ Wellington Rd,,38.738368,-77.478206,,,,,,0
+1566,MNVBat-N,Nova Ct @ Battleview Pkwy,NOVA WAY & Battleview Pkwy,38.805972,-77.518642,,,,,,0
+1567,MCrsSd-N,Crestwood Dr @ Sudley Rd,,38.779282,-77.511402,,,,,,0
+1568,MAshSd-N,Ashton Ave @ Sudley Manor Dr,,38.78551,-77.520642,,,,,,0
+1569,MRsmry-N,Ashton Ave @ Rosemary Dr,,38.791195,-77.522484,,,,,,0
+1570,MCOVR-N,Coverstone Dr @ Purdue Ct,,38.793375,-77.521422,,,,,,0
+1578,MPSdGd-A,Sudley Rd @ Godwin Dr,,38.769762,-77.494094,,,,,,0
+1579,MPManJ-A,Liberia Ave @ Manassas Junction,Liberia Ave & Centreville Rd,38.760722,-77.458061,,,,,,0
+1582,MPClif-B,Portsmouth Rd @ Clifton St,,38.782798,-77.495384,,,,,,0
+1583,MPPort-B,Portsmouth Rd @ Sudley Rd,,38.77915,-77.505443,,,,,,0
+1584,MPUrb-B,Portsmouth Rd @ Portwood Turn,,38.781692,-77.500132,,,,,,0
+1585,MPFPrt-B,Fairmont Ave @ Portsmouth Rd,,38.782172,-77.491542,,,,,,0
+1586,MPFair-B,Lomond Dr @ Fairmont Ave,,38.783548,-77.490364,,,,,,0
+1587,MPSLom-B,Lomond Dr @ S Lomond Dr,,38.78187,-77.484451,,,,,,0
+1588,MLOMND-B,Lomond Dr @ Manassas Dr,,38.784445,-77.481651,,,,,,0
+1589,MPMace-B,Manassas Dr @ Mace St,,38.782415,-77.478397,,,,,,0
+1590,MPKent-B,Manassas Dr @ Kent Dr,,38.781852,-77.473981,,,,,,0
+1591,MPColf-B,Manassas Dr @ Colfax Ct,,38.783162,-77.471072,,,,,,0
+1592,MPCrtn-B,Manassas Dr @ Courtney Dr,,38.782035,-77.466446,,,,,,0
+1593,MPPolk-B,Manassas Dr @ Polk Dr,,38.77841,-77.460786,,,,,,0
+1594,MPVerm-B,Maplewood Dr @ Vermont Pl,,38.778539,-77.456815,,,,,,0
+1595,MPSand-B,Manassas Dr @ Sandstone Way,,38.771278,-77.450291,,,,,,0
+1596,MPOver-B,Manassas Dr @ Overhill Dr,,38.770907,-77.448179,,,,,,0
+1597,MPEucl-B,Manassas Dr @ Euclid Ave,,38.770295,-77.446729,,,,,,0
+1598,MPKCtr-B,Manassas Dr @ Park Center Ct,,38.76737,-77.442696,,,,,,0
+1601,MPSgPk-B,Signal View Dr @ Signal Bay Water Park,9300 SIGNAL VIEW DR & UNNAMED ST,38.753819,-77.438471,,,,,,0
+1602,MPSVSH-B,Signal View Dr @ Signal Hill Rd,Signal View Dr & Signall Hill Rd,38.748549,-77.444653,,,,,,0
+1605,MPMatL-B,Mathis Ave @ Liberia Ave,,38.762462,-77.461746,,,,,,0
+1606,MPRoll-B,Sudley Rd @ Rolling Rd,,38.769717,-77.490682,,,,,,0
+1608,14ReaAM,14th St @ Constitution Ave NW,14th St NW & Constitution Ave NW,38.893517,-77.031839,,,,,,0
+1609,14FAM,14th St @ F St NW,14th St NW & F St NW,38.897217,-77.031882,,,,,,0
+1611,PkySmoEB,Prince William Pkwy @ Smoketown Rd,,38.65069,-77.302812,,,,,,0
+1612,SmoNazEB,Smoketown Rd @ Nazarene Way,,38.643678,-77.301357,,,,,,0
+1613,Pentgn,Pentagon Metro,2 S Rotary Rd,38.868145,-77.054364,,,,,,0
+1619,Rt1GorAM,Route 1 @ Gordon Blvd,Jefferson Davis Hwy & Gordon Blvd,38.661599,-77.247133,,,,,,0
+1621,LibPkyEB,Liberia Ave @ Prince William Pkwy,,38.742807,-77.451101,,,,,,0
+1624,PkyGolWB,Prince William Pkwy @ Golansky Blvd,Prince William Pky & Golansky Blvd,38.648455,-77.314072,,,,,,0
+1625,LibSHWB,Liberia Ave @ Signal Hill Rd,,38.745057,-77.450116,,,,,,0
+1626,LibSHEB,Liberia Ave @ Signal Hill Rd,,38.748489,-77.44974,,,,,,0
+1627,PkwSonEB,Prince William Pkwy @ Sonora St,,38.647753,-77.313916,,,,,,0
+1629,MRolParS,Rolling Rd @ Park Ave,,38.762903,-77.494026,,,,,,0
+1630,MRolParN,Rolling Rd @ Park Ave,,38.763152,-77.493964,,,,,,0
+1631,MRolSugN,Rolling Rd @ Sugarwood Ln,,38.766915,-77.492124,,,,,,0
+1632,MRolCouS,Rolling Rd @ Country Ln,,38.765735,-77.492851,,,,,,0
+1641,WWdbVRE,Woodbridge VRE Station Departures,1040 Express Dr,38.659202,-77.247717,,,,,,0
+1649,WayRt1PM,Wayside Dr @ Route 1,Wayside Dr & Jefferson Davis Hwy,38.578258,-77.311401,,,,,,0
+1651,DUFulHei,Fuller Heights Rd @ Old Triangle Rd,,38.544788,-77.331692,,,,,,0
+1652,DUOTStIB,Old Triangle Rd @ Steele Ct,,38.560458,-77.326777,,,,,,0
+1653,DUOTKeIB,Old Triangle Rd @ Kearsarge Dr,Old Triangle Rd & Kearsage Dr,38.56307,-77.323684,,,,,,0
+1654,DURt1Nea,Route 1 @ Neabsco Rd,Jefferson Davis Hwy & Neabsco Rd,38.6084,-77.291332,,,,,,0
+1657,DUAndNB,Route 1 @ Squire Lane,Jefferson Davis Hwy & SQUIRE LN,38.549189,-77.334563,,,,,,0
+1658,I15AM,I St NW @ 15th St NW,,38.901328,-77.034439,,,,,,0
+1662,Mai6AM,M St @ 6th St SW,M ST & 6th St SW,38.876332,-77.019491,,,,,,0
+1663,Mai6PM,M St @ 6th St SW,M St SW & 6th St SW,38.876548,-77.019654,,,,,,0
+1665,CHRt1AM,River Heritage Blvd @ Route 1,,38.583273,-77.307343,,,,,,0
+1666,CHGWAM,River Heritage Blvd @ Gentle Wood Dr,,38.581392,-77.304642,,,,,,0
+1667,CHGWPM,River Heritage Blvd @ Gentle Wood Dr,River Heritage Blvd & Gentle Wood Drive,38.581854,-77.304874,,,,,,0
+1668,CHRt1PM,River Heritage Blvd @ Route 1,River Heritage Blvd & Jefferson Davis Hwy,38.583353,-77.307554,,,,,,0
+1674,DevPB,Devlin Rd @ Pike Branch Rd,,38.771712,-77.569229,,,,,,0
+1678,LHHS,Linton Hall Rd @ Harness Shop Rd,,38.777337,-77.598367,,,,,,0
+1679,LHBri,Linton Hall Rd @ Bridlewood Dr,,38.772518,-77.594476,,,,,,0
+1680,LHWor,Linton Hall Rd @ Worthington Dr,,38.763127,-77.585039,,,,,,0
+1681,DevUni,Devlin Rd @ University Blvd,,38.767522,-77.569888,,,,,,0
+1693,DUNeFHS,Neabsco Mills Rd @ Freedom High,Neabsco Mills Rd & School Service Rd,38.622153,-77.291167,,,,,,0
+1694,DUFraley,Fraley Blvd @ Williamstown Dr,,38.56549,-77.324996,,,,,,0
+1702,M10PM,M St @ 10th St SE,M St SE & 10th St SE,38.876582,-76.992477,,,,,,0
+1703,LibRicWB,Liberia Ave @ Richmond Ave,,38.752012,-77.449467,,,,,,0
+1704,LibRicEB,Liberia Ave @ Richmond Ave,,38.75236,-77.449942,,,,,,0
+1705,LimeLH,Limestone Commuter Lot,Limestone Dr & Linton Hall Rd,38.780445,-77.599312,,,,,,0
+1707,MIHPM,M St @ Isaac Hull Ave SE,M St SE & Isaac Hull Ave SE,38.876603,-76.997577,,,,,,0
+1708,Rt1DelNB,Route 1 @ Delaware Dr,Jefferson Davis Hwy & Delaware Dr,38.628922,-77.275234,,,,,,0
+1713,Rt1RRSB,Route 1 @ River Ridge Blvd,Jefferson Davis Hwy & River Ridge Blvd,38.587508,-77.306507,,,,,,0
+1714,Rt1RRIB,Route 1 @ River Ridge Blvd,Jefferson Davis Hwy & River Ridge Blvd,38.588536,-77.305384,,,,,,0
+1715,Rt1FL,Route 1 @ Fox Lair Dr,Jefferson Davis Hwy & Fox Lair Dr,38.593862,-77.300907,,,,,,0
+1716,DCOpal,Dale Blvd @ Opal Ln,,38.671302,-77.395422,,,,,,0
+1741,PkwMal,Prince William Pkwy @ Malta St,,38.650295,-77.316032,,,,,,0
+1742,WilKenAM,Wilson Blvd @ N Kent St,,38.894834,-77.069469,,,,,,0
+1743,FaiKanAM,N Fairfax Dr @ N Kansas St,,38.884177,-77.101608,,,,,,0
+1744,FaiTayAM,N Fairfax Dr @ N Taylor St,,38.882295,-77.112326,,,,,,0
+1745,FaiTayPM,N Farifax Dr @ N Taylor St,,38.882072,-77.112889,,,,,,0
+1746,FaiKanPM,N Fairfax Dr @ N Lincoln St,,38.883634,-77.102494,,,,,,0
+1747,WilKenPM,Wilson Blvd @ N Kent St,,38.89462,-77.069424,,,,,,0
+1752,Vir21S,Virginia Ave @ 21st St NW,Virginia Ave NW & 21st St NW,38.895058,-77.046332,,,,,,0
+1755,DUGPOTsb,Graham Park Rd @ Old Triangle Rd,,38.559695,-77.328272,,,,,,0
+1756,DUOTSVsb,Old Triangle Rd @ Soundview Cir,Old Triangle Rd & Soundview Circ,38.55365,-77.329665,,,,,,0
+1757,DUFHPer,Fuller Heights Rd @ Perry St,,38.536155,-77.322756,,,,,,0
+1758,THELOFTS,The Lofts at Little Creek Departures,3600 Quantico Ter,38.534693,-77.321739,,,,,,0
+1759,DUOTGPnb,Old Triangle Rd @ Graham Park Rd,,38.558253,-77.328202,,,,,,0
+1760,DUOTSVnb,Old Triangle Rd @ Soundview Cir,,38.553673,-77.329547,,,,,,0
+1761,DUBotDol,Route 1 @ Wayside Dr,Jefferson Davis Hwy & Wayside Dr,38.578988,-77.312264,,,,,,0
+1762,DCDaleIB,Darbydale Ave @ Dale Blvd,,38.638238,-77.324826,,,,,,0
+1770,WTroup,Old Bridge Rd @ Troupe St,,38.673532,-77.333356,,,,,,0
+1778,DUFulKer,Fuller Heights Rd @ Kerill Rd,,38.542077,-77.327926,,,,,,0
+1782,DCHGa-IB,Hoadly Rd @ Galveston Ct,,38.678443,-77.363756,,,,,,0
+1783,DCHPu-IB,Hoadly Rd @ Purcell Rd,,38.672886,-77.394412,,,,,,0
+1784,MTaney-N,Grant Ave @ Taney Rd,,38.742003,-77.471639,,,,,,0
+1785,MRolSud,Rolling Rd @ Sudley Rd,,38.7689,-77.490346,,,,,,0
+1786,MTaney-S,Grant Ave @ Taney Rd,,38.74178,-77.471791,,,,,,0
+1787,RixAsh,Rixlew Ln @ Ashton Ave,,38.767586,-77.506457,,,,,,0
+1789,WilVei,Wilson Blvd @ N Veitch St,,38.891312,-77.086129,,,,,,0
+1790,WilHer,Wilson Blvd @ N Herndon St,,38.887412,-77.095426,,,,,,0
+1791,ClaWay,Clarendon Blvd @ N Wayne St,,38.89035,-77.086241,,,,,,0
+1794,DCHAplo,Hoadly Rd @ Apollo Dr,HOADLY RD & APOLLO DR,38.679707,-77.36148,,,,,,0
+1797,DuFulKIB,Fuller Heights Rd @ Kerill Rd,,38.542077,-77.327831,,,,,,0
+1798,DuFulBet,Fuller Heights Rd @ Bethlehem Church Rd,,38.537755,-77.324396,,,,,,0
+1801,DUNeaCtB,Potomac Center Blvd @ Central Bridge Plz,,38.633022,-77.284197,,,,,,0
+1802,DUNeaPB,Potomac Center Blvd @ Potomac Branch Dr,,38.631972,-77.283689,,,,,,0
+1803,DUNeaCwB,Potomac Center Blvd @ Potomac Town Ctr,,38.628097,-77.284336,,,,,,0
+1804,DUNeaSH,Potomac Center Blvd @ Sheffield Way,,38.626885,-77.284459,,,,,,0
+1805,TyTrnCtr,Tysons Corner Transit Center,Fashion Blvd & Shoptysons Blvd,38.916413,-77.220989,,,,,,0
+1806,TYLbgInt,Leesburg Pike @ International Dr,,38.914987,-77.225262,,,,,,0
+1807,Ty8200Gr,8200  Block Greensboro Dr,8200 GREENSBORO DR,38.922735,-77.227782,,,,,,0
+1808,TyGrSol,Greensboro Dr @ Solutions Dr,,38.923118,-77.230686,,,,,,0
+1809,TyGrWPD,Greensboro Dr @ Westpark Dr,,38.924705,-77.232134,,,,,,0
+1810,TyGrWPD2,Greensboro Dr @ Westpark Dr,,38.926232,-77.233672,,,,,,0
+1811,TyWstPkT,Jones Branch Dr @ Lincoln Way,,38.931923,-77.230144,,,,,,0
+1812,TyJBrPkR,Jones Branch Dr @ Park Run Dr,,38.931912,-77.227332,,,,,,0
+1813,TyFrMcCt,Jones Branch Dr @ Freddie Mac Cir,,38.931497,-77.224731,,,,,,0
+1814,TyJBrWBr,Jones Branch Dr @ Westbranch Dr,,38.931313,-77.219344,,,,,,0
+1815,Ty7925JB,7925 Jones Branch Dr,,38.930238,-77.216809,,,,,,0
+1817,Ty7915JB,7915 Jones Branch Dr,,38.926607,-77.217681,,,,,,0
+1819,TyGrSpgh,Greensboro Dr @ Spring Hill Rd,,38.928415,-77.236026,,,,,,0
+1820,TyIntFlt,International Dr @ Fletcher St,Internation Dr & Fletcher St,38.916668,-77.225334,,,,,,0
+1826,OMNI Lot,OMNIRIDE Commuter Lot,POTOMAC MILLS RD & TELEGRAPH RD,38.631048,-77.294342,,,,,,0
+1829,DUCelest,Route 1 @ Celestial Dr,Jefferson Davis Hwy & Celestial Dr,38.59811,-77.296799,,,,,,0
+1830,DUAmEag,Route 1 @ American Eagle Blvd,Jefferson Davis Hwy & American Eagle Blvd,38.599328,-77.296249,,,,,,0
+1834,PotMill,Potomac Mills Mall @ Buy Buy Baby,2700 Potomac Mills Cir,38.645683,-77.292369,,,,,,0
+1835,WMinnElm,Minnieville Rd @ Elm Farm Rd,,38.653595,-77.313082,,,,,,0
+1837,MainQuGa,S Main St @ Quantico Gateway Dr,,38.553784,-77.333476,,,,,,0
+1840,MinCatA,Minnieville Rd @ Caton Hill Rd,,38.658448,-77.301621,,,,,,0
+1841,CatDMVA,Caton Hill Rd @ Great Oaks Drive,,38.657832,-77.297898,,,,,,0
+1842,CatKillA,Caton Hill Rd @ Killarney Dr,,38.657662,-77.294429,,,,,,0
+1843,CatTelA,Caton Hill Rd @ Telegraph Rd,,38.655966,-77.289941,,,,,,0
+1844,CatKillB,Caton Hill Rd @ Killarney Dr,,38.657564,-77.293084,,,,,,0
+1845,CatDMVB,Caton Hill Rd @ Southern Oaks Way,,38.658091,-77.297074,,,,,,0
+1846,MinCatB,Minnieville Rd @ Caton Hill Rd,,38.65818,-77.302039,,,,,,0
+1849,Rt1Geor,Route 1 @ Georgetown Rd,Jefferson Davis Hwy & Georgetown Rd,38.592266,-77.302104,,,,,,0
+1850,Rt1BeaNB,Route 1 @ Beacon Ridge Dr,Jefferson Davis Hwy & Beacon Ridge Dr,38.624291,-77.278969,,,,,,0
+1851,Rt1PotSB,Route 1 @ Potomac Club Pkwy,Jefferson Davis Hwy & Potomac Club Pkwy,38.624309,-77.279039,,,,,,0
+1866,TelLot,Telegraph Road Commuter Lot,TELEGRAPH RD,38.658054,-77.288397,,,,,,0
+1870,FSMetro,Franconia-Springfield Metro Arrivals,6880 Frontier Dr,38.767218,-77.17196,,,,,,0
+1871,OMNITC,OMNIRIDE Transit Center Arrivals,14700 Potomac Mills Rd,38.630789,-77.294122,,,,,,0
+1872,Cushing,Cushing Commuter Lot,CUSHING RD & BALLS FORD RD,38.795023,-77.563908,,,,,,0
+1875,CHINN,Chinn Park Dr @ Chinn Center Arrivals,13025 Chinn Park Dr,38.672052,-77.332992,,,,,,0
+1876,THELOFTS,The Lofts at Little Creek Arrivals,3600 Quantico Ter,38.535754,-77.322225,,,,,,0
+1877,MNOVA,NOVA Campus in Manassas Arrivals,6901 Sudley Rd,38.808596,-77.519982,,,,,,0
+1879,WwdbVRE,Woodbridge VRE Station Arrivals,1040 DAWSON BEACH RD & EXPRESS DR,38.65722,-77.248587,,,,,,0
+1880,DUQUANT,Broadway St @ Potomac Ave Arrivals,CSX TRANSPORTATION & POTOMAC AVE,38.522308,-77.292953,,,,,,0
+1882,GidDale,Gideon Dr @ Dale Blvd,,38.627337,-77.303445,,,,,,0
+1885,RHKirbAM,River Heritage Blvd @ Kirby Dr,,38.580034,-77.302476,,,,,,0
+1886,RHRRAM,River Heritage Blvd @ River Ridge Blvd,,38.577134,-77.299626,,,,,,0
+1887,RRClanPM,River Ridge Blvd @ Barrley Dr,,38.575225,-77.301445,,,,,,0
+1888,RHRRPM,River Ridge Blvd @ River Heritage Blvd,,38.577009,-77.29958,,,,,,0
+1889,RHKirbPM,River Heritage Blvd @ Kirby Dr,,38.580168,-77.302117,,,,,,0
+1890,MNMirBal,Miramar Dr @ Balls Ford Rd,,38.797104,-77.520181,,,,,,0
+1892,Tysons,Tysons Corner Metro Station Departures,1943 Chain Bridge Rd,38.920313,-77.222916,,,,,,0
+1896,Ind12AM,Independence Ave SW @ 12th St SW,INDEPENDENCE AVE SW & 12TH ST SW,38.887501,-77.028595,,,,,,0
+1897,Ind12PM,Independence Ave SW @ 12th St SW,INDEPENDENCE AVE SW & 12TH ST SW,38.887678,-77.0288,,,,,,0
+1913,Tysons,Tysons Corner Metro Station Arrivals,1943 UNNAMED ST & TYSONS BLVD,38.92108,-77.222019,,,,,,0
+1915,MinAnd,Minnieville Rd @ Andorra Dr,MINNIEVILLE RD & ANDORRA DR,38.650435,-77.327,,,,,,0
+1916,MinHere,Minnieville Rd @ Hereford Rd,MINNIEVILLE RD & HEREFORD RD,38.64998,-77.32729,,,,,,0
+1918,Eads12NB,S Eads St @ 12th St S,S EADS ST & 12TH ST S,38.862898,-77.054115,,,,,,0
+1921,MNMALWAL,Manassas Mall Departures,8300 SUDLEY RD,38.772296,-77.506702,,,,,,0
+1922,MNMALWAL,Manassas Mall Arrivals,8300 SUDLEY RD,38.772008,-77.50834,,,,,,0
+1924,23Crys,23rd St S @ Crystal Dr,23RD ST S & CRYSTAL DR,38.853495,-77.050217,,,,,,0
+1925,Rt1VanNB,Route 1 @ Vantage Dr,JEFFERSON DAVIS HWY & VANTAGE DR,38.616567,-77.287702,,,,,,0
+1926,Rt1VanSB,Route 1 @ Neabsco Mills Rd,JEFFERSON DAVIS HWY & NEABSCO MILLS RD,38.612642,-77.289593,,,,,,0
+1927,Rt1DelSB,Route 1 @ Delaware Dr,JEFFERSON DAVIS HWY & DELAWARE DR,38.629465,-77.274943,,,,,,0
+1928,Rt1FeatN,Route 1 @ Featherstone Rd,JEFFERSON DAVIS HWY & FEATHERSTONE RD,38.636744,-77.26935,,,,,,0
+1929,Rt1FeatS,Route 1 @ Featherstone Dr,JEFFERSON DAVIS HWY & FEATHERSTONE RD,38.637002,-77.269211,,,,,,0
+1931,PwPyRdgC,Prince William Pkwy @ Ridgewood Center Dr,PRINCE WILLIAM PKY & RIDGEWOOD CENTER DR,38.674959,-77.341857,,,,,,0
+1957,MARKCTR,Mark Center,MARK CENTER DR,38.831635,-77.117932,,,,,,0
+1963,MASHRIX,Ashton Ave @ Mall Service Rd,ASHTON AVE & RIXLEW LN,38.770828,-77.509719,,,,,,0
+1964,ManJun,Manassas Junction Arrivals,MANASSAS JUNCTION,38.762255,-77.458246,,,,,,0
+1965,MASHCRST,Ashton Avenue @ Crestwood Dr,ASHTON AVE & CRESTWOOD DR,38.777973,-77.515943,,,,,,0
+1966,HorLot1P,Horner Rd Commuter Lot Stop 1 PM,Horner Road Commuter Lot & Telegraph Rd,38.658712,-77.280683,,,,,,0
+1967,HorLot2P,Horner Rd Commuter Lot Stop 2 PM,Horner Rd Commuter Lot & Telegraph Rd,38.658998,-77.283107,,,,,,0
+1969,MDelPM,M St SW @ Delaware Ave SW,M ST SW & DELAWARE AVE SW,38.876548,-77.013764,,,,,,0
+1970,19EOPM,19th Street NW @ E St NW,19TH ST NW & E ST NW,38.895165,-77.043598,,,,,,0
+1971,MAPCTR,Maplewood Center,SHOPPERS SQ,38.776696,-77.453965,,,,,,0
+1972,MHastFtn,Hastings Dr @ Fountain Cir,HASTINGS DR & FOUNTAIN CIR,38.733717,-77.4765,,,,,,0
+1973,MDumWtr,Dumfries Rd @ Winterset Dr,DUMFRIES RD & WINTERSET DR,38.737032,-77.472861,,,,,,0
+1975,WChinnDr,Chinn Park Dr @ Prince William Pkwy,CHINN PARK DR & PRINCE WILLIAM PKY,38.671311,-77.333699,,,,,,0
+1976,WTrpCord,Troupe St @ Cordelia Ct,TROUPE ST & CORDELIA CT,38.672106,-77.332818,,,,,,0
+1982,Pentgn,Pentagon Metro,2 S ROTARY RD,38.868127,-77.054446,,,,,,0
+2004,Eads13AM,S Eads St @ 13th St,S EADS ST & 13TH ST,38.861844,-77.054094,,,,,,0
+2005,18STBAY,18th St Bus Bays,18TH ST S & S CLARK,38.857399,-77.05233,,,,,,0
+2006,7thIndAM,7th St @ Independence Ave SW,7TH ST SW & INDEPENDENCE AVE SW,38.887835,-77.022037,,,,,,0
+2008,7thEAM,7th St @ E St SW,7th st sw & E ST SW,38.883698,-77.02206,,,,,,0
+2009,7thEPM,7th St @ E St SW,7TH ST SW & E ST SW,38.884163,-77.021804,,,,,,0
+2010,MNRAIL,Manassas Dr @ Railroad Dr,MANASSAS DR & RAILROAD DR,38.763321,-77.442552,,,,,,0
+2011,DCTroupe,Old Bridge Rd @ Troupe St,OLD BRIDGE RD & TROUPE ST,38.672833,-77.33433,,,,,,0
+2012,DUPowShe,Powells Creek Blvd @ Sherwood Pl,POWELLS CREEK BLVD & SHERWOOD PL,38.592902,-77.299235,,,,,,0
+2013,MWelHamp,Wellington Rd @ Hampton Rd,WELLINGTON RD & HAMPTON RD,38.739413,-77.474682,,,,,,0
+2014,19HSB,19th St @ H St NW,19TH ST NW & H ST NW,38.899091,-77.04375,,,,,,0
+2023,SmokeNew,Smoketown Plaza Shopping Center,SMOKETOWN PLAZA,38.654063,-77.307751,,,,,,0
+2024,WTackMil,Tacketts Mill Dr @ Minnieville Rd,TACKETTS MILL DR & MINNIEVILLE RD,38.67589,-77.278182,,,,,,0
+2025,WHarbor,Harbor Dr @ Lake Manor Dr,HARBOR DR & LAKE MANOR DR,38.67459,-77.279714,,,,,,0
+2066,DALGL-OB,Dale Blvd @ Glendale Rd,DALE BLVD & GLENDALE RD,38.649092,-77.341435,,,,,,0
+2067,HEATHLOT,Heathcote Lot,HEATHCOTE BLVD & COMMUTER LOT,38.818082,-77.637254,,,,,,0
+2068,HEATHABB,Heathcote Blvd @ Abberley Loop,HEATHCOTE BLVD & ABBERLEY LOOP,38.812948,-77.621767,,,,,,0
+2069,HEATHLEG,Heathcote Blvd @ Legend Dr,HEATHCOTE BLVD & LEGEND DR,38.811162,-77.615445,,,,,,0
+2070,HEATHTRE,Heathcote Blvd @ Trek Way,HEATHCOTE BLVD & TREK WAY,38.806559,-77.609077,,,,,,0
+2072,HeathHer,Heathcote Blvd @ Heritage Hunt Dr,HEATHCOTE BLVD & HERITAGE HUNT DR,38.803474,-77.601183,,,,,,0
+2073,14NYPM,14th St @ New York Ave NW,14TH ST NW & NEW YORK AVE NW,38.899413,-77.031967,,,,,,0
+2074,7THJEFPM,7th St @ Jefferson Dr SW,7TH ST SW & JEFFERSON DR SW,38.88879,-77.021884,,,,,,0
+2075,HeatCaro,Heathcote Blvd @ Old Carolina Rd,HEATHCOTE BLVD & OLD CAROLINA RD,38.818186,-77.631827,,,,,,0
+2076,RIPVRE,Rippon VRE Departures,15511 FARM CREEK DR,38.612345,-77.253934,,,,,,0
+2094,CATTELB,Caton Hill Rd @ Telegraph Rd,CATON HILL RD & TELEGRAPH RD,38.656439,-77.290271,,,,,,0
+2095,RT1ALLEN,Route 1 @ Allen Dent Rd,JEFFERSON DAVIS HWY & ALLEN DENT RD,38.583327,-77.309581,,,,,,0
+2096,WAYRT1,Wayside Dr @ Route 1,WAYSIDE DR & JEFFERSON DAVIS HWY,38.577547,-77.309527,,,,,,0
+2097,CLAHIGH,Clarendon Blvd @ Highland St,CLARENDON BLVD & N HIGHLAND ST,38.886803,-77.095161,,,,,,0
+2098,HENAZA,Hendley Rd @ Azalea Grove Dr,HENDLEY RD & AZALEA GROVE DR,38.735001,-77.478527,,,,,,0
+2099,HENAZA,Hendley Rd @ Azalea Grove Dr Arrivals,HENDLEY RD & AZALEA GROVE DR,38.73533,-77.478083,,,,,,0

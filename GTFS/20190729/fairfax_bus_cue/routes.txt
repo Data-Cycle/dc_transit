@@ -1,0 +1,5 @@
+route_id,agency_id, route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+green2,1,green2,Green 2,,3,,009933,ffffff
+green1,1,green1,Green 1,,3,,009933,ffffff
+gold2,1,gold2,Gold 2,,3,,ff9900,000000
+gold1,1,gold1,Gold 1,,3,,ff9900,000000

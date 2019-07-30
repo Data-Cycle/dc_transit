@@ -1,0 +1,1261 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,shape_id,wheelchair_accessible,bikes_allowed,block_id
+post_18th_18 NB_T01,18,mtwtf,Takoma-Langley Transit Center,1804,0,18_NB 122688,1,1,1804
+post_18th_18 NB_T02,18,mtwtf,Takoma-Langley Transit Center,1803,0,18_NB 122688,1,1,1803
+post_18th_18 NB_T03,18,mtwtf,Takoma-Langley Transit Center,1802,0,18_NB 122688,1,1,1802
+post_18th_18 NB_T04,18,mtwtf,Takoma-Langley Transit Center,1801,0,18_NB 122688,1,1,1801
+post_18th_18 NB_T05,18,mtwtf,Takoma-Langley Transit Center,1804,0,18_NB 122688,1,1,1804
+post_18th_18 NB_T06,18,mtwtf,Takoma-Langley Transit Center,1803,0,18_NB 122688,1,1,1803
+post_18th_18 NB_T07,18,mtwtf,Takoma-Langley Transit Center,1802,0,18_NB 122688,1,1,1802
+post_18th_18 NB_T08,18,mtwtf,Takoma-Langley Transit Center,1804,0,18_NB 122688,1,1,1804
+post_18th_18 NB_T09,18,mtwtf,Takoma-Langley Transit Center,1802,0,18_NB 122688,1,1,1802
+post_18th_18 NB_T10,18,mtwtf,Takoma-Langley Transit Center,1804,0,18_NB 122688,1,1,1804
+post_18th_18 NB_T11,18,mtwtf,Takoma-Langley Transit Center,1802,0,18_NB 122688,1,1,1802
+post_18th_18 NB_T12,18,mtwtf,Takoma-Langley Transit Center,1807,0,18_NB 122688,1,1,1807
+post_18th_18 NB_T13,18,mtwtf,Takoma-Langley Transit Center,1804,0,18_NB 122688,1,1,1804
+post_18th_18 NB_T14,18,mtwtf,Takoma-Langley Transit Center,1805,0,18_NB 122688,1,1,1805
+post_18th_18 NB_T15,18,mtwtf,Takoma-Langley Transit Center,1802,0,18_NB 122688,1,1,1802
+post_18th_18 NB_T16,18,mtwtf,Takoma-Langley Transit Center,1806,0,18_NB 122688,1,1,1806
+post_18th_18 NB_T17,18,mtwtf,Takoma-Langley Transit Center,1804,0,18_NB 122688,1,1,1804
+post_18th_18 SB_T01,18,mtwtf,Addison Road Metro Station,1802,1,18_SB 122689,1,1,1802
+post_18th_18 SB_T02,18,mtwtf,Addison Road Metro Station,1801,1,18_SB 122689,1,1,1801
+post_18th_18 SB_T03,18,mtwtf,Addison Road Metro Station,1804,1,18_SB 122689,1,1,1804
+post_18th_18 SB_T04,18,mtwtf,Addison Road Metro Station,1803,1,18_SB 122689,1,1,1803
+post_18th_18 SB_T05,18,mtwtf,Addison Road Metro Station,1802,1,18_SB 122689,1,1,1802
+post_18th_18 SB_T07,18,mtwtf,Addison Road Metro Station,1801,1,18_SB 122689,1,1,1801
+post_18th_18 SB_T08,18,mtwtf,Addison Road Metro Station,1804,1,18_SB 122689,1,1,1804
+post_18th_18 SB_T09,18,mtwtf,Addison Road Metro Station,1802,1,18_SB 122689,1,1,1802
+post_18th_18 SB_T10,18,mtwtf,Addison Road Metro Station,1804,1,18_SB 122689,1,1,1804
+post_18th_18 SB_T11,18,mtwtf,Addison Road Metro Station,1802,1,18_SB 122689,1,1,1802
+post_18th_18 SB_T12,18,mtwtf,Addison Road Metro Station,1804,1,18_SB 122689,1,1,1804
+post_18th_18 SB_T13,18,mtwtf,Addison Road Metro Station,1802,1,18_SB 122689,1,1,1802
+post_18th_18 SB_T15,18,mtwtf,Addison Road Metro Station,1806,1,18_SB 122689,1,1,1806
+post_18th_18 SB_T16,18,mtwtf,Addison Road Metro Station,1807,1,18_SB 122689,1,1,1807
+post_18th_18 SB_T17,18,mtwtf,Addison Road Metro Station,1804,1,18_SB 122689,1,1,1804
+post_18th_18 SB_T18,18,mtwtf,Addison Road Metro Station,1805,1,18_SB 122689,1,1,1805
+post_18th_18 SB_T19,18,mtwtf,Addison Road Metro Station,1802,1,18_SB 122689,1,1,1802
+post_18th_20 EB_T01,20,mtwtf,Upper Marlboro/CAB,2004,0,20_EB 122690,1,1,2004
+post_18th_20 EB_T02,20,mtwtf,Upper Marlboro/CAB,2005,0,20_EB 122690,1,1,2005
+post_18th_20 EB_T03,20,mtwtf,Upper Marlboro/CAB,2006,0,20_EB 122690,1,1,2006
+post_18th_20 EB_T04,20,mtwtf,Upper Marlboro/CAB,2001,0,20_EB 122690,1,1,2001
+post_18th_20 EB_T05,20,mtwtf,Upper Marlboro/CAB,2004,0,20_EB 122690,1,1,2004
+post_18th_20 EB_T06,20,mtwtf,Upper Marlboro/CAB,2007,0,20_EB 122690,1,1,2007
+post_18th_20 EB_T07,20,mtwtf,Upper Marlboro/CAB,2008,0,20_EB 122690,1,1,2008
+post_18th_20 EB_T08,20,mtwtf,Upper Marlboro/CAB,2001,0,20_EB 122690,1,1,2001
+post_18th_20M EB_T01,20,mtwtf,Upper Marlboro/CAB,2002,0,20M_EB 122691,1,1,2002
+post_18th_20M EB_T02,20,mtwtf,Upper Marlboro/CAB,2003,0,20M_EB 122691,1,1,2003
+post_18th_20M EB_T03,20,mtwtf,Upper Marlboro/CAB,2004,0,20M_EB 122691,1,1,2004
+post_18th_20M EB_T04,20,mtwtf,Upper Marlboro/CAB,2005,0,20M_EB 122691,1,1,2005
+post_18th_20M EB_T05,20,mtwtf,Upper Marlboro/CAB,2006,0,20M_EB 122691,1,1,2006
+post_18th_20M EB_T06,20,mtwtf,Upper Marlboro/CAB,2001,0,20M_EB 122691,1,1,2001
+post_18th_20M EB_T07,20,mtwtf,Upper Marlboro/CAB,2002,0,20M_EB 122691,1,1,2002
+post_18th_20M EB_T08,20,mtwtf,Upper Marlboro/CAB,2003,0,20M_EB 122691,1,1,2003
+post_18th_20M EB_T09,20,mtwtf,Upper Marlboro/CAB,2004,0,20M_EB 122691,1,1,2004
+post_18th_20M EB_T10,20,mtwtf,Upper Marlboro/CAB,2001,0,20M_EB 122691,1,1,2001
+post_18th_20M EB_T11,20,mtwtf,Upper Marlboro/CAB,2004,0,20M_EB 122691,1,1,2004
+post_18th_20M EB_T12,20,mtwtf,Upper Marlboro/CAB,2001,0,20M_EB 122691,1,1,2001
+post_18th_20M EB_T13,20,mtwtf,Upper Marlboro/CAB,2004,0,20M_EB 122691,1,1,2004
+post_18th_20M EB_T14,20,mtwtf,Upper Marlboro/CAB,2001,0,20M_EB 122691,1,1,2001
+post_18th_20M EB_T15,20,mtwtf,Upper Marlboro/CAB,2004,0,20M_EB 122691,1,1,2004
+post_18th_20M EB_T16,20,mtwtf,Upper Marlboro/CAB,2007,0,20M_EB 122691,1,1,2007
+post_18th_20M EB_T17,20,mtwtf,Upper Marlboro/CAB,2008,0,20M_EB 122691,1,1,2008
+post_18th_20M EB_T18,20,mtwtf,Upper Marlboro/CAB,2001,0,20M_EB 122691,1,1,2001
+post_18th_20M EB_T19,20,mtwtf,Upper Marlboro/CAB,2009,0,20M_EB 122691,1,1,2009
+post_18th_20M EB_T20,20,mtwtf,Upper Marlboro/CAB,2010,0,20M_EB 122691,1,1,2010
+post_18th_20 WB_T01,20,mtwtf,Addison Road Metro Station,2001,1,20_WB 122692,1,1,2001
+post_18th_20 WB_T02,20,mtwtf,Addison Road Metro Station,2002,1,20_WB 122692,1,1,2002
+post_18th_20 WB_T03,20,mtwtf,Addison Road Metro Station,2003,1,20_WB 122692,1,1,2003
+post_18th_20 WB_T04,20,mtwtf,Addison Road Metro Station,2004,1,20_WB 122692,1,1,2004
+post_18th_20 WB_T05,20,mtwtf,Addison Road Metro Station,2005,1,20_WB 122692,1,1,2005
+post_18th_20 WB_T06,20,mtwtf,Addison Road Metro Station,2001,1,20_WB 122692,1,1,2001
+post_18th_20 WB_T07,20,mtwtf,Addison Road Metro Station,2009,1,20_WB 122692,1,1,2009
+post_18th_20 WB_T08,20,mtwtf,Addison Road Metro Station,2010,1,20_WB 122692,1,1,2010
+post_18th_20M WB_T01,20,mtwtf,Addison Road Metro Station,2006,1,20M_WB 122693,1,1,2006
+post_18th_20M WB_T02,20,mtwtf,Addison Road Metro Station,2001,1,20M_WB 122693,1,1,2001
+post_18th_20M WB_T03,20,mtwtf,Addison Road Metro Station,2002,1,20M_WB 122693,1,1,2002
+post_18th_20M WB_T04,20,mtwtf,Addison Road Metro Station,2003,1,20M_WB 122693,1,1,2003
+post_18th_20M WB_T05,20,mtwtf,Addison Road Metro Station,2004,1,20M_WB 122693,1,1,2004
+post_18th_20M WB_T06,20,mtwtf,Addison Road Metro Station,2005,1,20M_WB 122693,1,1,2005
+post_18th_20M WB_T07,20,mtwtf,Addison Road Metro Station,2006,1,20M_WB 122693,1,1,2006
+post_18th_20M WB_T08,20,mtwtf,Addison Road Metro Station,2001,1,20M_WB 122693,1,1,2001
+post_18th_20M WB_T09,20,mtwtf,Addison Road Metro Station,2004,1,20M_WB 122693,1,1,2004
+post_18th_20M WB_T10,20,mtwtf,Addison Road Metro Station,2001,1,20M_WB 122693,1,1,2001
+post_18th_20M WB_T11,20,mtwtf,Addison Road Metro Station,2004,1,20M_WB 122693,1,1,2004
+post_18th_20M WB_T12,20,mtwtf,Addison Road Metro Station,2001,1,20M_WB 122693,1,1,2001
+post_18th_20M WB_T13,20,mtwtf,Addison Road Metro Station,2004,1,20M_WB 122693,1,1,2004
+post_18th_20M WB_T14,20,mtwtf,Addison Road Metro Station,2001,1,20M_WB 122693,1,1,2001
+post_18th_20M WB_T15,20,mtwtf,Addison Road Metro Station,2009,1,20M_WB 122693,1,1,2009
+post_18th_20M WB_T16,20,mtwtf,Addison Road Metro Station,2010,1,20M_WB 122693,1,1,2010
+post_18th_20M WB_T17,20,mtwtf,Addison Road Metro Station,2004,1,20M_WB 122693,1,1,2004
+post_18th_20M WB_T18,20,mtwtf,Addison Road Metro Station,2007,1,20M_WB 122693,1,1,2007
+post_18th_20M WB_T19,20,mtwtf,Addison Road Metro Station,2008,1,20M_WB 122693,1,1,2008
+post_18th_23 NB_T01,23,mtwtf,Cheverly Metro Station,2301,0,23_NB 122694,1,1,2301
+post_18th_23 NB_T02,23,mtwtf,Cheverly Metro Station,2302,0,23_NB 122694,1,1,2302
+post_18th_23 NB_T03,23,mtwtf,Cheverly Metro Station,2303,0,23_NB 122694,1,1,2303
+post_18th_23 NB_T04,23,mtwtf,Cheverly Metro Station,2301,0,23_NB 122694,1,1,2301
+post_18th_23 NB_T05,23,mtwtf,Cheverly Metro Station,2302,0,23_NB 122694,1,1,2302
+post_18th_23 NB_T06,23,mtwtf,Cheverly Metro Station,2303,0,23_NB 122694,1,1,2303
+post_18th_23 NB_T07,23,mtwtf,Cheverly Metro Station,2301,0,23_NB 122694,1,1,2301
+post_18th_23 NB_T08,23,mtwtf,Cheverly Metro Station,2302,0,23_NB 122694,1,1,2302
+post_18th_23 NB_T09,23,mtwtf,Cheverly Metro Station,2303,0,23_NB 122694,1,1,2303
+post_18th_23 NB_T10,23,mtwtf,Cheverly Metro Station,2301,0,23_NB 122694,1,1,2301
+post_18th_23 NB_T11,23,mtwtf,Cheverly Metro Station,2302,0,23_NB 122694,1,1,2302
+post_18th_23 NB_T12,23,mtwtf,Cheverly Metro Station,2303,0,23_NB 122694,1,1,2303
+post_18th_23 NB_T14,23,mtwtf,Cheverly Metro Station,2301,0,23_NB 122694,1,1,2301
+post_18th_23 NB_T15,23,mtwtf,Cheverly Metro Station,2302,0,23_NB 122694,1,1,2302
+post_18th_23 NB_T16,23,mtwtf,Cheverly Metro Station,2303,0,23_NB 122694,1,1,2303
+post_18th_23 NB_T17,23,mtwtf,Cheverly Metro Station,2301,0,23_NB 122694,1,1,2301
+post_18th_23 NB_T18,23,mtwtf,Cheverly Metro Station,2302,0,23_NB 122694,1,1,2302
+post_18th_23 NB_T19,23,mtwtf,Cheverly Metro Station,2303,0,23_NB 122694,1,1,2303
+post_18th_23 NB_T20,23,mtwtf,Cheverly Metro Station,2301,0,23_NB 122694,1,1,2301
+post_18th_23 NB_T21,23,mtwtf,Cheverly Metro Station,2302,0,23_NB 122694,1,1,2302
+post_18th_23 NB_T22,23,mtwtf,Cheverly Metro Station,2303,0,23_NB 122694,1,1,2303
+post_18th_23 NB_T23,23,mtwtf,Cheverly Metro Station,2301,0,23_NB 122694,1,1,2301
+post_18th_23 NB_T24,23,mtwtf,Cheverly Metro Station,2302,0,23_NB 122694,1,1,2302
+post_18th_23 NB_T25,23,mtwtf,Cheverly Metro Station,2303,0,23_NB 122694,1,1,2303
+post_18th_23 NB_T26,23,mtwtf,Cheverly Metro Station,2301,0,23_NB 122694,1,1,2301
+post_18th_23 NB_T27,23,mtwtf,Cheverly Metro Station,2302,0,23_NB 122694,1,1,2302
+post_18th_23 SB_T01,23,mtwtf,Addison Road Metro Station,2303,1,23_SB 122695,1,1,2303
+post_18th_23 SB_T02,23,mtwtf,Addison Road Metro Station,2301,1,23_SB 122695,1,1,2301
+post_18th_23 SB_T03,23,mtwtf,Addison Road Metro Station,2302,1,23_SB 122695,1,1,2302
+post_18th_23 SB_T04,23,mtwtf,Addison Road Metro Station,2303,1,23_SB 122695,1,1,2303
+post_18th_23 SB_T05,23,mtwtf,Addison Road Metro Station,2301,1,23_SB 122695,1,1,2301
+post_18th_23 SB_T06,23,mtwtf,Addison Road Metro Station,2302,1,23_SB 122695,1,1,2302
+post_18th_23 SB_T07,23,mtwtf,Addison Road Metro Station,2303,1,23_SB 122695,1,1,2303
+post_18th_23 SB_T08,23,mtwtf,Addison Road Metro Station,2301,1,23_SB 122695,1,1,2301
+post_18th_23 SB_T09,23,mtwtf,Addison Road Metro Station,2302,1,23_SB 122695,1,1,2302
+post_18th_23 SB_T10,23,mtwtf,Addison Road Metro Station,2303,1,23_SB 122695,1,1,2303
+post_18th_23 SB_T11,23,mtwtf,Addison Road Metro Station,2301,1,23_SB 122695,1,1,2301
+post_18th_23 SB_T13,23,mtwtf,Addison Road Metro Station,2302,1,23_SB 122695,1,1,2302
+post_18th_23 SB_T14,23,mtwtf,Addison Road Metro Station,2303,1,23_SB 122695,1,1,2303
+post_18th_23 SB_T15,23,mtwtf,Addison Road Metro Station,2301,1,23_SB 122695,1,1,2301
+post_18th_23 SB_T16,23,mtwtf,Addison Road Metro Station,2302,1,23_SB 122695,1,1,2302
+post_18th_23 SB_T17,23,mtwtf,Addison Road Metro Station,2303,1,23_SB 122695,1,1,2303
+post_18th_23 SB_T18,23,mtwtf,Addison Road Metro Station,2301,1,23_SB 122695,1,1,2301
+post_18th_23 SB_T19,23,mtwtf,Addison Road Metro Station,2302,1,23_SB 122695,1,1,2302
+post_18th_23 SB_T20,23,mtwtf,Addison Road Metro Station,2303,1,23_SB 122695,1,1,2303
+post_18th_23 SB_T21,23,mtwtf,Addison Road Metro Station,2301,1,23_SB 122695,1,1,2301
+post_18th_23 SB_T22,23,mtwtf,Addison Road Metro Station,2302,1,23_SB 122695,1,1,2302
+post_18th_23 SB_T23,23,mtwtf,Addison Road Metro Station,2303,1,23_SB 122695,1,1,2303
+post_18th_23 SB_T24,23,mtwtf,Addison Road Metro Station,2301,1,23_SB 122695,1,1,2301
+post_18th_23 SB_T25,23,mtwtf,Addison Road Metro Station,2302,1,23_SB 122695,1,1,2302
+post_18th_23 SB_T26,23,mtwtf,Addison Road Metro Station,2303,1,23_SB 122695,1,1,2303
+post_18th_23 SB_T27,23,mtwtf,Addison Road Metro Station,2301,1,23_SB 122695,1,1,2301
+post_18th_2844355,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844356,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844357,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844358,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844359,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844360,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844361,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844362,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844363,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844364,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844365,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844366,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844367,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844368,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844369,11,mtwtf,Greenbelt Metro Station,1101,1,11ib 122696,1,1,1101
+post_18th_2844370,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844371,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844372,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844373,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844374,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844375,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844376,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844377,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844378,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844379,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844380,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844381,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844382,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844383,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844384,11,mtwtf,Greenbelt Metro Station,1102,1,11ib 122696,1,1,1102
+post_18th_2844325,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844326,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844327,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844328,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844329,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844330,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844331,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844332,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844333,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844334,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844335,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844336,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844337,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844338,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844339,11,mtwtf,Mandan Road & Hanover Parkway,1101,0,11ob 122697,1,1,1101
+post_18th_2844340,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_2844341,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_2844342,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_2844343,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_2844344,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_2844345,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_2844346,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_2844347,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_2844348,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_2844349,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_2844350,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_2844351,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_2844352,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_2844353,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_2844354,11,mtwtf,Mandan Road & Hanover Parkway,1102,0,11ob 122697,1,1,1102
+post_18th_24 EB_T01,24,mtwtf,Morgan Blvd Metro Station,2402,0,24_EB 122698,1,1,2402
+post_18th_24 EB_T02,24,mtwtf,Morgan Blvd Metro Station,2404,0,24_EB 122698,1,1,2404
+post_18th_24C EB_T01,24,mtwtf,Morgan Blvd Metro Station,2401,0,24C_EB 122699,1,1,2401
+post_18th_24C EB_T02,24,mtwtf,Morgan Blvd Metro Station,2403,0,24C_EB 122699,1,1,2403
+post_18th_24C EB_T03,24,mtwtf,Morgan Blvd Metro Station,2402,0,24C_EB 122699,1,1,2402
+post_18th_24C EB_T04,24,mtwtf,Morgan Blvd Metro Station,2404,0,24C_EB 122699,1,1,2404
+post_18th_24C EB_T05,24,mtwtf,Morgan Blvd Metro Station,2401,0,24C_EB 122699,1,1,2401
+post_18th_24C EB_T06,24,mtwtf,Morgan Blvd Metro Station,2403,0,24C_EB 122699,1,1,2403
+post_18th_24C EB_T07,24,mtwtf,Morgan Blvd Metro Station,2402,0,24C_EB 122699,1,1,2402
+post_18th_24C EB_T08,24,mtwtf,Morgan Blvd Metro Station,2404,0,24C_EB 122699,1,1,2404
+post_18th_24C EB_T09,24,mtwtf,Morgan Blvd Metro Station,2401,0,24C_EB 122699,1,1,2401
+post_18th_24C EB_T10,24,mtwtf,Morgan Blvd Metro Station,2403,0,24C_EB 122699,1,1,2403
+post_18th_24C EB_T11,24,mtwtf,Morgan Blvd Metro Station,2402,0,24C_EB 122699,1,1,2402
+post_18th_24C EB_T12,24,mtwtf,Morgan Blvd Metro Station,2404,0,24C_EB 122699,1,1,2404
+post_18th_24C EB_T13,24,mtwtf,Morgan Blvd Metro Station,2401,0,24C_EB 122699,1,1,2401
+post_18th_24C EB_T14,24,mtwtf,Morgan Blvd Metro Station,2403,0,24C_EB 122699,1,1,2403
+post_18th_24C EB_T15,24,mtwtf,Morgan Blvd Metro Station,2402,0,24C_EB 122699,1,1,2402
+post_18th_24C EB_T16,24,mtwtf,Morgan Blvd Metro Station,2404,0,24C_EB 122699,1,1,2404
+post_18th_24C EB_T17,24,mtwtf,Morgan Blvd Metro Station,2401,0,24C_EB 122699,1,1,2401
+post_18th_24C EB_T18,24,mtwtf,Morgan Blvd Metro Station,2403,0,24C_EB 122699,1,1,2403
+post_18th_24C EB_T19,24,mtwtf,Morgan Blvd Metro Station,2402,0,24C_EB 122699,1,1,2402
+post_18th_24C EB_T20,24,mtwtf,Morgan Blvd Metro Station,2404,0,24C_EB 122699,1,1,2404
+post_18th_24C EB_T21,24,mtwtf,Morgan Blvd Metro Station,2401,0,24C_EB 122699,1,1,2401
+post_18th_24C EB_T22,24,mtwtf,Morgan Blvd Metro Station,2403,0,24C_EB 122699,1,1,2403
+post_18th_24C EB_T23,24,mtwtf,Morgan Blvd Metro Station,2402,0,24C_EB 122699,1,1,2402
+post_18th_24C EB_T24,24,mtwtf,Morgan Blvd Metro Station,2404,0,24C_EB 122699,1,1,2404
+post_18th_24C EB_T25,24,mtwtf,Morgan Blvd Metro Station,2401,0,24C_EB 122699,1,1,2401
+post_18th_24C EB_T26,24,mtwtf,Morgan Blvd Metro Station,2403,0,24C_EB 122699,1,1,2403
+post_18th_24 WB_T01,24,mtwtf,Capitol Heights Metro Station,2404,1,24_WB 122700,1,1,2404
+post_18th_24 WB_T02,24,mtwtf,Capitol Heights Metro Station,2401,1,24_WB 122700,1,1,2401
+post_18th_24 WB_T03,24,mtwtf,Capitol Heights Metro Station,2403,1,24_WB 122700,1,1,2403
+post_18th_24C_WB_T01,24,mtwtf,Capitol Heights Metro Station,2402,1,24C_WB 122701,1,1,2402
+post_18th_24C_WB_T02,24,mtwtf,Capitol Heights Metro Station,2404,1,24C_WB 122701,1,1,2404
+post_18th_24C_WB_T03,24,mtwtf,Capitol Heights Metro Station,2401,1,24C_WB 122701,1,1,2401
+post_18th_24C_WB_T04,24,mtwtf,Capitol Heights Metro Station,2403,1,24C_WB 122701,1,1,2403
+post_18th_24C_WB_T05,24,mtwtf,Capitol Heights Metro Station,2402,1,24C_WB 122701,1,1,2402
+post_18th_24C_WB_T06,24,mtwtf,Capitol Heights Metro Station,2404,1,24C_WB 122701,1,1,2404
+post_18th_24C_WB_T07,24,mtwtf,Capitol Heights Metro Station,2401,1,24C_WB 122701,1,1,2401
+post_18th_24C_WB_T08,24,mtwtf,Capitol Heights Metro Station,2403,1,24C_WB 122701,1,1,2403
+post_18th_24C_WB_T09,24,mtwtf,Capitol Heights Metro Station,2402,1,24C_WB 122701,1,1,2402
+post_18th_24C_WB_T10,24,mtwtf,Capitol Heights Metro Station,2404,1,24C_WB 122701,1,1,2404
+post_18th_24C_WB_T11,24,mtwtf,Capitol Heights Metro Station,2401,1,24C_WB 122701,1,1,2401
+post_18th_24C_WB_T12,24,mtwtf,Capitol Heights Metro Station,2403,1,24C_WB 122701,1,1,2403
+post_18th_24C_WB_T13,24,mtwtf,Capitol Heights Metro Station,2402,1,24C_WB 122701,1,1,2402
+post_18th_24C_WB_T14,24,mtwtf,Capitol Heights Metro Station,2404,1,24C_WB 122701,1,1,2404
+post_18th_24C_WB_T15,24,mtwtf,Capitol Heights Metro Station,2401,1,24C_WB 122701,1,1,2401
+post_18th_24C_WB_T16,24,mtwtf,Capitol Heights Metro Station,2403,1,24C_WB 122701,1,1,2403
+post_18th_24C_WB_T17,24,mtwtf,Capitol Heights Metro Station,2402,1,24C_WB 122701,1,1,2402
+post_18th_24C_WB_T18,24,mtwtf,Capitol Heights Metro Station,2404,1,24C_WB 122701,1,1,2404
+post_18th_24C_WB_T19,24,mtwtf,Capitol Heights Metro Station,2401,1,24C_WB 122701,1,1,2401
+post_18th_24C_WB_T20,24,mtwtf,Capitol Heights Metro Station,2403,1,24C_WB 122701,1,1,2403
+post_18th_24C_WB_T21,24,mtwtf,Capitol Heights Metro Station,2402,1,24C_WB 122701,1,1,2402
+post_18th_24C_WB_T22,24,mtwtf,Capitol Heights Metro Station,2404,1,24C_WB 122701,1,1,2404
+post_18th_24C_WB_T23,24,mtwtf,Capitol Heights Metro Station,2401,1,24C_WB 122701,1,1,2401
+post_18th_24C_WB_T24,24,mtwtf,Capitol Heights Metro Station,2403,1,24C_WB 122701,1,1,2403
+post_18th_24C_WB_T25,24,mtwtf,Capitol Heights Metro Station,2402,1,24C_WB 122701,1,1,2402
+post_18th_24C_WB_T26,24,mtwtf,Capitol Heights Metro Station,2404,1,24C_WB 122701,1,1,2404
+post_18th_32 NB_T01,32,mtwtf,Naylor Road Metro Station,3201,0,32_NB 122702,1,1,3201
+post_18th_32 NB_T02,32,mtwtf,Naylor Road Metro Station,3203,0,32_NB 122702,1,1,3203
+post_18th_32 NB_T03,32,mtwtf,Naylor Road Metro Station,3202,0,32_NB 122702,1,1,3202
+post_18th_32 NB_T04,32,mtwtf,Naylor Road Metro Station,3204,0,32_NB 122702,1,1,3204
+post_18th_32 NB_T05,32,mtwtf,Naylor Road Metro Station,3201,0,32_NB 122702,1,1,3201
+post_18th_32 NB_T06,32,mtwtf,Naylor Road Metro Station,3203,0,32_NB 122702,1,1,3203
+post_18th_32 NB_T07,32,mtwtf,Naylor Road Metro Station,3202,0,32_NB 122702,1,1,3202
+post_18th_32 NB_T08,32,mtwtf,Naylor Road Metro Station,3204,0,32_NB 122702,1,1,3204
+post_18th_32 NB_T09,32,mtwtf,Naylor Road Metro Station,3201,0,32_NB 122702,1,1,3201
+post_18th_32 NB_T10,32,mtwtf,Naylor Road Metro Station,3203,0,32_NB 122702,1,1,3203
+post_18th_32 NB_T11,32,mtwtf,Naylor Road Metro Station,3202,0,32_NB 122702,1,1,3202
+post_18th_32 NB_T12,32,mtwtf,Naylor Road Metro Station,3204,0,32_NB 122702,1,1,3204
+post_18th_32 NB_T13,32,mtwtf,Naylor Road Metro Station,3201,0,32_NB 122702,1,1,3201
+post_18th_32 NB_T14,32,mtwtf,Naylor Road Metro Station,3203,0,32_NB 122702,1,1,3203
+post_18th_32 NB_T15,32,mtwtf,Naylor Road Metro Station,3202,0,32_NB 122702,1,1,3202
+post_18th_32 NB_T16,32,mtwtf,Naylor Road Metro Station,3204,0,32_NB 122702,1,1,3204
+post_18th_32 NB_T17,32,mtwtf,Naylor Road Metro Station,3201,0,32_NB 122702,1,1,3201
+post_18th_32 NB_T18,32,mtwtf,Naylor Road Metro Station,3203,0,32_NB 122702,1,1,3203
+post_18th_32 NB_T19,32,mtwtf,Naylor Road Metro Station,3202,0,32_NB 122702,1,1,3202
+post_18th_32 NB_T20,32,mtwtf,Naylor Road Metro Station,3204,0,32_NB 122702,1,1,3204
+post_18th_32 NB_T21,32,mtwtf,Naylor Road Metro Station,3201,0,32_NB 122702,1,1,3201
+post_18th_32 NB_T22,32,mtwtf,Naylor Road Metro Station,3203,0,32_NB 122702,1,1,3203
+post_18th_32 NB_T23,32,mtwtf,Naylor Road Metro Station,3202,0,32_NB 122702,1,1,3202
+post_18th_32 NB_T24,32,mtwtf,Naylor Road Metro Station,3204,0,32_NB 122702,1,1,3204
+post_18th_32 NB_T25,32,mtwtf,Naylor Road Metro Station,3201,0,32_NB 122702,1,1,3201
+post_18th_32 NB_T26,32,mtwtf,Naylor Road Metro Station,3203,0,32_NB 122702,1,1,3203
+post_18th_32 NB_T27,32,mtwtf,Naylor Road Metro Station,3202,0,32_NB 122702,1,1,3202
+post_18th_32 NB_T28,32,mtwtf,Naylor Road Metro Station,3204,0,32_NB 122702,1,1,3204
+post_18th_32 NB_T29,32,mtwtf,Naylor Road Metro Station,3201,0,32_NB 122702,1,1,3201
+post_18th_32 SB_T01,32,mtwtf,Clinton Fringe,3202,1,32_SB 122703,1,1,3202
+post_18th_32 SB_T02,32,mtwtf,Clinton Fringe,3204,1,32_SB 122703,1,1,3204
+post_18th_32 SB_T03,32,mtwtf,Clinton Fringe,3201,1,32_SB 122703,1,1,3201
+post_18th_32 SB_T04,32,mtwtf,Clinton Fringe,3203,1,32_SB 122703,1,1,3203
+post_18th_32 SB_T05,32,mtwtf,Clinton Fringe,3202,1,32_SB 122703,1,1,3202
+post_18th_32 SB_T06,32,mtwtf,Clinton Fringe,3204,1,32_SB 122703,1,1,3204
+post_18th_32 SB_T07,32,mtwtf,Clinton Fringe,3201,1,32_SB 122703,1,1,3201
+post_18th_32 SB_T08,32,mtwtf,Clinton Fringe,3203,1,32_SB 122703,1,1,3203
+post_18th_32 SB_T09,32,mtwtf,Clinton Fringe,3202,1,32_SB 122703,1,1,3202
+post_18th_32 SB_T10,32,mtwtf,Clinton Fringe,3204,1,32_SB 122703,1,1,3204
+post_18th_32 SB_T11,32,mtwtf,Clinton Fringe,3201,1,32_SB 122703,1,1,3201
+post_18th_32 SB_T12,32,mtwtf,Clinton Fringe,3203,1,32_SB 122703,1,1,3203
+post_18th_32 SB_T13,32,mtwtf,Clinton Fringe,3202,1,32_SB 122703,1,1,3202
+post_18th_32 SB_T14,32,mtwtf,Clinton Fringe,3204,1,32_SB 122703,1,1,3204
+post_18th_32 SB_T15,32,mtwtf,Clinton Fringe,3201,1,32_SB 122703,1,1,3201
+post_18th_32 SB_T16,32,mtwtf,Clinton Fringe,3203,1,32_SB 122703,1,1,3203
+post_18th_32 SB_T17,32,mtwtf,Clinton Fringe,3202,1,32_SB 122703,1,1,3202
+post_18th_32 SB_T18,32,mtwtf,Clinton Fringe,3204,1,32_SB 122703,1,1,3204
+post_18th_32 SB_T19,32,mtwtf,Clinton Fringe,3201,1,32_SB 122703,1,1,3201
+post_18th_32 SB_T20,32,mtwtf,Clinton Fringe,3203,1,32_SB 122703,1,1,3203
+post_18th_32 SB_T21,32,mtwtf,Clinton Fringe,3202,1,32_SB 122703,1,1,3202
+post_18th_32 SB_T22,32,mtwtf,Clinton Fringe,3204,1,32_SB 122703,1,1,3204
+post_18th_32 SB_T23,32,mtwtf,Clinton Fringe,3201,1,32_SB 122703,1,1,3201
+post_18th_32 SB_T24,32,mtwtf,Clinton Fringe,3203,1,32_SB 122703,1,1,3203
+post_18th_32 SB_T25,32,mtwtf,Clinton Fringe,3202,1,32_SB 122703,1,1,3202
+post_18th_32 SB_T26,32,mtwtf,Clinton Fringe,3204,1,32_SB 122703,1,1,3204
+post_18th_32 SB_T27,32,mtwtf,Clinton Fringe,3201,1,32_SB 122703,1,1,3201
+post_18th_32 SB_T28,32,mtwtf,Clinton Fringe,3203,1,32_SB 122703,1,1,3203
+post_18th_32 SB_T29,32,mtwtf,Clinton Fringe,3202,1,32_SB 122703,1,1,3202
+post_18th_33 NB_T01,33,mtwtf,Southern Avenue Metro Station,3301,0,33_NB 122704,1,1,3301
+post_18th_33 NB_T02,33,mtwtf,Southern Avenue Metro Station,3302,0,33_NB 122704,1,1,3302
+post_18th_33 NB_T03,33,mtwtf,Southern Avenue Metro Station,3301,0,33_NB 122704,1,1,3301
+post_18th_33 NB_T04,33,mtwtf,Southern Avenue Metro Station,3302,0,33_NB 122704,1,1,3302
+post_18th_33 NB_T05,33,mtwtf,Southern Avenue Metro Station,3301,0,33_NB 122704,1,1,3301
+post_18th_33 NB_T06,33,mtwtf,Southern Avenue Metro Station,3302,0,33_NB 122704,1,1,3302
+post_18th_33 NB_T07,33,mtwtf,Southern Avenue Metro Station,3301,0,33_NB 122704,1,1,3301
+post_18th_33 NB_T08,33,mtwtf,Southern Avenue Metro Station,3302,0,33_NB 122704,1,1,3302
+post_18th_33 NB_T09,33,mtwtf,Southern Avenue Metro Station,3301,0,33_NB 122704,1,1,3301
+post_18th_33 NB_T10,33,mtwtf,Southern Avenue Metro Station,3302,0,33_NB 122704,1,1,3302
+post_18th_33 NB_T11,33,mtwtf,Southern Avenue Metro Station,3301,0,33_NB 122704,1,1,3301
+post_18th_33 NB_T12,33,mtwtf,Southern Avenue Metro Station,3302,0,33_NB 122704,1,1,3302
+post_18th_33 NB_T13,33,mtwtf,Southern Avenue Metro Station,3301,0,33_NB 122704,1,1,3301
+post_18th_33 NB_T14,33,mtwtf,Southern Avenue Metro Station,3302,0,33_NB 122704,1,1,3302
+post_18th_33 NB_T15,33,mtwtf,Southern Avenue Metro Station,3301,0,33_NB 122704,1,1,3301
+post_18th_33 NB_T16,33,mtwtf,Southern Avenue Metro Station,3302,0,33_NB 122704,1,1,3302
+post_18th_33 NB_T17,33,mtwtf,Southern Avenue Metro Station,3301,0,33_NB 122704,1,1,3301
+post_18th_33 NB_T18,33,mtwtf,Southern Avenue Metro Station,3302,0,33_NB 122704,1,1,3302
+post_18th_33 NB_T19,33,mtwtf,Southern Avenue Metro Station,3301,0,33_NB 122704,1,1,3301
+post_18th_33 NB_T20,33,mtwtf,Southern Avenue Metro Station,3302,0,33_NB 122704,1,1,3302
+post_18th_33 NB_T21,33,mtwtf,Southern Avenue Metro Station,3301,0,33_NB 122704,1,1,3301
+post_18th_33 SB_T01,33,mtwtf,Old Branch / Allentown Way,3302,1,33_SB 122705,1,1,3302
+post_18th_33 SB_T02,33,mtwtf,Old Branch / Allentown Way,3301,1,33_SB 122705,1,1,3301
+post_18th_33 SB_T03,33,mtwtf,Old Branch / Allentown Way,3302,1,33_SB 122705,1,1,3302
+post_18th_33 SB_T04,33,mtwtf,Old Branch / Allentown Way,3301,1,33_SB 122705,1,1,3301
+post_18th_33 SB_T05,33,mtwtf,Old Branch / Allentown Way,3302,1,33_SB 122705,1,1,3302
+post_18th_33 SB_T06,33,mtwtf,Old Branch / Allentown Way,3301,1,33_SB 122705,1,1,3301
+post_18th_33 SB_T07,33,mtwtf,Old Branch / Allentown Way,3302,1,33_SB 122705,1,1,3302
+post_18th_33 SB_T08,33,mtwtf,Old Branch / Allentown Way,3301,1,33_SB 122705,1,1,3301
+post_18th_33 SB_T09,33,mtwtf,Old Branch / Allentown Way,3302,1,33_SB 122705,1,1,3302
+post_18th_33 SB_T10,33,mtwtf,Old Branch / Allentown Way,3301,1,33_SB 122705,1,1,3301
+post_18th_33 SB_T11,33,mtwtf,Old Branch / Allentown Way,3302,1,33_SB 122705,1,1,3302
+post_18th_33 SB_T12,33,mtwtf,Old Branch / Allentown Way,3301,1,33_SB 122705,1,1,3301
+post_18th_33 SB_T13,33,mtwtf,Old Branch / Allentown Way,3302,1,33_SB 122705,1,1,3302
+post_18th_33 SB_T14,33,mtwtf,Old Branch / Allentown Way,3301,1,33_SB 122705,1,1,3301
+post_18th_33 SB_T15,33,mtwtf,Old Branch / Allentown Way,3302,1,33_SB 122705,1,1,3302
+post_18th_33 SB_T16,33,mtwtf,Old Branch / Allentown Way,3301,1,33_SB 122705,1,1,3301
+post_18th_33 SB_T17,33,mtwtf,Old Branch / Allentown Way,3302,1,33_SB 122705,1,1,3302
+post_18th_33 SB_T18,33,mtwtf,Old Branch / Allentown Way,3301,1,33_SB 122705,1,1,3301
+post_18th_33 SB_T19,33,mtwtf,Old Branch / Allentown Way,3302,1,33_SB 122705,1,1,3302
+post_18th_33 SB_T20,33,mtwtf,Old Branch / Allentown Way,3301,1,33_SB 122705,1,1,3301
+post_18th_33 SB_T21,33,mtwtf,Old Branch / Allentown Way,3302,1,33_SB 122705,1,1,3302
+post_18th_33 SB_T22,33,mtwtf,Old Branch / Allentown Way,3301,1,33_SB 122705,1,1,3301
+post_18th_14E_T01,14,mtwtf,College Park Metro Station,1401,0,14E 122706,1,1,1401
+post_18th_14E_T02,14,mtwtf,College Park Metro Station,1402,0,14E 122706,1,1,1402
+post_18th_14E_T03,14,mtwtf,College Park Metro Station,1401,0,14E 122706,1,1,1401
+post_18th_14E_T04,14,mtwtf,College Park Metro Station,1402,0,14E 122706,1,1,1402
+post_18th_14E_T05,14,mtwtf,College Park Metro Station,1401,0,14E 122706,1,1,1401
+post_18th_14E_T06,14,mtwtf,College Park Metro Station,1402,0,14E 122706,1,1,1402
+post_18th_14E_T07,14,mtwtf,College Park Metro Station,1401,0,14E 122706,1,1,1401
+post_18th_14E_T08,14,mtwtf,College Park Metro Station,1402,0,14E 122706,1,1,1402
+post_18th_14E_T09,14,mtwtf,College Park Metro Station,1401,0,14E 122706,1,1,1401
+post_18th_14E_T10,14,mtwtf,College Park Metro Station,1402,0,14E 122706,1,1,1402
+post_18th_14E_T11,14,mtwtf,College Park Metro Station,1401,0,14E 122706,1,1,1401
+post_18th_14E_T12,14,mtwtf,College Park Metro Station,1402,0,14E 122706,1,1,1402
+post_18th_14E_T13,14,mtwtf,College Park Metro Station,1401,0,14E 122706,1,1,1401
+post_18th_14E_T14,14,mtwtf,College Park Metro Station,1402,0,14E 122706,1,1,1402
+post_18th_14E_T15,14,mtwtf,College Park Metro Station,1401,0,14E 122706,1,1,1401
+post_18th_14E_T16,14,mtwtf,College Park Metro Station,1402,0,14E 122706,1,1,1402
+post_18th_14E_T17,14,mtwtf,College Park Metro Station,1401,0,14E 122706,1,1,1401
+post_18th_14E_T18,14,mtwtf,College Park Metro Station,1402,0,14E 122706,1,1,1402
+post_18th_14E_T19,14,mtwtf,College Park Metro Station,1401,0,14E 122706,1,1,1401
+post_18th_14E_T20,14,mtwtf,College Park Metro Station,1402,0,14E 122706,1,1,1402
+post_18th_14W_T01,14,mtwtf,Prince George's Plaza Metro Station,1402,1,14W 122707,1,1,1402
+post_18th_14W_T02,14,mtwtf,Prince George's Plaza Metro Station,1401,1,14W 122707,1,1,1401
+post_18th_14W_T03,14,mtwtf,Prince George's Plaza Metro Station,1402,1,14W 122707,1,1,1402
+post_18th_14W_T04,14,mtwtf,Prince George's Plaza Metro Station,1401,1,14W 122707,1,1,1401
+post_18th_14W_T05,14,mtwtf,Prince George's Plaza Metro Station,1402,1,14W 122707,1,1,1402
+post_18th_14W_T06,14,mtwtf,Prince George's Plaza Metro Station,1401,1,14W 122707,1,1,1401
+post_18th_14W_T07,14,mtwtf,Prince George's Plaza Metro Station,1402,1,14W 122707,1,1,1402
+post_18th_14W_T08,14,mtwtf,Prince George's Plaza Metro Station,1401,1,14W 122707,1,1,1401
+post_18th_14W_T09,14,mtwtf,Prince George's Plaza Metro Station,1402,1,14W 122707,1,1,1402
+post_18th_14W_T10,14,mtwtf,Prince George's Plaza Metro Station,1401,1,14W 122707,1,1,1401
+post_18th_14W_T11,14,mtwtf,Prince George's Plaza Metro Station,1402,1,14W 122707,1,1,1402
+post_18th_14W_T12,14,mtwtf,Prince George's Plaza Metro Station,1401,1,14W 122707,1,1,1401
+post_18th_14W_T13,14,mtwtf,Prince George's Plaza Metro Station,1402,1,14W 122707,1,1,1402
+post_18th_14W_T14,14,mtwtf,Prince George's Plaza Metro Station,1401,1,14W 122707,1,1,1401
+post_18th_14W_T15,14,mtwtf,Prince George's Plaza Metro Station,1402,1,14W 122707,1,1,1402
+post_18th_14W_T16,14,mtwtf,Prince George's Plaza Metro Station,1401,1,14W 122707,1,1,1401
+post_18th_14W_T17,14,mtwtf,Prince George's Plaza Metro Station,1402,1,14W 122707,1,1,1402
+post_18th_14W_T18,14,mtwtf,Prince George's Plaza Metro Station,1401,1,14W 122707,1,1,1401
+post_18th_14W_T19,14,mtwtf,Prince George's Plaza Metro Station,1402,1,14W 122707,1,1,1402
+post_18th_14W_T20,14,mtwtf,Prince George's Plaza Metro Station,1401,1,14W 122707,1,1,1401
+post_18th_2862479,30,mtwtf,Branch Avenue Metro Station,3002,0,30_NB 122708,1,1,3002
+post_18th_2862480,30,mtwtf,Branch Avenue Metro Station,3001,0,30_NB 122708,1,1,3001
+post_18th_2862481,30,mtwtf,Branch Avenue Metro Station,3002,0,30_NB 122708,1,1,3002
+post_18th_2862482,30,mtwtf,Branch Avenue Metro Station,3001,0,30_NB 122708,1,1,3001
+post_18th_2862483,30,mtwtf,Branch Avenue Metro Station,3002,0,30_NB 122708,1,1,3002
+post_18th_2862484,30,mtwtf,Branch Avenue Metro Station,3001,0,30_NB 122708,1,1,3001
+post_18th_2862485,30,mtwtf,Branch Avenue Metro Station,3002,0,30_NB 122708,1,1,3002
+post_18th_2862486,30,mtwtf,Branch Avenue Metro Station,3001,0,30_NB 122708,1,1,3001
+post_18th_2862487,30,mtwtf,Branch Avenue Metro Station,3002,0,30_NB 122708,1,1,3002
+post_18th_2862488,30,mtwtf,Branch Avenue Metro Station,3001,0,30_NB 122708,1,1,3001
+post_18th_2862489,30,mtwtf,Branch Avenue Metro Station,3002,0,30_NB 122708,1,1,3002
+post_18th_2862496,30,mtwtf,Branch Avenue Metro Station,3001,0,30_NB 122708,1,1,3001
+post_18th_2862497,30,mtwtf,Branch Avenue Metro Station,3002,0,30_NB 122708,1,1,3002
+post_18th_2862498,30,mtwtf,Branch Avenue Metro Station,3001,0,30_NB 122708,1,1,3001
+post_18th_2862499,30,mtwtf,Branch Avenue Metro Station,3002,0,30_NB 122708,1,1,3002
+post_18th_2862500,30,mtwtf,Branch Avenue Metro Station,3001,0,30_NB 122708,1,1,3001
+post_18th_2862463,30,mtwtf,Southern Maryland Hospital,3001,1,30_SB 122709,1,1,3001
+post_18th_2862464,30,mtwtf,Southern Maryland Hospital,3002,1,30_SB 122709,1,1,3002
+post_18th_2862465,30,mtwtf,Southern Maryland Hospital,3001,1,30_SB 122709,1,1,3001
+post_18th_2862466,30,mtwtf,Southern Maryland Hospital,3002,1,30_SB 122709,1,1,3002
+post_18th_2862467,30,mtwtf,Southern Maryland Hospital,3001,1,30_SB 122709,1,1,3001
+post_18th_2862468,30,mtwtf,Southern Maryland Hospital,3002,1,30_SB 122709,1,1,3002
+post_18th_2862469,30,mtwtf,Southern Maryland Hospital,3001,1,30_SB 122709,1,1,3001
+post_18th_2862470,30,mtwtf,Southern Maryland Hospital,3002,1,30_SB 122709,1,1,3002
+post_18th_2862471,30,mtwtf,Southern Maryland Hospital,3001,1,30_SB 122709,1,1,3001
+post_18th_2862472,30,mtwtf,Southern Maryland Hospital,3002,1,30_SB 122709,1,1,3002
+post_18th_2862473,30,mtwtf,Southern Maryland Hospital,3001,1,30_SB 122709,1,1,3001
+post_18th_2862474,30,mtwtf,Southern Maryland Hospital,3002,1,30_SB 122709,1,1,3002
+post_18th_2862475,30,mtwtf,Southern Maryland Hospital,3001,1,30_SB 122709,1,1,3001
+post_18th_2862476,30,mtwtf,Southern Maryland Hospital,3002,1,30_SB 122709,1,1,3002
+post_18th_2862477,30,mtwtf,Southern Maryland Hospital,3001,1,30_SB 122709,1,1,3001
+post_18th_2862478,30,mtwtf,Southern Maryland Hospital,3002,1,30_SB 122709,1,1,3002
+post_18th_2862647,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862648,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862649,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862650,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862651,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862652,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862653,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862654,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862655,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862656,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862657,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862658,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862659,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862660,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862661,53,mtwtf,DWI Facility,5301,0,53 122710,1,1,5301
+post_18th_2862677,53,mtwtf,Clairfield Lane,5301,1,53L 122711,1,1,5301
+post_18th_2862662,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_2862663,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_2862664,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_2862665,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_2862666,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_2862667,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_2862668,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_2862669,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_2862670,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_2862671,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_2862672,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_2862673,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_2862674,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_2862675,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_2862676,53,mtwtf,Clairfield Lane,5301,1,92613 122712,1,1,5301
+post_18th_21XM_NB_T01,21X,mtwtf,New Carrollton Metro Station,2192,0,21XM_NB 122713,1,1,2192
+post_18th_21XM_NB_T02,21X,mtwtf,New Carrollton Metro Station,2193,0,21XM_NB 122713,1,1,2193
+post_18th_21XM_NB_T03,21X,mtwtf,New Carrollton Metro Station,2191,0,21XM_NB 122713,1,1,2191
+post_18th_21XM_NB_T04,21X,mtwtf,New Carrollton Metro Station,2192,0,21XM_NB 122713,1,1,2192
+post_18th_21XM_NB_T05,21X,mtwtf,New Carrollton Metro Station,2193,0,21XM_NB 122713,1,1,2193
+post_18th_21XM_NB_T06,21X,mtwtf,New Carrollton Metro Station,2191,0,21XM_NB 122713,1,1,2191
+post_18th_21XM_NB_T07,21X,mtwtf,New Carrollton Metro Station,2192,0,21XM_NB 122713,1,1,2192
+post_18th_21XM_NB_T08,21X,mtwtf,New Carrollton Metro Station,2193,0,21XM_NB 122713,1,1,2193
+post_18th_21XM_NB_T09,21X,mtwtf,New Carrollton Metro Station,2191,0,21XM_NB 122713,1,1,2191
+post_18th_21XM_NB_T10,21X,mtwtf,New Carrollton Metro Station,2192,0,21XM_NB 122713,1,1,2192
+post_18th_21XM_NB_T11,21X,mtwtf,New Carrollton Metro Station,2193,0,21XM_NB 122713,1,1,2193
+post_18th_21XM_NB_T12,21X,mtwtf,New Carrollton Metro Station,2191,0,21XM_NB 122713,1,1,2191
+post_18th_21XM_NB_T13,21X,mtwtf,New Carrollton Metro Station,2192,0,21XM_NB 122713,1,1,2192
+post_18th_21XM_NB_T14,21X,mtwtf,New Carrollton Metro Station,2193,0,21XM_NB 122713,1,1,2193
+post_18th_21XM_NB_T15,21X,mtwtf,New Carrollton Metro Station,2191,0,21XM_NB 122713,1,1,2191
+post_18th_21XM_NB_T16,21X,mtwtf,New Carrollton Metro Station,2192,0,21XM_NB 122713,1,1,2192
+post_18th_21XM_NB_T17,21X,mtwtf,New Carrollton Metro Station,2193,0,21XM_NB 122713,1,1,2193
+post_18th_21XM_NB_T18,21X,mtwtf,New Carrollton Metro Station,2191,0,21XM_NB 122713,1,1,2191
+post_18th_21XM_NB_T19,21X,mtwtf,New Carrollton Metro Station,2192,0,21XM_NB 122713,1,1,2192
+post_18th_21XM_NB_T20,21X,mtwtf,New Carrollton Metro Station,2193,0,21XM_NB 122713,1,1,2193
+post_18th_21XM_NB_T21,21X,mtwtf,New Carrollton Metro Station,2191,0,21XM_NB 122713,1,1,2191
+post_18th_21XM_NB_T22,21X,mtwtf,New Carrollton Metro Station,2192,0,21XM_NB 122713,1,1,2192
+post_18th_21XM_NB_T23,21X,mtwtf,New Carrollton Metro Station,2193,0,21XM_NB 122713,1,1,2193
+post_18th_21XM_NB_T24,21X,mtwtf,New Carrollton Metro Station,2192,0,21XM_NB 122713,1,1,2192
+post_18th_21XM_NB_T25,21X,mtwtf,New Carrollton Metro Station,2193,0,21XM_NB 122713,1,1,2193
+post_18th_21XM_NB_T26,21X,mtwtf,New Carrollton Metro Station,2192,0,21XM_NB 122713,1,1,2192
+post_18th_21XM_SB_T01,21X,mtwtf,PGCC / Largo MVA,2191,1,21XM_SB 122714,1,1,2191
+post_18th_21XM_SB_T02,21X,mtwtf,PGCC / Largo MVA,2192,1,21XM_SB 122714,1,1,2192
+post_18th_21XM_SB_T03,21X,mtwtf,PGCC / Largo MVA,2191,1,21XM_SB 122714,1,1,2191
+post_18th_21XM_SB_T04,21X,mtwtf,PGCC / Largo MVA,2192,1,21XM_SB 122714,1,1,2192
+post_18th_21XM_SB_T05,21X,mtwtf,PGCC / Largo MVA,2193,1,21XM_SB 122714,1,1,2193
+post_18th_21XM_SB_T06,21X,mtwtf,PGCC / Largo MVA,2191,1,21XM_SB 122714,1,1,2191
+post_18th_21XM_SB_T07,21X,mtwtf,PGCC / Largo MVA,2192,1,21XM_SB 122714,1,1,2192
+post_18th_21XM_SB_T08,21X,mtwtf,PGCC / Largo MVA,2193,1,21XM_SB 122714,1,1,2193
+post_18th_21XM_SB_T09,21X,mtwtf,PGCC / Largo MVA,2191,1,21XM_SB 122714,1,1,2191
+post_18th_21XM_SB_T10,21X,mtwtf,PGCC / Largo MVA,2192,1,21XM_SB 122714,1,1,2192
+post_18th_21XM_SB_T11,21X,mtwtf,PGCC / Largo MVA,2193,1,21XM_SB 122714,1,1,2193
+post_18th_21XM_SB_T12,21X,mtwtf,PGCC / Largo MVA,2191,1,21XM_SB 122714,1,1,2191
+post_18th_21XM_SB_T13,21X,mtwtf,PGCC / Largo MVA,2192,1,21XM_SB 122714,1,1,2192
+post_18th_21XM_SB_T14,21X,mtwtf,PGCC / Largo MVA,2193,1,21XM_SB 122714,1,1,2193
+post_18th_21XM_SB_T15,21X,mtwtf,PGCC / Largo MVA,2191,1,21XM_SB 122714,1,1,2191
+post_18th_21XM_SB_T16,21X,mtwtf,PGCC / Largo MVA,2192,1,21XM_SB 122714,1,1,2192
+post_18th_21XM_SB_T17,21X,mtwtf,PGCC / Largo MVA,2193,1,21XM_SB 122714,1,1,2193
+post_18th_21XM_SB_T18,21X,mtwtf,PGCC / Largo MVA,2191,1,21XM_SB 122714,1,1,2191
+post_18th_21XM_SB_T19,21X,mtwtf,PGCC / Largo MVA,2192,1,21XM_SB 122714,1,1,2192
+post_18th_21XM_SB_T20,21X,mtwtf,PGCC / Largo MVA,2193,1,21XM_SB 122714,1,1,2193
+post_18th_21XM_SB_T21,21X,mtwtf,PGCC / Largo MVA,2191,1,21XM_SB 122714,1,1,2191
+post_18th_21XM_SB_T22,21X,mtwtf,PGCC / Largo MVA,2192,1,21XM_SB 122714,1,1,2192
+post_18th_21XM_SB_T23,21X,mtwtf,PGCC / Largo MVA,2193,1,21XM_SB 122714,1,1,2193
+post_18th_21XM_SB_T24,21X,mtwtf,PGCC / Largo MVA,2191,1,21XM_SB 122714,1,1,2191
+post_18th_21XM_SB_T25,21X,mtwtf,PGCC / Largo MVA,2192,1,21XM_SB 122714,1,1,2192
+post_18th_21XM_SB_T26,21X,mtwtf,PGCC / Largo MVA,2193,1,21XM_SB 122714,1,1,2193
+post_18th_21XM_SB_T27,21X,mtwtf,PGCC / Largo MVA,2191,1,21XM_SB 122714,1,1,2191
+post_18th_21XM_SB_T28,21X,mtwtf,PGCC / Largo MVA,2192,1,21XM_SB 122714,1,1,2192
+post_18th_21XM_SB_T29,21X,mtwtf,PGCC / Largo MVA,2193,1,21XM_SB 122714,1,1,2193
+post_18th_21XM_SB_T30,21X,mtwtf,PGCC / Largo MVA,2192,1,21XM_SB 122714,1,1,2192
+post_18th_21XM_SB_T31,21X,mtwtf,PGCC / Largo MVA,2193,1,21XM_SB 122714,1,1,2193
+post_18th_21XM_SB_T32,21X,mtwtf,PGCC / Largo MVA,2192,1,21XM_SB 122714,1,1,2192
+post_18th_2862301,25,mtwtf,Highview Pl at Sunbury Ct,2502,0,25_EB 122715,1,1,2502
+post_18th_2862302,25,mtwtf,Highview Pl at Sunbury Ct,2502,0,25_EB 122715,1,1,2502
+post_18th_2862303,25,mtwtf,Highview Pl at Sunbury Ct,2502,0,25_EB 122715,1,1,2502
+post_18th_2862304,25,mtwtf,Highview Pl at Sunbury Ct,2502,0,25_EB 122715,1,1,2502
+post_18th_2862305,25,mtwtf,Highview Pl at Sunbury Ct,2502,0,25_EB 122715,1,1,2502
+post_18th_2862306,25,mtwtf,Highview Pl at Sunbury Ct,2502,0,25_EB 122715,1,1,2502
+post_18th_2862307,25,mtwtf,Highview Pl at Sunbury Ct,2502,0,25_EB 122715,1,1,2502
+post_18th_2862308,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_EB 122715,1,1,2501
+post_18th_2862309,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_EB 122715,1,1,2501
+post_18th_2862310,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_EB 122715,1,1,2501
+post_18th_2862311,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_EB 122715,1,1,2501
+post_18th_2862312,25,mtwtf,Highview Pl at Sunbury Ct,2503,0,25_EB 122715,1,1,2503
+post_18th_2862313,25,mtwtf,Highview Pl at Sunbury Ct,2503,0,25_EB 122715,1,1,2503
+post_18th_2862314,25,mtwtf,Highview Pl at Sunbury Ct,2503,0,25_EB 122715,1,1,2503
+post_18th_2862315,25,mtwtf,Highview Pl at Sunbury Ct,2503,0,25_EB 122715,1,1,2503
+post_18th_2862316,25,mtwtf,Highview Pl at Sunbury Ct,2503,0,25_EB 122715,1,1,2503
+post_18th_2862317,25,mtwtf,Highview Pl at Sunbury Ct,2503,0,25_EB 122715,1,1,2503
+post_18th_2862318,25,mtwtf,Highview Pl at Sunbury Ct,2503,0,25_EB 122715,1,1,2503
+post_18th_2862337,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862338,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862339,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862340,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862341,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862342,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862343,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862344,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862345,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862346,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862347,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862348,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862349,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862350,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862351,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862352,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862353,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862354,25,mtwtf,Highview Pl at Sunbury Ct,2501,0,25_WB 122716,1,1,2501
+post_18th_2862319,25,mtwtf,Capitol Heights Metro Station,2502,1,92229 122717,1,1,2502
+post_18th_2862320,25,mtwtf,Capitol Heights Metro Station,2502,1,92229 122717,1,1,2502
+post_18th_2862321,25,mtwtf,Capitol Heights Metro Station,2502,1,92229 122717,1,1,2502
+post_18th_2862322,25,mtwtf,Capitol Heights Metro Station,2502,1,92229 122717,1,1,2502
+post_18th_2862323,25,mtwtf,Capitol Heights Metro Station,2502,1,92229 122717,1,1,2502
+post_18th_2862324,25,mtwtf,Capitol Heights Metro Station,2502,1,92229 122717,1,1,2502
+post_18th_2862325,25,mtwtf,Capitol Heights Metro Station,2502,1,92229 122717,1,1,2502
+post_18th_2862326,25,mtwtf,Capitol Heights Metro Station,2501,1,92229 122717,1,1,2501
+post_18th_2862327,25,mtwtf,Capitol Heights Metro Station,2501,1,92229 122717,1,1,2501
+post_18th_2862328,25,mtwtf,Capitol Heights Metro Station,2501,1,92229 122717,1,1,2501
+post_18th_2862329,25,mtwtf,Capitol Heights Metro Station,2501,1,92229 122717,1,1,2501
+post_18th_2862330,25,mtwtf,Capitol Heights Metro Station,2503,1,92229 122717,1,1,2503
+post_18th_2862331,25,mtwtf,Capitol Heights Metro Station,2503,1,92229 122717,1,1,2503
+post_18th_2862332,25,mtwtf,Capitol Heights Metro Station,2503,1,92229 122717,1,1,2503
+post_18th_2862333,25,mtwtf,Capitol Heights Metro Station,2503,1,92229 122717,1,1,2503
+post_18th_2862334,25,mtwtf,Capitol Heights Metro Station,2503,1,92229 122717,1,1,2503
+post_18th_2862335,25,mtwtf,Capitol Heights Metro Station,2503,1,92229 122717,1,1,2503
+post_18th_2862336,25,mtwtf,Capitol Heights Metro Station,2503,1,92229 122717,1,1,2503
+post_18th_2862355,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862356,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862357,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862358,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862359,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862360,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862361,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862362,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862363,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862364,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862365,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862366,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862367,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862368,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862369,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862370,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862371,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_2862372,25,mtwtf,Capitol Heights Metro Station,2501,1,92230 122718,1,1,2501
+post_18th_12 L1_T01,12,mtwtf,Chillum Loop,1201,0,12_L1 122719,1,1,1201
+post_18th_2856073,12,mtwtf,Chillum Loop,1202,0,12_L1 122719,1,1,1202
+post_18th_2856074,12,mtwtf,Chillum Loop,1201,0,12_L1 122719,1,1,1201
+post_18th_2856075,12,mtwtf,Chillum Loop,1202,0,12_L1 122719,1,1,1202
+post_18th_2856076,12,mtwtf,Chillum Loop,1201,0,12_L1 122719,1,1,1201
+post_18th_2856077,12,mtwtf,Chillum Loop,1202,0,12_L1 122719,1,1,1202
+post_18th_2856078,12,mtwtf,Chillum Loop,1201,0,12_L1 122719,1,1,1201
+post_18th_2856079,12,mtwtf,Chillum Loop,1202,0,12_L1 122719,1,1,1202
+post_18th_2856080,12,mtwtf,Chillum Loop,1201,0,12_L1 122719,1,1,1201
+post_18th_2856081,12,mtwtf,Chillum Loop,1202,0,12_L1 122719,1,1,1202
+post_18th_2856082,12,mtwtf,Chillum Loop,1202,0,12_L1 122719,1,1,1202
+post_18th_2856083,12,mtwtf,Chillum Loop,1202,0,12_L1 122719,1,1,1202
+post_18th_2856084,12,mtwtf,Chillum Loop,1202,0,12_L1 122719,1,1,1202
+post_18th_2856085,12,mtwtf,Chillum Loop,1202,0,12_L1 122719,1,1,1202
+post_18th_2856086,12,mtwtf,Chillum Loop,1202,0,12_L1 122719,1,1,1202
+post_18th_2856087,12,mtwtf,Chillum Loop,1203,0,12_L1 122719,1,1,1203
+post_18th_2856088,12,mtwtf,Chillum Loop,1202,0,12_L1 122719,1,1,1202
+post_18th_2856089,12,mtwtf,Chillum Loop,1203,0,12_L1 122719,1,1,1203
+post_18th_2856090,12,mtwtf,Chillum Loop,1202,0,12_L1 122719,1,1,1202
+post_18th_2856091,12,mtwtf,Chillum Loop,1203,0,12_L1 122719,1,1,1203
+post_18th_2856092,12,mtwtf,Chillum Loop,1202,0,12_L1 122719,1,1,1202
+post_18th_2856093,12,mtwtf,Chillum Loop,1203,0,12_L1 122719,1,1,1203
+post_18th_2856094,12,mtwtf,Mt. Rainier / Brentwood Loop,1201,1,12_L2 122720,1,1,1201
+post_18th_2856095,12,mtwtf,Mt. Rainier / Brentwood Loop,1202,1,12_L2 122720,1,1,1202
+post_18th_2856096,12,mtwtf,Mt. Rainier / Brentwood Loop,1201,1,12_L2 122720,1,1,1201
+post_18th_2856097,12,mtwtf,Mt. Rainier / Brentwood Loop,1202,1,12_L2 122720,1,1,1202
+post_18th_2856098,12,mtwtf,Mt. Rainier / Brentwood Loop,1201,1,12_L2 122720,1,1,1201
+post_18th_2856099,12,mtwtf,Mt. Rainier / Brentwood Loop,1202,1,12_L2 122720,1,1,1202
+post_18th_2856100,12,mtwtf,Mt. Rainier / Brentwood Loop,1201,1,12_L2 122720,1,1,1201
+post_18th_2856101,12,mtwtf,Mt. Rainier / Brentwood Loop,1202,1,12_L2 122720,1,1,1202
+post_18th_2856102,12,mtwtf,Mt. Rainier / Brentwood Loop,1201,1,12_L2 122720,1,1,1201
+post_18th_2856103,12,mtwtf,Mt. Rainier / Brentwood Loop,1202,1,12_L2 122720,1,1,1202
+post_18th_2856108,12,mtwtf,Mt. Rainier / Brentwood Loop,1202,1,12_L2 122720,1,1,1202
+post_18th_2856109,12,mtwtf,Mt. Rainier / Brentwood Loop,1202,1,12_L2 122720,1,1,1202
+post_18th_2856110,12,mtwtf,Mt. Rainier / Brentwood Loop,1202,1,12_L2 122720,1,1,1202
+post_18th_2856111,12,mtwtf,Mt. Rainier / Brentwood Loop,1202,1,12_L2 122720,1,1,1202
+post_18th_2856112,12,mtwtf,Mt. Rainier / Brentwood Loop,1202,1,12_L2 122720,1,1,1202
+post_18th_2856113,12,mtwtf,Mt. Rainier / Brentwood Loop,1203,1,12_L2 122720,1,1,1203
+post_18th_2856114,12,mtwtf,Mt. Rainier / Brentwood Loop,1202,1,12_L2 122720,1,1,1202
+post_18th_2856115,12,mtwtf,Mt. Rainier / Brentwood Loop,1203,1,12_L2 122720,1,1,1203
+post_18th_2856116,12,mtwtf,Mt. Rainier / Brentwood Loop,1202,1,12_L2 122720,1,1,1202
+post_18th_2856117,12,mtwtf,Mt. Rainier / Brentwood Loop,1203,1,12_L2 122720,1,1,1203
+post_18th_2856118,12,mtwtf,Mt. Rainier / Brentwood Loop,1202,1,12_L2 122720,1,1,1202
+post_18th_2856119,12,mtwtf,Mt. Rainier / Brentwood Loop,1203,1,12_L2 122720,1,1,1203
+post_18th_21 NB_T01,21,mtwtf,New Carrollton Metro Station,2104,0,21_NB 122721,1,1,2104
+post_18th_2889624,21,mtwtf,New Carrollton Metro Station,2105,0,21_NB 122721,1,1,2105
+post_18th_2889625,21,mtwtf,New Carrollton Metro Station,2101,0,21_NB 122721,1,1,2101
+post_18th_2889626,21,mtwtf,New Carrollton Metro Station,2102,0,21_NB 122721,1,1,2102
+post_18th_2889627,21,mtwtf,New Carrollton Metro Station,2103,0,21_NB 122721,1,1,2103
+post_18th_2889628,21,mtwtf,New Carrollton Metro Station,2104,0,21_NB 122721,1,1,2104
+post_18th_2889629,21,mtwtf,New Carrollton Metro Station,2105,0,21_NB 122721,1,1,2105
+post_18th_2889630,21,mtwtf,New Carrollton Metro Station,2101,0,21_NB 122721,1,1,2101
+post_18th_2889631,21,mtwtf,New Carrollton Metro Station,2102,0,21_NB 122721,1,1,2102
+post_18th_2889632,21,mtwtf,New Carrollton Metro Station,2103,0,21_NB 122721,1,1,2103
+post_18th_2889633,21,mtwtf,New Carrollton Metro Station,2105,0,21_NB 122721,1,1,2105
+post_18th_2889634,21,mtwtf,New Carrollton Metro Station,2103,0,21_NB 122721,1,1,2103
+post_18th_2889635,21,mtwtf,New Carrollton Metro Station,2105,0,21_NB 122721,1,1,2105
+post_18th_2889636,21,mtwtf,New Carrollton Metro Station,2103,0,21_NB 122721,1,1,2103
+post_18th_2889637,21,mtwtf,New Carrollton Metro Station,2106,0,21_NB 122721,1,1,2106
+post_18th_2889638,21,mtwtf,New Carrollton Metro Station,2108,0,21_NB 122721,1,1,2108
+post_18th_2889639,21,mtwtf,New Carrollton Metro Station,2105,0,21_NB 122721,1,1,2105
+post_18th_2889640,21,mtwtf,New Carrollton Metro Station,2107,0,21_NB 122721,1,1,2107
+post_18th_2889641,21,mtwtf,New Carrollton Metro Station,2103,0,21_NB 122721,1,1,2103
+post_18th_2889642,21,mtwtf,New Carrollton Metro Station,2106,0,21_NB 122721,1,1,2106
+post_18th_2889643,21,mtwtf,New Carrollton Metro Station,2108,0,21_NB 122721,1,1,2108
+post_18th_2889644,21,mtwtf,New Carrollton Metro Station,2105,0,21_NB 122721,1,1,2105
+post_18th_2862007,21,mtwtf,Upper Marlboro,2102,1,21_SB 122722,1,1,2102
+post_18th_2862008,21,mtwtf,Upper Marlboro,2103,1,21_SB 122722,1,1,2103
+post_18th_2862009,21,mtwtf,Upper Marlboro,2104,1,21_SB 122722,1,1,2104
+post_18th_2862010,21,mtwtf,Upper Marlboro,2105,1,21_SB 122722,1,1,2105
+post_18th_2862011,21,mtwtf,Upper Marlboro,2101,1,21_SB 122722,1,1,2101
+post_18th_2862012,21,mtwtf,Upper Marlboro,2102,1,21_SB 122722,1,1,2102
+post_18th_2862013,21,mtwtf,Upper Marlboro,2103,1,21_SB 122722,1,1,2103
+post_18th_2862014,21,mtwtf,Upper Marlboro,2104,1,21_SB 122722,1,1,2104
+post_18th_2862015,21,mtwtf,Upper Marlboro,2105,1,21_SB 122722,1,1,2105
+post_18th_2862016,21,mtwtf,Upper Marlboro,2101,1,21_SB 122722,1,1,2101
+post_18th_2862017,21,mtwtf,Upper Marlboro,2103,1,21_SB 122722,1,1,2103
+post_18th_2862018,21,mtwtf,Upper Marlboro,2105,1,21_SB 122722,1,1,2105
+post_18th_2862019,21,mtwtf,Upper Marlboro,2103,1,21_SB 122722,1,1,2103
+post_18th_2862020,21,mtwtf,Upper Marlboro,2105,1,21_SB 122722,1,1,2105
+post_18th_2862021,21,mtwtf,Upper Marlboro,2107,1,21_SB 122722,1,1,2107
+post_18th_2862022,21,mtwtf,Upper Marlboro,2103,1,21_SB 122722,1,1,2103
+post_18th_2862023,21,mtwtf,Upper Marlboro,2106,1,21_SB 122722,1,1,2106
+post_18th_2862024,21,mtwtf,Upper Marlboro,2108,1,21_SB 122722,1,1,2108
+post_18th_2862025,21,mtwtf,Upper Marlboro,2105,1,21_SB 122722,1,1,2105
+post_18th_2862026,21,mtwtf,Upper Marlboro,2107,1,21_SB 122722,1,1,2107
+post_18th_2862027,21,mtwtf,Upper Marlboro,2103,1,21_SB 122722,1,1,2103
+post_18th_2862028,21,mtwtf,Upper Marlboro,2106,1,21_SB 122722,1,1,2106
+post_18th_2862029,21,mtwtf,Upper Marlboro,2108,1,21_SB 122722,1,1,2108
+post_18th_2862005,21,mtwtf,Upper Marlboro,2101,1,92582 122723,1,1,2101
+post_18th_2862006,21,mtwtf,Upper Marlboro,2105,1,92582 122723,1,1,2105
+post_18th_35_T01,35,mtwtf,Loop,3501,0,35 122724,1,1,3501
+post_18th_2862612,35,mtwtf,Loop,3502,0,35 122724,1,1,3502
+post_18th_2862613,35,mtwtf,Loop,3503,0,35 122724,1,1,3503
+post_18th_2862614,35,mtwtf,Loop,3504,0,35 122724,1,1,3504
+post_18th_2862615,35,mtwtf,Loop,3501,0,35 122724,1,1,3501
+post_18th_2862616,35,mtwtf,Loop,3502,0,35 122724,1,1,3502
+post_18th_2862617,35,mtwtf,Loop,3503,0,35 122724,1,1,3503
+post_18th_2862618,35,mtwtf,Loop,3504,0,35 122724,1,1,3504
+post_18th_2862619,35,mtwtf,Loop,3502,0,35 122724,1,1,3502
+post_18th_2862620,35,mtwtf,Loop,3504,0,35 122724,1,1,3504
+post_18th_2862621,35,mtwtf,Loop,3502,0,35 122724,1,1,3502
+post_18th_2862622,35,mtwtf,Loop,3504,0,35 122724,1,1,3504
+post_18th_2862623,35,mtwtf,Loop,3505,0,35 122724,1,1,3505
+post_18th_2862624,35,mtwtf,Loop,3502,0,35 122724,1,1,3502
+post_18th_2862625,35,mtwtf,Loop,3506,0,35 122724,1,1,3506
+post_18th_2862626,35,mtwtf,Loop,3504,0,35 122724,1,1,3504
+post_18th_2862627,35,mtwtf,Loop,3505,0,35 122724,1,1,3505
+post_18th_2862628,35,mtwtf,Loop,3502,0,35 122724,1,1,3502
+post_18th_2862629,35,mtwtf,Loop,3506,0,35 122724,1,1,3506
+post_18th_2862630,35,mtwtf,Loop,3504,0,35 122724,1,1,3504
+post_18th_2862631,35,mtwtf,Loop,3505,0,35 122724,1,1,3505
+post_18th_2858546,15X,mtwtf,Greenbelt Metro Station,1593,0,15X_NB 122725,1,1,1593
+post_18th_2858547,15X,mtwtf,Greenbelt Metro Station,1593,0,15X_NB 122725,1,1,1593
+post_18th_2858548,15X,mtwtf,Greenbelt Metro Station,1593,0,15X_NB 122725,1,1,1593
+post_18th_2858549,15X,mtwtf,Greenbelt Metro Station,1593,0,15X_NB 122725,1,1,1593
+post_18th_2858550,15X,mtwtf,Greenbelt Metro Station,1594,0,15X_NB 122725,1,1,1594
+post_18th_2858551,15X,mtwtf,Greenbelt Metro Station,1594,0,15X_NB 122725,1,1,1594
+post_18th_2858552,15X,mtwtf,Greenbelt Metro Station,1594,0,15X_NB 122725,1,1,1594
+post_18th_2858539,15X,mtwtf,New Carrollton Metro Station,1594,1,15X_SB 122726,1,1,1594
+post_18th_2858540,15X,mtwtf,New Carrollton Metro Station,1594,1,15X_SB 122726,1,1,1594
+post_18th_2858541,15X,mtwtf,New Carrollton Metro Station,1594,1,15X_SB 122726,1,1,1594
+post_18th_2858542,15X,mtwtf,New Carrollton Metro Station,1594,1,15X_SB 122726,1,1,1594
+post_18th_2858543,15X,mtwtf,New Carrollton Metro Station,1593,1,15X_SB 122726,1,1,1593
+post_18th_2858544,15X,mtwtf,New Carrollton Metro Station,1593,1,15X_SB 122726,1,1,1593
+post_18th_2858545,15X,mtwtf,New Carrollton Metro Station,1593,1,15X_SB 122726,1,1,1593
+post_18th_2858524,15X,mtwtf,Greenbelt Metro Station,1592,0,92344 122727,1,1,1592
+post_18th_2858525,15X,mtwtf,Greenbelt Metro Station,1592,0,92344 122727,1,1,1592
+post_18th_2858526,15X,mtwtf,Greenbelt Metro Station,1592,0,92344 122727,1,1,1592
+post_18th_2858527,15X,mtwtf,Greenbelt Metro Station,1592,0,92344 122727,1,1,1592
+post_18th_2858536,15X,mtwtf,Greenbelt Metro Station,1591,0,92344 122727,1,1,1591
+post_18th_2858537,15X,mtwtf,Greenbelt Metro Station,1591,0,92344 122727,1,1,1591
+post_18th_2858538,15X,mtwtf,Greenbelt Metro Station,1591,0,92344 122727,1,1,1591
+post_18th_2858528,15X,mtwtf,New Carrollton Metro Station,1592,1,92345 122728,1,1,1592
+post_18th_2858529,15X,mtwtf,New Carrollton Metro Station,1592,1,92345 122728,1,1,1592
+post_18th_2858530,15X,mtwtf,New Carrollton Metro Station,1592,1,92345 122728,1,1,1592
+post_18th_2858532,15X,mtwtf,New Carrollton Metro Station,1591,1,92345 122728,1,1,1591
+post_18th_2858533,15X,mtwtf,New Carrollton Metro Station,1591,1,92345 122728,1,1,1591
+post_18th_2858534,15X,mtwtf,New Carrollton Metro Station,1591,1,92345 122728,1,1,1591
+post_18th_2858535,15X,mtwtf,New Carrollton Metro Station,1591,1,92345 122728,1,1,1591
+post_18th_22 NB_T01,22,mtwtf,Brightseat Rd & Evarts St,2201,0,22_NB 122729,1,1,2201
+post_18th_22 NB_T02,22,mtwtf,Brightseat Rd & Evarts St,2202,0,22_NB 122729,1,1,2202
+post_18th_22 NB_T03,22,mtwtf,Brightseat Rd & Evarts St,2201,0,22_NB 122729,1,1,2201
+post_18th_22 NB_T04,22,mtwtf,Brightseat Rd & Evarts St,2202,0,22_NB 122729,1,1,2202
+post_18th_22 NB_T05,22,mtwtf,Brightseat Rd & Evarts St,2201,0,22_NB 122729,1,1,2201
+post_18th_22 NB_T06,22,mtwtf,Brightseat Rd & Evarts St,2202,0,22_NB 122729,1,1,2202
+post_18th_22 NB_T07,22,mtwtf,Brightseat Rd & Evarts St,2201,0,22_NB 122729,1,1,2201
+post_18th_22 NB_T08,22,mtwtf,Brightseat Rd & Evarts St,2202,0,22_NB 122729,1,1,2202
+post_18th_22 NB_T09,22,mtwtf,Brightseat Rd & Evarts St,2201,0,22_NB 122729,1,1,2201
+post_18th_22 NB_T10,22,mtwtf,Brightseat Rd & Evarts St,2202,0,22_NB 122729,1,1,2202
+post_18th_22 NB_T11,22,mtwtf,Brightseat Rd & Evarts St,2201,0,22_NB 122729,1,1,2201
+post_18th_22 NB_T12,22,mtwtf,Brightseat Rd & Evarts St,2202,0,22_NB 122729,1,1,2202
+post_18th_22 NB_T13,22,mtwtf,Brightseat Rd & Evarts St,2201,0,22_NB 122729,1,1,2201
+post_18th_22 NB_T14,22,mtwtf,Brightseat Rd & Evarts St,2202,0,22_NB 122729,1,1,2202
+post_18th_22 NB_T15,22,mtwtf,Brightseat Rd & Evarts St,2201,0,22_NB 122729,1,1,2201
+post_18th_22 NB_T16,22,mtwtf,Brightseat Rd & Evarts St,2202,0,22_NB 122729,1,1,2202
+post_18th_22 NB_T17,22,mtwtf,Brightseat Rd & Evarts St,2201,0,22_NB 122729,1,1,2201
+post_18th_22 NB_T18,22,mtwtf,Brightseat Rd & Evarts St,2202,0,22_NB 122729,1,1,2202
+post_18th_22 NB_T19,22,mtwtf,Brightseat Rd & Evarts St,2201,0,22_NB 122729,1,1,2201
+post_18th_22 NB_T20,22,mtwtf,Brightseat Rd & Evarts St,2202,0,22_NB 122729,1,1,2202
+post_18th_22 SB_T01,22,mtwtf,Morgan Blvd Metro Station,2202,1,22_SB 122730,1,1,2202
+post_18th_22 SB_T02,22,mtwtf,Morgan Blvd Metro Station,2201,1,22_SB 122730,1,1,2201
+post_18th_22 SB_T03,22,mtwtf,Morgan Blvd Metro Station,2202,1,22_SB 122730,1,1,2202
+post_18th_22 SB_T04,22,mtwtf,Morgan Blvd Metro Station,2201,1,22_SB 122730,1,1,2201
+post_18th_22 SB_T05,22,mtwtf,Morgan Blvd Metro Station,2202,1,22_SB 122730,1,1,2202
+post_18th_22 SB_T06,22,mtwtf,Morgan Blvd Metro Station,2201,1,22_SB 122730,1,1,2201
+post_18th_22 SB_T07,22,mtwtf,Morgan Blvd Metro Station,2202,1,22_SB 122730,1,1,2202
+post_18th_22 SB_T08,22,mtwtf,Morgan Blvd Metro Station,2201,1,22_SB 122730,1,1,2201
+post_18th_22 SB_T09,22,mtwtf,Morgan Blvd Metro Station,2202,1,22_SB 122730,1,1,2202
+post_18th_22 SB_T10,22,mtwtf,Morgan Blvd Metro Station,2201,1,22_SB 122730,1,1,2201
+post_18th_22 SB_T11,22,mtwtf,Morgan Blvd Metro Station,2202,1,22_SB 122730,1,1,2202
+post_18th_22 SB_T12,22,mtwtf,Morgan Blvd Metro Station,2201,1,22_SB 122730,1,1,2201
+post_18th_22 SB_T13,22,mtwtf,Morgan Blvd Metro Station,2202,1,22_SB 122730,1,1,2202
+post_18th_22 SB_T14,22,mtwtf,Morgan Blvd Metro Station,2201,1,22_SB 122730,1,1,2201
+post_18th_22 SB_T15,22,mtwtf,Morgan Blvd Metro Station,2202,1,22_SB 122730,1,1,2202
+post_18th_22 SB_T16,22,mtwtf,Morgan Blvd Metro Station,2201,1,22_SB 122730,1,1,2201
+post_18th_22 SB_T17,22,mtwtf,Morgan Blvd Metro Station,2202,1,22_SB 122730,1,1,2202
+post_18th_22 SB_T18,22,mtwtf,Morgan Blvd Metro Station,2201,1,22_SB 122730,1,1,2201
+post_18th_22 SB_T19,22,mtwtf,Morgan Blvd Metro Station,2202,1,22_SB 122730,1,1,2202
+post_18th_22 SB_T20,22,mtwtf,Morgan Blvd Metro Station,2201,1,22_SB 122730,1,1,2201
+post_18th_36NB_T01,36,mtwtf,Clinton Fringe,3601,0,36_NB 122731,1,1,3601
+post_18th_36NB_T02,36,mtwtf,Clinton Fringe,3602,0,36_NB 122731,1,1,3602
+post_18th_36NB_T03,36,mtwtf,Clinton Fringe,3601,0,36_NB 122731,1,1,3601
+post_18th_36NB_T04,36,mtwtf,Clinton Fringe,3602,0,36_NB 122731,1,1,3602
+post_18th_36NB_T05,36,mtwtf,Clinton Fringe,3601,0,36_NB 122731,1,1,3601
+post_18th_36NB_T06,36,mtwtf,Clinton Fringe,3602,0,36_NB 122731,1,1,3602
+post_18th_36NB_T07,36,mtwtf,Clinton Fringe,3601,0,36_NB 122731,1,1,3601
+post_18th_36NB_T08,36,mtwtf,Clinton Fringe,3602,0,36_NB 122731,1,1,3602
+post_18th_36NB_T09,36,mtwtf,Clinton Fringe,3601,0,36_NB 122731,1,1,3601
+post_18th_36NB_T10,36,mtwtf,Clinton Fringe,3602,0,36_NB 122731,1,1,3602
+post_18th_36NB_T11,36,mtwtf,Clinton Fringe,3601,0,36_NB 122731,1,1,3601
+post_18th_36NB_T12,36,mtwtf,Clinton Fringe,3602,0,36_NB 122731,1,1,3602
+post_18th_36NB_T13,36,mtwtf,Clinton Fringe,3601,0,36_NB 122731,1,1,3601
+post_18th_36NB_T14,36,mtwtf,Clinton Fringe,3602,0,36_NB 122731,1,1,3602
+post_18th_36NB_T15,36,mtwtf,Clinton Fringe,3601,0,36_NB 122731,1,1,3601
+post_18th_36NB_T16,36,mtwtf,Clinton Fringe,3602,0,36_NB 122731,1,1,3602
+post_18th_36NB_T17,36,mtwtf,Clinton Fringe,3601,0,36_NB 122731,1,1,3601
+post_18th_36NB_T18,36,mtwtf,Clinton Fringe,3602,0,36_NB 122731,1,1,3602
+post_18th_36NB_T19,36,mtwtf,Clinton Fringe,3601,0,36_NB 122731,1,1,3601
+post_18th_36 SB_T01,36,mtwtf,MD 5 Park & Ride,3602,1,36_SB 122732,1,1,3602
+post_18th_36 SB_T02,36,mtwtf,MD 5 Park & Ride,3601,1,36_SB 122732,1,1,3601
+post_18th_36 SB_T03,36,mtwtf,MD 5 Park & Ride,3602,1,36_SB 122732,1,1,3602
+post_18th_36 SB_T04,36,mtwtf,MD 5 Park & Ride,3601,1,36_SB 122732,1,1,3601
+post_18th_36 SB_T05,36,mtwtf,MD 5 Park & Ride,3602,1,36_SB 122732,1,1,3602
+post_18th_36 SB_T06,36,mtwtf,MD 5 Park & Ride,3601,1,36_SB 122732,1,1,3601
+post_18th_36 SB_T07,36,mtwtf,MD 5 Park & Ride,3602,1,36_SB 122732,1,1,3602
+post_18th_36 SB_T08,36,mtwtf,MD 5 Park & Ride,3601,1,36_SB 122732,1,1,3601
+post_18th_36 SB_T09,36,mtwtf,MD 5 Park & Ride,3602,1,36_SB 122732,1,1,3602
+post_18th_36 SB_T10,36,mtwtf,MD 5 Park & Ride,3601,1,36_SB 122732,1,1,3601
+post_18th_36 SB_T11,36,mtwtf,MD 5 Park & Ride,3602,1,36_SB 122732,1,1,3602
+post_18th_36 SB_T12,36,mtwtf,MD 5 Park & Ride,3601,1,36_SB 122732,1,1,3601
+post_18th_36 SB_T13,36,mtwtf,MD 5 Park & Ride,3602,1,36_SB 122732,1,1,3602
+post_18th_36 SB_T14,36,mtwtf,MD 5 Park & Ride,3601,1,36_SB 122732,1,1,3601
+post_18th_36 SB_T15,36,mtwtf,MD 5 Park & Ride,3602,1,36_SB 122732,1,1,3602
+post_18th_36 SB_T16,36,mtwtf,MD 5 Park & Ride,3601,1,36_SB 122732,1,1,3601
+post_18th_36 SB_T17,36,mtwtf,MD 5 Park & Ride,3602,1,36_SB 122732,1,1,3602
+post_18th_36 SB_T18,36,mtwtf,MD 5 Park & Ride,3601,1,36_SB 122732,1,1,3601
+post_18th_36 SB_T19,36,mtwtf,MD 5 Park & Ride,3602,1,36_SB 122732,1,1,3602
+post_18th_2856120,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614655,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614656,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614657,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614658,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614659,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614660,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614661,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614662,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614663,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614664,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614665,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614666,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614667,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614668,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614669,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614670,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614671,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614672,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+3614673,13,mtwtf,PG Plaza Metro Station via Ager Rd,1301,0,13 122733,1,1,1301
+post_18th_2856160,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614693,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614694,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614695,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614696,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614697,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614698,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614699,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614700,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614701,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614702,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614703,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614704,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614705,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614706,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614707,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614708,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614709,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614710,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+3614711,13,mtwtf,PG Plaza Metro Station via Hamilton St,1302,0,13A 122734,1,1,1302
+post_18th_2856140,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614674,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614675,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614676,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614677,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614678,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614679,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614680,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614681,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614682,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614683,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614684,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614685,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614686,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614687,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614688,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614689,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614690,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614691,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+3614692,13,mtwtf,West Hyattsville Metro Station via Hamilton St,1301,1,91763 122735,1,1,1301
+post_18th_2856180,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614712,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614713,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614714,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614715,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614716,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614717,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614718,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614719,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614720,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614721,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614722,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614723,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614724,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614725,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614726,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614727,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614728,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614729,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+3614730,13,mtwtf,West Hyattsville Metro Station via Ager Rd,1302,1,91764 122736,1,1,1302
+post_18th_26M EB_T01,26,mtwtf,Largo Town Center Metro Station,2601,0,26M_EB 122737,1,1,2601
+post_18th_2862373,26,mtwtf,Largo Town Center Metro Station,2601,0,26M_EB 122737,1,1,2601
+post_18th_2862374,26,mtwtf,Largo Town Center Metro Station,2601,0,26M_EB 122737,1,1,2601
+post_18th_2862375,26,mtwtf,Largo Town Center Metro Station,2601,0,26M_EB 122737,1,1,2601
+post_18th_2862376,26,mtwtf,Largo Town Center Metro Station,2601,0,26M_EB 122737,1,1,2601
+post_18th_2862377,26,mtwtf,Largo Town Center Metro Station,2601,0,26M_EB 122737,1,1,2601
+post_18th_2862378,26,mtwtf,Largo Town Center Metro Station,2601,0,26M_EB 122737,1,1,2601
+post_18th_2862379,26,mtwtf,Largo Town Center Metro Station,2601,0,26M_EB 122737,1,1,2601
+post_18th_2862380,26,mtwtf,Largo Town Center Metro Station,2602,0,26M_EB 122737,1,1,2602
+post_18th_2862381,26,mtwtf,Largo Town Center Metro Station,2602,0,26M_EB 122737,1,1,2602
+post_18th_2862382,26,mtwtf,Largo Town Center Metro Station,2602,0,26M_EB 122737,1,1,2602
+post_18th_2862383,26,mtwtf,Largo Town Center Metro Station,2602,0,26M_EB 122737,1,1,2602
+post_18th_2862384,26,mtwtf,Largo Town Center Metro Station,2602,0,26M_EB 122737,1,1,2602
+post_18th_2862385,26,mtwtf,Largo Town Center Metro Station,2602,0,26M_EB 122737,1,1,2602
+post_18th_2862386,26,mtwtf,Largo Town Center Metro Station,2602,0,26M_EB 122737,1,1,2602
+post_18th_2862387,26,mtwtf,Largo Town Center Metro Station,2602,0,26M_EB 122737,1,1,2602
+post_18th_26 EB_T01,26,mtwtf,Largo Town Center Metro Station,2601,0,26_EB 122738,1,1,2601
+post_18th_26 EB_T02,26,mtwtf,Largo Town Center Metro Station,2602,0,26_EB 122738,1,1,2602
+post_18th_26 EB_T03,26,mtwtf,Largo Town Center Metro Station,2601,0,26_EB 122738,1,1,2601
+post_18th_26M WB_T01,26,mtwtf,Morgan Blvd Metro Station,2602,1,26M_WB 122739,1,1,2602
+post_18th_2862403,26,mtwtf,Morgan Blvd Metro Station,2602,1,26M_WB 122739,1,1,2602
+post_18th_2862404,26,mtwtf,Morgan Blvd Metro Station,2602,1,26M_WB 122739,1,1,2602
+post_18th_2862405,26,mtwtf,Morgan Blvd Metro Station,2602,1,26M_WB 122739,1,1,2602
+post_18th_2862406,26,mtwtf,Morgan Blvd Metro Station,2602,1,26M_WB 122739,1,1,2602
+post_18th_2862407,26,mtwtf,Morgan Blvd Metro Station,2602,1,26M_WB 122739,1,1,2602
+post_18th_2862408,26,mtwtf,Morgan Blvd Metro Station,2602,1,26M_WB 122739,1,1,2602
+post_18th_2862409,26,mtwtf,Morgan Blvd Metro Station,2602,1,26M_WB 122739,1,1,2602
+post_18th_2862410,26,mtwtf,Morgan Blvd Metro Station,2601,1,26M_WB 122739,1,1,2601
+post_18th_2862411,26,mtwtf,Morgan Blvd Metro Station,2601,1,26M_WB 122739,1,1,2601
+post_18th_2862412,26,mtwtf,Morgan Blvd Metro Station,2601,1,26M_WB 122739,1,1,2601
+post_18th_2862413,26,mtwtf,Morgan Blvd Metro Station,2601,1,26M_WB 122739,1,1,2601
+post_18th_2862414,26,mtwtf,Morgan Blvd Metro Station,2601,1,26M_WB 122739,1,1,2601
+post_18th_2862415,26,mtwtf,Morgan Blvd Metro Station,2601,1,26M_WB 122739,1,1,2601
+post_18th_2862416,26,mtwtf,Morgan Blvd Metro Station,2601,1,26M_WB 122739,1,1,2601
+post_18th_2862417,26,mtwtf,Morgan Blvd Metro Station,2601,1,26M_WB 122739,1,1,2601
+post_18th_26 WB_T01,26,mtwtf,Morgan Blvd Metro Station,2602,1,26_WB 122740,1,1,2602
+post_18th_26 WB_T02,26,mtwtf,Morgan Blvd Metro Station,2601,1,26_WB 122740,1,1,2601
+post_18th_26 WB_T03,26,mtwtf,Morgan Blvd Metro Station,2602,1,26_WB 122740,1,1,2602
+post_18th_2862419,28,mtwtf,A Loop (Northbound),2802,0,28_NB 122741,1,1,2802
+post_18th_2862420,28,mtwtf,A Loop (Northbound),2802,0,28_NB 122741,1,1,2802
+post_18th_2862421,28,mtwtf,A Loop (Northbound),2802,0,28_NB 122741,1,1,2802
+post_18th_2862422,28,mtwtf,A Loop (Northbound),2802,0,28_NB 122741,1,1,2802
+post_18th_2862423,28,mtwtf,A Loop (Northbound),2802,0,28_NB 122741,1,1,2802
+post_18th_2862424,28,mtwtf,A Loop (Northbound),2802,0,28_NB 122741,1,1,2802
+post_18th_2862425,28,mtwtf,A Loop (Northbound),2802,0,28_NB 122741,1,1,2802
+post_18th_2862426,28,mtwtf,A Loop (Northbound),2802,0,28_NB 122741,1,1,2802
+post_18th_2862427,28,mtwtf,A Loop (Northbound),2802,0,28_NB 122741,1,1,2802
+post_18th_2862428,28,mtwtf,A Loop (Northbound),2801,0,28_NB 122741,1,1,2801
+post_18th_2862429,28,mtwtf,A Loop (Northbound),2801,0,28_NB 122741,1,1,2801
+post_18th_2862430,28,mtwtf,A Loop (Northbound),2801,0,28_NB 122741,1,1,2801
+post_18th_2862431,28,mtwtf,A Loop (Northbound),2801,0,28_NB 122741,1,1,2801
+post_18th_2862432,28,mtwtf,A Loop (Northbound),2801,0,28_NB 122741,1,1,2801
+post_18th_2862433,28,mtwtf,A Loop (Northbound),2801,0,28_NB 122741,1,1,2801
+post_18th_2862434,28,mtwtf,A Loop (Northbound),2801,0,28_NB 122741,1,1,2801
+post_18th_2862435,28,mtwtf,A Loop (Northbound),2801,0,28_NB 122741,1,1,2801
+post_18th_2862438,28,mtwtf,B Loop (Southbound),2801,1,28_SB 122742,1,1,2801
+post_18th_2862439,28,mtwtf,B Loop (Southbound),2801,1,28_SB 122742,1,1,2801
+post_18th_2862440,28,mtwtf,B Loop (Southbound),2801,1,28_SB 122742,1,1,2801
+post_18th_2862441,28,mtwtf,B Loop (Southbound),2801,1,28_SB 122742,1,1,2801
+post_18th_2862442,28,mtwtf,B Loop (Southbound),2801,1,28_SB 122742,1,1,2801
+post_18th_2862443,28,mtwtf,B Loop (Southbound),2801,1,28_SB 122742,1,1,2801
+post_18th_2862444,28,mtwtf,B Loop (Southbound),2801,1,28_SB 122742,1,1,2801
+post_18th_2862445,28,mtwtf,B Loop (Southbound),2801,1,28_SB 122742,1,1,2801
+post_18th_2862446,28,mtwtf,B Loop (Southbound),2802,1,28_SB 122742,1,1,2802
+post_18th_2862447,28,mtwtf,B Loop (Southbound),2802,1,28_SB 122742,1,1,2802
+post_18th_2862448,28,mtwtf,B Loop (Southbound),2802,1,28_SB 122742,1,1,2802
+post_18th_2862449,28,mtwtf,B Loop (Southbound),2802,1,28_SB 122742,1,1,2802
+post_18th_2862450,28,mtwtf,B Loop (Southbound),2802,1,28_SB 122742,1,1,2802
+post_18th_2862451,28,mtwtf,B Loop (Southbound),2802,1,28_SB 122742,1,1,2802
+post_18th_2862452,28,mtwtf,B Loop (Southbound),2802,1,28_SB 122742,1,1,2802
+post_18th_2862453,28,mtwtf,B Loop (Southbound),2802,1,28_SB 122742,1,1,2802
+post_18th_2862418,28,mtwtf,A Loop (Northbound),2801,0,92610 122743,1,1,2801
+post_18th_2862436,28,mtwtf,B Loop (Southbound),2802,1,92611 122744,1,1,2802
+post_18th_2862437,28,mtwtf,B Loop (Southbound),2801,1,92611 122744,1,1,2801
+post_18th_2862501,34,mtwtf,Suitland Metro Station,3401,1,34A_E 122745,1,1,3401
+post_18th_2862502,34,mtwtf,Suitland Metro Station,3402,1,34A_E 122745,1,1,3402
+post_18th_2862503,34,mtwtf,Suitland Metro Station,3401,1,34A_E 122745,1,1,3401
+post_18th_2862504,34,mtwtf,Suitland Metro Station,3402,1,34A_E 122745,1,1,3402
+post_18th_2862505,34,mtwtf,Suitland Metro Station,3401,1,34A_E 122745,1,1,3401
+post_18th_2862506,34,mtwtf,Suitland Metro Station,3402,1,34A_E 122745,1,1,3402
+post_18th_2862507,34,mtwtf,Suitland Metro Station,3401,1,34A_E 122745,1,1,3401
+post_18th_2862508,34,mtwtf,Suitland Metro Station,3402,1,34A_E 122745,1,1,3402
+post_18th_2862509,34,mtwtf,Suitland Metro Station,3401,1,34A_E 122745,1,1,3401
+post_18th_2862510,34,mtwtf,Suitland Metro Station,3402,1,34A_E 122745,1,1,3402
+post_18th_2862511,34,mtwtf,Suitland Metro Station,3401,1,34A_E 122745,1,1,3401
+post_18th_2862512,34,mtwtf,Suitland Metro Station,3402,1,34A_E 122745,1,1,3402
+post_18th_2862513,34,mtwtf,Suitland Metro Station,3401,1,34A_E 122745,1,1,3401
+post_18th_2862514,34,mtwtf,Suitland Metro Station,3402,1,34A_E 122745,1,1,3402
+post_18th_2862515,34,mtwtf,Suitland Metro Station,3401,1,34A_E 122745,1,1,3401
+post_18th_2862516,34,mtwtf,Suitland Metro Station,3402,1,34A_E 122745,1,1,3402
+post_18th_2862517,34,mtwtf,Suitland Metro Station,3401,1,34A_E 122745,1,1,3401
+post_18th_2862518,34,mtwtf,Suitland Metro Station,3402,1,34A_E 122745,1,1,3402
+post_18th_2862519,34,mtwtf,Suitland Metro Station,3401,1,34A_E 122745,1,1,3401
+post_18th_2862520,34,mtwtf,Suitland Metro Station,3402,1,34A_E 122745,1,1,3402
+post_18th_2862521,34,mtwtf,Suitland Metro Station,3401,1,34A_E 122745,1,1,3401
+post_18th_2862522,34,mtwtf,Suitland Metro Station,3402,1,34A_E 122745,1,1,3402
+post_18th_2862523,34,mtwtf,Suitland Metro Station,3401,1,34A_E 122745,1,1,3401
+post_18th_2862524,34,mtwtf,Suitland Metro Station,3402,1,34A_E 122745,1,1,3402
+post_18th_2862525,34,mtwtf,Suitland Metro Station,3401,1,34A_E 122745,1,1,3401
+post_18th_2862526,34,mtwtf,Suitland Metro Station,3402,1,34A_E 122745,1,1,3402
+post_18th_2862552,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862553,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862554,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862555,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862556,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862557,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862558,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862559,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862560,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862561,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862562,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862563,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862564,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862565,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862566,34,mtwtf,Capital Crossing Apartments,3401,0,34A 122746,1,1,3401
+post_18th_2862567,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862568,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862569,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862570,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862571,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862572,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862573,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862574,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862575,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862576,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862577,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862578,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862579,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862580,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862581,34,mtwtf,Capital Crossing Apartments,3402,0,34A 122746,1,1,3402
+post_18th_2862527,34,mtwtf,Capital Crossing,3402,0,92231 122747,1,1,3402
+post_18th_2862528,34,mtwtf,Capital Crossing,3402,0,92231 122747,1,1,3402
+post_18th_2862529,34,mtwtf,Capital Crossing,3402,0,92231 122747,1,1,3402
+post_18th_2862530,34,mtwtf,Capital Crossing,3402,0,92231 122747,1,1,3402
+post_18th_2862531,34,mtwtf,Capital Crossing,3402,0,92231 122747,1,1,3402
+post_18th_2862532,34,mtwtf,Capital Crossing,3402,0,92231 122747,1,1,3402
+post_18th_2862533,34,mtwtf,Capital Crossing,3402,0,92231 122747,1,1,3402
+post_18th_2862534,34,mtwtf,Capital Crossing,3402,0,92231 122747,1,1,3402
+post_18th_2862535,34,mtwtf,Capital Crossing,3402,0,92231 122747,1,1,3402
+post_18th_2862536,34,mtwtf,Capital Crossing,3402,0,92231 122747,1,1,3402
+post_18th_2862537,34,mtwtf,Capital Crossing,3402,0,92231 122747,1,1,3402
+post_18th_2862538,34,mtwtf,Capital Crossing,3402,0,92231 122747,1,1,3402
+post_18th_2862539,34,mtwtf,Capital Crossing,3402,0,92231 122747,1,1,3402
+post_18th_2862540,34,mtwtf,Capital Crossing,3401,0,92231 122747,1,1,3401
+post_18th_2862541,34,mtwtf,Capital Crossing,3401,0,92231 122747,1,1,3401
+post_18th_2862542,34,mtwtf,Capital Crossing,3401,0,92231 122747,1,1,3401
+post_18th_2862543,34,mtwtf,Capital Crossing,3401,0,92231 122747,1,1,3401
+post_18th_2862544,34,mtwtf,Capital Crossing,3401,0,92231 122747,1,1,3401
+post_18th_2862545,34,mtwtf,Capital Crossing,3401,0,92231 122747,1,1,3401
+post_18th_2862546,34,mtwtf,Capital Crossing,3401,0,92231 122747,1,1,3401
+post_18th_2862547,34,mtwtf,Capital Crossing,3401,0,92231 122747,1,1,3401
+post_18th_2862548,34,mtwtf,Capital Crossing,3401,0,92231 122747,1,1,3401
+post_18th_2862549,34,mtwtf,Capital Crossing,3401,0,92231 122747,1,1,3401
+post_18th_2862550,34,mtwtf,Capital Crossing,3401,0,92231 122747,1,1,3401
+post_18th_2862551,34,mtwtf,Capital Crossing,3401,0,92231 122747,1,1,3401
+post_18th_2862582,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862583,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862584,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862585,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862586,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862587,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862588,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862589,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862590,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862591,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862592,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862593,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862594,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862595,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862596,34,mtwtf,Suitland Metro Station,3401,1,92232 122748,1,1,3401
+post_18th_2862597,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862598,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862599,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862600,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862601,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862602,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862603,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862604,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862605,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862606,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862607,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862608,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862609,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862610,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862611,34,mtwtf,Suitland Metro Station,3402,1,92232 122748,1,1,3402
+post_18th_2862632,35S,mtwtf,Olde Fort Village Shopping Center,3591,0,35S 122749,1,1,3591
+post_18th_2862633,35S,mtwtf,Olde Fort Village Shopping Center,3591,0,35S 122749,1,1,3591
+post_18th_2862634,35S,mtwtf,Olde Fort Village Shopping Center,3591,0,35S 122749,1,1,3591
+post_18th_2862635,35S,mtwtf,Olde Fort Village Shopping Center,3591,0,35S 122749,1,1,3591
+post_18th_2862636,35S,mtwtf,Olde Fort Village Shopping Center,3591,0,35S 122749,1,1,3591
+post_18th_2862637,35S,mtwtf,Olde Fort Village Shopping Center,3591,0,35S 122749,1,1,3591
+post_18th_2862638,35S,mtwtf,Oxon Hill Park & Ride,3591,1,92612 122750,1,1,3591
+post_18th_2862639,35S,mtwtf,Oxon Hill Park & Ride,3591,1,92612 122750,1,1,3591
+post_18th_2862640,35S,mtwtf,Oxon Hill Park & Ride,3591,1,92612 122750,1,1,3591
+post_18th_2862641,35S,mtwtf,Oxon Hill Park & Ride,3591,1,92612 122750,1,1,3591
+post_18th_2862642,35S,mtwtf,Oxon Hill Park & Ride,3591,1,92612 122750,1,1,3591
+post_18th_2862643,35S,mtwtf,Oxon Hill Park & Ride,3591,1,92612 122750,1,1,3591
+post_18th_2862644,51,mtwtf,Loop,5101,0,51 122751,1,1,5101
+post_18th_2862645,51,mtwtf,Loop,5102,0,51 122751,1,1,5102
+post_18th_2862646,51,mtwtf,Loop,5103,0,51 122751,1,1,5103
+post_18th_37 NB_T01,37,mtwtf,Southern Avenue Metro Station,3701,0,37_NB 122752,1,1,3701
+post_18th_37 NB_T02,37,mtwtf,Southern Avenue Metro Station,3702,0,37_NB 122752,1,1,3702
+post_18th_37 NB_T03,37,mtwtf,Southern Avenue Metro Station,3703,0,37_NB 122752,1,1,3703
+post_18th_37 NB_T04,37,mtwtf,Southern Avenue Metro Station,3701,0,37_NB 122752,1,1,3701
+post_18th_37 NB_T05,37,mtwtf,Southern Avenue Metro Station,3702,0,37_NB 122752,1,1,3702
+post_18th_37 NB_T06,37,mtwtf,Southern Avenue Metro Station,3703,0,37_NB 122752,1,1,3703
+post_18th_37 NB_T07,37,mtwtf,Southern Avenue Metro Station,3701,0,37_NB 122752,1,1,3701
+post_18th_37 SB_T01,37,mtwtf,Old Branch / Allentown Way,3704,1,37_SB 122753,1,1,3704
+post_18th_37 SB_T02,37,mtwtf,Old Branch / Allentown Way,3705,1,37_SB 122753,1,1,3705
+post_18th_37 SB_T03,37,mtwtf,Old Branch / Allentown Way,3706,1,37_SB 122753,1,1,3706
+post_18th_37 SB_T04,37,mtwtf,Old Branch / Allentown Way,3704,1,37_SB 122753,1,1,3704
+post_18th_37 SB_T05,37,mtwtf,Old Branch / Allentown Way,3705,1,37_SB 122753,1,1,3705
+post_18th_37 SB_T06,37,mtwtf,Old Branch / Allentown Way,3706,1,37_SB 122753,1,1,3706
+post_18th_37 SB_T07,37,mtwtf,Old Branch / Allentown Way,3704,1,37_SB 122753,1,1,3704
+post_18th_17 NB_T01,17,mtwtf,Northbound / IKEA,1701,0,17_NB 122754,1,1,1701
+post_18th_17 NB_T02,17,mtwtf,Northbound / IKEA,1702,0,17_NB 122754,1,1,1702
+post_18th_17 NB_T03,17,mtwtf,Northbound / IKEA,1703,0,17_NB 122754,1,1,1703
+post_18th_17 NB_T04,17,mtwtf,Northbound / IKEA,1701,0,17_NB 122754,1,1,1701
+post_18th_17 NB_T05,17,mtwtf,Northbound / IKEA,1702,0,17_NB 122754,1,1,1702
+post_18th_17 NB_T06,17,mtwtf,Northbound / IKEA,1703,0,17_NB 122754,1,1,1703
+post_18th_17 NB_T07,17,mtwtf,Northbound / IKEA,1701,0,17_NB 122754,1,1,1701
+post_18th_17 NB_T08,17,mtwtf,Northbound / IKEA,1702,0,17_NB 122754,1,1,1702
+post_18th_17 NB_T09,17,mtwtf,Northbound / IKEA,1703,0,17_NB 122754,1,1,1703
+post_18th_17 NB_T10,17,mtwtf,Northbound / IKEA,1701,0,17_NB 122754,1,1,1701
+post_18th_17 NB_T11,17,mtwtf,Northbound / IKEA,1702,0,17_NB 122754,1,1,1702
+post_18th_17 NB_T12,17,mtwtf,Northbound / IKEA,1703,0,17_NB 122754,1,1,1703
+post_18th_17 NB_T13,17,mtwtf,Northbound / IKEA,1701,0,17_NB 122754,1,1,1701
+post_18th_17 NB_T14,17,mtwtf,Northbound / IKEA,1702,0,17_NB 122754,1,1,1702
+post_18th_17 NB_T15,17,mtwtf,Northbound / IKEA,1703,0,17_NB 122754,1,1,1703
+post_18th_17 NB_T16,17,mtwtf,Northbound / IKEA,1701,0,17_NB 122754,1,1,1701
+post_18th_17 NB_T17,17,mtwtf,Northbound / IKEA,1702,0,17_NB 122754,1,1,1702
+post_18th_17 NB_T18,17,mtwtf,Northbound / IKEA,1703,0,17_NB 122754,1,1,1703
+post_18th_17 NB_T19,17,mtwtf,Northbound / IKEA,1701,0,17_NB 122754,1,1,1701
+post_18th_17 NB_T20,17,mtwtf,Northbound / IKEA,1702,0,17_NB 122754,1,1,1702
+post_18th_17 NB_T21,17,mtwtf,Northbound / IKEA,1703,0,17_NB 122754,1,1,1703
+post_18th_17 NB_T22,17,mtwtf,Northbound / IKEA,1701,0,17_NB 122754,1,1,1701
+post_18th_17 NB_T23,17,mtwtf,Northbound / IKEA,1702,0,17_NB 122754,1,1,1702
+post_18th_17 NB_T24,17,mtwtf,Northbound / IKEA,1703,0,17_NB 122754,1,1,1703
+post_18th_17 NB_T25,17,mtwtf,Northbound / IKEA,1701,0,17_NB 122754,1,1,1701
+post_18th_17 NB_T26,17,mtwtf,Northbound / IKEA,1702,0,17_NB 122754,1,1,1702
+post_18th_17 NB_T27,17,mtwtf,Northbound / IKEA,1703,0,17_NB 122754,1,1,1703
+post_18th_17 NB_T28,17,mtwtf,Northbound / IKEA,1701,0,17_NB 122754,1,1,1701
+post_18th_17 SB_T01,17,mtwtf,Southbound / Mt. Rainier Terminal,1702,1,17_SB 122755,1,1,1702
+post_18th_17 SB_T02,17,mtwtf,Southbound / Mt. Rainier Terminal,1703,1,17_SB 122755,1,1,1703
+post_18th_17 SB_T03,17,mtwtf,Southbound / Mt. Rainier Terminal,1701,1,17_SB 122755,1,1,1701
+post_18th_17 SB_T04,17,mtwtf,Southbound / Mt. Rainier Terminal,1702,1,17_SB 122755,1,1,1702
+post_18th_17 SB_T05,17,mtwtf,Southbound / Mt. Rainier Terminal,1703,1,17_SB 122755,1,1,1703
+post_18th_17 SB_T06,17,mtwtf,Southbound / Mt. Rainier Terminal,1701,1,17_SB 122755,1,1,1701
+post_18th_17 SB_T07,17,mtwtf,Southbound / Mt. Rainier Terminal,1702,1,17_SB 122755,1,1,1702
+post_18th_17 SB_T08,17,mtwtf,Southbound / Mt. Rainier Terminal,1703,1,17_SB 122755,1,1,1703
+post_18th_17 SB_T09,17,mtwtf,Southbound / Mt. Rainier Terminal,1701,1,17_SB 122755,1,1,1701
+post_18th_17 SB_T10,17,mtwtf,Southbound / Mt. Rainier Terminal,1702,1,17_SB 122755,1,1,1702
+post_18th_17 SB_T11,17,mtwtf,Southbound / Mt. Rainier Terminal,1703,1,17_SB 122755,1,1,1703
+post_18th_17 SB_T12,17,mtwtf,Southbound / Mt. Rainier Terminal,1701,1,17_SB 122755,1,1,1701
+post_18th_17 SB_T13,17,mtwtf,Southbound / Mt. Rainier Terminal,1702,1,17_SB 122755,1,1,1702
+post_18th_17 SB_T14,17,mtwtf,Southbound / Mt. Rainier Terminal,1703,1,17_SB 122755,1,1,1703
+post_18th_17 SB_T15,17,mtwtf,Southbound / Mt. Rainier Terminal,1701,1,17_SB 122755,1,1,1701
+post_18th_17 SB_T16,17,mtwtf,Southbound / Mt. Rainier Terminal,1702,1,17_SB 122755,1,1,1702
+post_18th_17 SB_T17,17,mtwtf,Southbound / Mt. Rainier Terminal,1703,1,17_SB 122755,1,1,1703
+post_18th_17 SB_T18,17,mtwtf,Southbound / Mt. Rainier Terminal,1701,1,17_SB 122755,1,1,1701
+post_18th_17 SB_T19,17,mtwtf,Southbound / Mt. Rainier Terminal,1702,1,17_SB 122755,1,1,1702
+post_18th_17 SB_T20,17,mtwtf,Southbound / Mt. Rainier Terminal,1703,1,17_SB 122755,1,1,1703
+post_18th_17 SB_T21,17,mtwtf,Southbound / Mt. Rainier Terminal,1701,1,17_SB 122755,1,1,1701
+post_18th_17 SB_T22,17,mtwtf,Southbound / Mt. Rainier Terminal,1702,1,17_SB 122755,1,1,1702
+post_18th_17 SB_T23,17,mtwtf,Southbound / Mt. Rainier Terminal,1703,1,17_SB 122755,1,1,1703
+post_18th_17 SB_T24,17,mtwtf,Southbound / Mt. Rainier Terminal,1701,1,17_SB 122755,1,1,1701
+post_18th_17 SB_T25,17,mtwtf,Southbound / Mt. Rainier Terminal,1702,1,17_SB 122755,1,1,1702
+post_18th_17 SB_T26,17,mtwtf,Southbound / Mt. Rainier Terminal,1703,1,17_SB 122755,1,1,1703
+post_18th_17 SB_T27,17,mtwtf,Southbound / Mt. Rainier Terminal,1701,1,17_SB 122755,1,1,1701
+post_18th_17 SB_T28,17,mtwtf,Southbound / Mt. Rainier Terminal,1702,1,17_SB 122755,1,1,1702
+post_18th_17 SB_T29,17,mtwtf,Southbound / Mt. Rainier Terminal,1703,1,17_SB 122755,1,1,1703
+post_18th_27 NB_T01,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T02,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T03,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T04,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T05,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T06,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T07,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T08,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T09,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T10,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T11,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T12,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T13,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T14,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T15,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T16,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T17,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T18,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T19,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T20,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T21,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T22,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T23,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T24,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T25,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 NB_T26,27,mtwtf,,2701,0,27_NB 122756,1,1,2701
+post_18th_27 SB_T01,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T02,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T03,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T04,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T05,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T06,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T07,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T08,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T09,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T10,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T11,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T12,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T13,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T14,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T15,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T16,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T17,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T18,27,mtwtf,,2702,1,27_SB 122757,1,1,2702
+post_18th_27 SB_T19,27,mtwtf,,2703,1,27_SB 122757,1,1,2703
+post_18th_27 SB_T20,27,mtwtf,,2703,1,27_SB 122757,1,1,2703
+post_18th_27 SB_T21,27,mtwtf,,2703,1,27_SB 122757,1,1,2703
+post_18th_27 SB_T22,27,mtwtf,,2703,1,27_SB 122757,1,1,2703
+post_18th_27 SB_T23,27,mtwtf,,2703,1,27_SB 122757,1,1,2703
+post_18th_27 SB_T24,27,mtwtf,,2703,1,27_SB 122757,1,1,2703
+post_18th_27 SB_T25,27,mtwtf,,2703,1,27_SB 122757,1,1,2703
+post_18th_27 SB_T26,27,mtwtf,,2703,1,27_SB 122757,1,1,2703
+post_18th_16 NB_T01,16,mtwtf,Greenbelt Metro Station,1603,0,16_NB 122758,1,1,1603
+post_18th_16 NB_T02,16,mtwtf,Greenbelt Metro Station,1601,0,16_NB 122758,1,1,1601
+post_18th_16 NB_T03,16,mtwtf,Greenbelt Metro Station,1602,0,16_NB 122758,1,1,1602
+post_18th_16 NB_T04,16,mtwtf,Greenbelt Metro Station,1604,0,16_NB 122758,1,1,1604
+post_18th_16 NB_T05,16,mtwtf,Greenbelt Metro Station,1603,0,16_NB 122758,1,1,1603
+post_18th_16 NB_T06,16,mtwtf,Greenbelt Metro Station,1601,0,16_NB 122758,1,1,1601
+post_18th_16 NB_T07,16,mtwtf,Greenbelt Metro Station,1602,0,16_NB 122758,1,1,1602
+post_18th_16 NB_T08,16,mtwtf,Greenbelt Metro Station,1604,0,16_NB 122758,1,1,1604
+post_18th_16 NB_T09,16,mtwtf,Greenbelt Metro Station,1603,0,16_NB 122758,1,1,1603
+post_18th_16 NB_T10,16,mtwtf,Greenbelt Metro Station,1602,0,16_NB 122758,1,1,1602
+post_18th_16 NB_T11,16,mtwtf,Greenbelt Metro Station,1603,0,16_NB 122758,1,1,1603
+post_18th_16 NB_T12,16,mtwtf,Greenbelt Metro Station,1602,0,16_NB 122758,1,1,1602
+post_18th_16 NB_T13,16,mtwtf,Greenbelt Metro Station,1603,0,16_NB 122758,1,1,1603
+post_18th_16 NB_T14,16,mtwtf,Greenbelt Metro Station,1602,0,16_NB 122758,1,1,1602
+post_18th_16 NB_T15,16,mtwtf,Greenbelt Metro Station,1605,0,16_NB 122758,1,1,1605
+post_18th_16 NB_T16,16,mtwtf,Greenbelt Metro Station,1603,0,16_NB 122758,1,1,1603
+post_18th_16 NB_T17,16,mtwtf,Greenbelt Metro Station,1606,0,16_NB 122758,1,1,1606
+post_18th_16 NB_T18,16,mtwtf,Greenbelt Metro Station,1602,0,16_NB 122758,1,1,1602
+post_18th_16 NB_T19,16,mtwtf,Greenbelt Metro Station,1605,0,16_NB 122758,1,1,1605
+post_18th_16 NB_T20,16,mtwtf,Greenbelt Metro Station,1603,0,16_NB 122758,1,1,1603
+post_18th_16 NB_T21,16,mtwtf,Greenbelt Metro Station,1606,0,16_NB 122758,1,1,1606
+post_18th_16 NB_T22,16,mtwtf,Greenbelt Metro Station,1602,0,16_NB 122758,1,1,1602
+post_18th_16 NB_T23,16,mtwtf,Greenbelt Metro Station,1605,0,16_NB 122758,1,1,1605
+post_18th_16 SB_T01,16,mtwtf,New Carrollton Metro Station,1601,1,16_SB 122759,1,1,1601
+post_18th_16 SB_T02,16,mtwtf,New Carrollton Metro Station,1602,1,16_SB 122759,1,1,1602
+post_18th_16 SB_T03,16,mtwtf,New Carrollton Metro Station,1604,1,16_SB 122759,1,1,1604
+post_18th_16 SB_T04,16,mtwtf,New Carrollton Metro Station,1603,1,16_SB 122759,1,1,1603
+post_18th_16 SB_T05,16,mtwtf,New Carrollton Metro Station,1601,1,16_SB 122759,1,1,1601
+post_18th_16 SB_T06,16,mtwtf,New Carrollton Metro Station,1602,1,16_SB 122759,1,1,1602
+post_18th_16 SB_T07,16,mtwtf,New Carrollton Metro Station,1604,1,16_SB 122759,1,1,1604
+post_18th_16 SB_T08,16,mtwtf,New Carrollton Metro Station,1603,1,16_SB 122759,1,1,1603
+post_18th_16 SB_T09,16,mtwtf,New Carrollton Metro Station,1601,1,16_SB 122759,1,1,1601
+post_18th_16 SB_T10,16,mtwtf,New Carrollton Metro Station,1602,1,16_SB 122759,1,1,1602
+post_18th_16 SB_T11,16,mtwtf,New Carrollton Metro Station,1603,1,16_SB 122759,1,1,1603
+post_18th_16 SB_T12,16,mtwtf,New Carrollton Metro Station,1602,1,16_SB 122759,1,1,1602
+post_18th_16 SB_T13,16,mtwtf,New Carrollton Metro Station,1603,1,16_SB 122759,1,1,1603
+post_18th_16 SB_T14,16,mtwtf,New Carrollton Metro Station,1602,1,16_SB 122759,1,1,1602
+post_18th_16 SB_T15,16,mtwtf,New Carrollton Metro Station,1603,1,16_SB 122759,1,1,1603
+post_18th_16 SB_T16,16,mtwtf,New Carrollton Metro Station,1606,1,16_SB 122759,1,1,1606
+post_18th_16 SB_T17,16,mtwtf,New Carrollton Metro Station,1602,1,16_SB 122759,1,1,1602
+post_18th_16 SB_T18,16,mtwtf,New Carrollton Metro Station,1605,1,16_SB 122759,1,1,1605
+post_18th_16 SB_T19,16,mtwtf,New Carrollton Metro Station,1603,1,16_SB 122759,1,1,1603
+post_18th_16 SB_T20,16,mtwtf,New Carrollton Metro Station,1606,1,16_SB 122759,1,1,1606
+post_18th_16 SB_T21,16,mtwtf,New Carrollton Metro Station,1602,1,16_SB 122759,1,1,1602
+post_18th_16 SB_T22,16,mtwtf,New Carrollton Metro Station,1605,1,16_SB 122759,1,1,1605
+post_18th_16 SB_T23,16,mtwtf,New Carrollton Metro Station,1603,1,16_SB 122759,1,1,1603
+post_18th_16 SB_T24,16,mtwtf,New Carrollton Metro Station,1606,1,16_SB 122759,1,1,1606

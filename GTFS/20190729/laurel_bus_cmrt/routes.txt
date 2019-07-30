@@ -1,0 +1,17 @@
+route_id,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color,route_type
+27769,501,Columbia Mall to BWI Airport,,,acb8be,000000,3
+27771,202,Arundel Mills to Odenton,,,8acfb8,000000,3
+27778,409,Laurel to Elkridge Corners Shopping Center,,,5b569d,ffffff,3
+27784,503,Laurel to Columbia Mall,,,cd141c,ffffff,3
+27775,406,Columbia Mall to Howard County Complex,,,ee2e25,ffffff,3
+27779,504,Savage MARC to Piney Orchard,,,636c2c,ffffff,3
+27780,401,Columbia Mall to Hickory Ridge,,,527d23,ffffff,3
+27781,405,Columbia Mall to Ellicott City,,,fec20f,000000,3
+27767,409B,North Laurel to MD Food Center,,,6cbf61,ffffff,3
+27770,502,Laurel to Arundel Mills,,,f8e72a,000000,3
+27777,201,Arundel Mills to Freetown Village,,,cd2026,ffffff,3
+27782,408,Columbia Mall to MD Food Center,,,b6995a,ffffff,3
+27772,301,Laurel to South Laurel,,,6c94cd,ffffff,3
+27774,302,Laurel to College Park Metro / Greenbelt Metro,,,5a449b,ffffff,3
+27783,404,Columbia Mall to Kings Contrivance Village Center,,,f79529,ffffff,3
+27785,407,Columbia Mall to Kings Contrivance Village Center,,,7e4b1d,ffffff,3
