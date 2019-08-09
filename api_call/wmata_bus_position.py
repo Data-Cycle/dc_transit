@@ -9,16 +9,16 @@ import private
 # Notes: Consider making bus trip a seperate table
 
 def main():
+    # Ping WMATA
     api_keys = private.wmata_keys()
     api_key = api_keys['primary']
-
     url = 'https://api.wmata.com/Bus.svc/json/jBusPositions?api_key={}'.format(api_key)
     df = get_bus(url)
+    print(df.head())
 
     # Push to db here
-    db_cred = private.db_cred()
-    db_con =
-    df.to_sql('bus_table', db_con, if_exists='append', index=False)
+    engine = private.connect_db()
+    df.to_sql('wmata_bus', engine, if_exists='append', index=False)
 
     # Test DB
     # print(df_bus.head())

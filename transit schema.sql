@@ -1,6 +1,8 @@
-CREATE TABLE "bus_position" (
+
+DROP TABLE IF EXISTS wmata_bus;
+CREATE TABLE "wmata_bus" (
   "v_id" int PRIMARY KEY,
-  "r_id" int,
+  "r_id" varchar,
   "t_id" int,
   "dt" timestamp,
   "lat" float,
@@ -14,13 +16,15 @@ CREATE TABLE "bus_position" (
   "headsign" varchar
 );
 
-CREATE TABLE "route" (
+DROP TABLE IF EXISTS wmata_bus_route;
+CREATE TABLE "wmata_bus_route" (
   "r_id" int PRIMARY KEY,
   "route_name" varchar,
   "route_line" varchar
 );
 
-CREATE TABLE "stop" (
+DROP TABLE IF EXISTS wmata_bus_stop;
+CREATE TABLE "wmata_bus_stop" (
   "s_id" int,
   "r_id" int,
   "s_name" varchar,
@@ -29,8 +33,8 @@ CREATE TABLE "stop" (
 );
 
 
-
-CREATE TABLE "train_position" (
+DROP TABLE IF EXISTS wmata_train;
+CREATE TABLE "wmata_train" (
   "t_id" int PRIMARY KEY,
   "c_id" int,
   "dt" timestamp,
@@ -43,24 +47,26 @@ CREATE TABLE "train_position" (
   "service" varchar
 );
 
-CREATE TABLE "station" (
+DROP TABLE IF EXISTS wmata_train_station;
+CREATE TABLE "wmata_train_station" (
   "s_id" int PRIMARY KEY,
   "s_name" varchar,
   "lat" int,
   "lng" int
 );
 
-CREATE TABLE "circuit" (
+DROP TABLE IF EXISTS wmata_train_circuit;
+CREATE TABLE "wmata_train_circuit" (
   "c_id" int,
   "lat" int,
   "lng" int,
   "s_id" int
 );
 
-ALTER TABLE "bus_position" ADD FOREIGN KEY ("r_id") REFERENCES "route" ("r_id");
+ALTER TABLE "wmata_bus" ADD FOREIGN KEY ("r_id") REFERENCES "wmata_bus_route" ("r_id");
 
-ALTER TABLE "route" ADD FOREIGN KEY ("r_id") REFERENCES "stop" ("r_id");
+ALTER TABLE "wmata_bus_route" ADD FOREIGN KEY ("r_id") REFERENCES "wmata_bus_stop" ("r_id");
 
-ALTER TABLE "train_position" ADD FOREIGN KEY ("c_id") REFERENCES "circuit" ("c_id");
+ALTER TABLE "wmata_train" ADD FOREIGN KEY ("c_id") REFERENCES "wmata_train_circuit" ("c_id");
 
-ALTER TABLE "circuit" ADD FOREIGN KEY ("s_id") REFERENCES "station" ("s_id");
+ALTER TABLE "wmata_train_circuit" ADD FOREIGN KEY ("s_id") REFERENCES "wmata_train_station" ("s_id");
