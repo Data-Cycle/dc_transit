@@ -2,48 +2,50 @@ CREATE TABLE "bus_position" (
   "v_id" int PRIMARY KEY,
   "r_id" int,
   "t_id" int,
-  "dt" datetime,
+  "dt" timestamp,
   "lat" float,
   "lng" float,
-  "blk" str,
+  "blk" varchar,
   "dev" int,
   "d_num" int,
   "d_txt" int,
-  "t_s" datetime,
-  "t_e" datetime,
-  "headsign" str
+  "t_s" timestamp,
+  "t_e" timestamp,
+  "headsign" varchar
 );
 
 CREATE TABLE "route" (
   "r_id" int PRIMARY KEY,
-  "route_name" str,
-  "route_line" str
+  "route_name" varchar,
+  "route_line" varchar
 );
 
 CREATE TABLE "stop" (
-  "s_id" int PRIMARY KEY,
-  "r_id" int PRIMARY KEY,
-  "s_name" str,
+  "s_id" int,
+  "r_id" int,
+  "s_name" varchar,
   "lat" int,
   "lng" int
 );
 
+
+
 CREATE TABLE "train_position" (
   "t_id" int PRIMARY KEY,
   "c_id" int,
-  "dt" datetime,
+  "dt" timestamp,
   "d_num" int,
   "t_num" int,
   "cars" int,
   "line" int,
   "dest_station" int,
   "sec_loc" int,
-  "service" str
+  "service" varchar
 );
 
 CREATE TABLE "station" (
   "s_id" int PRIMARY KEY,
-  "s_name" str,
+  "s_name" varchar,
   "lat" int,
   "lng" int
 );
