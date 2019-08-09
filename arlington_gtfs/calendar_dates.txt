@@ -1,4 +1,0 @@
-﻿service_id,date,exception_type
-1,20190902,2
-3,20190902,2
-5,20190902,1
