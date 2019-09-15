@@ -27,11 +27,31 @@ CREATE TABLE "wmata_bus_route" (
 
 DROP TABLE IF EXISTS wmata_bus_stop;
 CREATE TABLE "wmata_bus_stop" (
-  "s_id" int,
-  "r_id" int,
+  "s_id" int PRIMARY KEY,
   "s_name" varchar,
   "lat" int,
   "lng" int
+);
+
+DROP TABLE IF EXISTS wmata_bus_sr;
+CREATE TABLE "wmata_bus_sr" (
+  "s_id" int,
+  "r_id" int,
+  CONSTRAINT PK_wmata_bus_sr PRIMARY KEY (s_id, r_id)
+);
+
+DROP TABLE IF EXISTS wmata_bus_pred;
+CREATE TABLE "wmata_bus_pred" (
+  "s_id" int,
+  "retrieved" timestamp,
+  "bus_seq" int,
+  "r_id" varchar,
+  "d_txt" int,
+  "d_num" int,
+  "min" int,
+  "v_id" int,
+  "t_id" int,
+  CONSTRAINT PK_wmata_bus_pred PRIMARY KEY (s_id, retrieved, bus_seq)
 );
 
 
@@ -43,7 +63,7 @@ CREATE TABLE "wmata_train" (
   "d_num" int,
   "t_num" int,
   "cars" int,
-  "line" int,
+  "line" varchar,
   "dest_station" int,
   "sec_loc" int,
   "service" varchar,
