@@ -1,9 +1,10 @@
 
 DROP TABLE IF EXISTS wmata_bus;
 CREATE TABLE "wmata_bus" (
-  "v_id" int PRIMARY KEY,
+  "v_id" int,
   "r_id" varchar,
   "t_id" int,
+  "retrieved" timestamp,
   "dt" timestamp,
   "lat" float,
   "lng" float,
@@ -13,7 +14,8 @@ CREATE TABLE "wmata_bus" (
   "d_txt" int,
   "t_s" timestamp,
   "t_e" timestamp,
-  "headsign" varchar
+  "headsign" varchar,
+  CONSTRAINT PK_wmata_bus PRIMARY KEY (v_id, retrieved)
 );
 
 DROP TABLE IF EXISTS wmata_bus_route;
@@ -35,7 +37,7 @@ CREATE TABLE "wmata_bus_stop" (
 
 DROP TABLE IF EXISTS wmata_train;
 CREATE TABLE "wmata_train" (
-  "t_id" int PRIMARY KEY,
+  "t_id" int,
   "c_id" int,
   "dt" timestamp,
   "d_num" int,
@@ -44,7 +46,8 @@ CREATE TABLE "wmata_train" (
   "line" int,
   "dest_station" int,
   "sec_loc" int,
-  "service" varchar
+  "service" varchar,
+  CONSTRAINT PK_wmata_train PRIMARY KEY (t_id, dt)
 );
 
 DROP TABLE IF EXISTS wmata_train_station;
@@ -63,6 +66,7 @@ CREATE TABLE "wmata_train_circuit" (
   "s_id" int
 );
 
+/*
 ALTER TABLE "wmata_bus" ADD FOREIGN KEY ("r_id") REFERENCES "wmata_bus_route" ("r_id");
 
 ALTER TABLE "wmata_bus_route" ADD FOREIGN KEY ("r_id") REFERENCES "wmata_bus_stop" ("r_id");
@@ -70,3 +74,4 @@ ALTER TABLE "wmata_bus_route" ADD FOREIGN KEY ("r_id") REFERENCES "wmata_bus_sto
 ALTER TABLE "wmata_train" ADD FOREIGN KEY ("c_id") REFERENCES "wmata_train_circuit" ("c_id");
 
 ALTER TABLE "wmata_train_circuit" ADD FOREIGN KEY ("s_id") REFERENCES "wmata_train_station" ("s_id");
+*/

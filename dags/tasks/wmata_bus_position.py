@@ -2,7 +2,7 @@ import requests
 import json
 import pandas as pd
 import datetime
-import private
+import tasks.private as private
 # import sqlite3
 # from sqlite3 import Error
 
@@ -14,7 +14,7 @@ def main():
     api_key = api_keys['primary']
     url = 'https://api.wmata.com/Bus.svc/json/jBusPositions?api_key={}'.format(api_key)
     df = get_bus(url)
-    print(df.head())
+    # print(df.head())
 
     # Push to db here
     engine = private.connect_db()
@@ -40,6 +40,7 @@ def get_bus(url):
     df.rename(col_map, axis=1, inplace=True)
     d_txt_map = {'NORTH': 1, 'SOUTH': 2, 'WEST': 3, 'EAST': 4, 'CLOCKWIS': 5, 'ANTICLKW': 6}
     df['d_txt'] = df['d_txt'].map(d_txt_map)
+    df['retrieved'] = datetime.datetime.now()
     for col in ['dt', 't_s', 't_e']:
         df[col] = pd.to_datetime(df[col])
     return df
