@@ -61,10 +61,10 @@ CREATE TABLE "wmata_train" (
   "c_id" int,
   "dt" timestamp,
   "d_num" int,
-  "t_num" int,
+  "t_num" varchar,
   "cars" int,
   "line" varchar,
-  "dest_station" int,
+  "dest_station" varchar,
   "sec_loc" int,
   "service" varchar,
   CONSTRAINT PK_wmata_train PRIMARY KEY (t_id, dt)
@@ -84,6 +84,17 @@ CREATE TABLE "wmata_train_circuit" (
   "lat" int,
   "lng" int,
   "s_id" int
+);
+
+DROP TABLE IF EXISTS wmata_train_pred;
+CREATE TABLE "wmata_train_pred" (
+  "dest_station" varchar,
+  "retrieved" timestamp,
+  "line" varchar,
+  "loc_code" varchar,
+  "mins" varchar,
+  "cars" int,
+  "grp" varchar
 );
 
 /*

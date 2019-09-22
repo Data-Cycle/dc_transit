@@ -2,12 +2,9 @@ import requests
 import json
 import pandas as pd
 import datetime
-import private as private
-import pdb
+import tasks.private as private
 # import sqlite3
 # from sqlite3 import Error
-
-# Notes: Consider making bus trip a seperate table
 
 def main():
     # Ping WMATA
@@ -34,8 +31,6 @@ def get_train(url):
         'LineCode': 'line', 'SecondsAtLocation': 'sec_loc',
         'ServiceType': 'service', 'TrainId': 't_id', 'TrainNumber': 't_num'}
     df.rename(col_map, axis=1, inplace=True)
-
-    pdb.set_trace()
 
     return df
 

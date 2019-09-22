@@ -2,7 +2,7 @@ import requests
 import json
 import pandas as pd
 import datetime
-import private
+import tasks.private as private
 import re
 # import sqlite3
 # from sqlite3 import Error
